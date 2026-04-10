@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanks!</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background: #1a1a2e;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            font-family: 'Courier New', monospace;
+            color: #eee;
+        }
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            color: #f0c040;
+            text-shadow: 0 0 12px #f0c040aa;
+            letter-spacing: 4px;
+        }
+        #gameCanvas {
+            border: 2px solid #444;
+            display: block;
+        }
+        #ui {
+            display: flex;
+            gap: 24px;
+            align-items: center;
+            margin-top: 12px;
+            background: #16213e;
+            padding: 12px 24px;
+            border-radius: 10px;
+            border: 1px solid #444;
+        }
+        .player-panel { text-align: center; min-width: 160px; }
+        .player-panel h2 { font-size: 1rem; margin-bottom: 6px; letter-spacing: 2px; }
+        .player1 h2 { color: #4af; }
+        .player2 h2 { color: #f84; }
+        label { font-size: 0.75rem; color: #aaa; display: inline-block; width: 44px; text-align: right; }
+        input[type=range] { width: 110px; accent-color: #f0c040; cursor: pointer; }
+        .control-row { display: flex; align-items: center; gap: 8px; margin: 4px 0; }
+        .value-display { min-width: 40px; font-size: 0.9rem; color: #fff; }
+        #fireBtn {
+            padding: 10px 28px;
+            font-size: 1.1rem;
+            background: #f0c040;
+            color: #1a1a2e;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            font-family: inherit;
+            letter-spacing: 1px;
+            transition: background 0.15s, transform 0.1s;
+        }
+        #fireBtn:hover:not(:disabled) { background: #ffd060; transform: scale(1.04); }
+        #fireBtn:active:not(:disabled) { transform: scale(0.97); }
+        #fireBtn:disabled { background: #555; color: #888; cursor: not-allowed; }
+        #centerPanel { display: flex; flex-direction: column; align-items: center; gap: 8px; min-width: 160px; }
+        #status { font-size: 1rem; font-weight: bold; letter-spacing: 1px; }
+        #windDisplay { font-size: 0.85rem; color: #aaf; }
+        #scoreDisplay { font-size: 0.8rem; color: #aaa; }
+        .hp-label { margin-top: 6px; font-size: 0.8rem; color: #ccc; }
+        #message {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(10, 10, 30, 0.92);
+            padding: 24px 48px;
+            border-radius: 14px;
+            font-size: 1.6rem;
+            color: #f0c040;
+            border: 2px solid #f0c040;
+            display: none;
+            text-align: center;
+            pointer-events: all;
+            cursor: pointer;
+            z-index: 10;
+        }
+    </style>
+</head>
+<body>
+    <h1>TANKS!</h1>
+    <div style="position:relative; user-select:none;">
+        <canvas id="gameCanvas" width="820" height="420"></canvas>
+        <div id="message"></div>
+    </div>
+    <div id="ui">
+        <!-- Player 1 -->
+        <div class="player-panel player1">
+            <h2>PLAYER 1</h2>
+            <div class="control-row">
+                <label>Angle:</label>
+                <input type="range" id="angle1" min="1" max="89" value="45">
+                <span class="value-display" id="angle1Val">45°</span>
+            </div>
+            <div class="control-row">
+                <label>Power:</label>
+                <input type="range" id="power1" min="10" max="100" value="50">
+                <span class="value-display" id="power1Val">50</span>
+            </div>
+            <div class="hp-label">HP: <span id="hp1">100</span></div>
+        </div>
+
+        <!-- Center panel -->
+        <div id="centerPanel">
+            <div id="status">Player 1's Turn</div>
+            <div id="windDisplay">Wind: — 0.0</div>
+            <div id="scoreDisplay">Score: 0 – 0</div>
+            <button id="fireBtn">FIRE!</button>
+            <div style="font-size:0.7rem; color:#666; margin-top:4px;">Click canvas to restart</div>
+        </div>
+
+        <!-- Player 2 -->
+        <div class="player-panel player2">
+            <h2>PLAYER 2</h2>
+            <div class="control-row">
+                <label>Angle:</label>
+                <input type="range" id="angle2" min="91" max="179" value="135">
+                <span class="value-display" id="angle2Val">135°</span>
+            </div>
+            <div class="control-row">
+                <label>Power:</label>
+                <input type="range" id="power2" min="10" max="100" value="50">
+                <span class="value-display" id="power2Val">50</span>
+            </div>
+            <div class="hp-label">HP: <span id="hp2">100</span></div>
+        </div>
+    </div>
+
+    <script>
+    (() => {
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+        const W = canvas.width, H = canvas.height;
+
+        // DOM
+        const angle1El   = document.getElementById('angle1');
+        const angle2El   = document.getElementById('angle2');
+        const power1El   = document.getElementById('power1');
+        const power2El   = document.getElementById('power2');
+        const angle1Val  = document.getElementById('angle1Val');
+        const angle2Val  = document.getElementById('angle2Val');
+        const power1Val  = document.getElementById('power1Val');
+        const power2Val  = document.getElementById('power2Val');
+        const statusEl   = document.getElementById('status');
+        const windEl     = document.getElementById('windDisplay');
+        const scoreEl    = document.getElementById('scoreDisplay');
+        const fireBtn    = document.getElementById('fireBtn');
+        const hp1El      = document.getElementById('hp1');
+        const hp2El      = document.getElementById('hp2');
+        const msgEl      = document.getElementById('message');
+
+        angle1El.oninput = () => angle1Val.textContent = angle1El.value + '°';
+        angle2El.oninput = () => angle2Val.textContent = angle2El.value + '°';
+        power1El.oninput = () => power1Val.textContent = power1El.value;
+        power2El.oninput = () => power2Val.textContent = power2El.value;
+
+        // Game state
+        let terrain = new Float32Array(W + 1);
+        let tanks, currentPlayer, wind, projectile, explosions, gameOver;
+        let score = [0, 0];
+
+        // Stars (static decoration)
+        const stars = Array.from({ length: 80 }, () => ({
+            x: Math.random() * W,
+            y: Math.random() * (H * 0.55),
+            r: Math.random() * 1.5 + 0.3,
+            a: Math.random() * 0.8 + 0.2
+        }));
+
+        /* ── Terrain generation ── */
+        function generateTerrain() {
+            // Midpoint displacement
+            const seg = 8;
+            const pts = new Float32Array(seg + 1);
+            pts[0] = 60 + Math.random() * 60;
+            pts[seg] = 60 + Math.random() * 60;
+            for (let s = 1; s < seg; s++) pts[s] = 80 + Math.random() * 180;
+
+            for (let x = 0; x <= W; x++) {
+                const t    = (x / W) * seg;
+                const i    = Math.min(Math.floor(t), seg - 1);
+                const frac = t - i;
+                terrain[x] = H - pts[i] * (1 - frac) - pts[i + 1] * frac;
+            }
+
+            // Smooth multiple passes
+            for (let pass = 0; pass < 8; pass++) {
+                for (let x = 1; x < W; x++) {
+                    terrain[x] = (terrain[x - 1] + terrain[x] + terrain[x + 1]) / 3;
+                }
+            }
+        }
+
+        function terrainY(x) {
+            const xi = Math.max(0, Math.min(W - 1, Math.floor(x)));
+            if (xi >= W - 1) return terrain[W - 1];
+            const frac = x - xi;
+            return terrain[xi] * (1 - frac) + terrain[xi + 1] * frac;
+        }
+
+        /* ── Tanks ── */
+        function placeTanks() {
+            const x1 = 80, x2 = W - 80;
+            tanks = [
+                { x: x1, y: terrainY(x1), hp: 100, color: '#4aaff0', tread: '#1a5a8a', id: 0 },
+                { x: x2, y: terrainY(x2), hp: 100, color: '#f07030', tread: '#8a3010', id: 1 }
+            ];
+        }
+
+        /* ── Init ── */
+        function initGame() {
+            gameOver    = false;
+            explosions  = [];
+            projectile  = null;
+            currentPlayer = 0;
+
+            generateTerrain();
+            placeTanks();
+            wind = (Math.random() - 0.5) * 6;
+
+            msgEl.style.display = 'none';
+            fireBtn.disabled = false;
+            updateUI();
+            render();
+        }
+
+        /* ── UI update ── */
+        function updateUI() {
+            const colors = ['#4aaff0', '#f07030'];
+            statusEl.textContent  = `Player ${currentPlayer + 1}'s Turn`;
+            statusEl.style.color  = colors[currentPlayer];
+            const dir = wind > 0 ? '→' : '←';
+            windEl.textContent    = `Wind: ${dir} ${Math.abs(wind).toFixed(1)}`;
+            scoreEl.textContent   = `Score: ${score[0]} – ${score[1]}`;
+            hp1El.textContent     = tanks[0].hp;
+            hp2El.textContent     = tanks[1].hp;
+
+            document.querySelector('.player1').style.opacity = currentPlayer === 0 ? '1' : '0.4';
+            document.querySelector('.player2').style.opacity = currentPlayer === 1 ? '1' : '0.4';
+        }
+
+        /* ── Drawing ── */
+        function drawBackground() {
+            const sky = ctx.createLinearGradient(0, 0, 0, H);
+            sky.addColorStop(0, '#040418');
+            sky.addColorStop(0.7, '#0e1840');
+            sky.addColorStop(1, '#1a2060');
+            ctx.fillStyle = sky;
+            ctx.fillRect(0, 0, W, H);
+
+            for (const s of stars) {
+                ctx.globalAlpha = s.a;
+                ctx.beginPath();
+                ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+                ctx.fillStyle = '#ffffff';
+                ctx.fill();
+            }
+            ctx.globalAlpha = 1;
+        }
+
+        function drawTerrain() {
+            ctx.beginPath();
+            ctx.moveTo(0, H);
+            for (let x = 0; x <= W; x++) ctx.lineTo(x, terrain[x]);
+            ctx.lineTo(W, H);
+            ctx.closePath();
+
+            const tg = ctx.createLinearGradient(0, H * 0.5, 0, H);
+            tg.addColorStop(0,   '#2a6424');
+            tg.addColorStop(0.3, '#1e4a1a');
+            tg.addColorStop(1,   '#3a2a0a');
+            ctx.fillStyle = tg;
+            ctx.fill();
+
+            ctx.beginPath();
+            ctx.moveTo(0, terrain[0]);
+            for (let x = 1; x <= W; x++) ctx.lineTo(x, terrain[x]);
+            ctx.strokeStyle = '#5dc050';
+            ctx.lineWidth = 2;
+            ctx.stroke();
+        }
+
+        function drawTank(tank) {
+            const { x, y, color, tread, id } = tank;
+            const isMirror = (id === 1);
+            const angleRaw = parseInt(isMirror ? angle2El.value : angle1El.value);
+            // Convert degrees to radians; mirror barrel for player 2
+            const angleRad = -(angleRaw * Math.PI / 180);
+
+            ctx.save();
+            ctx.translate(x, y);
+
+            // Treads
+            ctx.fillStyle = tread;
+            ctx.beginPath();
+            ctx.roundRect(-20, -5, 40, 10, 3);
+            ctx.fill();
+            ctx.fillStyle = '#333';
+            for (let i = -17; i < 20; i += 7) {
+                ctx.fillRect(i, -5, 4, 10);
+            }
+
+            // Hull
+            ctx.fillStyle = color;
+            ctx.beginPath();
+            ctx.roundRect(-16, -16, 32, 12, 3);
+            ctx.fill();
+
+            // Turret
+            ctx.beginPath();
+            ctx.arc(0, -16, 9, 0, Math.PI * 2);
+            ctx.fill();
+
+            // Barrel
+            const bx = Math.cos(angleRad) * 26;
+            const by = Math.sin(angleRad) * 26;
+            ctx.beginPath();
+            ctx.moveTo(0, -16);
+            ctx.lineTo(bx, -16 + by);
+            ctx.strokeStyle = color;
+            ctx.lineWidth = 5;
+            ctx.lineCap = 'round';
+            ctx.stroke();
+
+            ctx.restore();
+
+            // HP bar
+            const barW = 38;
+            ctx.fillStyle = '#222';
+            ctx.fillRect(x - barW / 2, y - 32, barW, 5);
+            const hpColor = tank.hp > 50 ? '#4ef04e' : tank.hp > 25 ? '#f0e040' : '#f04040';
+            ctx.fillStyle = hpColor;
+            ctx.fillRect(x - barW / 2, y - 32, barW * tank.hp / 100, 5);
+        }
+
+        function drawProjectile() {
+            if (!projectile) return;
+            const { x, y, trail } = projectile;
+
+            // Trail
+            for (let i = 0; i < trail.length; i++) {
+                const a = (i / trail.length) * 0.45;
+                ctx.beginPath();
+                ctx.arc(trail[i].x, trail[i].y, 2.5, 0, Math.PI * 2);
+                ctx.fillStyle = `rgba(255,180,0,${a})`;
+                ctx.fill();
+            }
+
+            // Shell
+            ctx.beginPath();
+            ctx.arc(x, y, 5, 0, Math.PI * 2);
+            ctx.fillStyle = '#fff';
+            ctx.fill();
+            ctx.beginPath();
+            ctx.arc(x, y, 5, 0, Math.PI * 2);
+            ctx.strokeStyle = '#f80';
+            ctx.lineWidth = 2;
+            ctx.stroke();
+        }
+
+        function drawExplosions() {
+            for (const e of explosions) {
+                const prog  = e.frame / e.maxFrames;
+                const r     = e.radius * prog;
+                const alpha = 1 - prog;
+
+                // Outer glow
+                const grd = ctx.createRadialGradient(e.x, e.y, 0, e.x, e.y, r);
+                grd.addColorStop(0,   `rgba(255,255,200,${alpha})`);
+                grd.addColorStop(0.4, `rgba(255,160,0,${alpha * 0.7})`);
+                grd.addColorStop(1,   `rgba(255,50,0,0)`);
+                ctx.beginPath();
+                ctx.arc(e.x, e.y, r, 0, Math.PI * 2);
+                ctx.fillStyle = grd;
+                ctx.fill();
+
+                // Sparks
+                for (let i = 0; i < e.sparks.length; i++) {
+                    const sp = e.sparks[i];
+                    const sx = e.x + sp.vx * r;
+                    const sy = e.y + sp.vy * r;
+                    ctx.beginPath();
+                    ctx.arc(sx, sy, 2, 0, Math.PI * 2);
+                    ctx.fillStyle = `rgba(255,220,80,${alpha})`;
+                    ctx.fill();
+                }
+            }
+        }
+
+        function render() {
+            ctx.clearRect(0, 0, W, H);
+            drawBackground();
+            drawTerrain();
+            drawTank(tanks[0]);
+            drawTank(tanks[1]);
+            drawProjectile();
+            drawExplosions();
+        }
+
+        /* ── Firing ── */
+        function fire() {
+            if (animating || gameOver) return;
+
+            const isMirror = (currentPlayer === 1);
+            const aEl = isMirror ? angle2El : angle1El;
+            const pEl = isMirror ? power2El : power1El;
+            const angleRad = -(parseInt(aEl.value) * Math.PI / 180);
+            const speed    = parseInt(pEl.value) * 0.13;
+
+            const tank = tanks[currentPlayer];
+            const bx   = Math.cos(angleRad) * 28;
+            const by   = Math.sin(angleRad) * 28;
+
+            projectile = {
+                x:     tank.x + bx,
+                y:     tank.y - 16 + by,
+                vx:    Math.cos(angleRad) * speed,
+                vy:    Math.sin(angleRad) * speed,
+                trail: []
+            };
+
+            animating = true;
+            fireBtn.disabled = true;
+            requestAnimationFrame(stepProjectile);
+        }
+
+        let animating = false;
+
+        function stepProjectile() {
+            if (!projectile) return;
+
+            projectile.trail.push({ x: projectile.x, y: projectile.y });
+            if (projectile.trail.length > 18) projectile.trail.shift();
+
+            // Physics
+            projectile.vx += wind * 0.008;
+            projectile.vy += 0.18;   // gravity
+            projectile.x  += projectile.vx;
+            projectile.y  += projectile.vy;
+
+            const ty = terrainY(projectile.x);
+
+            // Out of bounds
+            if (projectile.x < -20 || projectile.x > W + 20 || projectile.y > H + 20) {
+                projectile = null;
+                endTurn();
+                render();
+                return;
+            }
+
+            // Terrain hit
+            if (projectile.y >= ty) {
+                const ex = projectile.x, ey = ty;
+                projectile = null;
+                createExplosion(ex, ey, 48, false);
+                return;
+            }
+
+            // Tank hit
+            for (const tank of tanks) {
+                if (tank.id === currentPlayer) continue;
+                const dx = projectile.x - tank.x;
+                const dy = projectile.y - (tank.y - 8);
+                if (Math.sqrt(dx * dx + dy * dy) < 22) {
+                    const ex = projectile.x, ey = projectile.y;
+                    projectile = null;
+                    createExplosion(ex, ey, 60, tank);
+                    return;
+                }
+            }
+
+            render();
+            requestAnimationFrame(stepProjectile);
+        }
+
+        /* ── Explosion ── */
+        function createExplosion(x, y, radius, hitTank) {
+            const sparks = Array.from({ length: 10 }, () => {
+                const a = Math.random() * Math.PI * 2;
+                return { vx: Math.cos(a), vy: Math.sin(a) };
+            });
+            const exp = { x, y, radius, frame: 0, maxFrames: 32, sparks };
+            explosions.push(exp);
+
+            // Crater
+            const cr = radius * 0.6;
+            for (let dx = -cr; dx <= cr; dx++) {
+                const xi = Math.round(x + dx);
+                if (xi >= 0 && xi <= W) {
+                    const depth = Math.sqrt(Math.max(0, cr * cr - dx * dx)) * 0.55;
+                    terrain[xi] = Math.min(H - 8, terrain[xi] + depth);
+                }
+            }
+
+            // Damage
+            if (hitTank) {
+                hitTank.hp = Math.max(0, hitTank.hp - 35);
+            }
+
+            function animateExp() {
+                exp.frame++;
+                render();
+                if (exp.frame < exp.maxFrames) {
+                    requestAnimationFrame(animateExp);
+                } else {
+                    explosions = explosions.filter(e => e !== exp);
+                    if (hitTank && hitTank.hp <= 0) {
+                        doWin(currentPlayer);
+                    } else {
+                        endTurn();
+                    }
+                    render();
+                }
+            }
+            requestAnimationFrame(animateExp);
+        }
+
+        /* ── Turn / win ── */
+        function endTurn() {
+            animating     = false;
+            fireBtn.disabled = false;
+            currentPlayer = 1 - currentPlayer;
+            wind = (Math.random() - 0.5) * 6;
+
+            // Re-settle tanks onto terrain in case terrain changed
+            for (const t of tanks) t.y = terrainY(t.x);
+
+            updateUI();
+        }
+
+        function doWin(winner) {
+            gameOver = true;
+            score[winner]++;
+            const names = ['Player 1', 'Player 2'];
+            msgEl.innerHTML = `
+                <div style="font-size:1rem;color:#aaa;margin-bottom:6px;">WINNER!</div>
+                <div>${names[winner]}</div>
+                <div style="font-size:0.65em;margin-top:12px;color:#aaa;">Score: ${score[0]} – ${score[1]}</div>
+                <div style="font-size:0.55em;margin-top:8px;color:#666;">Click to play again</div>
+            `;
+            msgEl.style.display = 'block';
+            updateUI();
+        }
+
+        /* ── Input ── */
+        fireBtn.addEventListener('click', fire);
+        canvas.addEventListener('click', () => { if (gameOver) initGame(); });
+        msgEl.addEventListener('click', initGame);
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', e => {
+            if (e.code === 'Space' && !e.repeat) { e.preventDefault(); fire(); }
+        });
+
+        initGame();
+    })();
+    </script>
+</body>
+</html>
