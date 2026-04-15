@@ -167,21 +167,21 @@ def compile_pdf(args):
     print(f"Mode:   {mode}")
     print()
 
-    # ── Load already-processed pages if resuming ──────────────────────────────
+    # ── Load already-extracted pages (always, not just on --resume) ──────────
     existing_raw: dict[int, dict] = {}
-    if args.resume and raw_path.exists():
+    if raw_path.exists():
         with open(raw_path) as f:
             for entry in json.load(f):
                 existing_raw[entry["page"]] = entry
-        print(f"Resuming: {len(existing_raw)} pages already extracted.")
+        if existing_raw:
+            print(f"Resuming: {len(existing_raw)} pages already extracted.")
 
-    # ── Phase 1: OCR extraction ───────────────────────────────────────────────
-    raw_results: list[dict] = []
+    # ── Phase 1: OCR extraction (saves after every page) ─────────────────────
     pages_to_extract = [i for i in page_indices if (i + 1) not in existing_raw]
 
     if pages_to_extract:
-        print("Phase 1: Extracting text with three OCR engines...")
-        if not args.text_only and not args.no_easyocr and len(pages_to_extract) > 0:
+        print("Phase 1: Extracting text...")
+        if not args.text_only and not args.no_easyocr:
             print("  (Loading EasyOCR model — this takes ~30s on first run)")
         print()
 
@@ -193,17 +193,16 @@ def compile_pdf(args):
                 use_easyocr=not args.no_easyocr,
                 text_only=args.text_only,
             )
-            raw_results.append(result)
+            existing_raw[result["page"]] = result
+            # Save after every page so progress is never lost
+            with open(raw_path, "w") as f:
+                json.dump(sorted(existing_raw.values(), key=lambda r: r["page"]),
+                          f, indent=2, ensure_ascii=False)
 
-        # Merge with any resumed results and sort
-        all_raw = list(existing_raw.values()) + raw_results
-        all_raw.sort(key=lambda r: r["page"])
-
-        with open(raw_path, "w") as f:
-            json.dump(all_raw, f, indent=2, ensure_ascii=False)
         print(f"\nRaw OCR saved to: {raw_path}")
-    else:
-        all_raw = sorted(existing_raw.values(), key=lambda r: r["page"])
+
+    all_raw = sorted(existing_raw.values(), key=lambda r: r["page"])
+    if not pages_to_extract:
         print("All pages already extracted (using cached raw OCR).\n")
 
     if args.raw_only:
