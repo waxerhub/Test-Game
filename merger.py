@@ -20,7 +20,7 @@ You will receive three independent OCR extractions of the same PDF page, along w
 
 ## Output rules
 
-1. **Cross-reference all three versions** to find the most accurate reading of each word. OCR errors to watch for: l/1/I confusion, 0/O confusion, rn/m confusion, split words, merged words, dropped characters.
+1. **Use all available versions** to find the most accurate reading of each word. If only one version has text, clean that. OCR errors to watch for: l/1/I confusion, 0/O confusion, rn/m confusion, split words, merged words, dropped characters. Some pages may have reversed text — if a passage reads like reversed words, reverse it.
 2. **Preserve AD&D 2e terminology exactly**: THAC0, d4 d6 d8 d10 d12 d20 d100, Hit Dice, Hit Points, Saving Throw, Armor Class, Experience Points, XP, GP/SP/CP/EP/PP, etc.
 3. **Format all tables as GitHub-flavored markdown tables** with a header separator row. Use the structured table data from pdfplumber when available — it is the most reliable for cell boundaries.
 4. **Use markdown headings**: # for chapter titles, ## for major sections, ### for subsections. Infer hierarchy from font size clues in the pdfplumber text (ALL CAPS lines, lines ending with no period, etc.).

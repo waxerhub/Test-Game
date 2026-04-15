@@ -80,6 +80,11 @@ def parse_args():
         default=1,
         help="Parallel workers for image rendering (default: 1)",
     )
+    p.add_argument(
+        "--text-only",
+        action="store_true",
+        help="Use only pdfplumber (no image rendering, no Tesseract/EasyOCR). Fast.",
+    )
     return p.parse_args()
 
 
@@ -117,13 +122,19 @@ def process_page(
     page_idx: int,
     dpi: int,
     use_easyocr: bool,
+    text_only: bool = False,
 ) -> dict:
     """Run all extractors on a single page and return their outputs."""
     from extractors import extract_pdfplumber, extract_tesseract, extract_easyocr
 
     plumber = extract_pdfplumber(pdf_path, page_idx)
-    tess    = extract_tesseract(pdf_path, page_idx, dpi=dpi)
-    easy    = extract_easyocr(pdf_path, page_idx, dpi=min(dpi, 200)) if use_easyocr else {"text": "", "tables": []}
+    empty   = {"text": "", "tables": []}
+
+    if text_only:
+        return {"page": page_idx + 1, "pdfplumber": plumber, "tesseract": empty, "easyocr": empty}
+
+    tess = extract_tesseract(pdf_path, page_idx, dpi=dpi)
+    easy = extract_easyocr(pdf_path, page_idx, dpi=min(dpi, 200)) if use_easyocr else empty
 
     return {
         "page": page_idx + 1,
@@ -151,7 +162,9 @@ def compile_pdf(args):
     total_pages = get_page_count(str(pdf_path))
     page_indices = parse_page_range(args.pages, total_pages)
     print(f"Pages:  {page_indices[0]+1}–{page_indices[-1]+1} ({len(page_indices)} pages)")
-    print(f"OCR:    pdfplumber + Tesseract" + (" + EasyOCR" if not args.no_easyocr else " (EasyOCR disabled)"))
+    mode = "pdfplumber only (text layer)" if args.text_only else \
+           "pdfplumber + Tesseract" + (" + EasyOCR" if not args.no_easyocr else " (EasyOCR disabled)")
+    print(f"Mode:   {mode}")
     print()
 
     # ── Load already-processed pages if resuming ──────────────────────────────
@@ -168,7 +181,7 @@ def compile_pdf(args):
 
     if pages_to_extract:
         print("Phase 1: Extracting text with three OCR engines...")
-        if not args.no_easyocr and len(pages_to_extract) > 0:
+        if not args.text_only and not args.no_easyocr and len(pages_to_extract) > 0:
             print("  (Loading EasyOCR model — this takes ~30s on first run)")
         print()
 
@@ -178,6 +191,7 @@ def compile_pdf(args):
                 page_idx,
                 dpi=args.dpi,
                 use_easyocr=not args.no_easyocr,
+                text_only=args.text_only,
             )
             raw_results.append(result)
 
