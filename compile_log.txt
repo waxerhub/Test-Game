@@ -3,7 +3,52 @@ Output: tsr02141 Encyclopedia Magica Volume One_compiled.md
 Pages:  1–416 (416 pages)
 Mode:   pdfplumber only (text layer)
 
-Resuming: 256 pages already extracted.
+Resuming: 398 pages already extracted.
 Phase 1: Extracting text...
 
-Extracting:   0%|          | 0/160 [00:00<?, ?page/s]Extracting:   1%|          | 1/160 [00:03<09:30,  3.59s/page]Extracting:   1%|▏         | 2/160 [00:05<06:49,  2.59s/page]Extracting:   2%|▏         | 3/160 [00:06<05:18,  2.03s/page]Extracting:   2%|▎         | 4/160 [00:08<05:07,  1.97s/page]Extracting:   3%|▎         | 5/160 [00:10<05:01,  1.94s/page]Extracting:   4%|▍         | 6/160 [00:12<04:55,  1.92s/page]Extracting:   4%|▍         | 7/160 [00:14<04:44,  1.86s/page]Extracting:   5%|▌         | 8/160 [00:16<04:41,  1.85s/page]Extracting:   6%|▌         | 9/160 [00:17<04:15,  1.69s/page]Extracting:   6%|▋         | 10/160 [00:19<04:18,  1.73s/page]Extracting:   7%|▋         | 11/160 [00:20<04:19,  1.74s/page]Extracting:   8%|▊         | 12/160 [00:22<04:17,  1.74s/page]Extracting:   8%|▊         | 13/160 [00:24<04:23,  1.79s/page]
+Extracting:   0%|          | 0/18 [00:00<?, ?page/s]Extracting:   6%|▌         | 1/18 [00:03<00:56,  3.30s/page]Extracting:  11%|█         | 2/18 [00:04<00:35,  2.24s/page]Extracting:  17%|█▋        | 3/18 [00:06<00:29,  1.94s/page]Extracting:  22%|██▏       | 4/18 [00:07<00:25,  1.80s/page]Extracting:  28%|██▊       | 5/18 [00:09<00:21,  1.68s/page]Extracting:  33%|███▎      | 6/18 [00:11<00:19,  1.65s/page]Extracting:  39%|███▉      | 7/18 [00:12<00:17,  1.59s/page]Extracting:  44%|████▍     | 8/18 [00:14<00:15,  1.57s/page]Extracting:  50%|█████     | 9/18 [00:15<00:13,  1.55s/page]Extracting:  56%|█████▌    | 10/18 [00:17<00:12,  1.55s/page]Extracting:  61%|██████    | 11/18 [00:18<00:11,  1.58s/page]Extracting:  67%|██████▋   | 12/18 [00:20<00:09,  1.60s/page]Extracting:  72%|███████▏  | 13/18 [00:21<00:07,  1.59s/page]Extracting:  78%|███████▊  | 14/18 [00:23<00:06,  1.58s/page]Extracting:  83%|████████▎ | 15/18 [00:25<00:04,  1.57s/page]Extracting:  89%|████████▉ | 16/18 [00:26<00:03,  1.58s/page]Extracting:  94%|█████████▍| 17/18 [00:28<00:01,  1.57s/page]Extracting: 100%|██████████| 18/18 [00:29<00:00,  1.57s/page]Extracting: 100%|██████████| 18/18 [00:29<00:00,  1.65s/page]
+
+Raw OCR saved to: tsr02141 Encyclopedia Magica Volume One_raw.json
+
+Phase 2: Merging with Claude (comparing OCR versions)...
+  Prompt caching active — after the first page, cache hits will reduce cost.
+
+Merging:   0%|          | 0/416 [00:00<?, ?page/s]
+  WARNING: Page 1 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvtVXTeqHtURccfm4D'}). Writing raw text instead.
+Merging:   0%|          | 1/416 [00:00<01:55,  3.60page/s]
+  WARNING: Page 2 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvuL8RVZVTzwPiMKtL'}). Writing raw text instead.
+Merging:   0%|          | 2/416 [00:00<01:13,  5.60page/s]
+  WARNING: Page 3 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvurdbQKuxtkxEhSvq'}). Writing raw text instead.
+Merging:   1%|          | 3/416 [00:00<01:02,  6.56page/s]
+  WARNING: Page 4 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvvMPpYfLUSLCKKQg3'}). Writing raw text instead.
+Merging:   1%|          | 4/416 [00:00<01:01,  6.74page/s]
+  WARNING: Page 5 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvvybkTPZXS1fdoyUJ'}). Writing raw text instead.
+Merging:   1%|          | 5/416 [00:00<00:57,  7.16page/s]
+  WARNING: Page 6 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvwTsRmFSi2dReiHX7'}). Writing raw text instead.
+Merging:   1%|▏         | 6/416 [00:00<00:53,  7.73page/s]
+  WARNING: Page 7 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvwysawVrwjSMZs5Rx'}). Writing raw text instead.
+Merging:   2%|▏         | 7/416 [00:01<00:53,  7.70page/s]
+  WARNING: Page 8 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvxhXwSApq4n9o5GHk'}). Writing raw text instead.
+Merging:   2%|▏         | 8/416 [00:01<00:59,  6.90page/s]
+  WARNING: Page 9 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvyH1YjcTQUa98NdrQ'}). Writing raw text instead.
+Merging:   2%|▏         | 9/416 [00:01<00:58,  6.91page/s]
+  WARNING: Page 10 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvywhHEcHjrUtTLtXm'}). Writing raw text instead.
+Merging:   2%|▏         | 10/416 [00:01<00:57,  7.10page/s]
+  WARNING: Page 11 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xvzXv8ys571JHRtrEh'}). Writing raw text instead.
+Merging:   3%|▎         | 11/416 [00:01<01:00,  6.66page/s]
+  WARNING: Page 12 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw1rngGtQSRyocdCct'}). Writing raw text instead.
+Merging:   3%|▎         | 12/416 [00:02<02:01,  3.32page/s]
+  WARNING: Page 13 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw3y3TxrF1Tba347Np'}). Writing raw text instead.
+Merging:   3%|▎         | 13/416 [00:02<01:40,  4.02page/s]
+  WARNING: Page 14 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw4Wn3kSC83Tg6y7ec'}). Writing raw text instead.
+Merging:   3%|▎         | 14/416 [00:02<01:25,  4.70page/s]
+  WARNING: Page 15 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw52HaawUYu1U4jUk9'}). Writing raw text instead.
+Merging:   4%|▎         | 15/416 [00:02<01:12,  5.51page/s]
+  WARNING: Page 16 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw5VKdJuptcQD8LQwM'}). Writing raw text instead.
+Merging:   4%|▍         | 16/416 [00:02<01:04,  6.24page/s]
+  WARNING: Page 17 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw66HYSzSzwa3Bzvoj'}). Writing raw text instead.
+Merging:   4%|▍         | 17/416 [00:03<01:18,  5.10page/s]
+  WARNING: Page 18 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw7EFHrbrhVezYxmWB'}). Writing raw text instead.
+Merging:   4%|▍         | 18/416 [00:03<01:10,  5.68page/s]
+  WARNING: Page 19 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw7im299X2PY1ZSjPW'}). Writing raw text instead.
+Merging:   5%|▍         | 19/416 [00:03<01:02,  6.37page/s]
