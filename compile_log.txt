@@ -52,3 +52,806 @@ Phase 2: Merging with Claude (comparing OCR versions)...
 Merging:   4%|▍         | 18/416 [00:03<01:10,  5.68page/s]
   WARNING: Page 19 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw7im299X2PY1ZSjPW'}). Writing raw text instead.
 Merging:   5%|▍         | 19/416 [00:03<01:02,  6.37page/s]
+  WARNING: Page 20 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw8FWoYRtMFs37ZMWu'}). Writing raw text instead.
+Merging:   5%|▍         | 20/416 [00:03<01:01,  6.49page/s]
+  WARNING: Page 21 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw8sU8pBiUMrrFAqVv'}). Writing raw text instead.
+Merging:   5%|▌         | 21/416 [00:03<00:57,  6.86page/s]
+  WARNING: Page 22 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw9PE1DJgt1zPoDFaS'}). Writing raw text instead.
+Merging:   5%|▌         | 22/416 [00:03<00:53,  7.40page/s]
+  WARNING: Page 23 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xw9tUv8xYzhmMnx4e2'}). Writing raw text instead.
+Merging:   6%|▌         | 23/416 [00:03<00:51,  7.62page/s]
+  WARNING: Page 24 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwAM24muxk6GrYuboc'}). Writing raw text instead.
+Merging:   6%|▌         | 24/416 [00:03<00:48,  8.05page/s]
+  WARNING: Page 25 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwAukPeU179f4FayxS'}). Writing raw text instead.
+Merging:   6%|▌         | 25/416 [00:04<00:56,  6.90page/s]
+  WARNING: Page 26 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwBj7c4MBNr36eQJQy'}). Writing raw text instead.
+Merging:   6%|▋         | 26/416 [00:04<00:54,  7.11page/s]
+  WARNING: Page 27 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwCAQffNXKaN6XcPev'}). Writing raw text instead.
+Merging:   6%|▋         | 27/416 [00:04<00:50,  7.73page/s]
+  WARNING: Page 28 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwCeva6QbVxMawA9w7'}). Writing raw text instead.
+Merging:   7%|▋         | 28/416 [00:04<00:49,  7.81page/s]
+  WARNING: Page 29 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwDDAYwcimBe8QGrpK'}). Writing raw text instead.
+Merging:   7%|▋         | 29/416 [00:04<00:49,  7.88page/s]
+  WARNING: Page 30 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwDiBBSmxvhaxDNGfx'}). Writing raw text instead.
+Merging:   7%|▋         | 30/416 [00:04<00:51,  7.55page/s]
+  WARNING: Page 31 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwEJ9eeaU65atWpKJi'}). Writing raw text instead.
+Merging:   7%|▋         | 31/416 [00:04<00:49,  7.83page/s]
+  WARNING: Page 32 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwEqPXJmzyMxZBJzwE'}). Writing raw text instead.
+Merging:   8%|▊         | 32/416 [00:04<00:46,  8.23page/s]
+  WARNING: Page 33 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwFLesvqfUVcZ2GPmV'}). Writing raw text instead.
+Merging:   8%|▊         | 33/416 [00:05<00:49,  7.69page/s]
+  WARNING: Page 34 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwFvdRweSfLcLubtPQ'}). Writing raw text instead.
+Merging:   8%|▊         | 34/416 [00:05<00:47,  8.04page/s]
+  WARNING: Page 35 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwGRPWg13SxwsRAiY2'}). Writing raw text instead.
+Merging:   8%|▊         | 35/416 [00:05<00:47,  8.06page/s]
+  WARNING: Page 36 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwGvQAxbRzdVB4gqnW'}). Writing raw text instead.
+Merging:   9%|▊         | 36/416 [00:05<00:45,  8.43page/s]
+  WARNING: Page 37 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwHRQxGfF9pAY9vZXh'}). Writing raw text instead.
+Merging:   9%|▉         | 37/416 [00:05<00:48,  7.85page/s]
+  WARNING: Page 38 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwJ4cSSmHEah9SoAy2'}). Writing raw text instead.
+Merging:   9%|▉         | 38/416 [00:05<00:54,  6.99page/s]
+  WARNING: Page 39 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwJn2NrVeRHxXgUuHD'}). Writing raw text instead.
+Merging:   9%|▉         | 39/416 [00:06<01:08,  5.53page/s]
+  WARNING: Page 40 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwKuVNDSHL78L3DK1B'}). Writing raw text instead.
+Merging:  10%|▉         | 40/416 [00:06<01:00,  6.26page/s]
+  WARNING: Page 41 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwLTyXkAVzCah8Jd3J'}). Writing raw text instead.
+Merging:  10%|▉         | 41/416 [00:06<00:56,  6.69page/s]
+  WARNING: Page 42 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwLzip7wZnmtS6ccn7'}). Writing raw text instead.
+Merging:  10%|█         | 42/416 [00:06<00:58,  6.35page/s]
+  WARNING: Page 43 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwMn77tdB3o8AH172a'}). Writing raw text instead.
+Merging:  10%|█         | 43/416 [00:06<00:56,  6.63page/s]
+  WARNING: Page 44 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwNXkR3EH27ZgeCj6z'}). Writing raw text instead.
+Merging:  11%|█         | 44/416 [00:06<01:00,  6.12page/s]
+  WARNING: Page 45 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwP7idSCrM9HLxAQq4'}). Writing raw text instead.
+Merging:  11%|█         | 45/416 [00:06<00:56,  6.62page/s]
+  WARNING: Page 46 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwPhSp5TR4Qmj3CeFN'}). Writing raw text instead.
+Merging:  11%|█         | 46/416 [00:07<00:53,  6.93page/s]
+  WARNING: Page 47 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwQGvBhxjTNLhieUY5'}). Writing raw text instead.
+Merging:  11%|█▏        | 47/416 [00:07<00:54,  6.74page/s]
+  WARNING: Page 48 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwQt8q5sLxBwzGiQPV'}). Writing raw text instead.
+Merging:  12%|█▏        | 48/416 [00:07<00:51,  7.08page/s]
+  WARNING: Page 49 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwRPePsqcf5sRaJMu3'}). Writing raw text instead.
+Merging:  12%|█▏        | 49/416 [00:07<00:49,  7.44page/s]
+  WARNING: Page 50 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwRve6K7AjsovPAnhG'}). Writing raw text instead.
+Merging:  12%|█▏        | 50/416 [00:07<00:47,  7.72page/s]
+  WARNING: Page 51 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwSRu7KhxdevJgGHcA'}). Writing raw text instead.
+Merging:  12%|█▏        | 51/416 [00:07<00:51,  7.15page/s]
+  WARNING: Page 52 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwT7aYgPSqM162kkGB'}). Writing raw text instead.
+Merging:  12%|█▎        | 52/416 [00:07<00:47,  7.62page/s]
+  WARNING: Page 53 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwTZN5XSMLUgUnvzZL'}). Writing raw text instead.
+Merging:  13%|█▎        | 53/416 [00:07<00:45,  8.04page/s]
+  WARNING: Page 54 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwU1u76iM2PvzDG3Tj'}). Writing raw text instead.
+Merging:  13%|█▎        | 54/416 [00:08<00:42,  8.45page/s]
+  WARNING: Page 55 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwUUBeZa4F474BWLww'}). Writing raw text instead.
+Merging:  13%|█▎        | 55/416 [00:08<00:42,  8.44page/s]
+  WARNING: Page 56 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwUvy8mPwMfu6uYNeZ'}). Writing raw text instead.
+
+  WARNING: Page 57 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwVUD3qpNwgCBWeQ6q'}). Writing raw text instead.
+Merging:  14%|█▎        | 57/416 [00:08<00:43,  8.28page/s]
+  WARNING: Page 58 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwW3C88kPhxRpm4XNV'}). Writing raw text instead.
+Merging:  14%|█▍        | 58/416 [00:08<00:43,  8.25page/s]
+  WARNING: Page 59 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwWVUcX5nNwrork1As'}). Writing raw text instead.
+
+  WARNING: Page 60 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwWw1tKbrohEuLsSdp'}). Writing raw text instead.
+Merging:  14%|█▍        | 60/416 [00:08<00:40,  8.80page/s]
+  WARNING: Page 61 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwXPJeNkKa827bUSnx'}). Writing raw text instead.
+
+  WARNING: Page 62 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwXu4djgDZs82sfVDG'}). Writing raw text instead.
+Merging:  15%|█▍        | 62/416 [00:08<00:41,  8.62page/s]
+  WARNING: Page 63 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwYQKj5toKVPqtWJk8'}). Writing raw text instead.
+Merging:  15%|█▌        | 63/416 [00:09<00:40,  8.71page/s]
+  WARNING: Page 64 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwYyo9RDPSDm5BgxzH'}). Writing raw text instead.
+Merging:  15%|█▌        | 64/416 [00:09<00:40,  8.71page/s]
+  WARNING: Page 65 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwZcVh8e6aAb3Eiift'}). Writing raw text instead.
+Merging:  16%|█▌        | 65/416 [00:09<00:54,  6.41page/s]
+  WARNING: Page 66 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwad2C2BwfMxeWnbQN'}). Writing raw text instead.
+Merging:  16%|█▌        | 66/416 [00:09<00:51,  6.86page/s]
+  WARNING: Page 67 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwb5YukPegyCVjMnQv'}). Writing raw text instead.
+Merging:  16%|█▌        | 67/416 [00:09<00:46,  7.44page/s]
+  WARNING: Page 68 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwbXbBPYe6FyMoLcQZ'}). Writing raw text instead.
+Merging:  16%|█▋        | 68/416 [00:09<00:44,  7.84page/s]
+  WARNING: Page 69 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwc36pdGC58E4e59zf'}). Writing raw text instead.
+Merging:  17%|█▋        | 69/416 [00:09<00:46,  7.51page/s]
+  WARNING: Page 70 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwcmkTz2e4gAwCgyvD'}). Writing raw text instead.
+Merging:  17%|█▋        | 70/416 [00:10<00:47,  7.36page/s]
+  WARNING: Page 71 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwdGmNSx2S2PvxjJpM'}). Writing raw text instead.
+Merging:  17%|█▋        | 71/416 [00:10<00:44,  7.83page/s]
+  WARNING: Page 72 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwdjYTgswoqX8XPAgb'}). Writing raw text instead.
+Merging:  17%|█▋        | 72/416 [00:10<00:43,  7.94page/s]
+  WARNING: Page 73 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xweN146wWVg5WA5ywc'}). Writing raw text instead.
+Merging:  18%|█▊        | 73/416 [00:10<00:46,  7.36page/s]
+  WARNING: Page 74 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwewj2GVdVnMWNSChq'}). Writing raw text instead.
+Merging:  18%|█▊        | 74/416 [00:10<00:51,  6.70page/s]
+  WARNING: Page 75 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwfi7HBdQCZwZ47Ssw'}). Writing raw text instead.
+Merging:  18%|█▊        | 75/416 [00:10<00:46,  7.29page/s]
+  WARNING: Page 76 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwgCsmfbK13zn1VL9E'}). Writing raw text instead.
+Merging:  18%|█▊        | 76/416 [00:10<00:47,  7.11page/s]
+  WARNING: Page 77 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwgpapyae57Hug9yV6'}). Writing raw text instead.
+Merging:  19%|█▊        | 77/416 [00:11<00:45,  7.40page/s]
+  WARNING: Page 78 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwhTXqQCE2SwpJWuuM'}). Writing raw text instead.
+Merging:  19%|█▉        | 78/416 [00:11<01:29,  3.76page/s]
+  WARNING: Page 79 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwjnvjVjdZ1hK4xK1d'}). Writing raw text instead.
+Merging:  19%|█▉        | 79/416 [00:11<01:14,  4.53page/s]
+  WARNING: Page 80 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwkGCx5MkxbxNQvwTP'}). Writing raw text instead.
+Merging:  19%|█▉        | 80/416 [00:11<01:02,  5.35page/s]
+  WARNING: Page 81 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwkh16mxkmBHDtrD4W'}). Writing raw text instead.
+Merging:  19%|█▉        | 81/416 [00:11<00:55,  6.07page/s]
+  WARNING: Page 82 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwmGyH2Hf4hfA98aLL'}). Writing raw text instead.
+Merging:  20%|█▉        | 82/416 [00:12<00:53,  6.25page/s]
+  WARNING: Page 83 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwmqDJv3MVN3CPX7AC'}). Writing raw text instead.
+Merging:  20%|█▉        | 83/416 [00:12<00:47,  7.00page/s]
+  WARNING: Page 84 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwnLUWUUQSgsGReTiW'}). Writing raw text instead.
+Merging:  20%|██        | 84/416 [00:12<00:44,  7.41page/s]
+  WARNING: Page 85 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwnpzU3BfBToRpsh5Q'}). Writing raw text instead.
+Merging:  20%|██        | 85/416 [00:12<00:47,  6.92page/s]
+  WARNING: Page 86 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwpArLb1rPPWaXe4gQ'}). Writing raw text instead.
+Merging:  21%|██        | 86/416 [00:13<01:54,  2.89page/s]
+  WARNING: Page 87 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xws7D4Pagkp9KoMFyv'}). Writing raw text instead.
+Merging:  21%|██        | 87/416 [00:13<01:33,  3.52page/s]
+  WARNING: Page 88 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwsgSbqxM42oHMpxaz'}). Writing raw text instead.
+Merging:  21%|██        | 88/416 [00:13<01:20,  4.10page/s]
+  WARNING: Page 89 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwtFAtXi4xVLdg6Ex7'}). Writing raw text instead.
+Merging:  21%|██▏       | 89/416 [00:13<01:06,  4.90page/s]
+  WARNING: Page 90 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwtjC4Y14iT5w84pFt'}). Writing raw text instead.
+Merging:  22%|██▏       | 90/416 [00:13<00:58,  5.57page/s]
+  WARNING: Page 91 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwuCiXKaEWPfyx4HDY'}). Writing raw text instead.
+Merging:  22%|██▏       | 91/416 [00:13<00:50,  6.42page/s]
+  WARNING: Page 92 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwudmH8THSYDPD3Hp2'}). Writing raw text instead.
+Merging:  22%|██▏       | 92/416 [00:14<00:45,  7.09page/s]
+  WARNING: Page 93 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwvAWx9jovGNp7ppde'}). Writing raw text instead.
+Merging:  22%|██▏       | 93/416 [00:14<00:43,  7.51page/s]
+  WARNING: Page 94 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwvcYkuoe8tEe45ktB'}). Writing raw text instead.
+Merging:  23%|██▎       | 94/416 [00:14<00:41,  7.83page/s]
+  WARNING: Page 95 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xww9JR9AHsh4xsf8Ko'}). Writing raw text instead.
+Merging:  23%|██▎       | 95/416 [00:14<00:44,  7.17page/s]
+  WARNING: Page 96 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwwpjJvykDUS2KmcNW'}). Writing raw text instead.
+Merging:  23%|██▎       | 96/416 [00:14<00:45,  7.05page/s]
+  WARNING: Page 97 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwxUuuN8TunTKzUkgF'}). Writing raw text instead.
+Merging:  23%|██▎       | 97/416 [00:14<00:43,  7.31page/s]
+  WARNING: Page 98 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwxzBM4n5bwLxdhBVf'}). Writing raw text instead.
+Merging:  24%|██▎       | 98/416 [00:14<00:41,  7.71page/s]
+  WARNING: Page 99 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwyWBKHVcE53PvaHdj'}). Writing raw text instead.
+Merging:  24%|██▍       | 99/416 [00:15<00:48,  6.48page/s]
+  WARNING: Page 100 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xwzMnBA5KQfwHHCRJU'}). Writing raw text instead.
+Merging:  24%|██▍       | 100/416 [00:15<00:48,  6.46page/s]
+  WARNING: Page 101 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx1APvpDBedKGkGzvs'}). Writing raw text instead.
+Merging:  24%|██▍       | 101/416 [00:15<00:49,  6.36page/s]
+  WARNING: Page 102 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx1oM3AuESURUThZBG'}). Writing raw text instead.
+Merging:  25%|██▍       | 102/416 [00:15<00:46,  6.78page/s]
+  WARNING: Page 103 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx2Gd6qgpB8QnBVszX'}). Writing raw text instead.
+Merging:  25%|██▍       | 103/416 [00:15<00:43,  7.21page/s]
+  WARNING: Page 104 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx2k9T9RDY1roXDFmB'}). Writing raw text instead.
+Merging:  25%|██▌       | 104/416 [00:15<00:41,  7.51page/s]
+  WARNING: Page 105 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx3Ff6jtpxiK4UJs5j'}). Writing raw text instead.
+Merging:  25%|██▌       | 105/416 [00:15<00:39,  7.87page/s]
+  WARNING: Page 106 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx3p8zdz1osWFiDiAt'}). Writing raw text instead.
+Merging:  25%|██▌       | 106/416 [00:15<00:38,  8.05page/s]
+  WARNING: Page 107 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx4JQitHVmmFT9ANJc'}). Writing raw text instead.
+Merging:  26%|██▌       | 107/416 [00:16<00:40,  7.61page/s]
+  WARNING: Page 108 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx4wrSKfVfvxVjezTE'}). Writing raw text instead.
+Merging:  26%|██▌       | 108/416 [00:16<00:42,  7.17page/s]
+  WARNING: Page 109 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx5Y5Rz4PJ8TErVXe4'}). Writing raw text instead.
+Merging:  26%|██▌       | 109/416 [00:16<00:39,  7.68page/s]
+  WARNING: Page 110 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx69Y4QaPrByCMhPyM'}). Writing raw text instead.
+Merging:  26%|██▋       | 110/416 [00:16<00:46,  6.55page/s]
+  WARNING: Page 111 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx6wAZDX63CVQnMWnt'}). Writing raw text instead.
+Merging:  27%|██▋       | 111/416 [00:16<00:42,  7.13page/s]
+  WARNING: Page 112 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx7RgPRRqa1eUkQdG5'}). Writing raw text instead.
+Merging:  27%|██▋       | 112/416 [00:16<00:40,  7.54page/s]
+  WARNING: Page 113 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx7wSGuLWbUeqhXs2m'}). Writing raw text instead.
+Merging:  27%|██▋       | 113/416 [00:16<00:41,  7.30page/s]
+  WARNING: Page 114 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx8mJ6su9zUAVptfTT'}). Writing raw text instead.
+Merging:  27%|██▋       | 114/416 [00:17<00:48,  6.21page/s]
+  WARNING: Page 115 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xx9YvebobxsJyr9V9K'}). Writing raw text instead.
+Merging:  28%|██▊       | 115/416 [00:17<00:46,  6.48page/s]
+  WARNING: Page 116 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxA4RsJ7Y5pz3apExp'}). Writing raw text instead.
+Merging:  28%|██▊       | 116/416 [00:17<00:43,  6.98page/s]
+  WARNING: Page 117 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxAWUJQcvLne2bLdcF'}). Writing raw text instead.
+Merging:  28%|██▊       | 117/416 [00:17<00:41,  7.29page/s]
+  WARNING: Page 118 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxB7BWn1VX3AsR2tud'}). Writing raw text instead.
+Merging:  28%|██▊       | 118/416 [00:17<00:38,  7.70page/s]
+  WARNING: Page 119 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxBW12KDMoJk8ywHKJ'}). Writing raw text instead.
+Merging:  29%|██▊       | 119/416 [00:17<00:36,  8.13page/s]
+  WARNING: Page 120 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxC3zCMhPkdVef89W5'}). Writing raw text instead.
+Merging:  29%|██▉       | 120/416 [00:17<00:39,  7.59page/s]
+  WARNING: Page 121 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxCcxzY5S1DiKoWP7o'}). Writing raw text instead.
+Merging:  29%|██▉       | 121/416 [00:18<00:37,  7.81page/s]
+  WARNING: Page 122 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxDHepkVGz2C1ysM3y'}). Writing raw text instead.
+Merging:  29%|██▉       | 122/416 [00:18<00:41,  7.01page/s]
+  WARNING: Page 123 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxDucM844vdqErsKdA'}). Writing raw text instead.
+Merging:  30%|██▉       | 123/416 [00:18<00:42,  6.90page/s]
+  WARNING: Page 124 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxEd2H4SzKCxTob7iq'}). Writing raw text instead.
+Merging:  30%|██▉       | 124/416 [00:18<00:39,  7.34page/s]
+  WARNING: Page 125 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxF25bqtJgFQQiSuLC'}). Writing raw text instead.
+Merging:  30%|███       | 125/416 [00:18<00:36,  7.91page/s]
+  WARNING: Page 126 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxFXLjj9wHHLDJLtn8'}). Writing raw text instead.
+Merging:  30%|███       | 126/416 [00:18<00:37,  7.77page/s]
+  WARNING: Page 127 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxG6pXgbH3MBBxnWf3'}). Writing raw text instead.
+Merging:  31%|███       | 127/416 [00:18<00:36,  7.85page/s]
+  WARNING: Page 128 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxGb64yG4q6VWRpC3S'}). Writing raw text instead.
+Merging:  31%|███       | 128/416 [00:18<00:34,  8.31page/s]
+  WARNING: Page 129 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxH76WbSTp5NSBmmoN'}). Writing raw text instead.
+Merging:  31%|███       | 129/416 [00:19<00:36,  7.79page/s]
+  WARNING: Page 130 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxHjYTvntwKuhpT2KZ'}). Writing raw text instead.
+Merging:  31%|███▏      | 130/416 [00:19<00:38,  7.43page/s]
+  WARNING: Page 131 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxJH3QD35TTazdJ99n'}). Writing raw text instead.
+Merging:  31%|███▏      | 131/416 [00:19<00:35,  8.01page/s]
+  WARNING: Page 132 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxJqXEdbj2P7n2rvRv'}). Writing raw text instead.
+Merging:  32%|███▏      | 132/416 [00:19<00:37,  7.49page/s]
+  WARNING: Page 133 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxKTjMJAQNqpqC9j3p'}). Writing raw text instead.
+Merging:  32%|███▏      | 133/416 [00:19<00:39,  7.23page/s]
+  WARNING: Page 134 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxL4gx5hqL5ESJ8go1'}). Writing raw text instead.
+Merging:  32%|███▏      | 134/416 [00:19<00:40,  6.89page/s]
+  WARNING: Page 135 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxLk872fcpsTUGHcpm'}). Writing raw text instead.
+Merging:  32%|███▏      | 135/416 [00:19<00:41,  6.77page/s]
+  WARNING: Page 136 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxMZz1kp3vppx4Ldrj'}). Writing raw text instead.
+Merging:  33%|███▎      | 136/416 [00:20<00:41,  6.76page/s]
+  WARNING: Page 137 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxN6j5EsTyGs9MqKJn'}). Writing raw text instead.
+Merging:  33%|███▎      | 137/416 [00:20<00:41,  6.72page/s]
+  WARNING: Page 138 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxNfxM1qRtc3wP1CXv'}). Writing raw text instead.
+Merging:  33%|███▎      | 138/416 [00:20<00:37,  7.33page/s]
+  WARNING: Page 139 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxPGRVNSCrV4aHndu1'}). Writing raw text instead.
+Merging:  33%|███▎      | 139/416 [00:20<00:45,  6.08page/s]
+  WARNING: Page 140 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxQ5J7VJomShHhavWj'}). Writing raw text instead.
+
+  WARNING: Page 141 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxQeX9rpQueeFVwBgf'}). Writing raw text instead.
+Merging:  34%|███▍      | 141/416 [00:20<00:46,  5.96page/s]
+  WARNING: Page 142 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxRg2wPoYvvLFDEztG'}). Writing raw text instead.
+Merging:  34%|███▍      | 142/416 [00:21<00:46,  5.92page/s]
+  WARNING: Page 143 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxSLE3e7QMKHEcZ2Xs'}). Writing raw text instead.
+Merging:  34%|███▍      | 143/416 [00:21<00:42,  6.44page/s]
+  WARNING: Page 144 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxSuwy4vpYaQkkuMGa'}). Writing raw text instead.
+Merging:  35%|███▍      | 144/416 [00:21<00:43,  6.29page/s]
+  WARNING: Page 145 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxTa946MgD4HZkduMr'}). Writing raw text instead.
+Merging:  35%|███▍      | 145/416 [00:21<00:41,  6.57page/s]
+  WARNING: Page 146 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxU9cgbxfdLgN8LE3u'}). Writing raw text instead.
+Merging:  35%|███▌      | 146/416 [00:21<00:38,  6.96page/s]
+  WARNING: Page 147 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxUctWGbiX13wr4Q8h'}). Writing raw text instead.
+Merging:  35%|███▌      | 147/416 [00:21<00:36,  7.35page/s]
+  WARNING: Page 148 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxV9PZTe9waqEH8MGN'}). Writing raw text instead.
+Merging:  36%|███▌      | 148/416 [00:21<00:33,  7.90page/s]
+  WARNING: Page 149 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxVbS1sQpKw4aTTKAC'}). Writing raw text instead.
+Merging:  36%|███▌      | 149/416 [00:21<00:32,  8.28page/s]
+  WARNING: Page 150 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxW3xbtGbAhvJv3hjs'}). Writing raw text instead.
+Merging:  36%|███▌      | 150/416 [00:22<00:30,  8.61page/s]
+  WARNING: Page 151 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxWVWCoSJjyam9pr2N'}). Writing raw text instead.
+Merging:  36%|███▋      | 151/416 [00:22<00:29,  8.87page/s]
+  WARNING: Page 152 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxX3VgdGgzmAJQrc6S'}). Writing raw text instead.
+Merging:  37%|███▋      | 152/416 [00:22<00:33,  7.89page/s]
+  WARNING: Page 153 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxXbjHB18U3yTKfEyq'}). Writing raw text instead.
+Merging:  37%|███▋      | 153/416 [00:22<00:32,  8.01page/s]
+  WARNING: Page 154 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxYCT27pFb2zzYAxRA'}). Writing raw text instead.
+Merging:  37%|███▋      | 154/416 [00:22<00:34,  7.60page/s]
+  WARNING: Page 155 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxYjwD3W78i19CQ5Ch'}). Writing raw text instead.
+Merging:  37%|███▋      | 155/416 [00:22<00:32,  8.04page/s]
+  WARNING: Page 156 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxZByWgg7222s2F2fu'}). Writing raw text instead.
+Merging:  38%|███▊      | 156/416 [00:22<00:31,  8.33page/s]
+  WARNING: Page 157 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxZfFkVt1jrtCh7sex'}). Writing raw text instead.
+Merging:  38%|███▊      | 157/416 [00:22<00:34,  7.50page/s]
+  WARNING: Page 158 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxaXbRxTV1nopB3i2Z'}). Writing raw text instead.
+Merging:  38%|███▊      | 158/416 [00:23<00:40,  6.35page/s]
+  WARNING: Page 159 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxbJULQ4g2W2SwVPBW'}). Writing raw text instead.
+Merging:  38%|███▊      | 159/416 [00:23<00:37,  6.83page/s]
+  WARNING: Page 160 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxbpymmqo5XmpZFxH1'}). Writing raw text instead.
+Merging:  38%|███▊      | 160/416 [00:23<00:36,  6.98page/s]
+  WARNING: Page 161 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxcYPX1YGyFrGmQqxe'}). Writing raw text instead.
+Merging:  39%|███▊      | 161/416 [00:23<00:39,  6.40page/s]
+  WARNING: Page 162 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxdB6KbQBYuDz3n89a'}). Writing raw text instead.
+Merging:  39%|███▉      | 162/416 [00:23<00:36,  7.05page/s]
+  WARNING: Page 163 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxde7kGkWUg3vbtuRT'}). Writing raw text instead.
+Merging:  39%|███▉      | 163/416 [00:23<00:33,  7.62page/s]
+  WARNING: Page 164 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxe7eE5zQ6YXdMLqYp'}). Writing raw text instead.
+Merging:  39%|███▉      | 164/416 [00:23<00:31,  8.06page/s]
+  WARNING: Page 165 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxeaRSzQmLoCTBeZjJ'}). Writing raw text instead.
+Merging:  40%|███▉      | 165/416 [00:24<00:29,  8.41page/s]
+  WARNING: Page 166 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxf2DKz7zFkLsbmokS'}). Writing raw text instead.
+
+  WARNING: Page 167 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxfUkCsv4xTppsBjfn'}). Writing raw text instead.
+Merging:  40%|████      | 167/416 [00:24<00:28,  8.78page/s]
+  WARNING: Page 168 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxfwHFhRfMYyLckyb3'}). Writing raw text instead.
+Merging:  40%|████      | 168/416 [00:24<00:27,  8.93page/s]
+  WARNING: Page 169 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxgU2TvdRagiemDAWC'}). Writing raw text instead.
+Merging:  41%|████      | 169/416 [00:24<00:30,  8.10page/s]
+  WARNING: Page 170 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxh6UqcSYLPVpCVyLB'}). Writing raw text instead.
+Merging:  41%|████      | 170/416 [00:24<00:29,  8.36page/s]
+  WARNING: Page 171 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxhcEsr6zDojgDidzs'}). Writing raw text instead.
+Merging:  41%|████      | 171/416 [00:24<00:31,  7.84page/s]
+  WARNING: Page 172 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxiCTX23CsWugraDDZ'}). Writing raw text instead.
+Merging:  41%|████▏     | 172/416 [00:24<00:31,  7.69page/s]
+  WARNING: Page 173 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxijTXHmGGwszCE7Sy'}). Writing raw text instead.
+
+  WARNING: Page 174 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxjExwaco7gEMfqS15'}). Writing raw text instead.
+Merging:  42%|████▏     | 174/416 [00:25<00:30,  7.91page/s]
+  WARNING: Page 175 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxjnDBNLeV2MGrQirp'}). Writing raw text instead.
+Merging:  42%|████▏     | 175/416 [00:25<00:31,  7.64page/s]
+  WARNING: Page 176 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxkUNyvRYMSPNrvzxn'}). Writing raw text instead.
+Merging:  42%|████▏     | 176/416 [00:25<00:34,  7.04page/s]
+  WARNING: Page 177 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxmBYadx8VzqKvSW29'}). Writing raw text instead.
+Merging:  43%|████▎     | 177/416 [00:25<00:34,  6.94page/s]
+  WARNING: Page 178 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxmryVdkXt1FxY5HQu'}). Writing raw text instead.
+Merging:  43%|████▎     | 178/416 [00:25<00:43,  5.45page/s]
+  WARNING: Page 179 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxo5teypmVVqEEXGY7'}). Writing raw text instead.
+Merging:  43%|████▎     | 179/416 [00:26<00:41,  5.69page/s]
+  WARNING: Page 180 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxok5uVtLXPK7MYTLT'}). Writing raw text instead.
+Merging:  43%|████▎     | 180/416 [00:26<00:37,  6.26page/s]
+  WARNING: Page 181 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxpBsPZETDKZwQpc9k'}). Writing raw text instead.
+Merging:  44%|████▎     | 181/416 [00:26<00:34,  6.85page/s]
+  WARNING: Page 182 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxpnb77awaLXNwpeQC'}). Writing raw text instead.
+Merging:  44%|████▍     | 182/416 [00:26<00:34,  6.74page/s]
+  WARNING: Page 183 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxqM51SgjThVcRmgR1'}). Writing raw text instead.
+Merging:  44%|████▍     | 183/416 [00:26<00:32,  7.16page/s]
+  WARNING: Page 184 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxqvJWH5h6PqRSwSnR'}). Writing raw text instead.
+Merging:  44%|████▍     | 184/416 [00:26<00:32,  7.13page/s]
+  WARNING: Page 185 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxrTJ7kbY99KBbYSNL'}). Writing raw text instead.
+Merging:  44%|████▍     | 185/416 [00:26<00:29,  7.73page/s]
+  WARNING: Page 186 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxrwpMdbn813jZYhbr'}). Writing raw text instead.
+Merging:  45%|████▍     | 186/416 [00:26<00:30,  7.48page/s]
+  WARNING: Page 187 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxsWJJUNTczvM6XfsT'}). Writing raw text instead.
+Merging:  45%|████▍     | 187/416 [00:27<00:29,  7.88page/s]
+  WARNING: Page 188 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxteWLgKidXwPTPG7r'}). Writing raw text instead.
+Merging:  45%|████▌     | 188/416 [00:27<00:40,  5.58page/s]
+  WARNING: Page 189 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxuMvMXm7jakhdQwLR'}). Writing raw text instead.
+Merging:  45%|████▌     | 189/416 [00:27<00:36,  6.14page/s]
+  WARNING: Page 190 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxuzNeGNPLm3RTJ7Qp'}). Writing raw text instead.
+Merging:  46%|████▌     | 190/416 [00:27<00:35,  6.32page/s]
+  WARNING: Page 191 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxvVPdUe62EBqcoiuK'}). Writing raw text instead.
+Merging:  46%|████▌     | 191/416 [00:27<00:38,  5.89page/s]
+  WARNING: Page 192 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxwaNYbTPLiDodKvBb'}). Writing raw text instead.
+Merging:  46%|████▌     | 192/416 [00:28<00:42,  5.32page/s]
+  WARNING: Page 193 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxxJXjnjrg2ioeJQaV'}). Writing raw text instead.
+Merging:  46%|████▋     | 193/416 [00:28<00:41,  5.42page/s]
+  WARNING: Page 194 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxy3BRQDDn5LZNANxx'}). Writing raw text instead.
+Merging:  47%|████▋     | 194/416 [00:28<00:37,  5.93page/s]
+  WARNING: Page 195 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxybAkoKDGRWxmX6un'}). Writing raw text instead.
+Merging:  47%|████▋     | 195/416 [00:28<00:34,  6.39page/s]
+  WARNING: Page 196 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxz8ucazFYeqcuBx6t'}). Writing raw text instead.
+Merging:  47%|████▋     | 196/416 [00:28<00:31,  7.03page/s]
+  WARNING: Page 197 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xxzfumD3TntK8GNWq6'}). Writing raw text instead.
+Merging:  47%|████▋     | 197/416 [00:28<00:30,  7.29page/s]
+  WARNING: Page 198 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy19vxhZ2oZFgnh7aD'}). Writing raw text instead.
+Merging:  48%|████▊     | 198/416 [00:28<00:28,  7.76page/s]
+  WARNING: Page 199 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy1hfnowUysZSqwb7K'}). Writing raw text instead.
+Merging:  48%|████▊     | 199/416 [00:29<00:29,  7.42page/s]
+  WARNING: Page 200 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy2Hdw3Wjw1Q8MBrAx'}). Writing raw text instead.
+Merging:  48%|████▊     | 200/416 [00:29<00:28,  7.48page/s]
+  WARNING: Page 201 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy2neq5M15e58xDvmQ'}). Writing raw text instead.
+Merging:  48%|████▊     | 201/416 [00:29<00:27,  7.93page/s]
+  WARNING: Page 202 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy3Fvxuf4FvoiYYwiZ'}). Writing raw text instead.
+Merging:  49%|████▊     | 202/416 [00:29<00:26,  8.13page/s]
+  WARNING: Page 203 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy3ov9e1tPM1b8CrMZ'}). Writing raw text instead.
+Merging:  49%|████▉     | 203/416 [00:29<00:25,  8.24page/s]
+  WARNING: Page 204 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy4LRYux6GcwgtDVPc'}). Writing raw text instead.
+Merging:  49%|████▉     | 204/416 [00:29<00:25,  8.25page/s]
+  WARNING: Page 205 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy4kyFqTbHRa7xkPEf'}). Writing raw text instead.
+Merging:  49%|████▉     | 205/416 [00:29<00:24,  8.66page/s]
+  WARNING: Page 206 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy5C1w6uZPjPXY3by5'}). Writing raw text instead.
+Merging:  50%|████▉     | 206/416 [00:29<00:24,  8.71page/s]
+  WARNING: Page 207 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy5hXa6cBrkKGXUtmC'}). Writing raw text instead.
+Merging:  50%|████▉     | 207/416 [00:29<00:23,  8.97page/s]
+  WARNING: Page 208 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy68aGHk34eutbcVXH'}). Writing raw text instead.
+Merging:  50%|█████     | 208/416 [00:30<00:23,  8.80page/s]
+  WARNING: Page 209 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy6yfvv43J13Bw6LsK'}). Writing raw text instead.
+Merging:  50%|█████     | 209/416 [00:30<00:28,  7.26page/s]
+  WARNING: Page 210 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy7WRAYW7dGNt1sMSS'}). Writing raw text instead.
+Merging:  50%|█████     | 210/416 [00:30<00:28,  7.29page/s]
+  WARNING: Page 211 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy8XBpZSsn9YPc3Uzn'}). Writing raw text instead.
+Merging:  51%|█████     | 211/416 [00:30<00:45,  4.47page/s]
+  WARNING: Page 212 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xy9yW9KtKy1d3YsanY'}). Writing raw text instead.
+Merging:  51%|█████     | 212/416 [00:30<00:40,  5.06page/s]
+  WARNING: Page 213 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyAYUrT4eNxC4ATKFf'}). Writing raw text instead.
+Merging:  51%|█████     | 213/416 [00:31<00:37,  5.47page/s]
+  WARNING: Page 214 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyB5isaFTnvnTFXW7d'}). Writing raw text instead.
+Merging:  51%|█████▏    | 214/416 [00:31<00:32,  6.28page/s]
+  WARNING: Page 215 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyBdU7USsq15SE6xoG'}). Writing raw text instead.
+Merging:  52%|█████▏    | 215/416 [00:31<00:39,  5.12page/s]
+  WARNING: Page 216 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyCiTLau6GVKgg8eDa'}). Writing raw text instead.
+Merging:  52%|█████▏    | 216/416 [00:31<00:37,  5.27page/s]
+  WARNING: Page 217 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyDULiCaYM1hDfApjy'}). Writing raw text instead.
+Merging:  52%|█████▏    | 217/416 [00:31<00:32,  6.07page/s]
+  WARNING: Page 218 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyE5ZEiZT371SQjCkh'}). Writing raw text instead.
+Merging:  52%|█████▏    | 218/416 [00:31<00:35,  5.55page/s]
+  WARNING: Page 219 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyF5adbnVRK9GUhnEE'}). Writing raw text instead.
+Merging:  53%|█████▎    | 219/416 [00:32<00:36,  5.40page/s]
+  WARNING: Page 220 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyG1tTEWQ4eBg4jsHp'}). Writing raw text instead.
+Merging:  53%|█████▎    | 220/416 [00:32<00:40,  4.88page/s]
+  WARNING: Page 221 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyGmY33z3er9wTxDKR'}). Writing raw text instead.
+Merging:  53%|█████▎    | 221/416 [00:32<00:33,  5.75page/s]
+  WARNING: Page 222 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyHGYmCFAZxxrCyG4W'}). Writing raw text instead.
+Merging:  53%|█████▎    | 222/416 [00:32<00:31,  6.09page/s]
+  WARNING: Page 223 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyHrmYNauRaYcYnraR'}). Writing raw text instead.
+Merging:  54%|█████▎    | 223/416 [00:32<00:30,  6.39page/s]
+  WARNING: Page 224 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyJYgkmcGYowpMBtQX'}). Writing raw text instead.
+Merging:  54%|█████▍    | 224/416 [00:32<00:30,  6.21page/s]
+  WARNING: Page 225 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyKVVcXBXhWnwdQu2C'}). Writing raw text instead.
+Merging:  54%|█████▍    | 225/416 [00:33<00:44,  4.30page/s]
+  WARNING: Page 226 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyLznCy2cihXKc5cuR'}). Writing raw text instead.
+Merging:  54%|█████▍    | 226/416 [00:33<00:53,  3.55page/s]
+  WARNING: Page 227 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyP8X5FxvPJJS11GBJ'}). Writing raw text instead.
+Merging:  55%|█████▍    | 227/416 [00:34<00:52,  3.60page/s]
+  WARNING: Page 228 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyPmDiVyCsUrxp7soZ'}). Writing raw text instead.
+Merging:  55%|█████▍    | 228/416 [00:34<00:44,  4.21page/s]
+  WARNING: Page 229 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyQLhDjzc3RgDXeZx7'}). Writing raw text instead.
+Merging:  55%|█████▌    | 229/416 [00:34<00:37,  4.99page/s]
+  WARNING: Page 230 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyQqxH2coxqKaj2ojZ'}). Writing raw text instead.
+Merging:  55%|█████▌    | 230/416 [00:34<00:32,  5.74page/s]
+  WARNING: Page 231 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyRJEo7FoaHC7Kwbh8'}). Writing raw text instead.
+Merging:  56%|█████▌    | 231/416 [00:34<00:28,  6.47page/s]
+  WARNING: Page 232 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyRpkBXkA9nVvqCzJH'}). Writing raw text instead.
+Merging:  56%|█████▌    | 232/416 [00:34<00:27,  6.62page/s]
+  WARNING: Page 233 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xySMF7Z3248FaB6YxY'}). Writing raw text instead.
+Merging:  56%|█████▌    | 233/416 [00:34<00:24,  7.33page/s]
+  WARNING: Page 234 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xySyhDmrXFGDEWWjFa'}). Writing raw text instead.
+Merging:  56%|█████▋    | 234/416 [00:34<00:26,  6.76page/s]
+  WARNING: Page 235 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyTcQ2bmreif7Si9Am'}). Writing raw text instead.
+Merging:  56%|█████▋    | 235/416 [00:35<00:26,  6.74page/s]
+  WARNING: Page 236 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyUEc1A1aK2eJq2MRi'}). Writing raw text instead.
+Merging:  57%|█████▋    | 236/416 [00:35<00:26,  6.90page/s]
+  WARNING: Page 237 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyUp5SPY1anKFqgMv8'}). Writing raw text instead.
+Merging:  57%|█████▋    | 237/416 [00:35<00:27,  6.63page/s]
+  WARNING: Page 238 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyVbxNnMpNApfdn16r'}). Writing raw text instead.
+Merging:  57%|█████▋    | 238/416 [00:35<00:30,  5.86page/s]
+  WARNING: Page 239 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyWU3i3shj8moojoQA'}). Writing raw text instead.
+Merging:  57%|█████▋    | 239/416 [00:35<00:27,  6.47page/s]
+  WARNING: Page 240 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyWyoYRjGGBQ4fBqWf'}). Writing raw text instead.
+Merging:  58%|█████▊    | 240/416 [00:35<00:29,  5.90page/s]
+  WARNING: Page 241 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyXpuHjcg7e3V4FGoc'}). Writing raw text instead.
+Merging:  58%|█████▊    | 241/416 [00:36<00:27,  6.48page/s]
+  WARNING: Page 242 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyYKfkGeMC6JgsYXrH'}). Writing raw text instead.
+Merging:  58%|█████▊    | 242/416 [00:36<00:25,  6.84page/s]
+  WARNING: Page 243 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyYy7Sw1wk81Lh99hd'}). Writing raw text instead.
+Merging:  58%|█████▊    | 243/416 [00:36<00:25,  6.67page/s]
+  WARNING: Page 244 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyZY5zHHPY24ftFbn7'}). Writing raw text instead.
+Merging:  59%|█████▊    | 244/416 [00:36<00:31,  5.54page/s]
+  WARNING: Page 245 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyaf4Db31nq9EfdP7U'}). Writing raw text instead.
+Merging:  59%|█████▉    | 245/416 [00:36<00:27,  6.15page/s]
+  WARNING: Page 246 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xybApPCEUiPRmQpW1Q'}). Writing raw text instead.
+Merging:  59%|█████▉    | 246/416 [00:36<00:27,  6.29page/s]
+  WARNING: Page 247 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyboGSZgU2Em4DSNe8'}). Writing raw text instead.
+Merging:  59%|█████▉    | 247/416 [00:37<00:27,  6.17page/s]
+  WARNING: Page 248 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xycTDCu1MRbgBmE4ut'}). Writing raw text instead.
+Merging:  60%|█████▉    | 248/416 [00:37<00:24,  6.96page/s]
+  WARNING: Page 249 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyd1T1iRtivMaNgd4c'}). Writing raw text instead.
+Merging:  60%|█████▉    | 249/416 [00:37<00:23,  7.18page/s]
+  WARNING: Page 250 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xydsY6BZAi7XnNdw9G'}). Writing raw text instead.
+Merging:  60%|██████    | 250/416 [00:37<00:26,  6.24page/s]
+  WARNING: Page 251 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyePnpB6pA8TXc1BZC'}). Writing raw text instead.
+Merging:  60%|██████    | 251/416 [00:37<00:24,  6.81page/s]
+  WARNING: Page 252 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyerpDqH63D2JxHG9o'}). Writing raw text instead.
+Merging:  61%|██████    | 252/416 [00:37<00:22,  7.28page/s]
+  WARNING: Page 253 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyfKbn3gLimwBaTDER'}). Writing raw text instead.
+Merging:  61%|██████    | 253/416 [00:37<00:20,  7.88page/s]
+  WARNING: Page 254 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyfkeXsz5EPwCdQhfc'}). Writing raw text instead.
+Merging:  61%|██████    | 254/416 [00:37<00:20,  8.09page/s]
+  WARNING: Page 255 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xygH9YdzXoGbvwSN27'}). Writing raw text instead.
+Merging:  61%|██████▏   | 255/416 [00:38<00:23,  6.99page/s]
+  WARNING: Page 256 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyh8F3rfXG6jvRm4hm'}). Writing raw text instead.
+Merging:  62%|██████▏   | 256/416 [00:38<00:22,  7.21page/s]
+  WARNING: Page 257 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyhjTPTp2jV36mFz43'}). Writing raw text instead.
+Merging:  62%|██████▏   | 257/416 [00:38<00:22,  6.92page/s]
+  WARNING: Page 258 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyiJgsC88Quwfn7xBT'}). Writing raw text instead.
+Merging:  62%|██████▏   | 258/416 [00:38<00:21,  7.36page/s]
+  WARNING: Page 259 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyimiJZHiSXvSNYTkz'}). Writing raw text instead.
+
+  WARNING: Page 260 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyjC1wmvA52hTW4XDm'}). Writing raw text instead.
+Merging:  62%|██████▎   | 260/416 [00:38<00:18,  8.34page/s]
+  WARNING: Page 261 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyjimEzVS41KEY77cy'}). Writing raw text instead.
+Merging:  63%|██████▎   | 261/416 [00:38<00:21,  7.28page/s]
+  WARNING: Page 262 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xykTfZHdV3V1woN5B2'}). Writing raw text instead.
+Merging:  63%|██████▎   | 262/416 [00:39<00:19,  7.80page/s]
+  WARNING: Page 263 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyktTf4YLw2AGSds8M'}). Writing raw text instead.
+
+  WARNING: Page 264 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xymUSNSd6V81iXJPRU'}). Writing raw text instead.
+Merging:  63%|██████▎   | 264/416 [00:39<00:19,  7.90page/s]
+  WARNING: Page 265 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xymzwUn2VnZnBy3yP6'}). Writing raw text instead.
+Merging:  64%|██████▎   | 265/416 [00:39<00:18,  8.10page/s]
+  WARNING: Page 266 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xynVCwSgCEAPWECmeA'}). Writing raw text instead.
+Merging:  64%|██████▍   | 266/416 [00:39<00:19,  7.88page/s]
+  WARNING: Page 267 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyo6fdRwTPkY9r1do7'}). Writing raw text instead.
+Merging:  64%|██████▍   | 267/416 [00:39<00:18,  8.15page/s]
+  WARNING: Page 268 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyoVEas8YCMwpirHY4'}). Writing raw text instead.
+Merging:  64%|██████▍   | 268/416 [00:39<00:17,  8.58page/s]
+  WARNING: Page 269 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyp1jNLW9h6WdctpWw'}). Writing raw text instead.
+Merging:  65%|██████▍   | 269/416 [00:39<00:17,  8.47page/s]
+  WARNING: Page 270 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xypaiUuSBvrAzF1Kb1'}). Writing raw text instead.
+Merging:  65%|██████▍   | 270/416 [00:40<00:24,  5.90page/s]
+  WARNING: Page 271 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyqtqqM11nBx6PjrzV'}). Writing raw text instead.
+Merging:  65%|██████▌   | 271/416 [00:40<00:24,  5.99page/s]
+  WARNING: Page 272 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyrW4BY64Jn78Esisr'}). Writing raw text instead.
+Merging:  65%|██████▌   | 272/416 [00:40<00:22,  6.53page/s]
+  WARNING: Page 273 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyrxqYZUq75cRb1CYd'}). Writing raw text instead.
+Merging:  66%|██████▌   | 273/416 [00:40<00:19,  7.20page/s]
+  WARNING: Page 274 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xysR7mNx6FGimLaBTd'}). Writing raw text instead.
+Merging:  66%|██████▌   | 274/416 [00:40<00:18,  7.71page/s]
+  WARNING: Page 275 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyssQcdyihaHr6TjnA'}). Writing raw text instead.
+Merging:  66%|██████▌   | 275/416 [00:40<00:17,  8.04page/s]
+  WARNING: Page 276 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xytLgVVETtpGYFdrmM'}). Writing raw text instead.
+Merging:  66%|██████▋   | 276/416 [00:40<00:16,  8.47page/s]
+  WARNING: Page 277 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xytmEHSZ68eLLwTydz'}). Writing raw text instead.
+Merging:  67%|██████▋   | 277/416 [00:40<00:15,  8.83page/s]
+  WARNING: Page 278 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyuCXWNgCeCBN7zTm8'}). Writing raw text instead.
+Merging:  67%|██████▋   | 278/416 [00:41<00:21,  6.53page/s]
+  WARNING: Page 279 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyw8cTFvDLRQSmtP2t'}). Writing raw text instead.
+Merging:  67%|██████▋   | 279/416 [00:41<00:27,  5.02page/s]
+  WARNING: Page 280 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xywj5QWDUQ6D3VAQAu'}). Writing raw text instead.
+Merging:  67%|██████▋   | 280/416 [00:41<00:27,  4.95page/s]
+  WARNING: Page 281 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyxWDPbdXdCeHVxfb8'}). Writing raw text instead.
+Merging:  68%|██████▊   | 281/416 [00:41<00:23,  5.70page/s]
+  WARNING: Page 282 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyy2DgRb9FfZQmzWWz'}). Writing raw text instead.
+Merging:  68%|██████▊   | 282/416 [00:41<00:22,  5.99page/s]
+  WARNING: Page 283 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyyeR9Z7FjpkK8bPAb'}). Writing raw text instead.
+Merging:  68%|██████▊   | 283/416 [00:42<00:21,  6.26page/s]
+  WARNING: Page 284 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyzE9UUgauAdgt8Zy6'}). Writing raw text instead.
+Merging:  68%|██████▊   | 284/416 [00:42<00:20,  6.42page/s]
+  WARNING: Page 285 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xyzpNN6YPadhx7ZUFw'}). Writing raw text instead.
+Merging:  69%|██████▊   | 285/416 [00:42<00:18,  6.97page/s]
+  WARNING: Page 286 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz1HQ4zQLXBMmNeAgD'}). Writing raw text instead.
+Merging:  69%|██████▉   | 286/416 [00:42<00:17,  7.37page/s]
+  WARNING: Page 287 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz1qPL8AAwJwXraAUr'}). Writing raw text instead.
+Merging:  69%|██████▉   | 287/416 [00:42<00:17,  7.44page/s]
+  WARNING: Page 288 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz2bXAV12yuz9z4XZT'}). Writing raw text instead.
+Merging:  69%|██████▉   | 288/416 [00:42<00:17,  7.11page/s]
+  WARNING: Page 289 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz32KaGZAGXa7KmeEE'}). Writing raw text instead.
+Merging:  69%|██████▉   | 289/416 [00:42<00:16,  7.63page/s]
+  WARNING: Page 290 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz3bo2NS16Atz4qibo'}). Writing raw text instead.
+Merging:  70%|██████▉   | 290/416 [00:43<00:16,  7.50page/s]
+  WARNING: Page 291 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz4A31DbAXtaJgqYk7'}). Writing raw text instead.
+Merging:  70%|██████▉   | 291/416 [00:43<00:17,  7.15page/s]
+  WARNING: Page 292 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz4qxWoN2YyGfUJFTE'}). Writing raw text instead.
+Merging:  70%|███████   | 292/416 [00:43<00:16,  7.41page/s]
+  WARNING: Page 293 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz5QC99JAah8vEHU36'}). Writing raw text instead.
+Merging:  70%|███████   | 293/416 [00:43<00:17,  7.06page/s]
+  WARNING: Page 294 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz62PvbcSfvw6gVYeT'}). Writing raw text instead.
+Merging:  71%|███████   | 294/416 [00:43<00:16,  7.41page/s]
+  WARNING: Page 295 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz6WAnT5VYwwqcqfst'}). Writing raw text instead.
+Merging:  71%|███████   | 295/416 [00:43<00:15,  7.87page/s]
+  WARNING: Page 296 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz71BqXoXuVKsQ9NKd'}). Writing raw text instead.
+Merging:  71%|███████   | 296/416 [00:43<00:15,  7.58page/s]
+  WARNING: Page 297 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz7eddxePyRQaSwCsZ'}). Writing raw text instead.
+Merging:  71%|███████▏  | 297/416 [00:43<00:16,  7.18page/s]
+  WARNING: Page 298 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz8G5yBnH3tQ9haAtM'}). Writing raw text instead.
+Merging:  72%|███████▏  | 298/416 [00:44<00:15,  7.51page/s]
+  WARNING: Page 299 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz8krjLdEjbg5FirfD'}). Writing raw text instead.
+Merging:  72%|███████▏  | 299/416 [00:44<00:20,  5.80page/s]
+  WARNING: Page 300 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xz9spef7oqQGPzumYY'}). Writing raw text instead.
+Merging:  72%|███████▏  | 300/416 [00:44<00:19,  6.09page/s]
+  WARNING: Page 301 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzAznznKajEDwLpTkd'}). Writing raw text instead.
+Merging:  72%|███████▏  | 301/416 [00:44<00:22,  5.09page/s]
+  WARNING: Page 302 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzBjCVZSXKgqkdnAsS'}). Writing raw text instead.
+Merging:  73%|███████▎  | 302/416 [00:44<00:20,  5.67page/s]
+  WARNING: Page 303 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzCAz9Me4ftuQ7w1wx'}). Writing raw text instead.
+Merging:  73%|███████▎  | 303/416 [00:45<00:19,  5.79page/s]
+  WARNING: Page 304 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzD4p4DyyA2varcoZP'}). Writing raw text instead.
+Merging:  73%|███████▎  | 304/416 [00:45<00:18,  6.06page/s]
+  WARNING: Page 305 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzDbK9mR25S1qxBCdp'}). Writing raw text instead.
+Merging:  73%|███████▎  | 305/416 [00:45<00:18,  6.02page/s]
+  WARNING: Page 306 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzELTmU2eo1JhD7TJ9'}). Writing raw text instead.
+Merging:  74%|███████▎  | 306/416 [00:45<00:17,  6.16page/s]
+  WARNING: Page 307 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzExRNfz1Cd9pSc4gY'}). Writing raw text instead.
+Merging:  74%|███████▍  | 307/416 [00:45<00:16,  6.72page/s]
+  WARNING: Page 308 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzFTgX13zthWW4Z5mg'}). Writing raw text instead.
+Merging:  74%|███████▍  | 308/416 [00:45<00:16,  6.73page/s]
+  WARNING: Page 309 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzG87mxEiwPkWEHCqR'}). Writing raw text instead.
+Merging:  74%|███████▍  | 309/416 [00:45<00:15,  7.01page/s]
+  WARNING: Page 310 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzGrmJLQ59X2EeCpf8'}). Writing raw text instead.
+Merging:  75%|███████▍  | 310/416 [00:46<00:16,  6.24page/s]
+  WARNING: Page 311 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzHWDH7XyXnVQiuTGq'}). Writing raw text instead.
+Merging:  75%|███████▍  | 311/416 [00:46<00:15,  6.73page/s]
+  WARNING: Page 312 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzHyVLWno8hWTKPy1A'}). Writing raw text instead.
+Merging:  75%|███████▌  | 312/416 [00:46<00:15,  6.76page/s]
+  WARNING: Page 313 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzJj8WZLLfh129Y5vD'}). Writing raw text instead.
+Merging:  75%|███████▌  | 313/416 [00:46<00:26,  3.90page/s]
+  WARNING: Page 314 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzLr8WXQyr9tVi6A6T'}). Writing raw text instead.
+Merging:  75%|███████▌  | 314/416 [00:47<00:24,  4.12page/s]
+  WARNING: Page 315 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzMhyJWHHhavJAPVCb'}). Writing raw text instead.
+Merging:  76%|███████▌  | 315/416 [00:47<00:21,  4.80page/s]
+  WARNING: Page 316 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzNFxSPHKgzf4XBHxG'}). Writing raw text instead.
+Merging:  76%|███████▌  | 316/416 [00:47<00:18,  5.51page/s]
+  WARNING: Page 317 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzNtuRkdH9fMHVNLUV'}). Writing raw text instead.
+Merging:  76%|███████▌  | 317/416 [00:47<00:17,  5.65page/s]
+  WARNING: Page 318 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzPUPT8zji5oZVmrEe'}). Writing raw text instead.
+Merging:  76%|███████▋  | 318/416 [00:47<00:15,  6.14page/s]
+  WARNING: Page 319 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzQ7akrARwSG8SjR6L'}). Writing raw text instead.
+Merging:  77%|███████▋  | 319/416 [00:47<00:15,  6.09page/s]
+  WARNING: Page 320 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzQnWhkCawynLyi4wv'}). Writing raw text instead.
+Merging:  77%|███████▋  | 320/416 [00:48<00:16,  5.99page/s]
+  WARNING: Page 321 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzRTh6XGrCe3vyxVpb'}). Writing raw text instead.
+Merging:  77%|███████▋  | 321/416 [00:48<00:14,  6.62page/s]
+  WARNING: Page 322 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzS1RvdbWicD5F3vch'}). Writing raw text instead.
+Merging:  77%|███████▋  | 322/416 [00:48<00:14,  6.62page/s]
+  WARNING: Page 323 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzSdPUZpuY7bvKuV6t'}). Writing raw text instead.
+Merging:  78%|███████▊  | 323/416 [00:48<00:13,  7.06page/s]
+  WARNING: Page 324 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzT89n8WYftn7Mw89i'}). Writing raw text instead.
+Merging:  78%|███████▊  | 324/416 [00:48<00:12,  7.54page/s]
+  WARNING: Page 325 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzTYi2RqR7zxtWgW4j'}). Writing raw text instead.
+Merging:  78%|███████▊  | 325/416 [00:48<00:12,  7.49page/s]
+  WARNING: Page 326 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzUAQkYUuKytDUVCMn'}). Writing raw text instead.
+Merging:  78%|███████▊  | 326/416 [00:48<00:11,  7.65page/s]
+  WARNING: Page 327 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzUfvGfSnH6ZbEAxUA'}). Writing raw text instead.
+Merging:  79%|███████▊  | 327/416 [00:48<00:11,  7.68page/s]
+  WARNING: Page 328 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzVUHyhZfwGfGbA58V'}). Writing raw text instead.
+Merging:  79%|███████▉  | 328/416 [00:49<00:15,  5.51page/s]
+  WARNING: Page 329 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzWcFccW5vHXw9XJVj'}). Writing raw text instead.
+Merging:  79%|███████▉  | 329/416 [00:49<00:14,  6.09page/s]
+  WARNING: Page 330 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzX43HyaiV1LFV7U5F'}). Writing raw text instead.
+Merging:  79%|███████▉  | 330/416 [00:49<00:12,  6.62page/s]
+  WARNING: Page 331 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzXekzezJDNVZPBgbY'}). Writing raw text instead.
+Merging:  80%|███████▉  | 331/416 [00:49<00:12,  6.76page/s]
+  WARNING: Page 332 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzYydp8tGBtCQX13BK'}). Writing raw text instead.
+Merging:  80%|███████▉  | 332/416 [00:49<00:18,  4.53page/s]
+  WARNING: Page 333 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzZvgWs9zE8R9oqJXd'}). Writing raw text instead.
+Merging:  80%|████████  | 333/416 [00:50<00:15,  5.24page/s]
+  WARNING: Page 334 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzaRSurF9qisPJYwdY'}). Writing raw text instead.
+Merging:  80%|████████  | 334/416 [00:50<00:14,  5.77page/s]
+  WARNING: Page 335 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzawhXgS1DLf8JvMD7'}). Writing raw text instead.
+Merging:  81%|████████  | 335/416 [00:50<00:13,  6.15page/s]
+  WARNING: Page 336 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzbWvfyFePUf5qhBZJ'}). Writing raw text instead.
+Merging:  81%|████████  | 336/416 [00:50<00:12,  6.38page/s]
+  WARNING: Page 337 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzc8tTr4gxJnfJXoj3'}). Writing raw text instead.
+Merging:  81%|████████  | 337/416 [00:50<00:12,  6.57page/s]
+  WARNING: Page 338 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzctn4sGT3z4ZUfXJo'}). Writing raw text instead.
+Merging:  81%|████████▏ | 338/416 [00:50<00:11,  6.69page/s]
+  WARNING: Page 339 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzdMZSyGNjMmN9PgwL'}). Writing raw text instead.
+Merging:  81%|████████▏ | 339/416 [00:50<00:10,  7.26page/s]
+  WARNING: Page 340 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzdnrPMjqRFWRsPF78'}). Writing raw text instead.
+Merging:  82%|████████▏ | 340/416 [00:51<00:09,  7.85page/s]
+  WARNING: Page 341 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzeKMRGqLXY2d7aMFt'}). Writing raw text instead.
+Merging:  82%|████████▏ | 341/416 [00:51<00:09,  7.93page/s]
+  WARNING: Page 342 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzeosFJVDkxC5gbbaR'}). Writing raw text instead.
+Merging:  82%|████████▏ | 342/416 [00:51<00:08,  8.25page/s]
+  WARNING: Page 343 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzfJe1siWRxZmVtYYr'}). Writing raw text instead.
+Merging:  82%|████████▏ | 343/416 [00:51<00:10,  7.00page/s]
+  WARNING: Page 344 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzg4XdW8BPmZW74HFE'}). Writing raw text instead.
+Merging:  83%|████████▎ | 344/416 [00:51<00:10,  6.89page/s]
+  WARNING: Page 345 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzgmwbWLir7ctRHf8s'}). Writing raw text instead.
+Merging:  83%|████████▎ | 345/416 [00:51<00:09,  7.35page/s]
+  WARNING: Page 346 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzhFiSaYeAA2SxjDeu'}). Writing raw text instead.
+Merging:  83%|████████▎ | 346/416 [00:51<00:11,  6.32page/s]
+  WARNING: Page 347 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xziAXgVtyMxyphCgVP'}). Writing raw text instead.
+Merging:  83%|████████▎ | 347/416 [00:52<00:10,  6.82page/s]
+  WARNING: Page 348 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzigHW9g7PgDu2NNJn'}). Writing raw text instead.
+Merging:  84%|████████▎ | 348/416 [00:52<00:09,  7.22page/s]
+  WARNING: Page 349 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzj9pGe9QQZm8XH2AJ'}). Writing raw text instead.
+Merging:  84%|████████▍ | 349/416 [00:52<00:08,  7.65page/s]
+  WARNING: Page 350 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzjacPNLhSnbNJQ3en'}). Writing raw text instead.
+Merging:  84%|████████▍ | 350/416 [00:52<00:08,  8.07page/s]
+  WARNING: Page 351 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzk8MUmFDbvvffY4Pa'}). Writing raw text instead.
+Merging:  84%|████████▍ | 351/416 [00:52<00:07,  8.27page/s]
+  WARNING: Page 352 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzkadshcobYaoLs3bA'}). Writing raw text instead.
+Merging:  85%|████████▍ | 352/416 [00:52<00:07,  8.16page/s]
+  WARNING: Page 353 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzm5uCupk2umf2Pv8S'}). Writing raw text instead.
+Merging:  85%|████████▍ | 353/416 [00:52<00:07,  8.53page/s]
+  WARNING: Page 354 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzmbQNtGNzs9APxiPq'}). Writing raw text instead.
+Merging:  85%|████████▌ | 354/416 [00:52<00:07,  8.28page/s]
+  WARNING: Page 355 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzn5Rzq1zwkN95kc3f'}). Writing raw text instead.
+Merging:  85%|████████▌ | 355/416 [00:52<00:07,  7.94page/s]
+  WARNING: Page 356 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xznmMViKXPt4YH9Zce'}). Writing raw text instead.
+Merging:  86%|████████▌ | 356/416 [00:53<00:07,  7.57page/s]
+  WARNING: Page 357 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzoM5KPY4X5s9ykZ3f'}). Writing raw text instead.
+Merging:  86%|████████▌ | 357/416 [00:53<00:07,  7.88page/s]
+  WARNING: Page 358 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzomdBpULsBVm3UbC9'}). Writing raw text instead.
+
+  WARNING: Page 359 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzpHt8xpE3pWmKdxma'}). Writing raw text instead.
+Merging:  86%|████████▋ | 359/416 [00:53<00:06,  8.43page/s]
+  WARNING: Page 360 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzpkQpcbnJGWziTM7G'}). Writing raw text instead.
+Merging:  87%|████████▋ | 360/416 [00:53<00:06,  8.50page/s]
+  WARNING: Page 361 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzqGRLA7WysCQNkDiV'}). Writing raw text instead.
+Merging:  87%|████████▋ | 361/416 [00:53<00:07,  7.62page/s]
+  WARNING: Page 362 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzqyaemjQXLCjGvmBn'}). Writing raw text instead.
+Merging:  87%|████████▋ | 362/416 [00:53<00:07,  7.43page/s]
+  WARNING: Page 363 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzrZ4Lsh7H6NxPdTw8'}). Writing raw text instead.
+Merging:  87%|████████▋ | 363/416 [00:54<00:06,  7.89page/s]
+  WARNING: Page 364 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzs3L4WXVUX1AqUoyb'}). Writing raw text instead.
+Merging:  88%|████████▊ | 364/416 [00:54<00:06,  7.50page/s]
+  WARNING: Page 365 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzskFFVBMZCxzBCWZe'}). Writing raw text instead.
+Merging:  88%|████████▊ | 365/416 [00:54<00:06,  7.36page/s]
+  WARNING: Page 366 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xztLDZNLzuaMs4B4D6'}). Writing raw text instead.
+Merging:  88%|████████▊ | 366/416 [00:54<00:06,  7.21page/s]
+  WARNING: Page 367 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xztuwPcxHxeUuM9eF2'}). Writing raw text instead.
+Merging:  88%|████████▊ | 367/416 [00:54<00:06,  7.27page/s]
+  WARNING: Page 368 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzuSSbD8ZXx9hLXXab'}). Writing raw text instead.
+
+  WARNING: Page 369 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzuvDLbNASUSs99Rdq'}). Writing raw text instead.
+Merging:  89%|████████▊ | 369/416 [00:54<00:05,  8.14page/s]
+  WARNING: Page 370 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzvUx5DiLHVaNMnmy7'}). Writing raw text instead.
+Merging:  89%|████████▉ | 370/416 [00:54<00:06,  7.55page/s]
+  WARNING: Page 371 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzw2gwhDALTjMubg5J'}). Writing raw text instead.
+Merging:  89%|████████▉ | 371/416 [00:55<00:05,  8.06page/s]
+  WARNING: Page 372 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzwWDTMfic6PNaorvN'}). Writing raw text instead.
+Merging:  89%|████████▉ | 372/416 [00:55<00:05,  7.66page/s]
+  WARNING: Page 373 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzx7gAkAh2bEFpMPBG'}). Writing raw text instead.
+Merging:  90%|████████▉ | 373/416 [00:55<00:05,  7.95page/s]
+  WARNING: Page 374 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzxbCWTvd9S9Zkp2in'}). Writing raw text instead.
+Merging:  90%|████████▉ | 374/416 [00:55<00:05,  8.03page/s]
+  WARNING: Page 375 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzyo8W6FDz9Bzo1TKz'}). Writing raw text instead.
+Merging:  90%|█████████ | 375/416 [00:55<00:06,  5.94page/s]
+  WARNING: Page 376 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzzQqMpKLTzbK4ksSf'}). Writing raw text instead.
+Merging:  90%|█████████ | 376/416 [00:55<00:06,  6.38page/s]
+  WARNING: Page 377 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5xzzv6VNBHP5stjKxYy'}). Writing raw text instead.
+Merging:  91%|█████████ | 377/416 [00:55<00:05,  6.87page/s]
+  WARNING: Page 378 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y11RrXQyqBN32yWJgr'}). Writing raw text instead.
+Merging:  91%|█████████ | 378/416 [00:56<00:05,  7.07page/s]
+  WARNING: Page 379 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y11u8PnDdp4LesQpEU'}). Writing raw text instead.
+Merging:  91%|█████████ | 379/416 [00:56<00:04,  7.65page/s]
+  WARNING: Page 380 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y12Uc3GmNqBARAcD3R'}). Writing raw text instead.
+Merging:  91%|█████████▏| 380/416 [00:56<00:04,  7.32page/s]
+  WARNING: Page 381 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y134aVWNiNbSHSdPGJ'}). Writing raw text instead.
+Merging:  92%|█████████▏| 381/416 [00:56<00:04,  7.74page/s]
+  WARNING: Page 382 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y13YrR8eMk4uB7PqrV'}). Writing raw text instead.
+Merging:  92%|█████████▏| 382/416 [00:56<00:04,  7.49page/s]
+  WARNING: Page 383 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y14BJKTsghkfWBsMBz'}). Writing raw text instead.
+Merging:  92%|█████████▏| 383/416 [00:56<00:04,  7.17page/s]
+  WARNING: Page 384 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y14sE1HxvmRpfMbu2D'}). Writing raw text instead.
+Merging:  92%|█████████▏| 384/416 [00:56<00:04,  6.98page/s]
+  WARNING: Page 385 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y15Sx9yYfcTYHz8rRS'}). Writing raw text instead.
+Merging:  93%|█████████▎| 385/416 [00:57<00:04,  6.66page/s]
+  WARNING: Page 386 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y167dc9EWYY56nnfNR'}). Writing raw text instead.
+Merging:  93%|█████████▎| 386/416 [00:57<00:05,  5.84page/s]
+  WARNING: Page 387 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y17At716Un2j62GfE4'}). Writing raw text instead.
+Merging:  93%|█████████▎| 387/416 [00:57<00:04,  6.13page/s]
+  WARNING: Page 388 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y17mbd64deSooqrXSX'}). Writing raw text instead.
+Merging:  93%|█████████▎| 388/416 [00:57<00:04,  6.28page/s]
+  WARNING: Page 389 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y18SXn9zpK6fH95pSB'}). Writing raw text instead.
+Merging:  94%|█████████▎| 389/416 [00:57<00:04,  6.36page/s]
+  WARNING: Page 390 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y18zmRRgbNtTbCa6NW'}). Writing raw text instead.
+Merging:  94%|█████████▍| 390/416 [00:57<00:04,  6.47page/s]
+  WARNING: Page 391 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y19iS1Ko4fcBb6WtYi'}). Writing raw text instead.
+Merging:  94%|█████████▍| 391/416 [00:58<00:03,  6.46page/s]
+  WARNING: Page 392 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1AN7tpZioFYcKHhE5'}). Writing raw text instead.
+Merging:  94%|█████████▍| 392/416 [00:58<00:03,  6.83page/s]
+  WARNING: Page 393 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1BDiZEeGPZz4cS12m'}). Writing raw text instead.
+Merging:  94%|█████████▍| 393/416 [00:58<00:04,  5.66page/s]
+  WARNING: Page 394 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1BxNHGRGfT5s3xRFJ'}). Writing raw text instead.
+Merging:  95%|█████████▍| 394/416 [00:58<00:03,  6.00page/s]
+  WARNING: Page 395 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1CWrVvdcN7ZovVrk2'}). Writing raw text instead.
+Merging:  95%|█████████▍| 395/416 [00:58<00:03,  5.89page/s]
+  WARNING: Page 396 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1DLxn4cQZjkMZnw7z'}). Writing raw text instead.
+Merging:  95%|█████████▌| 396/416 [00:58<00:03,  5.53page/s]
+  WARNING: Page 397 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1EEYPr57hExQ6jMfa'}). Writing raw text instead.
+Merging:  95%|█████████▌| 397/416 [00:59<00:03,  5.30page/s]
+  WARNING: Page 398 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1F39xAPM7dpJcFjki'}). Writing raw text instead.
+Merging:  96%|█████████▌| 398/416 [00:59<00:03,  5.78page/s]
+  WARNING: Page 399 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1FgrH46sGeZukKgkb'}). Writing raw text instead.
+Merging:  96%|█████████▌| 399/416 [00:59<00:02,  6.29page/s]
+  WARNING: Page 400 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1GD74DSjFe4vkBGAS'}). Writing raw text instead.
+Merging:  96%|█████████▌| 400/416 [00:59<00:02,  6.76page/s]
+  WARNING: Page 401 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1GgstAoAXcCqvc3sh'}). Writing raw text instead.
+Merging:  96%|█████████▋| 401/416 [00:59<00:02,  7.24page/s]
+  WARNING: Page 402 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1HBe1Daie7UGcwEx9'}). Writing raw text instead.
+Merging:  97%|█████████▋| 402/416 [00:59<00:01,  7.70page/s]
+  WARNING: Page 403 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1HgA8r7H6Jj1bhGiz'}). Writing raw text instead.
+Merging:  97%|█████████▋| 403/416 [00:59<00:01,  7.49page/s]
+  WARNING: Page 404 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1JCuPByqnvFwq8gQj'}). Writing raw text instead.
+Merging:  97%|█████████▋| 404/416 [01:00<00:01,  7.98page/s]
+  WARNING: Page 405 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1JrbhnYvfbAqVc7zm'}). Writing raw text instead.
+Merging:  97%|█████████▋| 405/416 [01:00<00:01,  7.19page/s]
+  WARNING: Page 406 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1KUJr7KiaKV7jhKLN'}). Writing raw text instead.
+Merging:  98%|█████████▊| 406/416 [01:00<00:01,  7.13page/s]
+  WARNING: Page 407 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1LCi2Pi1La6jwmr96'}). Writing raw text instead.
+Merging:  98%|█████████▊| 407/416 [01:00<00:01,  6.67page/s]
+  WARNING: Page 408 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1LogLpr4KVMCPgELJ'}). Writing raw text instead.
+Merging:  98%|█████████▊| 408/416 [01:00<00:01,  7.24page/s]
+  WARNING: Page 409 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1MLfwM1EdYdtdy5pg'}). Writing raw text instead.
+Merging:  98%|█████████▊| 409/416 [01:00<00:01,  5.70page/s]
+  WARNING: Page 410 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1NRAVDuc3djYT7Vqv'}). Writing raw text instead.
+Merging:  99%|█████████▊| 410/416 [01:01<00:01,  5.81page/s]
+  WARNING: Page 411 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1P5qvWoxJLmhyDyz9'}). Writing raw text instead.
+Merging:  99%|█████████▉| 411/416 [01:01<00:00,  6.01page/s]
+  WARNING: Page 412 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1Ppk3FaBF7Rg5hZb7'}). Writing raw text instead.
+Merging:  99%|█████████▉| 412/416 [01:01<00:00,  6.40page/s]
+  WARNING: Page 413 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1QK249eAcWqR8ddV8'}). Writing raw text instead.
+Merging:  99%|█████████▉| 413/416 [01:01<00:00,  6.42page/s]
+  WARNING: Page 414 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1R4fGj17SwYFuzW5G'}). Writing raw text instead.
+Merging: 100%|█████████▉| 414/416 [01:01<00:00,  6.74page/s]
+  WARNING: Page 415 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1RZRivsWHoZz3fZGD'}). Writing raw text instead.
+Merging: 100%|█████████▉| 415/416 [01:01<00:00,  6.85page/s]
+  WARNING: Page 416 failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Ca5y1S8QZRa7g3z3m18Xi'}). Writing raw text instead.
+Merging: 100%|██████████| 416/416 [01:01<00:00,  7.42page/s]Merging: 100%|██████████| 416/416 [01:01<00:00,  6.73page/s]
+
+──────────────────────────────────────────────────
+Output written to: tsr02141 Encyclopedia Magica Volume One_compiled.md
+Token usage:
+  Input:                0
+  Output:               0
+  Cache reads:          0  (billed at ~10% rate)
+  Cache writes:         0
+──────────────────────────────────────────────────
