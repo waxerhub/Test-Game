@@ -13929,3 +13929,777 @@ A cage is an enclosure used to keep a creature confined without consent. Whether
 
 ---
 
+<!-- page 235 -->
+
+## Cage
+
+This section covers magical cages of various types. Whether called a bastille, jail, or brig, the result is the same—something is trapped against its will. Magical cages tend to be small enough or light enough for easy transport. Roll on the table below to learn the type of cage found.
+
+| Roll  | Cage Type  |
+|-------|------------|
+| 01–08 | Bastille   |
+| 09–17 | Brig       |
+| 18–25 | Cage       |
+| 26–33 | Cell       |
+| 34–42 | Coop       |
+| 43–50 | Corral     |
+| 51–58 | Crate      |
+| 59–67 | Jail       |
+| 68–75 | Menagerie  |
+| 76–83 | Pen        |
+| 84–92 | Wire-mesh* |
+| 93–00 | Wood*      |
+
+## Batting Cage
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This cage is identical to a cage of carrying. However, when touched to a creature, the cage expands to a 9-foot cube and fills with 1,000 ordinary bats—then the cage disintegrates. The user may point the cage in any direction, and the bats will travel in that direction for at least 1d4+1 rounds. Afterward, the bats are not under any sort of control. The batting cage is useless after that, but the bats are real and permanent.
+
+## Cage of Carrying
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This small wooden cage measures 3 inches on a side and has a tiny door. When touched to a normal, nonmagical creature of animal intelligence, such as a war horse, the creature must make a saving throw vs. spell; if it fails, the beast is drawn into the cage in miniature form along with all the equipment it carries. Mounted riders are unaffected except by the disappearance of their mounts. The cage can be used to avoid leaving one's horse and equipment outside a dungeon.
+
+## Cage of Entrapment
+
+**XP Value:** — &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This cage looks and functions like a cage of carrying. However, if a touched animal makes its saving throw against the effect, the user is drawn into the cage in miniature form instead, with all equipment carried, and cannot be released until a *remove curse* spell is applied. Items carried and spells known by an entrapped victim cannot be used until the victim is released.
+
+## Cage of Shelter
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: The Complete Fighter's Handbook*
+
+This object looks like a large bird cage that has been neatly folded into a package about the size of a medium shield. The user, who can be of any character class, places it on the ground, steps back, and claps his or her hands loudly two or three times.
+
+If the hands are clapped twice, the cage grows into a sturdy, metal-framed tent that can house eight people or two horses. The tent confers no magical benefits on its inhabitants, but by using it and huddling together for warmth, a party can survive a snowstorm that would kill an unprotected party. If the tent is erected in the desert, a party can avoid the danger and discomfort of a sandstorm.
+
+If the user claps his or her hands three times, the cage grows into a strong 10-by-10-foot cell. The door to the cell has the equivalent of a *wizard lock*; the cage's owner can open it at any time, and any magician with a *knock* spell can open it by using that spell. A person in the cell would have to make a successful bend bars/lift gates roll (or use a *knock* spell) to escape; the door's lock cannot be picked.
+
+To return the cage to its original form, the owner claps again, twice if it is in tent form, three times if it is in cage form. If someone is in the tent while it is collapsing, it opens around the person inside—both the tent and the victim are unhurt. If someone is in it when it is a cage and it collapses, it inflicts 2d6 damage before it breaks open—after that it is ruined forever.
+
+The cage of shelter knows its owner. If someone finds it in a treasure, the finder must carry it in his or her gear for one month so that the cage can attune itself to its new owner. If its true owner sells it to someone else in the cage's presence, the cage will obey the claps of its new owner immediately.
+
+---
+
+<!-- page 236 -->
+
+## String Cage
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: The Complete Ranger's Handbook*
+
+This looks like a piece of white thread 20 feet long, flecked with gold. When arranged in a circle so that the ends touch, the string cage creates an invisible barrier that prevents any creature contained inside from leaving. The invisible barrier has the strength of a wall of force and has the shape of a closed cylinder about 6 feet tall. The string cage functions only if it is placed on the ground or other solid surface; if it is moved, the barrier dissipates. Because of its light weight, the string can't be thrown like a lasso; if rocks or other weights are attached, its magic is negated. Therefore, the device is mainly used to contain sleeping, trapped, restrained, or cooperative creatures.
+
+A string cage can contain any single creature, so long as the creature fits inside the circle. Physical attacks and most spells have no effect on string cages. The creature trapped inside can't move it. A *disintegrate* spell destroys the device, as will a rod of cancellation or a sphere of annihilation. A creature contained in a string cage can escape by using *dimension door*, *teleport*, or a similar spell. Only the person who originally formed the circle can separate the ends and free the creature inside. Otherwise, a string cage lasts for 3d4 hours, at which time the ends separate automatically. A string cage can be used only once per day.
+
+---
+
+A cameo is a gem or stone carving showing a relief design in one color against a background of another, usually darker hue. Stones with bands of color—such as onyx—make the best cameos. The designs on a cameo may take nearly any form, but the most common patterns are nature scenes and busts (portraits showing a silhouette of the head and neck).
+
+## Cameo of Appearance
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+*Source: The Book of Marvelous Magic*
+
+This oval piece of ivory jewelry is adorned with the carved likeness of a handsome human male. When commanded, it turns into a powerful fighter (level 21, hp 100; all ability scores 17; plate mail +3, shield +3, sword +3, other normal clothes, no other equipment), who assists the user of the cameo for up to one hour and then magically vanishes. (The fighter may be any NPC fighter of comparable powers who is well-known in the campaign.) Though not charmed, the fighter obeys nearly any instruction, even if it involves certain death. If the fighter fails any saving throw, he or she vanishes. All items created with the fighter disappear when the fighter vanishes.
+
+## Equus
+
+**XP Value:** 2,000 &emsp; **GP Value:** 8,000
+*Source: DUNGEON Magazine #22*
+
+An equus is a magical piece of jewelry that, upon command, polymorphs into some form of a beast of burden. The word "equus" (plural "equi") comes from an ancient language and has no literal translation in the common tongue. The closest translation is "beast of burden" or "horse," but the word can be applied to anything that is used like a horse. Thus, an actual horse, mule, worg, camel, dog-sled team, nightmare, or any other creature that can be ridden, used to pull a load, or carry goods can be termed an equus. Equi come in many different varieties, with the most common listed below. While 80% of equi are either good or neutrally aligned, 20% polymorph into evil creatures such as nightmares, worgs, and giant spiders. It is said that the death knight Shan Nikkoleth once possessed an equus that polymorphed into gorgon form.
+
+The cameo may be worn on a chain or pinned to a garment. It bears an obsidian silhouette of a creature on a turquoise background. The command word is etched on the reverse side.
+
+### Creature List
+
+The DM may choose the form of the creature into which the equus polymorphs from the following table. The jewelry form polymorphs into one type of creature only. A DM who prefers to roll randomly should add the roll of 1d8 to that of 1d12 and consult the table below. The DM should use only a creature he or she feels comfortable with and is sure will not give the PCs an unfair advantage in the campaign. Types of creatures can be added to or deleted from the list as the DM sees fit. Any of the following creatures that do not appear on Table 49 in the PHB should be considered equal to a heavy horse in movement rate and encumbrance.
+
+If the equus is slain (reduced to 0 hit points or
+
+---
+
+<!-- page 237 -->
+
+less) in creature form, the creature immediately reverts to cameo form and cannot change into creature form again. Damage to the creature form of the equus can be healed magically by cure wounds spells. If the creature is allowed food and rest, it heals naturally at the rate of 1 hit point per day. However, the equus can neither heal itself nor be healed while in cameo form.
+
+| Roll | Creature |
+|------|----------|
+| 02 | Unicorn: AC 2; MV 24; HD 4+4; hp 28; THAC0 15; #AT 3 (hooves and horn); Dmg 1d6/1d6/1d12; SA charge, +2 to hit when attacking with horn, -6 penalty to opponents' surprise rolls; SD teleport, immune to poison, charm, hold, and death spells; can sense approach of enemy 240 yards distant; makes all saving throws as 11th-level wizard; ML 14; AL CG. The unicorn's Intelligence is 8–10 (1d4+8). It can be ridden only by female characters; if a male character rolls the unicorn, use the ultraheavy war horse (#20) instead. |
+| 03 | Giant stag: AC 7; MV 21; HD 5; hp 30; THAC0 15; #AT 1 (antlers) or 2 (hooves); Dmg 4d4 or 1d4/1d4; ML 14; AL N. This creature's Intelligence is 4–7 (1d4+3). |
+| 04-05 | Bull: AC 7; MV 15; HD 4; hp 24; THAC0 15; #AT 2 (horns); Dmg 1d6/1d6; SA charge; ML 15; AL N. The bull has an Intelligence of 4–7 (1d4+3). |
+| 06-08 | Superheavy war horse: AC 6; MV 15; HD 4+4; hp 28; THAC0 15; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; SD 30' infravision, immunity to all hold and charm spells; ML 16; AL NG. Intelligence 7–12 (1d6+6). |
+| 09-13 | Heavy war horse: AC 7; MV 15; HD 4+4; hp 21; THAC0 17; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; ML 15; AL N. This horse has an Intelligence of 5–8 (1d4+4). |
+| 14-16 | Superheavy war horse (special): Same as above (roll of 6–8), though it has MV 18, a 40-lb. bonus on its carrying capacity load limits, and no infravision. |
+| 17-18 | Camel: AC 7; MV 21; HD 3; hp 18; THAC0 17; #AT 1 (bite); Dmg 1d4; SA spitting; ML 14; AL N. This camel is of a more mellow disposition than its meaner cousins and has an Intelligence of 4–7 (1d4+3). |
+| 19 | Water buffalo: AC 7; MV 15; HD 5; hp 30; THAC0 15; #AT 2 (horns); Dmg 1d8/1d8; ML 16; AL N. This water buffalo has an Intelligence of 4–7 (1d4+3). |
+| 20 | Ultraheavy war horse: AC 5; MV 24; HD 5+5; hp 35; THAC0 15; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; SD 60' infravision, immunity to poison and all hold and charm spells; ML 18; AL LG. This special horse can understand but not speak the common tongue and is able to use animal friendship and pass without trace spells three times per day each, locate animals or plants once per day, and water walk once per week. Intelligence 9–16 (1d8+8). |
+
+## Cameo of Incompetence
+
+**XP Value:** — &emsp; **GP Value:** 1,200
+
+*Source: The Book of Marvelous Magic*
+
+This item appears and functions as a cameo of appearance in all respects. However, the fighter appearing never hits any targets and automatically rolls a 1 on any attack roll. The fighter keeps trying, however, and complains about bad luck. The inept warrior also fails the first saving throw required and then vanishes.
+
+## Can
+
+A can is a cylindrical container. Each has two command words; one to open, causing the top to disappear, and one to close, causing the lid to reappear. Cans may be from 2 to 6 inches in diameter, and 2 to 12 inches in height. Some recreate their contents each time they're opened. Other cans can be emptied only once, but even these remain airtight and watertight. Roll on the table below to determine the type of can found.
+
+| Roll | Can Type |
+|------|----------|
+| 01–10 | Bucket |
+| 11–20 | Can |
+| 21–30 | Canister |
+| 31–40 | Canistrum |
+| 41–50 | Container |
+| 51–60 | Jar |
+| 61–70 | Pail |
+
+---
+
+<!-- page 238 -->
+
+## Zwann's Watering Can
+
+*(continuation of table from previous page)*
+
+| d100 Roll | Result  |
+|-----------|---------|
+| 71–80     | Tankard |
+| 81–90     | Tin     |
+| 91–00     | Vessel  |
+
+## Can of Cant
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: The Book of Marvelous Magic*
+
+This can contains water that whirls about by itself. If consumed, the water enables the user to understand any and all spoken languages for one day. For miscibility purposes, the can of cant is not treated as a potion.
+
+## Can of Moonlight
+
+**XP Value:** 400 &emsp; **GP Value:** 2,000
+*Source: The Book of Marvelous Magic*
+
+The water in this can is still and shiny. If it is sprinkled on a lycanthrope in humanoid form, it forces the creature to assume animal form and curses it with a −2 penalty to all attack rolls and saving throws. Depending on the situation, a normal attack roll may be needed to do the sprinkling. Each can contains enough water for four applications.
+
+## Can of Preserving
+
+**XP Value:** (varies) &emsp; **GP Value:** (varies)
+*Source: POLYHEDRON Newszine #82*
+
+| Size         | XP Value | GP Value |
+|--------------|----------|----------|
+| 1 Cubic Foot | 100      | 500      |
+| 2 Cubic Feet | 200      | 1,000    |
+| 3 Cubic Feet | 300      | 1,500    |
+| 4 Cubic Feet | 400      | 2,000    |
+| 5 Cubic Feet | 500      | 2,500    |
+| 6 Cubic Feet | 600      | 3,000    |
+
+Found in various sizes, these cylindrical metal containers act like bags of holding except that only food can be put into them. If anything else is put into the can, the items disappear after three rounds. Food placed in the cans neither rots nor ages. Cans of preserving hold from 1 cubic foot to 6 cubic feet of food, depending on the size of the can. Generally a can's physical dimensions are one third of its actual capacity; a 1-cubic-foot can has a diameter of about 5 inches and is about 2 inches high. A 6-cubic-foot can is about 10 inches in diameter and about 4 inches high. The weight of the food in a can of preserving is unchanged.
+
+## Can of Spinach
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: POLYHEDRON Newszine #23*
+
+This item contains green leaves in a vile broth. The user must eat both leaves and broth to gain the effect; when consumed, the user must make a saving throw vs. poison or be nauseated, suffering a −4 penalty to attack rolls for three hours. If the saving throw is successful, the user gains 18 Strength for three hours, with all bonuses applicable.
+
+## Can of Worms
+
+**XP Value:** 500 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This appears to be a can of moonlight, but when it is opened, 1d4 caecilia (30-foot grayworms; AC 6; HD 6; MV 6; #AT 1 bite; Dmg 1d8; ML 9; AL N; XP 500) jump out and attack everyone in sight.
+
+## Zwann's Irrigation Can
+
+**XP Value:** 2,000 &emsp; **GP Value:** 5,000
+*Source: 1992 Fantasy Collector Card #382*
+
+Zwann wasn't satisfied to rest on the creation of his watering can (see below). He wanted to make it even more efficient, and he eventually created the irrigation can. This can must be buried in the ground and left there, but it conveys permanent immunity to disease, drought, insects, bad weather, and other nonmagical trauma over a half acre of soil. A plot of land blessed with Zwann's irrigation can will even grow crops throughout the winter provided there is an average of four hours of sunlight per day. So long as the can remains in the ground, the land remains fruitful, but the can must be annually unearthed and "seeded" with 500 gold pieces.
+
+## Zwann's Watering Can
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Tome of Magic*
+
+Invented by the noted botanist Salerno Zwann, this otherwise ordinary watering can is activated when the user fills it with two gallons of water and lets it stand undisturbed for 30 days. At the end of that period, the user may sprinkle the water from Zwann's watering can over a patch of tilled soil no larger than a 25-feet square. Seeds subsequently planted in this treated soil grow normally, but are permanently immune to disease, drought (the plants never need to be watered again),
+
+---
+
+<!-- page 239 -->
+
+# Candles
+
+insects, bad weather (such as hailstorms and early frost) and all other forms of nonmagical trauma. The plants can be harvested normally by the planter.
+
+Water from Zwaan's watering can has no effect on already maturing plants. It cannot revive withered, diseased, or insect-infested plants. The patch of soil retains its effectiveness for one year; after that it must be watered again for the effect to be renewed.
+
+---
+
+During preindustrial times, fire was the only source of illumination for people's homes after the sun went down. Torches and oil lamps were commonly used to light large rooms, while candles served as small, portable sources of light for reading or lighting one's way to bed. Candles also figured in many religious services as either part of the altar ornamentation or as an aid to prayer and meditation.
+
+Early candles, also known as rushlights, consisted of animal fats wrapped in rushes, husks, or moss, then set alight. Later candles were made of tallow obtained from animal fats or, in the Orient, from the seeds of the tallow tree. Wicks for the candle were also introduced and were made of cloth strips or woven cord. Tallow candles are very cheap compared to wax candles, and this is reflected in the equipment list in the PHB. These candles burn more quickly and produce a fair bit of smoke, however. Wax candles are used for making magical candles, and there are several sources of wax for making enchanted tapers.
+
+Wizards use white candles made from spermaceti, a waxy material obtained from sperm whales and small and large bottle-nosed whales. Priestly magical candles are made of beeswax taken from either the regular or giant species of bee; the wax produced is dark yellow in color. Druids use candles made from the wax obtained from the bayberry, an evergreen shrub whose berries are covered with a waxy coating. A bushel of berries yields about four to five pounds of a pleasant smelling, green wax.
+
+Only the purest grade of wax is used in making magical candles. That and the cost of the scent that must be added to the wax in its liquid state (acting as a bond between the wax and the special ingredients used to impart magical properties), vastly increase the cost of a wax candle specially ordered by a Spellcaster from a candlemaker.
+
+Candles may be purchased ready made from a candlemaker who will also, for an additional charge, add whatever incense, perfume, oils, or herbs are required to prepare the candle for enchantment. A wizard may hire an alchemist to prepare the candle and add whatever special ingredient is required. Priests and druids may be able to find a member of their order who is skilled in candlemaking to perform the task. To lessen the chance of spell failure when enchanting the candle or investment when the finished candle is placed upon the altar, the Spellcaster should make the candle himself.
+
+There are two methods of candlemaking — molding and dipping. A candle mold is the simplest method. Molds should be made of either pure silver or the bone of a creature of magic such as a dragon. Wicks of woven silk cord are placed in the molds, and the molten wax, with its scents and magical ingredients already mixed in, is poured into the molds and allowed to cool. During the procedure, the Spellcaster chants or prays. After the candles have cooled, the usual process for enchanting an item may begin.
+
+Dipping takes longer, but reduces the chance of spell failure during enchantment, since the Spellcaster can more easily prevent imperfections like cracks or air bubbles from forming in the candle. While chanting or praying, the Spellcaster repeatedly dips the wicks into hot wax heated in a crystal vat, allowing each coating of wax to cool and harden before redipping. Once finished, the candles are ready for enchantment. If the Spellcaster uses candles prepared by a candlemaker, the chance of spell failure increases by +20.
+
+Magical candles usually come in two sizes — small ones about 3 inches long and the thickness of a very small twig, and regular tapers 8 to 12 inches long and ¾ to 1 inch thick. The large taper, as stated in the DMG description of the candle of invocation, burns for four hours and can be extinguished by normal means for later reuse. The smaller candle burns for 10 minutes; its spell effects, like the larger candles, cease once it is extinguished.
+
+Candle powers are effective within a 25-foot-radius of the candle. Unless specifically stated, all beings within the area of influence, except the person who lit the candle and those who enter the area of effect later, are affected by the
+
+---
+
+<!-- page 240 -->
+
+This page appears to be blank or contains only artifacts/decorative elements with no readable text content.
+
+---
+
+<!-- page 241 -->
+
+spell. Normal saving throws apply unless stated otherwise or unless the spell effect is similar to known spells. Except where noted, all candles may be snuffed out by normal means. From 1d6 small candles or 1d2 large candles may be found in a treasure cache; they may be all of a kind (50%) or a mixed assortment chosen by the DM. In a hoard, 80% of the candles will be small. Experience point (XP) values listed are per candle, for both small and large varieties. No experience is gained from using cursed candles.
+
+For every three days spent in making these candles, they will burn for one turn, up to a maximum of 10 turns (for a candle which took 30 days to make). The magic of these candles takes effect when the candle is snuffed out, or burns down to nothing at the end of its duration. These candles must be burned in the presence of their intended victims in order to work.
+
+## Candle, Black
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: DRAGON Magazine #43*
+
+One curse can be placed on a victim for each turn of burning, up to a maximum of six turns of burning and six curses. The curses are:
+
+| Roll | Curse |
+|------|-------|
+| 1 | Weakness (Strength reduced to 3). |
+| 2 | Insanity (Intelligence and Wisdom both reduced to 3). |
+| 3 | Clumsiness (Dexterity reduced to 3). |
+| 4 | Poverty (all precious metals, gems and jewels on the victim's person turn to clay). |
+| 5 | Loneliness (Charisma reduced to 3). |
+| 6 | Exhaustion (Constitution reduced to 3). |
+
+Saving throws can be attempted for each curse, and if successful negate that particular curse only. Casting *remove curse* negates one curse for each casting of that spell. Saving throws may be attempted, where applicable, for the effects of all candles except red candles. Any candle that does not burn continuously for at least one turn has no effect. A candle extinguished midway through a turn is treated as though it had not burned at all during that turn, but the turn is counted against the maximum amount of time a certain candle may be burned. For example, a candle with a maximum life of five turns is extinguished midway through its third turn of burning. Its effects are as though it had only burned for two turns (not two and a fraction), but if it is reignited after that, it has only two turns of burning left before it goes out automatically.
+
+## Candle, Blinking
+
+| | **XP Value** | **GP Value** |
+|---|---|---|
+| Normal Large: | 400 | 2,000 |
+| Normal Small: | 100 | 500 |
+| Rare Large: | 2,000 | 10,000 |
+| Rare Small: | 500 | 2,500 |
+
+*Source: DRAGON Magazine #179*
+
+Upon lighting this candle, the user begins blinking (as the spell) and continues to do so until the candle is extinguished or the user blinks outside of the area of effect. The spell effect is limited to the user only, though in 5% of these candles the blinking effect affects all other creatures within the area of effect except the individual who lit the candle. These candles are made with onion juice, crushed chicory root, and a few drops of blink dog blood.
+
+## Candle, Blue
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: DRAGON Magazine #43*
+
+One turn of *protection from evil/good* (spellcaster's choice) for each turn of burning.
+
+## Candle of Brilliance
+
+| | **XP Value** | **GP Value** |
+|---|---|---|
+| Cursed Large: | — | 250 |
+| Cursed Small: | — | 100 |
+| Normal Large: | 100 | 500 |
+| Normal Small: | 50 | 250 |
+
+*Source: DRAGON Magazine #179*
+
+When lit, this candle sheds light equivalent to a *continual light* spell. There is a 5% chance that the candle is cursed and that all within 25 feet who are looking at the candle must save vs. spell or be blinded (*cure blindness* required). These candles are made with vetiver, phosphorus, and ichor of magnesium spirit.
+
+## Candle of Charming
+
+| | **XP Value** | **GP Value** |
+|---|---|---|
+| Large: | 400 | 2,000 |
+| Small: | 100 | 500 |
+
+*Source: DRAGON Magazine #179*
+
+Lighting this candle begins a *fire charm* spell, similar to the 4th-level spell in area of effect and saving throws. These candles are made of the
+
+---
+
+<!-- page 242 -->
+
+## Candle of Convocation
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: DRAGON Magazine #156*
+
+These large candles can be found in all sorts of garish colors. When one is lit, the lighter and the entire party find themselves instantly teleported to a high school pep rally in an alternate plane of existence, where they remain stranded until the candle burns out or until they lead their section to victory in the cheering competition.
+
+## Candle of Darkness
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Large: | 200 | 4,000 |
+| Small: | 50 | 250 |
+
+*Source: DRAGON Magazine #179*
+
+Instead of light, this magical taper creates darkness in a 15-foot-radius, effectively blinding all within the area and those who enter later. These are made with purple verbena, giant octopus or squid ink, and blood from a dark creeper or dark stalker.
+
+## Candle of Defense
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Large: | 600 | 3,000 |
+| Small: | 150 | 750 |
+
+*Source: DRAGON Magazine #179*
+
+At least two such defense candles are needed to activate the dweomer of this magical item. Lighting these candles activates a *wall of fire* similar to the druid and wizard spells. The wall may be in the form of a curtain up to 60 feet long between the two candles, or in the form of a ring enclosing a space up to 20 feet in diameter when the candles are set on opposite sides of the individual who lit them. The ring will move with the user provided both candles are carried; the circle then automatically shrinks to enclose only the bearer of the candles. The wall reaches 20 feet high and causes 4d6 hp damage to any creature passing through it, 2d6 hp damage each round to creatures within one to 10 feet of the candles, or 1d6 hp damage each round to creatures from 11 to 20 feet away. These candles are made with patchouli or juniper berries, phosphorus and aqua vitae, and three drops of blood from a red dragon or from the dragon head of a gorgimera or chimera.
+
+## Candle of Disruption
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Large: | 500 | 2,500 |
+| Small: | 125 | 625 |
+
+*Source: DRAGON Magazine #179*
+
+This candle is the bane of undead when lit. Skeletons, zombies, ghouls, and shadows suffer 3d4 hp damage per round while in the area of effect (no saving throws); wights and ghasts suffer 2d4 hp damage per round; all higher level undead suffer 1d4 hp damage per round. If a priest or paladin lights the candle, that character's power to turn undead increases by two levels as long as the candle is lit. The candles are made with myrrh, peach blossoms, rosewater, holy water, and a few drops of blood from an especially holy, nonhuman creature.
+
+## Candle of Divination
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Large: | 800 | 4,000 |
+| Small: | 200 | 1,000 |
+
+*Source: DRAGON Magazine #179*
+
+While this candle is alight, the priest (priest or druid) who lit it is able to cast a single detection or divination spell, of any type permitted at the caster's level, without having to pray for it beforehand. Ranger characters with spellcasting abilities may also use this candle. These candles are made with three of the following suggested scents: out-of-season apple blossoms, rosewater, sage, snowdrop, seaweed, tea, ash blossom, hawthorn, mulberry, plum blossom; a few drops of blood from the spellcaster, and a cup of holy water or mistletoe juice from berries gathered in winter.
+
+## Candle of Everburning
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: The Complete Wizard's Handbook*
+
+This resembles a normal wax candle about 6 inches tall. However, once the candle is lit, the flame can be extinguished only by the spoken command of whoever is holding it. Otherwise, the flame continues to burn; it burns underwater, in any alternate plane of existence, and in the strongest of winds. *Dispel magic* and similar spells have no effect on the flame. The candle of everburning can burn for 24 hours before all of its wax melts away.
+
+---
+
+<!-- page 243 -->
+
+## Candle of Evocation
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Land of Fate*
+
+These candles are marked for a particular major, enlightened god (roll as for the Book of the Enlightened Gods). A priest of the pantheon may use the candle designated for any of his or her gods. A priest of the Ten Thousand, however, gains no special ability from using these tapers. (See Sword of the Enlightened for definition of "enlightened.")
+
+## Candle of Exploding
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Large: | — | 200 |
+| Small: | — | 50 |
+
+*Source: DRAGON Magazine #179*
+
+This item may be mistaken for a candle of fireballs or pyrotechnics. Upon lighting, the candle burns normally for one round before going out. At the end of the following round, it explodes in a fireball for 6d6 hp damage (3d6 hp damage for the small candle). Saving throws are applicable except for anyone actually touching the candle when it goes off. These candles are made of may blossoms, phosphorus and aqua vitae, and six grains each of charcoal, sulphur, and saltpeter.
+
+## Candle of Fireballs
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Large: | 500 | 2,900 |
+| Small: | 125 | 625 |
+
+*Source: DRAGON Magazine #179*
+
+This candle burns normally for one round before seeming to go out. During the following round and every round after that, until the candle is either extinguished or burns itself out, a small fireball is emitted that travels up to 50 feet before exploding in a 10-foot-diameter sphere for 1d6 hp damage (if the fireball strikes something before traveling 50 feet, it explodes on impact). The fireball will strike any target it is directed to attack by the person who lit the candle; orders must be given at the start of each melee round, or else the fireballs fly off in random directions. The candles are made with fireweed, phosphorus, and a few drops of blood from either a red dragon or the dragon head of a chimera or gorgimera.
+
+## Candle of Flame
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Large: | 200 | 1,000 |
+| Small: | 50 | 250 |
+
+*Source: DRAGON Magazine #179*
+
+When lit, this candle burns normally for one round. The following round, a sheet of fire similar to the priestal flame strike spell engulfs the candle and a 10-foot circle around it, causing 6d8 hp damage (3d8 hp damage for a small candle) to all within the area (Save vs. spell for half damage). The candle is destroyed in the fire. These candles are made of fireweed, phosphorus, and several drops of blood from a salamander or phoenix.
+
+## Candle of Flame Arrow
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Large: | 400 | 2,000 |
+| Small: | 100 | 500 |
+
+*Source: DRAGON Magazine #179*
+
+The bearer of this candle has only to touch its flame to an arrow to turn the weapon into a flame arrow (as the wizard spell). Two arrows per round can be transformed in this manner. These candles are made with oil of citronella, phosphorus, and three drops of blood from a hell hound, firenewt, fire drake, or fire toad.
+
+## Candle of Flame Blades
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Large: | 400 | 2,000 |
+| Small: | 100 | 500 |
+
+*Source: DRAGON Magazine #179*
+
+This candle burns normally for one round. During the next round, a 3-foot-long tongue of flame erupts from the wick, similar to the spell flame blade. Damage is the same as the spell, and the candle may be used as a hand weapon while lit. These candles are made with oak moss, rowan, or sumac, phosphorus, and the blood of either a hell hound or pyrolisk.
+
+## Candle of Gold
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: DRAGON Magazine #43*
+
+Cures 1d6 points of damage to the object of the magic for each turn of burning.
+
+---
+
+<!-- page 244 -->
+
+## Candle of Invocation
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DUNGEON MASTER Guide*
+
+These specially blessed tapers are dedicated to the pantheon of gods of one of the nine alignments. The typical candle is not remarkable, but if a detection spell is cast, it radiates magic. It also radiates good or evil, if appropriate.
+
+Simply burning the candle generates a favorable aura for the individual so doing—if the candle's alignment matches that of the character's. If burned by a priest of the same alignment, the candle temporarily increases the priest's level of experience by two, enabling additional spells to be cast. He or she can even cast spells normally unavailable, as if of a higher level, but only so long as the candle continues to burn. Any burning allows the casting of a *gate* spell, the respondent being of the alignment of the candle, but the taper is immediately consumed in the process.
+
+Otherwise, each candle burns for four hours. It is possible to extinguish the candle as one would any other. However, it can be placed in a lantern or otherwise sheltered to protect it from drafts and other things that could put it out. This doesn't affect its magical properties.
+
+**In Kara-Tur:** Candles of invocation are dedicated to one of the three main ethical systems: good, evil, neutrality.
+
+## Candle of Methven
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: DRAGON Magazine #39*
+
+This mystical candle, usable only by wizards of at least 5th level, glows with a green flame. When studying by the light of this candle, a wizard is enabled to memorize three additional 1st-level spells, two additional 2nd-level spells, or one additional 3rd-level spell. The candle lasts for 1d6+18 "study periods," counting one period as the time necessary to memorize one 1st-level spell, two periods for a 2nd-level spell, and three for a 3rd-level spell.
+
+## Noora's Candle of Propitiousness
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+*Source: 1993 Collector Card #411*
+
+Noora's candle of propitiousness functions normally, providing attack roll bonuses to allies and penalties to a specific foe if the combat takes place within 50 feet of the lit candle. However, unlike most of these magical candles, Noora's candle can be reused as often as she wishes, until it has been burned a total of 60 rounds. At that point, the candle is completely consumed.
+
+## Candle of Powerlessness
+
+**XP Value:** — &emsp; **GP Value:** 250
+*Source: The Book of Marvelous Magic*
+
+When lit, this candle sheds light within a 40-foot radius. Any priest within the light loses all power to turn undead; the power returns if the priest leaves the light or if the candle is extinguished. The candle lasts for a total of 24 hours. Each use deducts a minimum of one hour's burning.
+
+## Candle of Propitiousness
+
+**XP Value:** 750 &emsp; **GP Value:** 3,750
+*Source: Tome of Magic*
+
+This candle enhances attacks against a particular enemy within a defined area. The user lights the candle while speaking the exact name of a single foe. If the exact name is not known, the user must precisely identify the foe; saying, "the evil warrior" isn't precise enough, but stating, "the evil warrior who rules the village of Fair Meadows and carries a golden shield" is sufficient.
+
+All characters who remain within a 50-foot radius of the lighted candle receive a +2 bonus to all attack rolls made against the stated foe, regardless of whether or not the foe is within 50 feet of the candle. Characters who venture outside the area of effect lose the bonus. When the stated foe is within the area of effect, he or she suffers a −1 penalty to all attack rolls.
+
+There can be no interposing surfaces such as walls or doors between the candle of propitiousness and characters it affects. The stated foe is not allowed a saving throw to resist the effects of the candle.
+
+The candle of propitiousness burns for up to one hour. If it is moved after it is lit, its magic is immediately and permanently negated. Likewise, if its flame is extinguished, its magic immediately ends. Any magical or natural force capable of extinguishing a normal flame, such as a gust of wind or a splash of water, can extinguish a candle of propitiousness. A candle of propitiousness can be lit and used only once.
+
+## Candle of Protection
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: The Book of Marvelous Magic*
+
+When lit, this item sheds light within a 40-foot radius. All undead creatures approaching one
+
+---
+
+<!-- page 245 -->
+
+## Candle of Protection II
+
+**XP Value:** Large: 700 &emsp; **GP Value:** Large: 3,500
+**XP Value:** Small: 175 &emsp; **GP Value:** Small: 875
+
+*Source: DRAGON Magazine 179*
+
+Once lit, this candle surrounds its user with an aura of protection from evil/good (50% chance of either) for a 10-foot radius, similar to the priest or wizard spell. The recipe for these candles depends upon the protection desired. For protection from evil, use three of the following scents—garlic, holly sap, peach blossoms, primrose blossoms, rue, juniper, and blood from especially holy creatures such as couatl, opinicuses, or paladins. For protection from good, use three of each—nightshade, gorse broom, may blossom, or out-of-season rose petals, and blood from an especially evil creature such as a hag or a fiend.
+
+*(Note: The preceding text regarding undead saving throws and the 24-hour duration refers to the Candle of Protection I entry continuing from the previous page.)*
+
+## Candle, Purple
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: DRAGON Magazine 43*
+
+This acts as a truth drug allowing one question to be asked of a victim for each turn of burning — and all such questions are always answered truthfully.
+
+## Candle of Pyrotechnics
+
+| Size  | XP Value | GP Value |
+|-------|----------|----------|
+| Large | 200      | 1,000    |
+| Small | 50       | 250      |
+
+*Source: DRAGON Magazine 179*
+
+This candle burns normally for one round after being lit, then apparently goes out. During the second round, aerial fireworks shoot out of the candle's tip like the spell *pyrotechnics*, with the same blinding effect on creatures within a 10-foot area of effect. The candle does not perform the second function of the *pyrotechnics* spell (obscuring smoke). These candles are made with mimosa, phosphorus, and the ichor from a will o' wisp or a boggart.
+
+## Candle, Red
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: DRAGON Magazine 43*
+
+The victim is affected as by a love potion, duration one day for each turn of burning. There is no saving throw, and no chance of the love potion effects wearing off before the full duration.
+
+## Candle of Reflection
+
+| Size  | XP Value | GP Value |
+|-------|----------|----------|
+| Large | 300      | 1,500    |
+| Small | 75       | 375      |
+
+*Source: DRAGON Magazine 179*
+
+Once lit, the smoke from this candle coalesces into an image identical to the individual who lit the taper. The image is capable of independent movement within a 25-foot radius of the candle, as ordered by the mental command of the candle lighter, but cannot go past these bounds. Weapons, clothing, and other items are copied exactly; the image cannot do damage, nor can it cast spells, though it may appear to do so. Each time a person or creature encounters the image, he or she must save vs. spell or mistake the image for the person. The error is quickly realized when the image is attacked, since any attack on the image destroys it. The person who lit the candle may step beyond the area of effect without destroying the image, but must stay within sight of the image in order to control it. The controller cannot take any action other than movement at half speed; doing otherwise destroys the image. Extinguishing the candle cancels the illusion. These candles are made with attar of roses and bay leaf, blood from a giant chameleon and hangman tree sap, plus several drops of quicksilver.
+
+## Candle of Sanctuary
+
+| Size  | XP Value | GP Value |
+|-------|----------|----------|
+| Large | 700      | 3,500    |
+| Small | 175      | 875      |
+
+*Source: DRAGON Magazine 179*
+
+When lit, this magical taper casts an automatic *sanctuary* spell about the priest that lasts as long as the candle burns. The candle may be carried. These candles are made with peach blossoms, tuberose, oil of bitter orange, holy water, garlic, and giant skunk musk.
+
+---
+
+<!-- page 246 -->
+
+## Candle of Shielding
+
+| | XP Value | GP Value |
+|---|---|---|
+| Improved Large: | 1,500 | 7,500 |
+| Improved Small: | 300 | 1,500 |
+| Normal Large: | 1,000 | 5,000 |
+| Normal Small: | 200 | 1,000 |
+
+*Source: DRAGON Magazine #179*
+
+When lit, this candle surrounds the character with both a *shield* spell and a *minor globe of invulnerability* spell, like the wizard spells. Note that 5% of these tapers provide the user with a *globe of invulnerability*, like the wizard spell. These candles are made with chicory root and rosemary, rue or sow thistle, fluids from the central eye of a beholder, and blood from a bulette.
+
+## Candle of Smoke Detection
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+
+*Source: DRAGON Magazine #73*
+
+This object, made of an unknown substance, is formed in the shape of an ebony candle with a flame atop it, the whole being about 4 inches high. Whenever an excessive amount of smoke is present (even from just cooking), it emits a wailing, ululating beep. (Naturally, this cannot be used in rooms heated by poorly made fires!)
+
+## Candle of Spells
+
+| | XP Value | GP Value |
+|---|---|---|
+| Large: | 800 | 4,000 |
+| Small: | 200 | 1,000 |
+
+*Source: DRAGON Magazine #179*
+
+This taper is similar to the candle of divination, in that the spellcaster who lit it can automatically recall and cast any spell that the caster knows. For example, a 7th-level wizard who knows *fireball* is able to recall and cast the spell twice, as permitted by the wizard's level of experience, without having memorized the spell beforehand. These candles are made with rosemary and sage, and blood from a highly intelligent, nonhuman, spell-using creature.
+
+## Candle of Survival
+
+| | XP Value | GP Value |
+|---|---|---|
+| Improved Large: | 300 | 1,500 |
+| Improved Small: | 75 | 375 |
+| Normal Large: | 200 | 1,000 |
+| Normal Small: | 50 | 250 |
+
+*Source: DRAGON Magazine #179*
+
+Also known as the ranger's candle, this taper provides heat and light equivalent to a normal fire when lit. A small survival candle burns for 10 hours instead of 10 minutes, while a large candle burns for 240 hours rather than four. Note that 10% of these candles also radiate a 25-foot-diameter aura of repulsion against normal animals common to woodlands (bobcats, mice, birds, deer, and snakes). These candles are made with patchouli, holly sap, four-leaf clover blossom, orange blossom, phosphorus, and blood from a firesnake.
+
+## Candle of Transference
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: The Book of Marvelous Magic*
+
+When used, this item causes its victim to make saving throws vs. spell with a −4 penalty to the roll. If the throw fails, the victim's life force is transferred to the flame, and the candle takes the shape of the victim as the body disappears. A *remove curse* cast upon the lit candle by a 26th- or higher-level caster restores the victim completely, and the candle disappears — a *wish* may also be used. If a *speak with monsters* spell is used, the flame speaks with the voice and life force of the victim. The flame does not burn the candle and it cannot be extinguished, not even by magical wind; only water or some magical method can put it out. If put out, however, the victim dies. A *polymorph object* spell can thereafter restore the body, but only if applied while the candle is lit; otherwise the victim dies.
+
+## Candle of Unfailing Light
+
+| | XP Value | GP Value |
+|---|---|---|
+| Large: | 100 | 500 |
+| Small: | 25 | 125 |
+
+*Source: DRAGON Magazine #179*
+
+This taper provides a normal candle flame when lit and burns steadily, until it either burns itself out or is extinguished by the person who lit it. It cannot be extinguished by any other means, even by tossing it, dropping it, submerging it under water, or placing it in a vacuum. These candles are made with primrose, phosphorus, and either blood from a blindheim or abdominal fluids from a firefiend.
+
+## Candle of Vapors
+
+| | XP Value | GP Value |
+|---|---|---|
+| Large: | 300 | 1,500 |
+| Small: | 75 | 375 |
+
+*Source: DRAGON Magazine #179*
+
+This candle burns normally for one round, then goes out. During the following round, it produces clouds of smoke or vapor that rapidly expand to
+
+---
+
+<!-- page 247 -->
+
+## Candle of Visibility (continued)
+
+blanket a 50-foot-diameter area. Except where stated, all characters and creatures within the area of effect are affected, including those who enter the cloud later. A successful save vs. poison produces no effect; failure to save causes the noted effect to occur. The cloud dissipates one turn after the candle is extinguished; it must be doused with water to cease producing vapors. There are five varieties:
+
+| Roll  | Candle Type |
+|-------|-------------|
+| 01–02 | **Insanity gas:** Victims act as though they were under the permanent effects of confusion, as the priest spell. A *heal*, *restoration*, *limited wish*, *alter reality*, or *wish* spell is required to cure this condition. |
+| 03–04 | **Poison:** Creates a cloud of poison gas against which all characters must save or die (taking 20 hp damage if the save is made). |
+| 05–06 | **Sleep:** Affects all characters and creatures of all levels within its 25-foot radius, except the individual who lit the candle. Sleep lasts while the victims remain near the fumes, plus 1d10 rounds after their removal. |
+| 07–08 | **Smoke:** A dense cloud of smoke forms, totally obscuring vision beyond 2 feet. If the candle is lit within an enclosed space smaller than half the size of the cloud's 50-foot-diameter, spherical area of effect, all characters including the one who lit the candle, must save vs. poison or suffocate in 2d4+1 rounds. |
+| 09–10 | **Sweet smell:** Burns off all evil vapors within its area of effect (including all poisonous, superheated, corrosive, or otherwise harmful gases), leaving the air pure and sweet smelling. |
+
+These candles are made of sandalwood and either jimpson weed (insanity), poppy (sleep), puffball spores (smoke), belladonna (poison), ichor from a gibbering mouther (insanity), sprite sleep ointment (sleep), pure charcoal powder (smoke), or giant serpent poison (poison). The beneficial sweet smell candle requires a mixture of mistletoe, rosemary, sow thistle, and white heather.
+
+---
+
+## Candle of Visibility
+
+**XP Value:** Large: 400 &emsp; **GP Value:** Large: 2,000
+**XP Value:** Small: 100 &emsp; **GP Value:** Small: 500
+
+*Source: DRAGON Magazine #179*
+
+Once lit, all creatures or objects within the candle's area of effect that are invisible through magical means alone become automatically visible (psionic invisibility, though, is not revealed). Invisibility does not resume if affected creatures step beyond the area of effect of the candle, unless this is normal for the creature. Creatures rendered difficult to see through natural or artificial camouflage are not affected, and objects that are concealed are not revealed. These candles are made from orrisroot and either chicory root or brakenseed (fern spores), and blood from a non-human creature with divinatory powers.
+
+---
+
+## Candle, Yellow
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: DRAGON Magazine #43*
+
+One turn of telepathy (the user is able to read the victim's mind) for each turn of burning.
+
+---
+
+## Candle Snuffer
+
+A candle snuffer is a metal rod with a cup on one end that is used to put out candles or other very small flames. Snuffers are often made of brass, and may be from 2 inches to 3 feet in length. Magical snuffers usually function when touched to either the flame or body of a lit candle.
+
+---
+
+## Candle Snuffer of Death
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: The Book of Marvelous Magic*
+
+When this snuffer puts out a candle's flame, each living creature within 60 feet must make a saving throw vs. death magic or die on the spot, "snuffed out." It functions only once per day.
+
+---
+
+## Candle Snuffer of Dousing
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+
+*Source: The Book of Marvelous Magic*
+
+This snuffer puts out a candle's flame and, on command, can also put out any nonmagical fire affecting a 10- by 10-foot area if the fire is of large dimensions. It can function three times per day.
+
+---
+
+<!-- page 248 -->
+
+## Candle Snuffer of Exploding
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: The Book of Marvelous Magic*
+
+This snuffer appears to be a snuffer of dousing and merely puts out a candle flame. However, if used to put out a larger fire, the snuffer explodes as a fireball, inflicting 10d6 points of damage to all within the area. Each victim may make a saving throw vs. spell to take ½ damage, and fire resistance applies. The explosion destroys the snuffer.
+
+## Candle Snuffer of Remote
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: DRAGON Magazine #73*
+
+This is a 6-inch-long stick in the shape of a miniature candle snuffer — a stick with a hook at the top, ending in a bell without a clapper. When pointed at a candle while the word of command is spoken, the candle is snuffed out, regardless of the range, as long as the candle is visible. It does not work on lanterns, torches, or lamps — only candles.
+
+## Candle Snuffer of Serving
+
+**XP Value:** 900 &emsp; **GP Value:** 4,500
+*Source: The Book of Marvelous Magic*
+
+When used, this snuffer turns the candle flame into a tiny, summoned fire elemental (AC 0; HD 1; MV 12; #AT 1; Dmg 1d6; ML 12; AL N), just 3 inches tall. The creature cannot speak and has little intelligence, but it understands and willingly obeys the summoner for up to one hour, and it need not be controlled. Its touch causes nonmagical, combustible items to catch fire.
+
+## Cane
+
+A cane is a wooden or metal stick normally used for assistance in walking. Magical canes may be found anywhere, but are most often near humans and demihumans. They may be straight or curved, plain or decorated. Some canes have 1d20 charges when found, but they cannot be recharged.
+
+## Cane of Age
+
+**XP Value:** — &emsp; **GP Value:** 1,200
+*Source: The Book of Marvelous Magic*
+
+When this cane is touched, the creature touching it must make a saving throw vs. death magic with a -4 penalty to the roll or else age 20 years. This effect occurs each time the cane is touched. If the victim succeeds in the saving throw, however, the cane may be held and used as a weapon; any victim struck must make a saving throw vs. death magic or age 10 years. Each 10 years of aging uses one charge.
+
+## Cane of Armament
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+This cane appears to be perfectly ordinary, but turns into a two-handed sword +1 on command. A second command causes it to resume cane form.
+
+## Cane of Blindness
+
+**XP Value:** — &emsp; **GP Value:** 1,200
+*Source: The Book of Marvelous Magic*
+
+When this item is touched, the creature touching it must make a saving throw vs. spell with a +4 penalty to the roll or be blinded. This effect occurs each time the cane is touched. If the saving throw succeeds, the cane may be used as a weapon. Each opponent struck must make a saving throw vs. spell or be blinded. One charge is drained for each victim blinded.
+
+## Cane of Detection
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: The Book of Marvelous Magic*
+
+When this cane is tapped along walls, secret doors, pit traps, and sliding walls may be discovered as though the user were a dwarf. Using 1d6, a result of 1 or 2 indicates success. Each successful detection uses one charge.
+
+---
+
