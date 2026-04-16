@@ -878,3 +878,653 @@ This table contains all of the minor powers that infuse many artifacts. All of t
 
 ---
 
+<!-- page 18 -->
+
+## Table 1-17: Movement
+
+These powers enhance a character's ability to maneuver and travel quickly. Since most artifacts cannot carry the user, their powers activate when the artifact is in hand. The artifact can:
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast *air walk* (2/day) |
+| 2 | Cast *blink* (3/day) |
+| 3 | Cast *dimensional folding* (1/day) |
+| 4 | Imbue the user with double the normal overland movement rate as long as the artifact is in hand |
+| 5 | Cast *flame walk* (3/day) |
+| 6 | Cast *fly* (2/day) |
+| 7 | Cast *free action* (1/day) |
+| 8 | Cast *haste* (1/day) |
+| 9 | Cast *jump* (5/day) |
+| 10 | Cast *pass without trace* (3/day) |
+| 11 | Cast *pass-wall* (1/day) |
+| 12 | Cast *rainbow bridge* (1/day) |
+| 13 | Cast *shadow walk* (1/day) |
+| 14 | Cast *spider climb* (3/day) |
+| 15 | Cast *teleport without error* (1/day) |
+| 16 | Cast *transport via plants* (3/day) |
+| 17 | Cast *water walk* (5/day) |
+| 18 | Cast *wind walk* (1/day) |
+| 19 | Cast *word of recall* (1/day) |
+| 20 | Cast *wraithform* (1/day) |
+
+## Table 1-18: Offensive Powers
+
+These are the powers that are coveted by players. Unlike those associated with Table 1-02: Combat, those listed here are not limited to weapons or hand-to-hand combat. These powers must be triggered from the artifact and most function as the spell of the same name.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast *age creature* (1/day) |
+| 2 | Cast *Bigby's crushing hand* (1/day) |
+| 3 | Fire a black beam of death that causes 2d8 points of damage to any creature successfully hit. The beam's range is 100 yards (5/day). |
+| 4 | Cast *cause critical wounds* (1/day) |
+| 5 | Cast *chain lightning* (1/day) |
+| 6 | Cast *claws of the umber hulk* (1/day) |
+| 7 | Inflict an equal amount of damage upon any creature that inflicts nonspell damage upon the user |
+| 8 | Cast *disintegrate* (1/week) |
+| 9 | Cast *finger of death* (1/week) |
+| 10 | Cast *fireball* (1/day) |
+| 11 | Cast *flame strike* (1/day) |
+| 12 | Cast *lightning bolt* (1/day) |
+| 13 | Cast *mindshatter* (1/day) |
+| 14 | Cast *power word, blind* (1/day) |
+| 15 | Cast *power word, stun* (1/day) |
+| 16 | Cast *power word, kill* (1/week) |
+| 17 | Cast *shape change* (1/week) |
+| 18 | Cast *suffocate* (1/week) |
+| 19 | Cast *vanish* (1/week) |
+| 20 | Cast *weird* (1/week) |
+
+## Table 1-19: Nature
+
+The powers of this table are related to plants, animals, and weather. Most function as spells. Other powers are explained below.
+
+| Roll | Power |
+|------|-------|
+| 1 | Have *animal friendship* constantly in effect as long as the artifact is in hand |
+| 2 | Cast *animal growth* (3/day) |
+| 3 | Transfer one of a creature's powers to the user by touch. This can include AC, movement, senses, or any noncombat special ability. The transfer lasts 1 hour and then fades (3/day). |
+| 4 | Imbue the user with the ability to see through the eyes of any normal animal. The creature must be within sight and within 60' of the artifact at the time of activation. The power lasts 1d3 turns (3/day). |
+| 5 | Cast *animal summoning III* (2/day) |
+| 6 | Cast *call lightning* (1/day) |
+| 7 | Protect the user as a *cloak of elvenkind* |
+| 8 | Cast *charm plants* (3/day) |
+| 9 | Cast *entangle* (3/day) |
+| 10 | Heighten one of the user's senses — keen hearing, infravision, superior smell, and the like, granting a +1 bonus to all surprise rolls |
+| 11 | Cast *hold animal* (3/day) |
+| 12 | Have *pass without trace* continually in effect as long as the artifact is in hand |
+| 13 | Cast *plant growth* (3/day) |
+| 14 | Empower the user with the ability to speak with plants at will |
+| 15 | Grant the user the ability to speak with animals at will |
+| 16 | Cast *transport via plants* (1/day) |
+| 17 | Cast *wall of thorns* (1/day) |
+
+---
+
+<!-- page 19 -->
+
+### Table 1-20: Necromantic
+
+These deadly powers are among the most hideous to be found in any artifact. All affect the life force of creatures. Unless otherwise noted, the artifact must touch the target for the power to be effective.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast Abi-Dalzim's horrid wilting (1/day) |
+| 2 | Cast animate dead (3/day) |
+| 3 | Cast Bloodstone's frightful joining (2/day) |
+| 4 | Cast Bloodstone's spectral steed (1/day) |
+| 5 | Cast breath of death (1/day) |
+| 6 | Cast cause blindness (1/day) |
+| 7 | Cast chill touch (3/day) |
+| 8 | Cast contagion (2/day) |
+| 9 | Cast control undead (2/day) |
+| 10 | Cast death spell (1/week) |
+| 11 | Cast energy drain (1/week) |
+| 12 | Cast feign death (3/day) |
+| 13 | Create a window to the border of the Negative Material Plane that remains open for 1 hour. Creatures can pass through freely from both sides. |
+| 14 | Cast slay living (1/week) |
+| 15 | Imbue the user with the ability to use speak with dead at will, as long as the artifact is in hand |
+| 16 | Cast summon shadow (1/week) |
+| 17 | Transform the user into an undead creature. The user retains all original hit points and abilities and gains the immunities of an undead creature. In addition, the user is not affected by gasses or poisons that would harm a living being. The condition lasts 1d6 turns (1/day). |
+| 18 | Cast vampiric touch (3/day) |
+| 19 | Cast wall of the banshee (1/week) |
+| 20 | Cast wither (1/week) |
+
+### Table 1-21: Personal Enhancements
+
+Aside from artifacts of massive power, the powers many player characters dream about are personal enhancements — undeserved rewards for simply finding an artifact. Unlike many other powers, those given here can be used virtually without restriction. Unless otherwise stated, these powers last as long as the character owns the artifact. A few are noted as permanent, remaining with the character even after the artifact is gone. Permanent powers take effect as soon as the artifact is touched, but may only be used for a single adventure (or until the owner is dead).
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast alter self at will for as long as the artifact is owned |
+| 2 | Cast clairaudience at will for as long as the artifact is owned |
+| 3 | Cast clairvoyance at will for as long as the artifact is owned |
+| 4 | Have animal friendship constantly in effect for as long as the artifact is owned |
+| 5 | Provide the user with the effects of deep pockets, regardless of what is worn, for as long as the artifact is owned |
+| 6 | Imbue the user with invisibility to undead for as long as the artifact is owned |
+| 7 | Shield the user continually with protection from evil/protection from good (as appropriate to the artifact) for as long as the artifact is owned |
+| 8 | Regenerate two of the user's hit points per turn for as long as the artifact is owned |
+| 9 | Cast feign death at will for as long as the artifact is owned |
+| 10 | Cast friends at will for as long as the artifact is owned |
+| 11 | Cast lasting breath at will for as long as the artifact is owned |
+| 12 | Provide the user with a permanent +1 bonus to saving throws |
+| 13 | Permanently increase the user's prime requisite score (or scores) by 1 |
+| 14 | Give the user the permanent ability to use comprehend languages at will |
+| 15 | Endow the user with the permanent ability to use negative plane protection at will |
+| 16 | Grant the user the permanent ability to speak with monsters at will |
+| 17 | Impart permanent ability to speak with animals at will |
+| 18 | Provide the user with the permanent ability to speak with plants at will |
+
+---
+
+<!-- page 20 -->
+
+19 Furnish the permanent ability of water breathing at will
+
+20 Bestow upon the user the ability to use ventriloquism at will permanently
+
+### Table 1-22: Planar
+
+The powers of this table transcend the limitations of single realms of existence, allowing the character access to other dimensions. These powers only function when the artifact is present and most require that they be activated by a specific command.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast astral spell (1/week) |
+| 2 | Cast astral window (1/week) |
+| 3 | Cast binding (1/week) |
+| 4 | Cast contact higher plane about any topic other than the artifact or its powers (1/week) |
+| 5 | Cast dimension door (1/day) |
+| 6 | Energy drain one level/Hit Die from an opponent on a successful touch (1/day) |
+| 7 | Cast estate transference (1/month) |
+| 8 | Open a gate to a particular island of protomatter in the Ethereal Plane 100' x 100' across. This can be used by the character as a residence, storage place, or even prison (2/day). |
+| 9 | Create a 10' x 10' ethereal window, allowing viewing of whatever lies beyond. The window is one-way, so those viewed do not know it is there. Stepping through the window strands the person in the Ethereal Plane (1/day). |
+| 10 | Cast exaction (1/week) |
+| 11 | Cast extradimensional manipulation (1/week) |
+| 12 | Cast gate (1/week) |
+| 13 | Cast Mordenkainen's magnificent mansion (2/week) |
+| 14 | Imbue the user with the ability to phase like a phase spider (2/day) |
+| 15 | Grant the user immunity to the hostile environment of one plane, DM's choice. This lasts as long as the user owns the artifact. |
+| 16 | Open a window to any outer plane. Nothing can pass through the window, but events can be seen and heard in both directions (1/week). |
+| 17 | Cast plane shift (1/week) |
+| 18 | Cast speak with astral traveler (1/day) |
+| 19 | Summon one nondeity from the outer planes. The name or type of creature must be known. Obedience is not guaranteed (1/month). |
+| 20 | Cast wish (1/month) |
+
+### Table 1-23: Protection
+
+This table contains powers that enhance the safety of the artifact's owner and, in some cases, any companions present. Unlike Table 1-14: Immunity, not all of these powers are constant nor are they 100% effective. Some function all the time, some require the artifact to be in hand, and others must be invoked by the user.
+
+| Roll | Power |
+|------|-------|
+| 1 | Grant an Armor Class bonus of +2 to the user when held |
+| 2 | Function as a ring of protection +2 when held |
+| 3 | Cast anti-magic shell (1/day) |
+| 4 | Cast anti-plant shell (2/day) |
+| 5 | Cast armor upon any creature the artifact touches (5/day) |
+| 6 | Protect the user constantly with the effects of a feather fall spell |
+| 7 | Cast fire shield (1/day) |
+| 8 | Generate a sphere of forbiddance, 15' in radius, centered on the artifact. The forbiddance is not permanent (as is the spell), but has a duration of 2d6 hours. It can be password locked, however (1/week). |
+| 9 | Hold mind blank in effect as long as the artifact is in hand |
+| 10 | Keep Negative Plane Protection continually in effect as long as the artifact is in hand, with no saving throw necessary |
+| 11 | Maintain nondetection constant effect as long as the artifact is in hand |
+| 12 | Hold protection from normal missiles continual effect as long as the artifact is in hand |
+| 13 | Keep protection from lightning constantly in effect as long as the artifact is in hand |
+| 14 | Maintain protection from fire continually in effect as long as the artifact is in hand |
+| 15 | Hold protection from paralysis in constant effect as long as the artifact is in hand |
+
+---
+
+<!-- page 21 -->
+
+| Roll | Result |
+|------|--------|
+| 16 | Keep shield in effect when the artifact is boldly presented (5/day) |
+| 17 | Cast thief's lament on any nonliving item of chest size or smaller by touch. The effect is permanent (1/week) |
+| 18 | Cast unceasing vigilance of the holy sentinel (1/week) |
+| 19 | Cast undead ward upon a 100' by 100' cube. The undead are turned as if by an 18th level priest (1/week) |
+| 20 | Cast zone of truth (1/week) |
+
+### Table 1-24: Divination Results
+
+*Source: Oriental Adventures*
+
+| Roll | Result |
+|------|--------|
+| 1–2 | Ill omen. The characters should not undertake any task this day. If this advice is ignored, all characters suffer a –1 on attack rolls and saving throws for the rest of the day. Their chance for encounters are doubled and a –10% reaction modifier is applied to all encounters. |
+| 3–4 | Great danger exists. The chance for encounters doubles for the day and a –10 reaction modifier applies to all encounters. Adversaries have a +1 applied to their attack rolls for that day. |
+| 5–7 | Neutral omen, no special modifiers apply. |
+| 8–9 | Favorable omen. The characters will be able to travel half again their normal traveling rate that day. Opponents will have a –1 on their attack rolls for that day. |
+| 10 | Auspicious omen. All the effects of a favorable omen apply. In addition, the characters gain a +1 on all saving throws made that day. |
+
+---
+
+<!-- page 22 -->
+
+Enchanted enhancements are magical quirks or additional enchantments that can be added to any item. These can make an item more or less valuable depending upon the enchantment. Each of the random tables supplied in the last volume of this Encyclopedia has a single entry titled "Enchanted Enhancement." If that is the result of the die roll, refer to the table below to determine the exact type of enhancement.
+
+| Roll  | Enhancement Type        |
+|-------|-------------------------|
+| 01–10 | Anything Item           |
+| 11–20 | Aquatic*                |
+| 21–30 | Cloaked Wizardry*       |
+| 31–40 | Lightweight Equipment*  |
+| 41–50 | Miniature Gear*         |
+| 51–60 | Polymorphed Gear*       |
+| 61–70 | Psionic Dampener*       |
+| 71–80 | Quirk*                  |
+| 81–90 | Racial Enhancements*    |
+| 91–00 | Weightless Item*        |
+
+## Anything Item
+
+**XP Value:** 4,000 &emsp; **GP Value:** 40,000
+*Source: Unearthed Arcana*
+
+A magical item of this sort appears to be any one of the small, rather weak miscellaneous magic items that are more frequently found — typically one with a limited number of usages, although this is not always true. If the possessor commands it to do so, the item suddenly alters itself to become any other miscellaneous magic item except an artifact or relic. This enables the owner to command the item to become some form of horn of Valhalla, for instance.
+
+Limitations: No form can ever be repeated. If the item commanded into being is normally destroyed in usage, the anything item is also destroyed. If the item duplicated has a short-term, single-use effect (such as a horn or drums), then the anything item returns to its original form after one use of that power. If the item has a long-term effect (such as a helm of underwater action), the dweomer of the anything item lasts for one day (24 hours). In any case, the item disappears after three uses.
+
+## Aquatic*
+
+| | **XP Value** | **GP Value** |
+|---|---|---|
+| With free action: | −25% | −25% |
+| Without free action: | −50% | −50% |
+
+*Source: DRAGON Magazine #181*
+
+Ideal gear for the fledgling underwater adventurer, these are weapons and suits of armor that have their bonuses only underwater. After all, since the PCs are out of their element underwater, they may need advantages they would not need on dry land. Aquatic weapons and armor cost half as much as their normal counterparts. Note that free action is not included in their powers, so an aquatic long sword +1 is still difficult to swing undersea.
+
+**Free Action:** The DM may provide these weapons and armor with free action ability (only while underwater, of course), for an XP value equal to that of a normal, magical weapon or suit of armor. Note that with free action, an aquatic long sword +1 is not difficult to swing undersea.
+
+## Cloaked Wizardry*
+
+**XP Value:** +800 &emsp; **GP Value:** +4,000
+*Source: DRAGON Magazine #179*
+
+The item is magical but does not radiate a dweomer upon the casting of a detect magic spell (though other divination spells do reveal its true nature). Some items, such as wings of flying or a flask ringed with magical writings, are obviously magical despite their "cloaks."
+
+## Drow Treasure*
+
+**XP Value:** +650 &emsp; **GP Value:** +3,250
+*Source: Fiend Folio Tome*
+
+Cloaks, armor, weapons, and other miscellaneous magical drow treasure have special properties, although they do not radiate magic. The items are made in the strange homeland of the drow, the vast underground cities of carved stone and minerals, places of weird, fantastic beauty inundated with unknown radiations that impart the special properties to drow goods. When these are exposed to direct sunlight, irreversible decay begins and the items become totally useless in 2d6 days. If protected from sunlight, they retain their special properties for 1d20+30 days before becoming normal nonmagical items. If exposed to the radiations of the drow homeland for a period of one week out of every four, the items can remain potent indefinitely. Drow poisons, on the other hand, decay instantly in sunlight and are rendered
+
+---
+
+<!-- page 23 -->
+
+completely ineffective 60 days after exposure to air, although unopened packets of drow poison remain potent for one year.
+
+## Lightweight Equipment
+
+**XP Value:** +10 &emsp; **GP Value:** +100
+*Source: DRAGON Magazine 181*
+
+For thieves, mountain climbers, fast scouts, and others in a hurry, these items are extremely useful. Weight and encumbrance may be reduced by half (rounding down) when these weapons and armor are used instead of ordinary ones. No additional advantages are given in combat, though they do count as magical for attack purposes against certain monsters.
+
+## Miniature Gear
+
+**XP Value:** +50 &emsp; **GP Value:** +500
+*Source: DRAGON Magazine 181*
+
+Miniaturized items are shrunken, mundane items, the size of a bit of jewelry or any one of the patches on a robe of useful items. When the appropriate command word is spoken, they grow into full-sized, nonmagical weapons, armor, or tools. This gives PCs the ability to smuggle weapons and armor into restricted areas, which can be particularly useful in urban adventures.
+
+The items are no heavier than one-tenth of a pound when small (the dweomer affects weight as well as size), increasing in weight when they expand. Miniaturized armor grown large must still be donned normally. This is also useful when the PCs climb vertical surfaces or when encumbrance is an issue. An ogre might chase a small knot of unarmed "peasants" and temporarily lose sight of them, only to discover upon catching up that the enemy is now a ring of heavily armed and armored heroes. The potential for PC and NPC ambushes is obvious.
+
+## Polymorphed Gear
+
+**XP Value:** +100 &emsp; **GP Value:** +1,000
+*Source: DRAGON Magazine 181*
+
+Polymorphed items usually come in three basic types: a brooch that turns into a suit of armor, a ring that turns into a shield, and a gem or wand that turns into a weapon, giving the same advantages of lightness and surprise capability as miniature weapons and armor do. With an armor brooch or shield ring, the armor or shield is already being worn properly once the command word is spoken, whereas polymorphed devices produce only one weapon or armor type.
+
+## Psionic Dampener
+
+**XP Value:** &emsp; **GP Value:**
+
+| Type | XP Value | GP Value |
+|---|---|---|
+| Normal | +200 | +1,000 |
+| Self-Dampening | — | +600 |
+
+*Source: New Item*
+
+This item can be used on any world where psionics are present. The frequency of the item is, of course, determined by the frequency of the psionic ability.
+
+Designed by wizards frustrated by their inability to defend themselves and their laboratories against those wielding the psionic arts, the psionic dampener has many applications and guises. Most common are helmets that limit sight, though some designs are collars and manacles that serve the same function.
+
+Psionic dampeners, if placed on a psionic individual, immediately inflict a penalty of -8 to any power score the psionicist has to make. Additionally, if the psionicist attempts to use psionic abilities more than once over the course of a 12-hour period, the dampeners inflict a nasty shock worth 1d6 points of damage to the psionicist.
+
+Psionic dampeners are permanently charged items, and require no more maintenance than an ordinary item. They can be removed as any ordinary items of the same variety; thus, a helmet can simply be removed, or manacles unlocked. If the one imprisoning the psionicist takes any precautions against this, the psionicist can be rendered fairly helpless.
+
+There are also rumors of psionic dampeners that inhibit the use of psionics against a person wearing a dampener. Unfortunately, the truth of the rumor cannot be confirmed or denied, as no one has found one. Rest assured, however, that if someone has thought of it, someone else has invented it.
+
+## Quirk
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: DRAGON Magazine 163*
+
+The AD&D game has one of the largest compilations of magical items in the fantasy gaming industry. The following tables have been created to add some spice and variety to existing magical items in the AD&D game world. A table of nonstandard magical item abilities is offered
+
+---
+
+<!-- page 24 -->
+
+for each major type of magical item in the AD&D game. The rationale for such quirks is simple.
+
+Most items are created normally; they function exactly as a standard item of the same type in the DMG. However, sometimes there is a slight mishap in the creation of the device: the steps are not followed in the proper order, the astrological signs do not bode well, the item's creator is disturbed to begin with, the instructions are incomplete, or something just plain goes wrong. Any of these results can cause a magical item to behave differently from others just like it.
+
+Not all quirks are bad, however. Some are detrimental to the item or its user, some are neutral, and some are even beneficial. The possibility of quirks existing (and the actual number of quirks) is determined by using the table below; a specific table is thereafter used to determine the exact quirks that the magical item possesses.
+
+| Roll  | Quirks Present |
+|-------|----------------|
+| 01–86 | No quirks      |
+| 87–94 | One quirk      |
+| 95–98 | Two quirks     |
+| 99–00 | Three quirks   |
+
+| Roll  | Result |
+|-------|--------|
+| 01–03 | Item has a habit of burying itself in any sack, backpack, or container in which it is carried. If other items are in the container, 1d3 rounds are necessary for someone to find and retrieve the item. |
+| 04–07 | Item works normally, but it appears dirty and ready to fall apart. For example, a cloak of protection +1 might be moth-eaten and stained, but still functional. |
+| 08–11 | Item attunes itself to one owner at a time; if it is removed from its owner, or if another person tries to use the device, it goes dormant for 1d4 days as it grows accustomed to its new owner. |
+| 12–16 | Item has the annoying habit of buzzing when it is used. The buzzing is audible to anyone within 60 feet, and it is impossible to surprise anyone while the device is buzzing. |
+| 17–20 | Item glows with a soft light (as per faerie fire) when it is used. |
+| 21–24 | Item is durable and makes any necessary saving throws at +2 to the die roll. |
+| 25–29 | Item does not function if user wears any kind of head gear or adornment (including a hood). |
+| 30–32 | Item cannot function underground. |
+| 33    | Item cannot function above ground. |
+| 34–36 | Item cannot function at night. |
+| 37–38 | Item cannot function during the day. |
+| 39–43 | Item is unaffected by blows of any kind, unless the forces are of giant strength (19) or greater. |
+| 44–48 | Item has a finite number of uses; it is found with 2d20 charges remaining. Whether or not the item can be recharged is up to the DM. |
+| 49–51 | Item works erratically; it functions normally 70% of the time, fails 20% of the time, and acts as a wand of wonder 10% of the time. |
+| 52–55 | Item is magically buoyant and tends to levitate upward at the rate of 5 feet per round unless held or tied down. |
+| 56–60 | Item is immune to electricity or magical lightning. If the item is metal, it is also nonconductive. |
+| 61–64 | Item can only be used twice per day; if used more often, it shorts itself out and cannot be used for 48 hours. |
+| 65–69 | Item causes its owner to become extremely possessive of it. If the item is kept for more than 14 days, a mild form of paranoia sets in. The owner assumes that anyone mentioning the item wants it. The owner never relinquishes the item to anyone as a result. Remove curse cast by a 9th-level priest, or getting rid of the item before 14 days pass, are the only ways to negate the paranoia effect. |
+| 70–72 | Item is powerful; it works 125% more effectively than a standard item of the same type, and any saving throw against its effects is made at −1. |
+| 73–78 | Item is substandard and only works half as well as a standard item of the same type. |
+| 79–83 | Item has a curse upon it. All saving throws attempted by its owner are made at −1 until the item has a remove curse cast upon it. |
+| 84–86 | Item does not function underwater, unless it is an item specifically designed for underwater use. In that case, it never |
+
+---
+
+<!-- page 25 -->
+
+works outside of a watery environment—50% chance salt water, 50% chance fresh water.
+
+**87–90** Item belongs to an extraplanar creature or other powerful being (this is shown on the item by the creature's personal sign). After 1d4 weeks, the item is located by the being, and it shows up to claim "its" property.
+
+**91–95** Item must rest for six turns minimum between uses.
+
+**96–98** Item cannot be destroyed by any means short of an incredible excess of force (such as a deity), by dropping it into a lava pit, or the like.
+
+**99–00** Item is intelligent; roll on the Sword Intelligence Table (see Sword, Special) and disregard any result of no intelligence. The item also has an ego; its personality must be determined as well. Though the item does tell its owner of the powers it offers, it never discloses the number of charges it possesses. Note that an intelligent item never willingly uses its last few charges. These items can always be recharged, regardless of type and capabilities.
+
+## Racial Enhancements
+
+**XP Value:** +150 &emsp; **GP Value:** +750
+
+*Source: DRAGON Magazine #181*
+
+Racial weapons, armor, and equipment (the latter including rings and other protective devices) have magical bonuses, but only when being used by members of the race that created them. While it is possible, of course, for humans to make magical items of this sort, their main purpose should be to add more interest in the demihuman and humanoid races. Because these items are not so versatile as regular magical items, even a relatively weak humanoid tribal shaman or witch doctor could make one with a great deal of effort. When the owner fights a foe of another race, he or she always has the satisfaction that a victorious enemy won't get the same advantage from the magical item that he or she had with it. As for beefing up humanoid foes without upsetting game balance, you could equip an entire tribe of orcs with orcish chain mail +1 and orcish scimitars +1; if the heroes win anyway, they won't be able to use one bit of the magical stuff that gave them so much trouble.
+
+## Weightless Item
+
+**XP Value:** +20 &emsp; **GP Value:** +200
+
+*Source: DRAGON Magazine #181*
+
+For thieves, mountain climbers, fast scouts, and others in a hurry, these items are extremely useful. Weight and encumbrance may be eliminated altogether when these weapons and armor are used instead of ordinary ones. No additional advantages are given in combat, though they do count as magical for attack purposes against certain monsters.
+
+---
+
+<!-- page 26 -->
+
+## Abacus of Calculation
+
+**XP Value:** 1,200 &emsp; **GP Value:** 12,000
+*Source: Dragon Magazine #73*
+
+This device is a simple wooden frame, about 8 by 10 inches. Several heavy wires are strung across the frame, parallel to one another. On each wire are 10 wooden balls. When mathematical formulas involving numbers (adding, subtracting, multiplying, dividing and simple operations) are spoken near the object, the balls shift about and the answer is spoken aloud by a disembodied voice.
+
+## Accelerator
+
+**XP Value:** 4,500 &emsp; **GP Value:** 45,000
+*Source: War Captain's Companion*
+
+The accelerator is a rapid-fire weapon built by the arcane for use on spelljamming craft of all types. Much in the same way that spelljamming helms gain their magical properties from the spellcasters who sit in them, the accelerator gains its magical properties from the activated spelljamming helm. (Without the helm, the accelerator is nonfunctional.) When first found or purchased, it does not possess any dweomer at all. Only when fitted to a ship with an occupied, functioning spelljamming helm does it radiate an aura of magic.
+
+Looking much like a gigantic sextant, the accelerator's main arm is a 4-foot-long, 6-inch-diameter hollow tube with a hand-sized cup at one end. The arm can be elevated and swiveled once the weapon is bolted in place. Items placed in the cup are magically seized, accelerated through the arm's length, and shot out the far end. The weapon can be fired twice in a single round. The range of the weapon is six hexes (6,000 yards). It causes 1d2 points of hull damage to ships and 1d10 points of damage to individuals. On an attack roll of 19 or greater, it inflicts a critical hit.
+
+When the accelerator is aboard a spelljamming ship, it decreases the ship's total SR by one point, even when the accelerator is not mounted or in use. The penalty occurs even if the accelerator is merely in the presence of an activated helm. There is no way to block the penalty or regain the lost SR. The weapon-handler must beware. Anything placed in the cup is shot out the other end, including sleeves, knives, daggers, fingers, toes, hands, rocks, helmseekers, etc. Anything living, including any of the vast number of slimes, jellies, and molds, dies when shot by the accelerator.
+
+It is not known if the arcane themselves use this weapon, but apparently only the arcane can repair or service it, should anything damage its delicate mechanisms.
+
+## Acorn of Wo Mai
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Book of Artifacts*
+
+The acorn of Wo Mai is a large lead vessel, dull gray in color. As its name suggests, it is fashioned to look like an enormous acorn, almost 3 feet in height. Two golden bands, inscribed with arcane characters, encircle it from bottom to top, where they meet under a large seal of a dragon coiled around a sword. Although it appears to be tremendously heavy, the artifact can be carried by a strong individual with ease. It sometimes makes faint thumping noises, and is warm to the touch.
+
+According to ancient eastern legend, the acorn of Wo Mai is the prison of a powerful fiend who once ruled and terrorized a great empire at the edges of the eastern lands. The fiend was summoned by war-wizards but escaped their control. Hearing of the fiend's cruelties, the great Wo Mai challenged it to battle. They fought long, the fiend confident, for its life force was hidden far away, and it could not be slain. When Wo Mai discovered this, he bound the fiend in irons that it could not break. Next, he and his companions shaped the acorn, imprisoned the fiend inside, and brought the prize back to the imperial court. When the court fell to barbarian invaders, the acorn was lost.
+
+The acorn is best used if allowed to fall into the hands of the player characters, since its powers (and curse) can create many role-playing opportunities. The PCs could find the acorn as part of a treasure trove, or wrest it from another victim over whom the fiend has gained control. The fiend seeks to seduce a PC to his aid, all the time stressing the need for secrecy. Should it be successful, the fiend manipulates the character and even the entire party into freeing it. Should any PC oppose it, the fiend does its best to turn the others against the enemy.
+
+To rid themselves of this artifact, the PCs should find some way to bury the acorn away, preferably forever, or they could carry it to the lower planes and open it, trapping the fiend in its own plane.
+
+---
+
+<!-- page 27 -->
+
+(continuing from previous content — this is page 27, which continues the Acorn of Wo Ist entry and then begins new items)
+
+**Invoked Powers:** The fiend within the acorn provides good advice (Int 20), telepathically providing answers to questions posed by its owner. It grants the ability to *polymorph any object* (1/day).
+
+**Random Powers:** Three from the Artifact Table 1-16: Minor Powers.
+
+**Curse:** The fiend trapped within the acorn is an evil demigod and craves its release more than anything else. It is aware of its surroundings, particularly the life forces of creatures nearby, and uses its powers (and advice) to persuade its owner to free it from its prison. Once freed, of course, it rewards its former master with death.
+
+**Suggested Means of Destruction:**
+
+- The seal must be broken with a +5 weapon upon the throne of the Emperor.
+- The inscribed characters on the golden bands must be erased.
+- It must be cast into a volcano of Carceri.
+
+## Air Spores
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+
+*Source: Tome of Magic*
+
+Rumors indicate that the famed wizard Mordom created these odd, pollen spores. Only a few wizards know how to make them today. Air spores that still exist are usually sequestered as specimens of study in the labs of powerful wizards.
+
+When air spores are ingested by a creature, the spores work their way into the creature's lungs. There they grow, reproduce, and die. While living out their lives, they create oxygen that the host body can use to breathe when deprived of oxygen from the environment. The spores can live for 2d4 days.
+
+In a normal environment, the spores hinder the character's normal respiration, causing all Constitution checks to be made with a −4 penalty. Fortunately, 12 hours of breathing in a normal environment for each day the spores were used will clear the lungs of the colony.
+
+## Chandrasakar's Air Spores
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: 1992 Fantasy Collector Card 394*
+
+It is rumored that Chandrasakar saved a crew of Reigar with these special air spores. The story goes that he was deep in wildspace, in a stolen elven flitter, when he encountered a Reigar ship whose air envelope had been exhausted. Chandrasakar had ingested some stolen, space-borne air spores and no longer required an oxygen envelope to sustain him. While attempting mouth-to-mouth resuscitation on a Reigar, it soon became clear that the air spores were transmittable, which saved the entire Reigar crew.
+
+## Al-Azid's Ghostly Palace
+
+**XP Value:** 4,000 &emsp; **GP Value:** 40,000
+
+*Source: Secrets of the Lamp*
+
+This huge palace of fine white marble and slender minarets is magically linked to the Ethereal Plane. It can be called into existence from that plane by the owner of the magical key to the palace's front gate. The owner of the key can summon the ghostly palace whenever needed, though it is only visible at night, when its walls shine in the darkness. By day the palace is invisible from the outside, though once inside, visitors can see its features easily.
+
+The chambers within are well appointed, and gentle fountains play. Invisible musicians strum soothing tunes, and unseen servants take care of whatever cleaning, cooking, and menial chores the owner demands with a clap of the hands.
+
+Al-Azid's ghostly palace is also subject to a curse, cast by Al-Azid to prevent others from enjoying his mansion after his death. Whoever bears the key that opens its doors is perpetually haunted by an invisible stalker.
+
+---
+
+<!-- page 28 -->
+
+# Amulet
+
+Amulets are magical devices that are commonly worn around the neck, suspended from a chain. The type of chain that comes with an amulet generally increases the item's aesthetic value, not its magical properties. Amulets can also be pinned to a shirt, cloak, or headband, but not boots, hats, or gloves. Only one amulet can be attached to an article of clothing and only one can be dangled from the neck.
+
+In the AD&D game system, some amulets have restrictions, particularly if they were created to be used in a specific campaign world.
+
+## Amulet of the Abyss
+
+**XP Value:** 2,000 &emsp; **GP Value:** 6,000
+*Source: DUNGEON Magazine #13*
+
+On the Prime Material Plane, an amulet of the Abyss is indeed rare, but it is an item commonly worn by honored guests when traveling through certain layers of the Abyss. The amulet consists of a 36-inch silver chain from which hangs a disk of tooled adamantite about 3 inches in diameter. Some type of identifying mark is placed on the amulet's front, and its inscribed back (in Tanar'ri) bears the name of the wearer and the areas to which access is allowed. Amulets usually radiate magic and possess a strong aura of evil.
+
+The amulet enables the wearer to summon tanar'ri aid twice per day. At the wearer's option, it may summon 1d6 manes or 1–2 dretch. All summoning is done indirectly through Arzial, a baron serving under Graz'zt, and is subject to possible denial. If approved, the summoned creatures serve without question and remain for 3d6 hours or until dismissed. The summoning requires 1–8 rounds, depending on the speed of the baron's answer. Summoning may be performed only by evil persons with knowledge of the correct idiom and pronunciation of tanar'ri names. Any neutral PC attempting to summon creatures suffers 1d10 hp damage per attempt. Any PC of good alignment suffers 3d8 hp damage, and there is a 10% chance of attracting the attention of Arzial. The amulet may be used to communicate with Arzial directly, once per month, with two questions per contact. The answers received are not always correct, and Arzial dislikes frequent contact.
+
+## Amulet Against Crystal Balls & ESP
+
+**XP Value:** 4,000 &emsp; **GP Value:** 15,000
+*Source: DUNGEONS & DRAGONS Expert Rules Set*
+
+The wearer of this item is automatically protected from being spied on by someone using a crystal ball or any type of ESP.
+
+## Amulet Against Disease
+
+**XP Value:** 350 &emsp; **GP Value:** 1,000
+*Source: The Glory of Rome*
+
+This Roman magical item is an amulet inscribed to various gods and spirits of healing. It functions as a periapt of health (total protection vs. disease), but only against one specific form of disease or illness.
+
+## Amulet of Amiability
+
+**XP Value:** — &emsp; **GP Value:** 3,500
+*Source: POLYHEDRON Newszine #43*
+
+This amulet of unassuming appearance emits a dweomer of magic, but there is no way to tell the exact effect of the amulet short of trying it on. Once the amulet is on, the wearer is unable to take it off unless *remove curse* or *dispel magic* is cast. Any person wearing the amulet regardless of race, class, or alignment becomes incredibly nice, kind, and thoughtful. While the wearer cannot do anything to hurt him or herself, the victim of this "blessing" does everything possible to help those around him or her and falls in with their plans and suggestions. He or she freely gives away possessions, bestows spells, tries to be friendly with everyone (even monsters), helps others with camp chores — this character is "at your service." The wearer is appalled at the thought of theft and refuses to take treasure that belongs to someone else. The victim does not attack. If confronted by a monster or a hostile party member, gifts are offered and peace is sought. The character tries to explain to the attacker why everyone should live in love, peace, and harmony.
+
+Note that the amulet does not actually alter a person's alignment, it only forces one to act in a friendly, helpful manner despite alignment. Actions under this enchantment do not endanger alignment in any way. The amulet also gives a +7 bonus to the existing Armor Class of the wearer and gives a bonus of +7 to all saving throws. The wearer is further endowed with the ability to conjure up infinite quantities of chocolate chip cookies (6 at a time) and fresh flowers (a handful at a time) simply by concentrating.
+
+---
+
+<!-- page 29 -->
+
+## Amulet of Arachnid Control
+
+**XP Value:** 2,000 &emsp; **GP Value:** 8,000
+*Source: War Captain's Companion*
+
+This amulet can control one giant or 1d10 normal arachnids of any type. This includes beings who have magically assumed arachnid form in whole or in part. Arachnids are allowed a saving throw if they have an Intelligence of three or better. Unlike the ring of arachnid control, all neogi (even the Great Old Masters) must make a saving throw vs. spell at a -2 penalty in order to avoid being magically compelled to obey the command of the amulet's wearer. (If successful, the neogi can choose whether or not to obey.)
+
+## Amulet of the Beast
+
+| Type   | XP Value | GP Value |
+|--------|----------|----------|
+| Ivory  | —        | 3,900    |
+| Silver | —        | 5,000    |
+
+*Source: RAVENLOFT® Campaign Set*
+
+Two versions of the amulet exist—one is made of silver, the other of ivory. Both show the image of a wild, wolfish beast bonded in chains. Each amulet is round, and has a small hole at the top for threading a cord or chain.
+
+The silver amulet functions only when worn by a lycanthrope. As long as the creature carries the amulet somewhere on his or her person, lycanthropy is suppressed. Even a true lycanthrope cannot change shape while holding the silver amulet. No magical force prevents its removal, but the owner may protect it by other means.
+
+The ivory amulet, when touched to a character, gives its victim the symptoms of lycanthropy. (It does not affect creatures who are already lycanthropes.) Most ivory amulets produce "werewolves," but a given amulet could mimic any form of the disease. The amulet is magically attached to its owner until a *remove curse* spell is cast. Even then, the victim must save vs. spell successfully to be free of the amulet. Not every victim wants such freedom, however. When the amulet is gone, so are the symptoms of lycanthropy.
+
+## Amulet of the Cairn Hills
+
+**XP Value:** 2,000 &emsp; **GP Value:** 18,000
+*Source: GREYHAWK® Adventures*
+
+Originally created to protect the common folk from the spirits that haunt these hills, this amulet has become a favorite among grave robbers. It allows a saving throw vs. spell to avoid any special attacks from undead (aging, energy drain, fear, disease, Strength drain). Physical attacks and spells cast by undead are unaffected. A successful saving throw against an undead attack uses one charge, except the following: a two-level energy drain uses two charges, and aging uses one charge per 10 years of aging. The amulet has 2d10 charges and is not rechargeable.
+
+## Amulet, Cartographer's
+
+**XP Value:** 3,000 &emsp; **GP Value:** 21,000
+*Source: Revenge of Alphaks*
+
+This amulet, constructed from a huge flawless jacinth, is cut into a lens-shaped disk 6 inches in diameter and ¼ inch thick. It has a platinum setting and chain. Twelve diamond chips are placed at 30° intervals on the left side of the setting and a single rune surrounds the top chip.
+
+With the proper command words, the user can direct the amulet to display a scale map of the immediate, surrounding area once every three days. Remaining on the face of the amulet for one turn, the map can show either a small or large area. The rune indicates true north. The amulet must be held in the user's hand when the command word is spoken.
+
+The small area map, when used indoors, shows the area within the 60-foot, radial area of the amulet. The map shows passages, stairways, doors, and other normal features such as fountains, furnishings and loose treasure. The user sees in the amulet what would be seen viewing the displayed area with normal vision in daylight. The map does not, however, reveal traps, secret doors, creatures, nor the nature of what is shown.
+
+Once the map is invoked, the user can describe up to four objects and the amulet locates them by number on the map. The user must know exactly what each object is. It is possible that secret doors or very familiar types of traps could be located in the same manner. If there are two or more of a particular object within range, only the one closest to the amulet is shown. The user can describe the same object more than once, up to a limit of four times.
+
+Outdoors, the small area map displays the area within a 60-yard radius of the amulet showing hills, cave mouths, buildings, and other terrain features. Hidden objects do not appear if the user could not discern them in daylight using normal vision, although they may be located if the user
+
+---
+
+<!-- page 30 -->
+
+## Amulet of Caterpillar Control
+
+**XP Value:** 5 &emsp; **GP Value:** 25
+*Source: DRAGON Magazine #30*
+
+The amulet of caterpillar control allows the wearer to control the actions of 4 to 24 garden caterpillars.
+
+## Amulet of Charm Resistance
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +3    | 1,500    | 8,000    |
+| +4    | 2,000    | 10,000   |
+
+*Source: Top Ballista*
+
+These small amulets of brass or bronze allow the wearer to save against all charm effects (charm person spells, the charm song of a harpy, the charm of a vampire) with a +4 bonus.
+
+## Amulet of Charming
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+*Source: POLYHEDRON Newszine #50*
+
+Anyone viewing the amulet is favorably disposed to the wearer (saving throw vs. spell negates the effect). Furthermore, the wearer's Charisma and comeliness are raised 3 points.
+
+## Amulet of Cheetah Speed
+
+**XP Value:** 1,000 &emsp; **GP Value:** 4,000
+*Source: DUNGEON Magazine #15*
+
+This is an ordinary silver amulet engraved with the silhouette of a long-legged cat on one side. The movement rate of anyone wearing this amulet increases by 2. Once per day, the wearer can run at the speed of a cheetah (MV 45 for three rounds). This amulet works only for lightly encumbered characters wearing nonbulky or no armor.
+
+## Amulet of Communication
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Kara-Tur*
+
+This amulet allows a person to communicate clearly with anyone who understands another dialect of the same parent tongue. The maker of the amulet must know the parent tongue at the time the amulet is constructed. These amulets are much favored by foreign merchants and are commonly found at the gatherings of the Issacortae chieftains each year. Bearers of these amulets are often recognized as special messengers.
+
+## Amulet of Dragon Warding
+
+**XP Value:** 8,000 &emsp; **GP Value:** 47,500
+*Source: DRAGON Mountain® Campaign Set*
+
+The amulet of dragon warding has the following powers: it acts as bracers, AC 0 and as a ring of spell turning. The amulet glows with a pure gold light. Any character touching it knows all of its powers.
+
+## Amulet of Dramatic Death
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: The Complete Thief's Handbook*
+
+Only a few of these prized items exist, each created for a high-level thief who was in the service of two powerful spellcasters, a wizard and an illusionist. They combined their skills to create these unique items. There are six amulets known, which differ from each other in only one respect; all have the following common properties — the magic of the amulet is activated when the wearer suffers one particular attack form (and only that attack form) that would be sufficient to kill or wholly disable the wearer (such as by petrification). Damage sustained from the attack is wholly negated, and special attacks (such as petrification) are likewise negated. The thief is at once made invisible. Lastly, a powerful, programmed illusion is brought into operation so that the wearer of the amulet appears to have been slain or disabled by the attack. The programmed illusion is both complete and dramatic — an amulet protecting against magical fire shows the victim of a fireball attack as a burned corpse, complete with the smell of roasted flesh. Only direct, tactile checks or a powerful divination spell can reveal the illusion for what it is. The amulet functions once per day. Roll 1d6 on the table below to determine the single attack form that the amulet protects against.
+
+| Roll | Specific Protection |
+|------|---------------------|
+| 1    | Magical fire (includes red dragon breath and all other forms) |
+| 2    | Lightning and electrical attacks |
+
+---
+
+<!-- page 31 -->
+
+I cannot produce content for this page — the Tesseract OCR output is empty (no text extracted), and no structured table data was provided. Without source text to clean and format, I have nothing to transcribe.
+
+If you can provide the raw OCR text or a description of the page content, I will be happy to process it.
+
+---
+
