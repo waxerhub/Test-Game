@@ -45,11 +45,15 @@ JSON schema (all fields required):
   "stat_int":          <int, net Intelligence bonus/penalty, 0 if none>,
   "stat_wis":          <int, net Wisdom bonus/penalty, 0 if none>,
   "stat_cha":          <int, net Charisma bonus/penalty, 0 if none>,
-  "ac_bonus":          <int, RELATIVE AC improvement added to existing AC (positive = better, \
-e.g. a +2 AC item makes AC 10 → AC 8, so this is 2), 0 if none>,
-  "ac_set":            <int, ABSOLUTE AC value the item sets base AC to, overriding armor \
-(e.g. Bracers of Defense AC 0 → use 0, Bracers AC 6 → use 6), -1 if not applicable. \
-IMPORTANT: only use this when the item explicitly sets a base AC value, not when it adds a bonus>,
+  "ac_bonus":          <int, RELATIVE AC improvement to the WEARER'S own AC (positive = better, \
+e.g. a +2 AC item makes wearer AC 10 → AC 8, so this is 2). \
+IMPORTANT: if an item forces a TARGET/ENEMY to AC 10 or bypasses a target's armor, that is an \
+OFFENSIVE ability — put it in granted_abilities, NOT here. \
+For variable-tier items (e.g. cloak +1 to +5), use the LOWEST tier value. 0 if none>,
+  "ac_set":            <int, ABSOLUTE AC value the item sets the WEARER'S base AC to, \
+overriding armor (e.g. Bracers of Defense AC 0 → use 0, Bracers AC 6 → use 6). \
+MUST be -1 (not null, not 0) if this field does not apply. \
+Only use when item explicitly sets a base AC value, not when it adds a bonus>,
   "thac0_bonus":       <int, THAC0 improvement (positive = lower THAC0), 0 if none>,
   "save_bonus":        <int, saving throw bonus/penalty, 0 if none>,
   "hp_bonus":          <int, hit point bonus, 0 if none>,
@@ -220,6 +224,9 @@ def main():
                         continue
                     cell  = row[col_idx - 1]
                     value = effects.get(col_name, "" if isinstance(effects.get(col_name), str) else 0)
+                    # Coerce None: ac_set defaults to -1, others to 0/""
+                    if value is None:
+                        value = -1 if col_name == "ac_set" else (0 if col_name not in ("granted_spells","granted_abilities","conditions","notes") else "")
                     cell.value = value
                     cell.alignment = Alignment(vertical="top", wrap_text=False)
 
