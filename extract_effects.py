@@ -53,20 +53,20 @@ Minimum Int requirements go in conditions, not here. 0 if none>,
 Minimum Wis requirements go in conditions, not here. 0 if none>,
   "stat_cha":          <int, net Charisma BONUS or PENALTY granted TO the user. \
 Minimum Cha requirements go in conditions, not here. 0 if none>,
-  "ac_bonus":          <int, RELATIVE AC improvement to the WEARER'S own AC only \
-(positive = better protection for the WEARER). \
-CORRECT examples: "betters Armor Class by 2" → 2; "cloak +1 lowers AC 10 to AC 9" → 1 \
-(the improvement is 1, NOT 10; AC 10 is the unarmored baseline, not the bonus); \
-"+3 to Armor Class" → 3. \
+  "ac_bonus":          <int, a RELATIVE bonus added ON TOP of the wearer's existing armor — \
+it STACKS with worn armor and applies regardless of what armor is worn. \
+CORRECT: Ring of Protection +2 → 2; Cloak of Protection +1 → 1; \
+"cloak +1 lowers AC 10 to AC 9" → ac_bonus=1 (the improvement is 1; AC 10 is the unarmored baseline, not the bonus). \
 WRONG — do NOT set ac_bonus for OFFENSIVE effects on TARGETS/ENEMIES: \
 "all creatures treated as AC 10 against this weapon" → ac_bonus=0, put in granted_abilities; \
-"renders target AC 10" → ac_bonus=0, put in granted_abilities; \
-"bypasses armor, target base AC 10" → ac_bonus=0, put in granted_abilities. \
+"renders target AC 10" → ac_bonus=0, put in granted_abilities. \
 For variable-tier items (e.g. cloak +1 to +5), use the LOWEST tier value (1). 0 if none>,
-  "ac_set":            <int, ABSOLUTE AC value the item sets the WEARER'S base AC to, \
-overriding armor (e.g. Bracers of Defense AC 0 → use 0, Bracers AC 6 → use 6). \
+  "ac_set":            <int, REPLACES the wearer's BASE (unarmored) AC with a fixed value — \
+the item functions AS ARMOR and therefore CANNOT be combined with worn armor \
+(e.g. Bracers of Defense AC 0 → ac_set=0; Bracers of Defense AC 6 → ac_set=6; \
+an amulet that grants AC as if wearing plate → ac_set=3). \
 MUST be the integer -1 (never null, never "null", never 0, never "None") if this field does not apply. \
-Only use when item explicitly sets the WEARER'S base AC to a fixed value, not when it adds a bonus>,
+When ac_set is used, also add "Requires unarmored (no worn armor)" to conditions unless the text says otherwise>,
   "thac0_bonus":       <int, THAC0 improvement (positive = lower THAC0), 0 if none>,
   "save_bonus":        <int, saving throw bonus/penalty, 0 if none>,
   "hp_bonus":          <int, hit point bonus, 0 if none>,

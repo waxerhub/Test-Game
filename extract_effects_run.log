@@ -1,88 +1,6 @@
 Loading /home/user/Test-Game/encyclopedia_magica_vol1.xlsx …
 Processing 1405 items with 3 workers …
 
-  1/1405 (0%)  latest: Cloaked Wizardry  2/1405 (0%)  latest: Aquatic  3/1405 (0%)  latest: Anything Item  4/1405 (0%)  latest: Racial Enhancements
+  1/1405 (0%)  latest: Cloaked Wizardry  2/1405 (0%)  latest: Anything Item  3/1405 (0%)  latest: Aquatic  4/1405 (0%)  latest: Racial Enhancements
   JSON parse error [Weightless Item]: Expecting value: line 1 column 1 (char 0)
-  5/1405 (0%)  latest: Weightless Item  6/1405 (0%)  latest: Amulet of Caterpillar Control
-  JSON parse error [Drow Treasure]: Unterminated string starting at: line 18 column 12 (char 1633)
-  7/1405 (0%)  latest: Drow Treasure  8/1405 (0%)  latest: Amulet of Charm Resistance  9/1405 (0%)  latest: Amulet of Charming  10/1405 (0%)  latest: Amulet of Communication  11/1405 (0%)  latest: Amulet of Cheetah Speed  12/1405 (0%)  latest: Amulet of Dragon Warding  13/1405 (0%)  latest: Amulet, Fiend  14/1405 (0%)  latest: Amulet of Finding  15/1405 (1%)  latest: Amulet of Dramatic Death  16/1405 (1%)  latest: Amulet of Furyondy's  17/1405 (1%)  latest: Amulet of the Golden Collar  18/1405 (1%)  latest: Amulet, Greenstone  19/1405 (1%)  latest: Amulet of Hunting  20/1405 (1%)  latest: Hands of the Healing Spirit  21/1405 (1%)  latest: Amulet of Immunity to Charm  22/1405 (1%)  latest: Amulet of Inescapable Location  23/1405 (1%)  latest: Amulet of Insect Repellency  24/1405 (1%)  latest: Kaleen's Undead Stone  25/1405 (1%)  latest: Amulet of Lathander  26/1405 (1%)  latest: Amulet of Neutrality  27/1405 (1%)  latest: Amulet Noseeum  28/1405 (1%)  latest: Amulet, Orcish  29/1405 (2%)  latest: Amulet of Leadership  30/1405 (2%)  latest: Amulet of Protection from Good  31/1405 (2%)  latest: Palm Sign Amulet  32/1405 (2%)  latest: Amulet of Protection from Sleep  33/1405 (2%)  latest: Amulet of Psionic Interference  34/1405 (2%)  latest: Amulet of Protection from Turning  35/1405 (2%)  latest: Amulet of Psychic Protection
-  Rate limit [Amulet of Psionic Reflection], retry in 15s…
-  36/1405 (2%)  latest: Amulet of Recall  37/1405 (2%)  latest: Amulet Shakti  38/1405 (2%)  latest: Seafaring Anchor (Animated)
-  JSON parse error [Amulet Shell of Protection fro]: Expecting value: line 1 column 1 (char 0)
-  39/1405 (2%)  latest: Amulet Shell of Protection from Sharks  40/1405 (2%)  latest: Seafaring Anchor  41/1405 (2%)  latest: Amulet of Psionic Reflection  42/1405 (2%)  latest: Anchor of Staying  43/1405 (3%)  latest: Ankh of Life  44/1405 (3%)  latest: Anchor of Weight  45/1405 (3%)  latest: Anklet of Levitation  46/1405 (3%)  latest: Anklet of Sinking  47/1405 (3%)  latest: Anklet of Sure Footing
-  Rate limit [Nithian Ankh], retry in 15s…
-  48/1405 (3%)  latest: Anklet of Walking  49/1405 (3%)  latest: Antennae of Triangulation  50/1405 (3%)  latest: Anvil
-  [checkpoint] saved at 50/1405
-  51/1405 (3%)  latest: High Anvil of the Dwarves
-  JSON parse error [Iron Anvil of the Armies]: Expecting value: line 1 column 1 (char 0)
-  52/1405 (3%)  latest: Iron Anvil of the Armies  53/1405 (3%)  latest: Nithian Ankh
-  Rate limit [The Apparatus], retry in 15s…
-  54/1405 (3%)  latest: Anvil of the Lortmil Mountains  55/1405 (3%)  latest: Alchemist's Apparatus  56/1405 (3%)  latest: Apparatus of Kwalish
-  JSON parse error [Apparatus of Dreadful Construc]: Unterminated string starting at: line 18 column 12 (char 2306)
-  57/1405 (4%)  latest: Apparatus of Dreadful Construction  58/1405 (4%)  latest: Apparatus of Spikey Owns  59/1405 (4%)  latest: The Apparatus  60/1405 (4%)  latest: Apple of Bragi  61/1405 (4%)  latest: Apple of Chaos  62/1405 (4%)  latest: Apron  63/1405 (4%)  latest: Flandal Steelskin's Apron  64/1405 (4%)  latest: Apron of Comfort
-  Rate limit [Leather Apron], retry in 15s…
-  65/1405 (4%)  latest: Arcane Formula  66/1405 (4%)  latest: Arabel's Huggable Bear  67/1405 (4%)  latest: Arcane Formula for a Lich  68/1405 (4%)  latest: Leather Apron  69/1405 (4%)  latest: Arcane Formula for a Dracolich  70/1405 (4%)  latest: Ardraken's Refreshment Simulacrum  71/1405 (5%)  latest: Silver Arm of Ergoth
-  Rate limit [Arm of Doom], retry in 15s…
-  72/1405 (5%)  latest: Silver Arm of Ergoth II  73/1405 (5%)  latest: Armband  74/1405 (5%)  latest: Armband of Comfort of Sleep
-  JSON parse error [Arm of Valor]: Unterminated string starting at: line 16 column 17 (char 2239)
-  75/1405 (5%)  latest: Arm of Valor  76/1405 (5%)  latest: Armband of Death
-  JSON parse error [Armband of Healing]: Expecting value: line 1 column 1 (char 0)
-  77/1405 (5%)  latest: Armband of Healing
-  Rate limit [Armband of Music], retry in 15s…
-  78/1405 (5%)  latest: Arm of Doom  79/1405 (5%)  latest: Armband of Salutation  80/1405 (5%)  latest: Armband of Snake Changing  81/1405 (5%)  latest: Armband of Strength  82/1405 (5%)  latest: Armband of Trueheart's Warding  83/1405 (5%)  latest: Armband of Variable Strength  84/1405 (5%)  latest: Armor of Abbathor's  85/1405 (6%)  latest: Armband of Music  86/1405 (6%)  latest: Armor of Absorption  87/1405 (6%)  latest: Anything Armor  88/1405 (6%)  latest: Armor of Acidic Secretion
-  Rate limit [Aquatic Armor], retry in 15s…
-  89/1405 (6%)  latest: Arvoreen's Chain Mail  90/1405 (6%)  latest: Aslyferund's Armor  91/1405 (6%)  latest: Armor of the Arcane  92/1405 (6%)  latest: Armor of Blackflame  93/1405 (6%)  latest: Armor of Blending  94/1405 (6%)  latest: Blue Armor of the Crystalmist Mountains  95/1405 (6%)  latest: Aquatic Armor  96/1405 (6%)  latest: Callarduran Smoothhands's Chain Mail
-  Rate limit [Bradlie's Leather], retry in 15s…
-  97/1405 (6%)  latest: Armor of Comfort  98/1405 (6%)  latest: Armor of Charm  99/1405 (7%)  latest: Armor of Command  100/1405 (7%)  latest: Armor of Concealed Wizardry
-  [checkpoint] saved at 100/1405
-  101/1405 (7%)  latest: Armor of Continual Cleanliness  102/1405 (7%)  latest: Armor of Coolness  103/1405 (7%)  latest: Armor of Cure Wounds  104/1405 (7%)  latest: Armor of the Desert Evening  105/1405 (7%)  latest: Bradlie's Leather  106/1405 (7%)  latest: Armor of Eelix  107/1405 (7%)  latest: Dragon Armor
-  Rate limit [Eastern Wooden Armor], retry in 15s…
-  108/1405 (7%)  latest: Armor of Electricity  109/1405 (7%)  latest: Elven Chain Mail  110/1405 (7%)  latest: Armor of Energy Drain  111/1405 (7%)  latest: Armor of Ethereality  112/1405 (7%)  latest: Armor of Etherealness  113/1405 (8%)  latest: Armor of Etherealness II  114/1405 (8%)  latest: Eastern Wooden Armor  115/1405 (8%)  latest: Armor of Fear  116/1405 (8%)  latest: Armor of Fear II  117/1405 (8%)  latest: Armor of Flight  118/1405 (8%)  latest: Armor of Gaseous Form  119/1405 (8%)  latest: Evil Dragon Armor  120/1405 (8%)  latest: Armor of Haste  121/1405 (8%)  latest: Gnarldan's Armor  122/1405 (8%)  latest: Armor of Healing
-  Rate limit [Armor of Invisibility], retry in 15s…
-  123/1405 (8%)  latest: Heimdall's White Armor
-  Rate limit [Heimdall's Armor], retry in 15s…
-Loading /home/user/Test-Game/encyclopedia_magica_vol1.xlsx …
-Processing 1394 items with 3 workers …
-
-  1/1394 (0%)  latest: Cloaked Wizardry  2/1394 (0%)  latest: Anything Item  3/1394 (0%)  latest: Aquatic  4/1394 (0%)  latest: Racial Enhancements
-  JSON parse error [Weightless Item]: Expecting value: line 1 column 1 (char 0)
-  5/1394 (0%)  latest: Weightless Item  6/1394 (0%)  latest: Amulet of Caterpillar Control  7/1394 (0%)  latest: Drow Treasure  8/1394 (0%)  latest: Amulet of Charm Resistance  9/1394 (0%)  latest: Amulet of Charming  10/1394 (0%)  latest: Amulet of Cheetah Speed  11/1394 (0%)  latest: Amulet of Communication  12/1394 (0%)  latest: Amulet of Dragon Warding  13/1394 (0%)  latest: Amulet of Finding  14/1394 (1%)  latest: Amulet of Furyondy's  15/1394 (1%)  latest: Amulet of Dramatic Death  16/1394 (1%)  latest: Amulet of the Golden Collar  17/1394 (1%)  latest: Amulet of Immunity to Charm  18/1394 (1%)  latest: Amulet of Hunting  19/1394 (1%)  latest: Amulet of Inescapable Location  20/1394 (1%)  latest: Amulet, Greenstone  21/1394 (1%)  latest: Amulet of Insect Repellency  22/1394 (1%)  latest: Kaleen's Undead Stone  23/1394 (1%)  latest: Amulet of Neutrality  24/1394 (1%)  latest: Amulet of Leadership  25/1394 (1%)  latest: Amulet Noseeum  26/1394 (1%)  latest: Amulet, Orcish  27/1394 (1%)  latest: Amulet of Protection from Good  28/1394 (2%)  latest: Amulet of Protection from Turning  29/1394 (2%)  latest: Palm Sign Amulet  30/1394 (2%)  latest: Amulet of Psionic Interference
-  JSON parse error [Amulet of Protection from Slee]: Unterminated string starting at: line 18 column 12 (char 1998)
-  31/1394 (2%)  latest: Amulet of Protection from Sleep  32/1394 (2%)  latest: Amulet of Psionic Reflection  33/1394 (2%)  latest: Amulet of Psychic Protection  34/1394 (2%)  latest: Amulet of Recall  35/1394 (2%)  latest: Amulet Shakti  36/1394 (2%)  latest: Seafaring Anchor  37/1394 (2%)  latest: Seafaring Anchor (Animated)  38/1394 (2%)  latest: Anchor of Staying  39/1394 (2%)  latest: Anchor of Weight
-  JSON parse error [Amulet Shell of Protection fro]: Expecting value: line 1 column 1 (char 0)
-  40/1394 (2%)  latest: Amulet Shell of Protection from Sharks  41/1394 (2%)  latest: Anklet of Levitation  42/1394 (3%)  latest: Anklet of Sinking  43/1394 (3%)  latest: Anklet of Sure Footing  44/1394 (3%)  latest: Nithian Ankh  45/1394 (3%)  latest: Anklet of Walking  46/1394 (3%)  latest: Antennae of Triangulation  47/1394 (3%)  latest: Anvil  48/1394 (3%)  latest: High Anvil of the Dwarves
-  JSON parse error [Iron Anvil of the Armies]: Expecting value: line 1 column 1 (char 0)
-  49/1394 (3%)  latest: Iron Anvil of the Armies  50/1394 (3%)  latest: Anvil of the Lortmil Mountains
-  [checkpoint] saved at 50/1394
-  51/1394 (3%)  latest: The Apparatus  52/1394 (3%)  latest: Apparatus of Kwalish
-  JSON parse error [Apparatus of Dreadful Construc]: Unterminated string starting at: line 18 column 12 (char 2348)
-  53/1394 (3%)  latest: Apparatus of Dreadful Construction  54/1394 (3%)  latest: Apple of Bragi  55/1394 (3%)  latest: Alchemist's Apparatus  56/1394 (4%)  latest: Apparatus of Spikey Owns  57/1394 (4%)  latest: Apple of Chaos  58/1394 (4%)  latest: Apron
-  Rate limit [Apron of Comfort], retry in 15s…
-  59/1394 (4%)  latest: Leather Apron  60/1394 (4%)  latest: Arabel's Huggable Bear  61/1394 (4%)  latest: Arcane Formula  62/1394 (4%)  latest: Arcane Formula for a Dracolich  63/1394 (4%)  latest: Arcane Formula for a Lich  64/1394 (4%)  latest: Apron of Comfort  65/1394 (4%)  latest: Ardraken's Refreshment Simulacrum  66/1394 (4%)  latest: Arm of Doom  67/1394 (4%)  latest: Silver Arm of Ergoth  68/1394 (4%)  latest: Silver Arm of Ergoth II  69/1394 (4%)  latest: Armband  70/1394 (5%)  latest: Armband of Comfort of Sleep
-  Rate limit [Armband of Death], retry in 15s…
-
-  JSON parse error [Arm of Valor]: Unterminated string starting at: line 16 column 17 (char 2247)
-  71/1394 (5%)  latest: Arm of Valor
-  JSON parse error [Armband of Healing]: Expecting value: line 1 column 1 (char 0)
-  72/1394 (5%)  latest: Armband of Healing  73/1394 (5%)  latest: Armband of Salutation  74/1394 (5%)  latest: Armband of Music  75/1394 (5%)  latest: Armband of Strength  76/1394 (5%)  latest: Armband of Variable Strength  77/1394 (5%)  latest: Armband of Death  78/1394 (5%)  latest: Armor of Absorption  79/1394 (5%)  latest: Anything Armor  80/1394 (5%)  latest: Armor of Acidic Secretion  81/1394 (5%)  latest: Aquatic Armor  82/1394 (5%)  latest: Aslyferund's Armor
-  Rate limit [Armor of the Arcane], retry in 15s…
-  83/1394 (5%)  latest: Armor of Blending  84/1394 (6%)  latest: Armor of Blackflame  85/1394 (6%)  latest: Blue Armor of the Crystalmist Mountains  86/1394 (6%)  latest: Bradlie's Leather  87/1394 (6%)  latest: Callarduran Smoothhands's Chain Mail  88/1394 (6%)  latest: Armor of Charm  89/1394 (6%)  latest: Armor of Concealed Wizardry  90/1394 (6%)  latest: Armor of the Arcane  91/1394 (6%)  latest: Armor of Comfort  92/1394 (6%)  latest: Armor of Continual Cleanliness  93/1394 (6%)  latest: Armor of the Desert Evening  94/1394 (6%)  latest: Armor of Cure Wounds  95/1394 (6%)  latest: Armor of Coolness  96/1394 (6%)  latest: Dragon Armor  97/1394 (6%)  latest: Eastern Wooden Armor  98/1394 (7%)  latest: Armor of Eelix
-  Rate limit [Elven Chain Mail], retry in 15s…
-  99/1394 (7%)  latest: Armor of Electricity  100/1394 (7%)  latest: Armor of Ethereality
-  [checkpoint] saved at 100/1394
-  101/1394 (7%)  latest: Armor of Energy Drain  102/1394 (7%)  latest: Armor of Etherealness II  103/1394 (7%)  latest: Armor of Etherealness  104/1394 (7%)  latest: Elven Chain Mail  105/1394 (7%)  latest: Evil Dragon Armor  106/1394 (7%)  latest: Armor of Fear  107/1394 (7%)  latest: Armor of Flight  108/1394 (7%)  latest: Armor of Fear II  109/1394 (7%)  latest: Armor of Haste
-  Rate limit [Armor of Gaseous Form], retry in 15s…
-  110/1394 (7%)  latest: Armor of Invisibility  111/1394 (7%)  latest: Armor of Healing  112/1394 (8%)  latest: Gnarldan's Armor  113/1394 (8%)  latest: Heimdall's White Armor
-  Rate limit [Heimdall's Armor], retry in 15s…
-  114/1394 (8%)  latest: Armor of Horus  115/1394 (8%)  latest: Ilneval's Red Chain Mail  116/1394 (8%)  latest: Armor of Gaseous Form  117/1394 (8%)  latest: Indra's Golden Armor  118/1394 (8%)  latest: Keolish Plate Mail of the Seas  119/1394 (8%)  latest: Kumakawa Armor  120/1394 (8%)  latest: Heimdall's Armor
-  Rate limit [Laeral's Storm Armor], retry in 15s…
-  121/1394 (8%)  latest: Lemmikainen's Armor  122/1394 (8%)  latest: Armor of Missile Attraction  123/1394 (8%)  latest: Mourner's Armor  124/1394 (8%)  latest: Oyori of the Unknown Warrior  125/1394 (8%)  latest: Armor of the Mon (continued)  126/1394 (9%)  latest: Armor, Plate of Solamnus  127/1394 (9%)  latest: Laeral's Storm Armor  128/1394 (9%)  latest: Armor of Presence  129/1394 (9%)  latest: Armor Quirk  130/1394 (9%)  latest: Armor of Possession  131/1394 (9%)  latest: Armor of Rage
-  Rate limit [Armor of Rainbow], retry in 15s…
-  132/1394 (9%)  latest: Raji's Armor of the Desert Evening  133/1394 (9%)  latest: Red Armor of the Hellfurnaces  134/1394 (9%)  latest: Red Dragon Scale Mail  135/1394 (9%)  latest: Armor of ReflectionLoading /home/user/Test-Game/encyclopedia_magica_vol1.xlsx …
-Processing 1394 items with 3 workers …
-
-  1/1394 (0%)  latest: Cloaked Wizardry  2/1394 (0%)  latest: Anything Item  3/1394 (0%)  latest: Aquatic  4/1394 (0%)  latest: Racial Enhancements
-  JSON parse error [Weightless Item]: Expecting value: line 1 column 1 (char 0)
-  5/1394 (0%)  latest: Weightless Item  6/1394 (0%)  latest: Amulet of Charm Resistance  7/1394 (0%)  latest: Amulet of Caterpillar Control
-  JSON parse error [Drow Treasure]: Unterminated string starting at: line 18 column 12 (char 1651)
-  8/1394 (0%)  latest: Drow Treasure  9/1394 (0%)  latest: Amulet of Charming  10/1394 (0%)  latest: Amulet of Cheetah Speed  11/1394 (0%)  latest: Amulet of Communication  12/1394 (0%)  latest: Amulet of Dragon Warding  13/1394 (0%)  latest: Amulet of Finding  14/1394 (1%)  latest: Amulet of Dramatic Death  15/1394 (1%)  latest: Amulet of Furyondy's
+  5/1405 (0%)  latest: Weightless Item  6/1405 (0%)  latest: Amulet of Caterpillar Control  7/1405 (0%)  latest: Amulet of Charm Resistance  8/1405 (0%)  latest: Amulet of Charming  9/1405 (0%)  latest: Drow Treasure  10/1405 (0%)  latest: Amulet of Cheetah Speed
