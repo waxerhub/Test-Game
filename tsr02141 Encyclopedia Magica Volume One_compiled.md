@@ -3919,3 +3919,493 @@ FN
 
 ---
 
+<!-- page 46 -->
+
+Man Anchor
+
+ss 4
+
+stock), and two curved lower arms (the crown)
+having widened ends (the flukes). Attached to a
+chain or rope (the cable), it is tightly secured to
+the ship. The depth of the water can be deter-
+mined, if desired, by marks on the chain or rope
+once the anchor rests on the bottom. Most ordi-
+nary anchors are made of iron, though other
+materials, usually metal, may be used. A magical
+anchor may be of any size or material, but always
+shaped like a ship's anchor. Roll on the table
+below to determine the type,
+
+Roll Anchor Type
+01-70 Anchor
+71-80  Anjar
+81-90 Bawara
+91-00 = Sinn
+Aerial
+
+XP Value: 3,000 GP Value: 22,500
+
+The Book of Marvelous Magic
+This 3-inch-long, miniature golden anchor needs
+only a thread or string as a cable. When dropped
+from any flying device or creature, it keeps the
+creature or object steady at a point in the air,
+despite air movements or storms of any kind. It
+can also be thrown upward and commanded to
+secure itself where it stops, and cannot be moved
+until the command to release is given. Normal
+thread or string used as its cable supports up to
+3,000 pounds of weight for as long as the user
+can hold on (approximately one hour per point of
+Strength).
+
+Aerial II
+XP Value: 2,000 GP Value: 18,000
+Champions of MystaRA™
+
+This 3-inch-long, miniature golden anchor also
+uses a thread or string for a cable. When dropped
+from a flying device or creature, it maintains its
+burden, fixed at that point in the air, regardless of
+air movements or storms. The only danger is that
+the thread might break. For every five tons of
+ship's tonnage, there is a 5% chance the thread or
+string breaks in any wind stronger than a light
+breeze. Double the chance of breakage for nor-
+mal winds; triple it for high winds.
+
+Some aerial anchors come equipped with a
+magical cable. This anchors any skyship in any-
+thing less than high winds. Tn high winds or a
+storm, however, the cable has a 5% chance of
+breaking per every 50 tons of ship's Tonnage.
+
+Fishing
+XP Value: — GP Value: 5,000
+The Book of Marvelous Magic
+
+A fishing anchor functions as a seafaring
+anchor, However, once dropped in a sea or
+ocean, there is a 25% chance per use of attract-
+ing a sea serpent or sperm whale. If so, the
+creature swallows the anchor and attempts to
+leave. A lesser sea serpent can tow a vessel hav-
+ing 25 hull points or less; a greater sea serpent
+can tow a vessel having up to 75 hull points;
+and a sperm whale, a vessel up to 150 hull
+points. Towing speed is half normal swimming
+speed for the monster. If the creature hooked
+cannot tow the vessel, it surfaces and attacks.
+Once a creature swallows it, the anchor is no
+longer able to hoist itself. In this event its cable
+can be cut and the anchor lost, or a party can be
+sent underwater to deal with the monster and
+retrieve the anchor.
+
+Hold Fast
+
+XP Value: 800 GP Value: 4,000
+POLYHEDRON Newszine 79
+
+This magical item fashioned of silver and iron
+weighs only 3 pounds. When the command words
+"hold fast" are spoken and the anchor is tossed
+over the side of a ship, it magically imbeds itself
+in the sea floor and holds any vessel weighing up
+to 20 tons. Even the worst storms cannot affect
+the anchor's ability to holdfast.
+
+The anchor holds a ship with a thin, invisible
+rope 300 feet long. If the rope is cut, both the
+rope and the anchor lose all magical properties.
+The anchor rope is treated as AC 0 and is
+impervious to all damage save that from edged
+weapons; 30 points of damage must be deliv-
+ered in one round to sever the rope. The anchor
+cannot hold ships that try to anchor in water
+deeper than 300 feet or weighing more than 20
+tons.
+
+Man
+XP Value: 3,000 GP Value: 22,500
+The Book of Marvelous Magic
+This item appears and functions as a seafaring
+anchor in all respects. However, it may also be
+commanded to animate. This means the
+anchor’s stock grows arms with clawed hands
+(#AT 2, Dmg 1d6 each) and the crown becomes
+a set of moving legs that generate flukes for
+
+fins and can swim (60 feet per round). The
+86
+
+45
+
+---
+
+<!-- page 47 -->
+
+(continuing from previous page — this is a continuation of the Seafaring Anchor section, then Anchor of Staying, from *The Book of Marvelous Magic* and *War Captain's Companion*)
+
+## Seafaring Anchor (Animated)
+
+The anchor can be animated only when it is touching salt water. It is neither intelligent nor alive, and immune to most spells; its iron body (AC 0; 50 hp) is not easily damaged. The anchor man can stand watch, but communicates only by tugging on the cable — once for sighting humanoids, twice for dangerous or very large fish, and three times for other monstrous forms. It defends itself only if attacked. It returns to the ship if reduced to 10 hit points or less, if commanded to hoist itself, or returns if it has been ordered previously to return instead of signaling. The anchor man disintegrates if slain, and when removed from the water turns back into an ordinary, inanimate anchor. It may be animated once per day.
+
+## Seafaring Anchor
+
+**XP Value:** 2,000 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This anchor is 2 feet long and weighs 100 pounds. When commanded, it magically lengthens its cable either to any named length or until the anchor touches bottom; the cable's maximum length is one mile. It also shortens its cable on command and requires no capstan (cable winch).
+
+## Anchor of Staying
+
+| Type    | XP Value | GP Value |
+|---------|----------|----------|
+| Cursed  | —        | 2,000    |
+| Greater | 500      | 5,000    |
+| Lesser  | 300      | 3,000    |
+
+*Source: War Captain's Companion*
+
+This item appears as a standard anchor, except for the faint magical aura radiating from the anchor and its chain. When pitched over the side of a ship moving at tactical speed, the anchor comes to rest on the gravity plane, stopping the ship (reduces SR to 0). The ship becomes stationary with respect to the closest Class A or greater celestial body. When the anchor is pulled up, the ship can move once again.
+
+The anchor can be dropped while moving at spelljamming speed, but with dire consequences. The ship instantly stops, while everything in the ship tries to continue forward. All crew members suffer 3d10 points of damage (save vs. spell for half damage). Unsecured items must roll a save vs. falling or be broken. Typical anchor variations include:
+
+**Lesser anchor of staying:** This item gives off a faint auburn aura when cast over the side. It can stop a ship powered by a minor helm, but its dweomer is not sufficient to halt a ship with a major helm. A ship with a major helm or equivalent is only slowed by 3 SR (to a minimum of SR 1).
+
+**Greater anchor of staying:** This item gives off a faint bluish aura when cast over the side. It can be used on any spelljamming ship. Its dweomer is sufficient to stop a ship powered by the equivalent of a major helm.
+
+**Cursed anchor:** While all tests and divinations show this item to be a greater anchor of staying, when activated it moves the ship toward the nearest body greater than 10 tons at an SR of one. The motion is at first so subtle it is virtually undetectable; except for the fact that a planet or ship can be seen (eventually) moving toward the ship. The ship gradually accelerates to spelljamming speed. If the anchor has been in place for 24 continuous hours, it cannot be pulled in. Only by the use of a *remove curse* on the item itself can the cursed anchor be brought back into the ship, and the motion stopped. After 24 hours under the effects of the cursed anchor, a spelljamming helm ceases to function.
+
+---
+
+<!-- page 48 -->
+
+## Anchor of Weight
+
+**XP Value:** — &emsp; **GP Value:** 8,000
+
+*Source: The Book of Marvelous Magic*
+
+This item is identical to an aerial anchor. However, there is a 50% chance that suddenly, magically, it weighs 2,000 pounds, dragging the user down. The victim can stop the plunge by cutting the cable immediately or by snapping it, determined by a standard "open doors" roll. If the cable is severed, the anchor of weight vanishes upon hitting the ground.
+
+---
+
+Ankhs are tau crosses with a loop at the top. They are generally used as a symbol of endurance, continuation, and creation—all symbols of life. Originally an Egyptian symbol, ankhs have found popularity among the northern cultures. Often the tau itself can be found without the rounded or looped top, but these are considered cruciforms.
+
+## Ankh of Life
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Old Empires*
+
+This powerful symbol of divinity was lost millennia ago in the Orcgate Wars. It was the holy symbol of the manifestation of Re. It is a worn and dirty rod of birchwood, without any ornamentation, 1-foot-long, in the shape of an ankh.
+
+It has the following powers: continual light (at will), destroy undead 30' radius (3/day), regenerate (3/day), restoration (3/day), resurrection (2/day).
+
+The destroy undead power slays all undead of less than 7 HD (or levels), and inflicts 12d8 points of damage (no saving throw) on all undead of 7 Hit Dice or higher.
+
+If used by a mortal, the ankh drains one level of experience each time a power is used (and only a wish directly granted from a deity can restore the lost level).
+
+This relic is sought after by the priests of Horus, Ra, and Osiris, as they wish to place it with the mummified body of the manifestation of Ra in the Tower of Eternity in Skuld. Anyone who presents it to an incarnation or manifestation of either god will be richly rewarded.
+
+## Nithian Ankh
+
+*Source: Kingdom of Nithia*
+
+| Immortal | XP Value | GP Value |
+|----------|----------|----------|
+| Ixion | 200 | 2,000 |
+| Kagyar | 300 | 3,000 |
+| Pflarr | 250 | 2,500 |
+| Rathanos | 200 | 2,000 |
+| Valerias | 200 | 2,000 |
+
+Many of these are worn in Nithia. A few of the ankhs are magical tokens given by the Immortals, usually in time of need and as rewards for worthy deeds.
+
+The powers of the ankhs vary depending upon which Immortal created the talisman. However, regardless of which Immortal created the ankh, its power only works once. When a magical ankh is grasped, it glows with a brilliant pure light allowing sight in darkness up to 20 paces in all directions. Ankh powers are listed below:
+
+| Immortal | Effect |
+|----------|--------|
+| Ixion | Shoot a flaming stream causing 1d6 damage per level. |
+| Kagyar | Walk through stone. |
+| Pflarr | Memorize twice the normal number of spells. Caster cannot memorize new spells until the excess is used. |
+| Rathanos | Summon a fire elemental. |
+| Valerias | Enchant a weapon to +1. |
+
+---
+
+<!-- page 49 -->
+
+~wy, Ankh of Power _
+
+of Power
+XP Value: — GP Value: —
+Legends & Lore
+Each of the gods of the Great Ennead has the
+power to create an ankh ofpower at will. In prac-
+tice, however, they are rarely manufactured. It is
+believed that fewer than a dozen of these price-
+less objects exist.
+
+In the hands of a priest who worships a mem-
+ber of the Great Ennead, an ankh of power glows
+as ifunder the influence ofa continual light spell.
+The light is pure and holy, having the power to
+drive away any undead creature it shines upon.
+Any attempt to conceal or darken the light is an
+affront to the gods and results in the instant
+destruction of the ankh.
+
+Any healing spell cast by a priest while holding
+the ankh in hand is at double effectiveness. Fur-
+ther, as long as the object is in his or her posses-
+sion, the priest is immune to all forms of poison
+and disease, including such unusual afflictions as
+mummy rot and lycanthropy. Lastly, an ankh of
+power can cast a sunray spell three times per day
+ifthe priest speaks a command word unique to
+the individual ankh.
+
+Ra's
+XP Value: — GP Value: —
+Legends & Lore
+
+Ra's avatar can use his ankh to instantly destroy
+
+any form of undead creature or any being that is
+
+not on its home plane.
+
+True
+XP Value: — GP Value: —
+DEITIES & DEMIGODS™ Cyclopedia
+
+This magical device, carried by all ofthe gods of
+the Nile at one time or another, enables them to
+raise any dead creature (as the spell) as long as all
+of the body parts are present at the time of the
+raising. The device kills by fire any nondivine
+being that touches it. Tt is about 1-foot long,
+shaped like a cross with a loop on the top. It is
+usually bright blue in color. There are only seven
+of these in any given plane at any one time. Non-
+magical ankhs are used as holy symbols by many
+priests of Egyptian deities.
+
+Anklet
+
+A strip of leather or metal with a hasp on each
+end, this jewelry is usually ornate, adorned with
+gems. In use, it is fastened around the ankle. It
+
+does not function if fastened to any other part of
+the body and cannot be used by a legless creature.
+Anklets may be found singly or in pairs, but a
+pair found together need not match. Any magical
+anklet has two command words—one to lock,
+and one to unlock. When locked, an anklet cannot
+be opened except by destruction, by command, by
+a remove curse applied by a !5th- or higher-level
+caster, or by a dispel magic spell, the anklet
+treated as 30th fevel. A magical anklet cannot be
+damaged by force, even by magical weapons, but
+may be destroyed by dragon breath or by damage
+causing spells. Each anklet can withstand 20
+points of damage. An anklet cannot be placed on
+an unwilling victim unless the creature is para-
+lyzed, unconscious, or dead.
+
+Equus
+
+XP Value: 2,000
+DUNGEON Magazine 22
+
+An equus is a magical piece ofjewelry that, upon
+command, polymorphs into some form of a beast
+of burden. The word "equus" (plural “equi™)
+comes from an ancient language and has no lit-
+eral translation in the common tongue. The clos-
+est translation is "beast of burden" or “horse,” but
+the word can be applied to anything that is used
+like a horse. Thus, an actual horse, mule, worg,
+camel, dog-sled team, nightmare, or any other
+creature that can be ridden, used to pull a load, or
+carry goods can be termed an equus. Equi come
+in many different varieties, with the most com-
+mon listed below. While 80% of equi are either
+good or neutrally aligned, 20% polymorph into
+evil creatures such as nightmares, worgs, and
+giant spiders. It is said that the death knight Shan
+Nikkoleth once possessed an equus that polymor-
+phed into gorgon form.
+
+The anklets are invariably made of silver, one
+side engraved with the image of the creature it
+becomes and the reverse etched with the com-
+mand word.
+
+GP Value: 8,000
+
+Creature List
+The DM may choose the form of the creature into
+which the equus polymorphs from the following
+table: The jewelry formpolymorphs into one type
+of creature only. A DM who prefers to roll ran-
+domly should add the roll of 1d8 to that of 1d12
+and consult the table below. The DM should use
+only a creature he or she feels comfortable with
+
+and is sure will not give the PC an unfair advan-
+95
+
+FO
+
+48
+
+---
+
+<!-- page 50 -->
+
+Anklet of Hobbling
+
+See
+
+tage in the campaign. Different creatures can be
+added to or deleted from the list as the DM sees
+fit. Any of the following creatures that do not
+appear on Table 49 in the PHB should be consid-
+ered equal to a heavy horse in movement rate and
+encumbrance.
+
+If an equus is slain (reduced to 0 hit points or
+fewer) in creature form, the creature immedi-
+ately reverts to anklet form and cannot change
+into a creature again. Damage to the creature
+form of the equus can be healed magically by
+cure wounds spells. If the creature is allowed
+food and rest, it heals naturally at the rate of
+one hit point per day. However, the equus can
+neither heal itself nor be healed while in anklet
+form.
+
+Roll
+02
+
+Creature
+
+Unicorn: AC 2; MV 24; HD 444; hp 28;
+THACO 15; #AT 3 (hooves and horn);
+Dmg 1d6/ld6/ldl2; SA charge, +2 to hit
+when attacking with horn, -6 penalty to
+opponents' surprise rolls; SD teleport,
+immune to poison, charm, hold, and
+death spells; can sense approach of
+enemy at 240 yards distance; makes all
+saving throws as 1 1th-level wizard; ML
+14; AL CG. The unicorn's Intelligence is
+8-10 (1d4+8). It can be ridden only by
+female characters; if a male character
+rolls the unicorn, use the ultraheavy war
+horse (#20) instead.
+
+Giant stag: AC 7; MV 21; HD 5;hp
+30; THACO 15; #AT 1 (antlers) or 2
+(hooves); Dmg 4d4 or 1d4/1d4; ML 14;
+ALN. This creature's Intelligence is
+4-7 (1d4+3).
+
+Bull: AC 7; MV 15; HD 4; hp 24;
+THACO 15; #AT 2 (horns); Dmg
+1d6/ld6; SA charge; ML 15; ALN. The
+bull has an Intelligence of 4-7 (Id4+3).
+Superheavy war horse: AC 6; MV 15;
+HD 4+4; hp 28; THACO 15; #AT 3
+(hooves and bite); Dmg 1d8/1d8/1d4;
+§D.30' infravision, immunity to all hold
+and charm spells; ML 16; AL NG. This
+horse has an Intelligence of 7-12
+(1d6+6).
+
+09-13. Heavy war horse: AC 7; MV 15; HD
+
+4+4; hp 21; THACO 17; #AT 3 (hooves
+
+and bite); Dmg 1d8/1d8/ld4; ML 15;
+
+AL N. Intelligence is 5-8 (1d4+4).
+
+03
+
+04-05
+
+06-08
+
+14-16 Superheavy war horse (special): Same
+as above (roll of 6-8), though it has MV
+18,a 40-!b. bonus on its carrying capac-
+ity load limits, and no infravision.
+17-18 Camel: AC 7 MV 21; HD 3; hp 18;
+THACO 17; #AT 1 (bite); Dmg 144; SA
+spitting; ML 14; AL N. This camel is of
+a more mellow disposition than its
+meaner cousins and has an Intelligence
+of 4-7 (1d4+3).
+Water buffalo: AC 7; MV 15:HD 5;
+hp 30; THACO 15;#AT 2 (homs); Dmg
+1d8/ld8; ML 16; AL N. This water buf-
+falo has an Intelligence of 4-7 (1d4+3),
+Ultraheavy war horse: AC 5; MV 24;
+HD 5+5; hp 35; THACO 15; #AT 3
+(hooves and bite); Dmg 1d8/ld8/ld4;
+SD 60’ infravision, immunity to poison
+and all hold and charm spells; ML 18;
+AL LG. This special horse can under-
+stand but not speak the common tongue
+and is able to use animalfriendship and
+pass without trace spells three times per
+day each, locate animals or plants once
+per day, and water walk once per week.
+This horse has an Intelligence of 9-16
+(1d8+8),
+
+19
+
+20
+
+of Growth
+XP Value: —, GP Value: 1,200
+The Book of Marvelous Magic
+
+This anklet appears and functions as an anklet of
+levitation in all respects. However, it also causes
+the wearer's leg to grow at the rate of 1 inch per
+turn (or part ofa turn) for as long as it is worn. The
+victim's Dexterity score drops by 2 points per foot
+(two hours) of growth: if two anklets are worn,
+both legs grow evenly, and Dexterity drops by only
+one point per foot of growth. The anklet may be
+removed by the usual methods. The magical
+growth and loss of Dexterity can be negated only
+by a remove curse cast caster of at least 26th level
+or by a wish. Although either remedy instantly
+restores the victim to normal size and Dexterity,
+the anklets, wherever they are, disintegrate.
+
+of Hobbling
+XP Value: 600 GP Value: 6,000
+The Book of Marvelous Magic
+When locked on an ankle, this item causes the
+victim to move at 4normal rate. If two are used,
+
+only normal rate is possible.
+97
+
+Zo
+
+49
+
+---
+
