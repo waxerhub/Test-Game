@@ -19864,3 +19864,789 @@ This device can be made of ivory, bone, or any hard mineral. It is about the siz
 
 ---
 
+<!-- page 352 -->
+
+When the force screen is up, the following attacks cost extra charges from the cube in order to maintain the integrity of the screen. Note that these spells cannot be cast either into or out of the cube.
+
+| Attack Form | Extra Charges |
+|---|---|
+| Catapult-like missiles | 1 |
+| Very hot normal fires | 2 |
+| Horn of blasting | 6 |
+| Delayed blast fireball | 3 |
+| Disintegrate | 6 |
+| Fire storm | 3 |
+| Flame strike | 3 |
+| Lightning bolt | 4 |
+| Meteor swarm | 8 |
+| Passwall | 3 |
+| Phase door | 5 |
+| Prismatic spray | 7 |
+| Wall of fire | 2 |
+
+## Cube of Frost Resistance
+
+**XP Value:** 2,000 &emsp; **GP Value:** 14,000
+*Source: DUNGEON MASTER Guide*
+
+When this cube is activated it encloses an area 10 feet per side, resembling a cube of force. The temperature within this area is always 65° F. The field absorbs all cold-based attacks (cone of cold, ice storm, and even white dragon's breath). However, if the field is subjected to more than 50 points of cold damage in any turn (10 rounds), it collapses and cannot be renewed for one hour. If it receives over 100 points of damage in one turn, the cube is destroyed.
+
+Cold below 0° F. effectively inflicts two points of cold damage on the cube for every -10°, so that the cube is at -2 points when the temperature of the attack is at -1° to -10° F., -4 points at -11° to -20°, etc. Thus, at -40° F. the device can withstand only 42 points of damage.
+
+## Cube of Glow
+
+**XP Value:** 80 &emsp; **GP Value:** 800
+*Source: DRAGON Magazine #30*
+
+The glow cube is a 1-inch-square cube of wood that glows a pale green. It gives off too little light to see by, but is visible from as far as 90 feet away in a dark room. These were originally used to mark the edges of the paths in the Orlow gardens.
+
+## Cube of Ice
+
+**XP Value:** 70 &emsp; **GP Value:** 700
+*Source: The Book of Marvelous Magic*
+
+When dropped into any liquid, this cube causes up to 1,000 cubic feet of the liquid to freeze solid. The cube then pops out of the frozen material and is easily recovered. It may not be used more than once per day. Freezing destroys any potion except poison and causes most drinks (ale, beer, wine, etc.) to spoil.
+
+## Khurgorbaeyag's Copper Cube
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: Monster Mythology*
+
+He carries a small, copper cube that can be thrown at a target and expands into a 10-foot, cubic forcecage; those inside are affected as by a symbol of hopelessness (normal save vs. spell to negate).
+
+## Cube of Liquid Cooling
+
+**XP Value:** 18 &emsp; **GP Value:** 90
+*Source: DRAGON Magazine #73*
+
+A 1-inch cube of a hard, white, translucent material, with slightly rounded edges and corners. When placed in no more than 16 ounces of liquid, at an initial temperature of no more than 130 degrees, it will slowly cool the liquid to 35 degrees and maintain it at that temperature indefinitely. It will not affect more than 16 ounces, and if placed in a liquid hotter than 130 degrees it will disintegrate.
+
+## Cube of Luck
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: The Book of Marvelous Magic*
+
+This cube is identical to an ice cube but, if it is used as one, it functions only once and is then destroyed. If used to gamble (as a 6-sided die), all those seeing the cube believe it to be a normal die. The result of the roll, though, is whatever the user desires, seen by all! However, if used for more than six rounds, all viewers may make a saving throw vs. spell; those who fail the saving throw continue to believe the illusion, but others see it as the actual featureless cube and may (75% chance) become enraged and attack the user. Legal prosecution is also possible, as this use of the cube is an unlawful act.
+
+---
+
+<!-- page 353 -->
+
+## Cube of Sweetness
+
+**XP Value:** 5 &emsp; **GP Value:** 25
+*Source: The Book of Marvelous Magic*
+
+This cube appears to be an ice cube. If offered to any ordinary, nonmagical creature of animal intelligence, the beast may eat it (+3 bonus to reaction roll). If the cube is eaten, the creature becomes charmed by the user (no saving throw, standard duration). The cube reappears in the user's pocket 24 hours later. This charm does not improve communication, but it certainly encourages obedience. Each use of the cube costs one charge, and the cube has 2d10 charges when found.
+
+---
+
+# Cup
+
+A cup is an open container, generally made of metal, glass, crystal, or china. A cup usually has one handle and is used to drink hot beverages — usually coffee or tea. A cup can be almost any size, but the usual capacity ranges from a few ounces to one pint. A chalice (see Chalice) is simply a metal cup without a handle.
+
+## Cup of Al'Akbar
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Book of Artifacts*
+
+The cup of Al'Akbar is hardly an inconspicuous item. It is a large chalice, big enough that, were it filled, it would take two hands to lift. The vessel is made of hammered gold and chased with a silver filigree. Twelve great gems (each worth 5,000 gp) are set in mounts of electrum to form a band around the rim. Overall, the craftsmanship is clearly the work of a goldsmith of extraordinary skill and artistry. Although it does not radiate magic, the cup is always bathed in a golden aura.
+
+**Constant Powers:** Anyone of good alignment who touches the cup receives the benefits of a *bless* spell. This lasts for 24 hours.
+
+**Invoked Powers:** The powers of the cup are activated by filling it with holy water, usable once per day. If all of the water is drunk, it acts as a *cure critical wounds* or *neutralize poison* spell, or it can be divided into three portions that act as *cure light wounds* spells, although these fade in 12 hours.
+
+**Legend:** The cup and talisman of Al'Akbar (see Talisman) are major holy relics. The two artifacts are always associated with a powerful god or goddess of healing, although the DM must select exactly which one is most appropriate from those in the campaign. In a FORGOTTEN REALMS setting, Lathander could be used, while in the GREYHAWK campaign, Pelor would be appropriate. (Note that these items are not found in DARK SUN campaigns.)
+
+No matter what the faith, according to the sect's dogma, the cup and talisman were given by the deity after a great disaster that brought untold devastation and suffering to the land. The two items appeared before the high priest in a dream. When the clergyman awoke, the cup and talisman were there, still sparkling with the radiance of the deity. Blessed with the items and the knowledge of their use, the holy man went out and cured the multitude of sick and injured people.
+
+Unfortunately, the miraculous powers of the cup and talisman did not bring happiness to the people nor peace to the temple. When travelers returned to their distant homelands with tales of these two wonders, emperors, kings, and warlords coveted the items. Driven by greed and fear, they marched their armies and sent their agents to seize the treasures.
+
+Just what battles occurred and who won them is lost along with the names of those who fought for the artifacts. Perhaps one was victorious over the others only to have both treasures seized. Perhaps they were stolen. What is known is that when the wars finally ceased, they had disappeared forever.
+
+Even today, however, the legend of their miraculous power lives on in expressions such as "cured by the cup" for any miraculous healing or "By the star of Akbar," an oath to ward off disease.
+
+The cup and talisman of Al'Akbar, because of their powerful healing abilities, are both excellent items for the PCs to acquire and use, and yet unbalancing devices that are best taken out of player characters' grasp quickly in any campaign where they appear. The cup and talisman can be immensely useful items in an incredibly dangerous adventure where the characters frequently face horrible injury and death. These two artifacts may be vital for keeping the characters alive long enough to have a hope of concluding the adventure.
+
+The DM should not use the cup and talisman more than once in this manner. The powers of the cup and talisman allow the PCs to flaunt death and perform supremely heroic acts, but if this risk
+
+---
+
+<!-- page 354 -->
+
+(This page is a continuation of the **Cup and Talisman of Al'Akbar** artifact entry, followed by several **Cup**, **Curtain**, and **Cushion** items.)
+
+---
+
+is removed from all adventures, things grow dull very quickly.
+
+Ideally, the characters find the cup, talisman, or both as the prelude to an even more harrowing task. The characters need the life-giving powers of these artifacts in order to travel to the Outer Planes (where their own magic will not function) and defeat a great foe. The items may be needed to survive a perilous journey of great importance.
+
+Furthermore, the cup and talisman are of great interest to nearly everyone. Followers of the original deity will want their relics returned. Warlords will want the healing power for their armies. Wizards may covet the potion making powers of the items. Characters must be ready to fight to keep them.
+
+Once their need has passed, the artifacts should be removed. Ideally, the characters return the relics to their proper masters, or else they finally fall prey to the relentless efforts to buy, steal, or seize the items. If absolutely necessary, the original deity can appear and claim the items. Woe to the characters who would at this point be foolish enough to refuse.
+
+**Suggested Means of Destruction:**
+
+- The cup must be filled with water from the river Styx and the talisman dissolved in it.
+- Ten thousand curses must be cast upon the talisman, and then it must be struck against the cup, destroying both.
+- They must both be touched by the deity of disease and death.
+
+---
+
+## Cup of Wine
+
+**XP Value:** 60 &emsp; **GP Value:** 600
+*Source: DRAGON Magazine #73*
+
+Once per day this cup turns ordinary water within it into high-quality wine. No magic word is required.
+
+---
+
+## Curtain
+
+A curtain is a piece of fabric that is hung over a window to keep light and prying eyes out of a room. They are generally hung with a series of rings on a metal rod mounted on an interior wall. Curtains are also used to partition rooms and provide privacy.
+
+---
+
+## Curtain of Death
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: The Book of Marvelous Magic*
+
+These are identical to curtains of spying, but the first character to notice them must make a saving throw vs. death magic with a −5 penalty to the roll, or die. After slaying one victim, they become nonmagical.
+
+---
+
+## Curtain of Scenery
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+These curtains will, upon command, display any indoor or outdoor scene upon which the user concentrates. They read the user's memory to create the scene. The scene may be changed once an hour.
+
+---
+
+## Curtain of Spying
+
+**XP Value:** 1,800 &emsp; **GP Value:** 9,000
+*Source: The Book of Marvelous Magic*
+
+These appear to be ordinary curtains when viewed on one side, but they are transparent from the other side. They function as one-way observation devices. When found, there is a 70% chance they are lying about wrong-side up and are undetectable unless touched or a *detect invisibility* spell used.
+
+---
+
+## Cushion of Regeneration
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: POLYHEDRON Newszine #43*
+
+Usually found mixed with bedclothes or on furniture, this magical cushion doubles the rate at which hit points are regained and cuts in half the time needed in rest to regain spells, etc. Time must be spent actually reclining against the cushion.
+
+---
+
+<!-- page 355 -->
+
+*[Page 355 contains no recoverable text — the OCR output consists entirely of scanning artifacts and noise with no legible content.]*
+
+---
+
+<!-- page 356 -->
+
+# Dagger
+
+These small weapons resemble swords. The blades, usually 6 to 12 inches in length, are double edged and are intended for stabbing or slashing. Many dagger blades have "blood grooves" (called "fullers") down their centers to help to make them lighter in weight. Magical daggers often have runes inscribed along the blade, along with the encrypted name of its maker or original owner. (Often, sneaky weaponsmiths engrave nonsense runes along a dagger's blade in order to raise the price).
+
+| Roll  | Dagger Type                   |
+|-------|-------------------------------|
+| 01–02 | Arm Blade                     |
+| 03–05 | Bard's Friend                 |
+| 06–07 | Bich'wa                       |
+| 08–09 | Bone Dagger                   |
+| 10–12 | Bone Knife                    |
+| 13–14 | Boot Knife                    |
+| 15–16 | Buckle Knife                  |
+| 17–19 | Cinquedea                     |
+| 20–21 | Dagger                        |
+| 22–23 | Dirk                          |
+| 24–26 | Folding Knife*                |
+| 27–28 | Gunsen                        |
+| 29–30 | Iron Fan                      |
+| 31–33 | Juak                          |
+| 34–35 | Jambiya                       |
+| 36–37 | Khanjar                       |
+| 38–40 | Khanjarli                     |
+| 41–42 | Katar                         |
+| 43–44 | Kidney Dagger                 |
+| 45–47 | Machete                       |
+| 48–49 | Main-gauche                   |
+| 50–51 | Needle Dagger                 |
+| 52–53 | Parang                        |
+| 54–56 | Parrying Dagger               |
+| 57–58 | Peshkabz                      |
+| 59–60 | Pih-kaetta                    |
+| 61–63 | Puchik                        |
+| 64–65 | Push Knife                    |
+| 66–67 | Razor                         |
+| 68–70 | Sai                           |
+| 71–72 | Saw-backed Knife*             |
+| 73–74 | Scissors Katars               |
+| 75–77 | Siangkam                      |
+| 78–79 | Snow Blade                    |
+| 80–81 | Spike* (dagger option)        |
+| 82–84 | Spring-out (switchblade)      |
+| 85–86 | Stiletto                      |
+| 87–88 | Stone Dagger                  |
+| 89–91 | Stone Knife                   |
+| 92–93 | Throwing Knife                |
+| 94–95 | Tortoise Blades               |
+| 96–98 | Widow's Knife                 |
+| 99–00 | Wrist Razor                   |
+
+---
+
+<!-- page 357 -->
+
+## Abbathor's Dagger
+
+**XP Value:** 750 &emsp; **GP Value:** 3,750
+*Source: Monster Mythology*
+
+Abbathor's avatar has a jeweled dagger +4 that detects precious metals within 20 feet.
+
+## Dagger of Alignment Detection
+
+**XP Value:** 100 &emsp; **GP Value:** 600
+*Source: DRAGON Magazine #91*
+
+This weapon is a well-made dagger with five small gems set in the hilt. It radiates magic. When a command word is spoken and the dagger is pointed casually in the direction of a person or object within 30 feet, one or more of the jewels glows to indicate the subject's alignment. The usual codes are:
+
+| Stone    | Alignment |
+|----------|-----------|
+| Emerald  | Good      |
+| Diamond  | Neutral   |
+| Ruby     | Evil      |
+| Topaz    | Chaotic   |
+| Sapphire | Lawful    |
+
+Thus, the emerald and sapphire set in an alignment dagger glow if it is pointed at a lawful good character. The target to be identified must be visible to the holder of the dagger. The pointed weapon does not discriminate well; if it is pointed in the general direction of more than one creature or object that has a different alignment, the gems will glow alternately in rapid succession, making their message difficult to interpret. The alignment dagger is a normal weapon in all other respects, giving the holder no combat bonuses.
+
+## Aphrodite's Dagger
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: Legends & Lore*
+
+Aphrodite's avatar carries a dagger that causes anyone struck by it to save vs. spell or be instantly charmed.
+
+## Dagger of Armor Piercing
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,500
+*Source: POLYHEDRON Newszine #47*
+
+This small, magical throwing dagger has the ability to pass through any physical protection (shields, helmets, armor), rendering the target base AC 10. All magical protections (rings, bracers, and the like) and Dexterity bonuses still apply.
+
+---
+
+<!-- page 358 -->
+
+## Dagger of Baravar Cloakshadow's
+
+**XP Value:** 1,500 &emsp; **GP Value:** 10,000
+
+*Source: Monster Mythology*
+
+His dagger +4 drips paralyzing venom that immobilizes victims for 1d8 rounds.
+
+## Dagger of Blackflame
+
+**XP Value:** 22,000 &emsp; **GP Value:** 175,000
+
+*Source: The Five Shires*
+
+This normal-appearing dagger has powers quite different from a sword of blackflame. It is a dagger +2 that can extinguish all flames it touches, affecting a 10-foot, spherical area per round. Flames caused by a continuing process, such as a lava flow, will reignite 1d6+5 rounds after the dagger's touch. This automatic power occurs whenever an unsheathed dagger of blackflame comes into contact with flames.
+
+The dagger's flame-quenching power allows safe passage through flames. Note that blast effects, intense heat, and hazards such as falling timbers can still harm creatures using the protection of such a weapon to pass through a burning building. Once every turn any absorbed flames can be released as a spurt of flames extending in a line up to 40 feet long from the dagger's tip, by the wielder's use of a command word. All absorbed fire will be released at once; none can be saved for later. If the release of fire is unleashed as part of a physical attack, all flames will strike the target (add to physical damage) and will not spurt beyond it. The DM should estimate the fiery damage absorbed (and released) as 1d6 per round of normal fire, 10-foot radius absorption, and 2d6 per round of magical fire absorption.
+
+## Blade of Banishing
+
+**XP Value:** 4,600 &emsp; **GP Value:** 22,500
+
+*Source: DRAGON Magazine #169*
+
+This dagger twists any magical barriers, protections, and illusions that it touches. Whenever it grazes a being or an area under an illusion, protective magic, or magical barrier, there is a percentage chance that the dagger will destroy the magic. The weapon has a base 60% chance of success, plus a random bonus of 1d20%, minus 10% per level of the magic contacted (a shield spell is a 1st-level spell and gives a modifier of −10%). Percentile dice are rolled. If the roll is less than or equal to the modified chance of success, the dagger destroys the magic. If the roll is higher than the modified chance of success, the dagger has no effect (note that spells of 8th level or greater can never be affected).
+
+Consider all magical item effects to have the level of the item's creator, if known; otherwise, use one level greater than the level of any equivalent spell. The DM may choose to consider all unknown defensive magic to be 7th or 8th level, and all artifacts to be 12th level or greater. To act, the dagger need not be drawn or wielded. Its destructive nature is constant, regardless of the caster's wishes, and need not be activated or invoked. If thrown or thrust through a barrier that it does not bring down, the blade (and wielder, if in contact with it) suffers the magic's full normal effects. If the blade destroys the barrier, no damage is done to the wielder.
+
+## Bladestar
+
+**XP Value:** 2,700 &emsp; **GP Value:** 27,000
+
+*Source: Treasures of GREYHAWK*
+
+Also known as the haunted dagger, this small blade is ornate, with several jewels (rubies and sapphires) encrusted in its hilt. The metal of the blade is black steel, inscribed with various runes. If a *detect magic* spell is cast on the dagger, it reveals a powerful dweomer; *detect evil* reveals that the dagger is strongly evil. Any attempts to use an *identify* spell on the dagger will fail due to the presence of the haunt.
+
+The night that the dagger is taken, the haunt possessing the blade attacks and attempts to take over the person who carries it. If the owner engages the haunt in combat and reduces it to 0 hit points, it dissipates, only to return one week later, at which time it continues the pattern of taking over others until it finds one of compatible alignment (any nongood alignment).
+
+The haunt's alignment can be determined through use of a *know alignment* spell. If cast successfully, the party learns not only the alignment of the haunt, but also which alignments can survive the haunt's attentions. The haunt is chaotic evil, thus its host can be of any nongood alignment. Possessed characters of any good alignment attempt suicide.
+
+The haunt's task can be found by using a *speak with dead* spell. The spell needs to be cast at the haunt either just after it takes form (after dark), or while it is in the body of a suitable host. If the spell is successfully cast, Aliar Daraan reveals that he was killed only two days
+
+---
+
+<!-- page 359 -->
+
+## Brandobaris's Dagger
+
+**XP Value:** 1,150 &emsp; **GP Value:** 9,250
+
+*Source: Monster Mythology*
+
+The avatar wields a dagger +3 that can transform into a sling of seeking +2 if Brandobaris so wishes.
+
+---
+
+*(Continued from previous page — Bladestar entry)*
+
+before the dagger arrived in the City of Greyhawk. His task is to pass on information to a spy of the Cult of Iuz within the Thieves' Guild. The spy's name is Bey Wyvernthorn and he can be found in a secret cave located in the sewers near the Thieves' Quarter of the City. Under no circumstances does the haunt reveal exactly what his information is (the DM chooses whatever best suits the campaign).
+
+One way to lay the haunt to rest is to find a suitable volunteer and allow the haunt to complete its task (a volunteer might be found among the party, or among the close friends of any dead victim). Of course, by doing so, the party also has the opportunity to flush out a spy of the Cult of Iuz who is currently inside the Thieves' Guild of the City. If they attempt to go to the Thieves' Guild with the name of the spy, no one will believe them. Even if they approach the City Guard or Night Watch, they are not believed. They are told that "all of Iuz's followers got flushed a-coupala moons ago."
+
+Bladestar is a magical dagger of exceptional quality and craftsmanship. It is also an intelligent weapon of chaotic neutral alignment. The dagger is elegant, forged of a strange black metal. The handle of Bladestar is also made of black metal and wound with a dark red, patterned cord, which reveals the black metal beneath. Embedded in its pommel is a sapphire of deepest blue, encircled by an array of tiny diamonds. Its exquisite appearance hides a dark purpose, and great powers.
+
+Bladestar is an intelligent dagger +2. It communicates by telepathy only, and only with its wielder (Intelligence 15, Ego 11). It can detect invisible creatures and objects in a 10-foot radius. It can also charm person on contact (three times per day), as well as bestow a strength spell on the wielder (once per day). When used in a backstab attack, on a roll of 19 or 20, the blade inflicts the maximum damage. Thus, if used by a 2nd-level thief for a backstab attack, a roll of 19 or 20 inflicts 10 points of damage—dagger damage (4), times 2 for backstab attack (4×2 = 8), +2 for its magic bonus (8+2 = 10).
+
+Finally, Bladestar is a dagger of slaying lawful creatures. This ability can only be used successfully once per month. Any lawful creature struck by the weapon must make a saving throw vs. death magic or perish instantly.
+
+---
+
+## Buckle Knife
+
+| | **XP Value** | **GP Value** |
+|---|---|---|
+| +1: | 100 | 1,000 |
+| +2: | 200 | 2,000 |
+| +3: | 300 | 3,000 |
+| +4: | 400 | 4,000 |
+| +5: | 500 | 5,000 |
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This magical blade has a hilt that looks just like a large belt-buckle ornament or a complete small buckle. The hilt can be grasped easily and the weapon drawn from its belt sheath. The knife blade is short but has a very sharp point — it inflicts damage as a knife.
+
+| Roll | Bonus |
+|------|-------|
+| 01–03 | +1 |
+| 04–06 | +2 |
+| 07–08 | +3 |
+| 09 | +4 |
+| 10 | +5 |
+
+---
+
+## Buckler Knife
+
+| | **XP Value** | **GP Value** |
+|---|---|---|
+| +1: | 100 | 1,000 |
+| +2: | 200 | 2,000 |
+| +3: | 300 | 3,000 |
+| +4: | 400 | 4,000 |
+
+*Source: The Land Beyond the Magic Mirror*
+
+This magical weapon has a hilt that exactly resembles an ornament on a belt buckle. Its hilt can be grasped easily, and the weapon drawn from its sheath. The knife blade is short, but sharply pointed and keenly edged, so it inflicts damage just as a larger knife. There are four types:
+
+| Roll | Dweomer Type |
+|------|-------------|
+| 1–4 | +1 |
+| 5–7 | +2 |
+| 8–9 | +3 |
+| 10 | +4 |
+
+---
+
+<!-- page 360 -->
+
+## Dagger, Ceremonial
+
+**XP Value:** 350 &emsp; **GP Value:** 3,500
+*Source: The Assassin's Knot*
+
+This dagger +2 causes triple damage vs. lawful good priests. It has an Intelligence of 16, an Ego of 12, and has an alignment of Lawful Evil. Any character who is not lawful evil who picks it up takes 12 points of damage, no save; priests who are lawful good take 24 points.
+
+## Dagger, Chih-Nii's
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: Legends & Lore*
+
+Anyone hit by Chih-Nii's dagger must save vs. spell or fall asleep until awakened (this requires one round).
+
+## Dagger, Chill Blade
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Ruins of Myth Drannor*
+
+This weapon appears to be and can be used as a normal weapon. Up to three rounds in any turn, its magical chill power can be activated, causing the blade to glow with a pale, ghostly white radiance. When so empowered, a chill blade does an additional 1d4 points of damage per strike (no save to avoid), and forces any struck creature to save vs. spell.
+
+If the save fails, the victim's attack rolls are made at -1 for the next hour (further successful attacks cause a greater penalty, as follows: three attacks cause a -2 penalty, five attacks a -3 penalty, and so on). Any chill blade strike that is successfully saved against does not count in the numbering. Undead suffer only one hit point of damage from a chill blade strike, but must save vs. spell each time they are struck, or be forced to flee for 1d4+1 rounds.
+
+Activation is instantaneous and by will of the wielder. Activated or not, a chill blade itself saves against normal and magical cold, ice, and chill effects at +2. It does not confer such bonuses on its wielder.
+
+The enchantment of a chill blade requires a finely made dagger with a blade of ferrous metal, a piece of rock crystal, a snowflake or piece of ice, some sort of lightning or electrical discharge, and the casting of a *chill touch* spell.
+
+## Dagger of Concealment
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: Drums on Fire Mountain*
+
+This magical item takes the form of a plain, gold ring and has the properties of a ring of protection. However, a wearer can make the ring change instantly into a magical dagger or back into a ring. The ring can be changed into a dagger, used to make an attack, and changed back into a ring all in one round. Typical daggers of concealment give bonuses of +1 or +2 on attack rolls, damage, Armor Class, and saving throws. Daggers of concealment +3 are rumored to exist.
+
+## Dagger of Defiance
+
+**XP Value:** 3,500 &emsp; **GP Value:** 10,000
+*Source: The Ruins of Myth Drannor*
+
+This dagger is of normal appearance and damage, but any one being grasping it is instantly aided against certain magical effects and attacks.
+
+The wielder of a dagger of defiance is immune to all forms of fear and repulsion. A +3 bonus to saving throws against all enchantment/charm attacks is also gained, as well as a +1 bonus to saves against all polymorph and petrification effects. This protection lasts as long as the dagger is touched and cannot be exhausted, but can never extend to more than one being.
+
+The enchantment of a dagger of defiance requires doppleganger blood and a distilled essence of xorn flesh, and involves the casting of *fear* and *repulsion* spells.
+
+## Dagger, Dolphins' Bane
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: DRAGON Magazine #48*
+
+This dagger +1, created by sahuagin spellcasters, is a fairly common item among the sahuagin warrior coterie; it is +2 against dolphins.
+
+## Dagger of Doomwarding
+
+**XP Value:** 4,000 &emsp; **GP Value:** 8,000
+*Source: The Ruins of Myth Drannor*
+
+This +1 weapon has seven charges when first enchanted. It cannot be recharged, and once the charges are used, it becomes a simple dagger +1. A charge is drained whenever the being grasping the dagger's hilt wills it (the number of charges left can be felt at all times).
+
+Using a charge from a dagger of doomwarding allows its wielder an extra action or chance in bad situations: an extra, additional attack in a given
+
+---
+
+<!-- page 361 -->
+
+(Note: This page is a continuation of a section on Daggers. The first paragraph continues from the previous page and belongs to a Dagger entry not fully shown here. The items on this page are all daggers, so full names are prepended accordingly.)
+
+---
+
+round; an additional saving throw attempt; another bend bars/lift gates roll, and so on (the DM's decision as to what actually occurs is final). Only one charge may be expended per round.
+
+The enchantment of this type of weapon is said to require a powdered unicorn horn, or, even better, the touch of a living unicorn's horn to the blade.
+
+## Dagger, Dragon Fang
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: DRAGONQUEST Game*
+
+This slender knife was fashioned by a wizard in ages long past. The blade was carved from the tooth of a red dragon. When used in combat, it adds a +1 bonus to the hero's attack and damage rolls.
+
+## Dagger, Dragonfang
+
+**XP Value:** 3,000 &emsp; **GP Value:** 9,000
+*Source: The Ruins of Myth Drannor*
+
+This normal-appearing dagger does normal damage unless its power is invoked. It can emit a straight line, 90-foot-long lightning bolt from its tip four times a day (but only twice in any one turn). The bolt does 2d8+1 points of damage to all beings in its path (save vs. spell equals half damage).
+
+If the lightning is invoked as the dagger strikes a being, no bolt is produced, but the struck being takes the full lightning damage in addition to the dagger's physical bite. No saving throw is allowed the being, even if it is normally immune to such attacks. Any dragonfang dagger attack does double damage (no saves allowed) to all dragons, including oriental dragons, spacefaring and other-planar dragons, and dracoliches.
+
+## Dagger, Elven
+
+**XP Value:** 200 &emsp; **GP Value:** 1,600
+*Source: DUNGEON Magazine #17*
+
+This weapon, created for elven warrior commanders, is fashioned of a mithral silver and steel alloy. It possesses the ability to detect giant-class creatures at a range of 200 feet outdoors, 100 feet indoors or underground. The blade of the dagger glows a faint white-blue when such a creature is at the extreme range of its detection ability. The glow intensifies as the giant-class creature gets closer, until the blade is shining with the equivalent of a *light* spell.
+
+This dagger is +3 to attack and to damage against giant-class creatures only. When attacking other creatures, it is considered to be a +1 magical weapon, but it strikes and wounds as a normal dagger. If desired, the elven dagger can be commanded to dim its light or to withhold its radiance when stealth and concealment are important. The blade glows only when giant-class creatures are near, not by any command. Any giant-class creature that holds or touches the weapon receives 1d4 points of damage per round of contact.
+
+## Dagger of the Evil Eye
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: DRAGON Magazine #179*
+
+This weapon appears as a simple magical dagger. However, an individual who uses this weapon in combat immediately receives the effects of the evil eye. The evil eye may be removed by using an *avert evil eye* spell (see Arabian Adventures), but the spell effects will be reinstated as soon as the weapon is used again in combat. Other weapons may be affected by this form of the evil eye, but daggers are the most common ones. Such weapons usually have a history and once belonged to some hero or other legendary figure.
+
+## Dagger, Eviscerator
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,500
+*Source: Rogue's Gallery*
+
+Alakabon's favorite weapon is a stiletto she calls the Eviscerator. It is +2 on attack and damage rolls, and has a curved blade. In combat, Alakabon can use it to slice the back of a man's hand, requiring a roll at −2. If she succeeds, she cuts through the tendons, making it impossible for the man to grasp a weapon. Eviscerator also becomes warm to the touch if a magical trap is within 5 feet.
+
+## Dagger, Fang
+
+| Type | XP Value | GP Value |
+|------|----------|----------|
+| Type A poison | 2,500 | 7,500 |
+| Type B poison | 2,500 | 7,500 |
+| Type C poison | 2,500 | 7,500 |
+| Type D poison | 2,500 | 7,500 |
+| Type E poison | 2,500 | 7,500 |
+| Type F poison | 2,500 | 7,500 |
+| Type O poison | 2,500 | 7,500 |
+
+*Source: DRAGON Magazine #169*
+
+This sort of dagger is rare indeed in the North, but it is a favored weapon of evil thieves and wizards in Thay and in places to the south and east (the lands of Murghom, Semphar, Raurin, and Durpar). When sheathed, a fang dagger appears as a normal weapon. When drawn, it becomes a
+
+---
+
+<!-- page 362 -->
+
+The OCR output contains two items that continue from a previous page. The first item (Fang Dagger, continuing from page 361) has its tail end here, and the second item (Fang of the Nosferatu) begins here. I'll reconstruct both in correct reading order.
+
+---
+
+small, coiling emerald-green snake head and torso up to 6 inches long.
+
+This "blade" has no cutting edge and cannot be used to sever ropes, parry other weapons, or the like. Its use does not alter the wielder's THAC0. A successful attack does only 1 hp piercing damage, but the struck victim must save against poison or suffer the snake's venom effect. A being who successfully saves against the poison of a fang dagger is forever immune to the poison of that particular dagger.
+
+The poison effects of a fang dagger vary with the type of snake used, and may be of injected types A, B, C, D, E, F, or O (see Table 51 in the DMG). The venom is never exhausted, no matter how often the blade is used, unless the blade's head is destroyed. The snake head is itself AC 6 and is destroyed if it suffers more than four hp damage in a round. It makes all saving throws as a 1 HD monster.
+
+The making of such a blade requires a live snake (of the poison type desired), an intact dagger, and a secret ritual involving the powdering of gems, the casting of a *temporal stasis* spell, and the use of a drop of sovereign glue.
+
+| 2d4 | Poison Type |
+|-----|-------------|
+| 2   | Type A      |
+| 3   | Type B      |
+| 4   | Type C      |
+| 5   | Type D      |
+| 6   | Type E      |
+| 7   | Type F      |
+| 8   | Type O      |
+
+---
+
+## Fang of the Nosferatu
+
+**XP Value:** — &emsp; **GP Value:** 18,000
+*Source: Forbidden Lore*
+
+There are few things as vile and dark as the undead. These masters of evil move beneath the fleeting light of the moon, feeding upon the human race like wolves upon sheep. The fang of the nosferatu was forged in their image and placed into the hands of man. It is hard to imagine a more sinister gift.
+
+**Description:** The blade of this dagger is of hardened steel, with strange, flowing symbols etched into the metal surface. The grooves of the lettering have all been filled with ruby dust, giving them the appearance of being written in blood upon the blade. The handle is wrapped in an odd, pebbled, black hide. It is thought to be mind flayer or doppleganger skin. The pommel has a ruby mounted in a steel setting. The guard is an elongated oval, with the surface facing the blade carved to resemble a vampire with bared fangs. The eyes are filled with ruby dust, like the symbols etched into the blade.
+
+**Powers:** The fang betrays an aura of necromancy when examined by *detect magic*. It is a dagger +3; the extra three points of damage that it inflicts are assumed to represent the dagger's drinking of the blood of its victim. If left in a body, it drains an additional 3 hit points of blood each round.
+
+The dagger is not without other useful powers. Each successful attack that drains blood gives an owner 1 recovered hit point. Even if the blade causes several points of damage with the strike, the owner still regains only 1 point. An owner must be wielding the blade for this power to work. If another creature is using the blade, the dagger is satiated, but the true owner does not recover any hit points. There is rumored to be a special ritual involving the dagger that grants an owner immortality.
+
+The fang of the nosferatu grants other powers to its owner as well. While it is in his or her immediate possession, an owner can shapechange into a wolf or a bat. In these forms the owner has
+
+---
+
+<!-- page 363 -->
+
+the maximum hit points for that type of creature. If the character's true form has fewer hit points due to wounds, then the animal form is wounded to that level as well. Changing shape in this manner does not recover any lost hit points. None of the owner's equipment changes, except the dagger. If the owner already has a shapechanging power (from lycanthropy, for example) then the blade grants the power to change into any animal form of small to large size, but not into that of a monster or other humanoid.
+
+### The Curse
+
+Like the nosferatu for which it is named, the blade thirsts for blood. Each hit point of blood that it absorbs satiates it for a day. Since the blood is being measured in hit points, it must come from a wound inflicted upon a living creature by the dagger. Animal blood will do just fine, but once a month the fang requires the blood of an intelligent creature. It cannot be satiated for more than seven days, regardless of how much blood it absorbs. Any day that it is not satiated, it draws one hit point from its owner. This can happen even if the dagger and its owner are far apart. If they are in different domains or different planes of existence, the effects are temporarily halted until they are reunited. Hit points lost in this manner can be recovered only by using the dagger (see below) or with a *heal* or *wish* spell.
+
+The dagger is bonded to its owner as soon as it has been used to draw blood. Neither its useful effects nor its curses apply until this time. Once bonded, the new owner becomes immediately aware of the blood requirements of the blade and the permanency of the bond. The owner will be reluctant to give away the blade. If another creature has it and doesn't use it, the true owner slowly withers and dies, at one hit point a day. The current owner must die before a new owner can be selected.
+
+### History
+
+This cursed dagger was once the closely guarded possession of Mordal the assassin. It was a gift from the Baron Von Kharkov, dark lord of Valachan. When Mordal betrayed his master, the vampire stole the dagger and imprisoned the traitor. He encased the dagger outside the assassin's cell, just out of his reach. Mordal died a little each day as the dagger was denied its blood. On every full moon, the Baron slaughtered animals with the dagger, restoring Mordal to normal health. However, since he never took the life of an intelligent creature with it, one hit point every month was lost permanently. It took the assassin almost three years to die.
+
+Upon Mordal's death, the dagger vanished. Legend says that the ghost of the assassin took the dagger and fled from Valachan. Nobody has ever dared to ask Baron Von Kharkov about the matter. Occasionally someone reports seeing a transparent, wraith-like figure holding forth a dagger, as if begging for someone to take it.
+
+---
+
+## Dagger, Flying
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: DUNGEON Magazine #18*
+
+A flying dagger darts about silently, point first, and is typically about 9 inches in length. One to 12 such daggers are usually encountered. This useful magical item was very popular as an animated guardian in the past lore of the Forgotten Realms. Many different specimens can still be found (so the DM can freely alter the statistics of an individual flying dagger). The secrets of magically animating daggers are known to few living mages.
+
+An average flying dagger has an Armor Class of 5, a Movement rating of 24, a Maneuverability Class of A, and 1+1 Hit Dice. It attacks three times per round, striking as a 3 HD monster and doing 1d4 hit points damage per strike (1d3 vs. Large size opponents). Such a dagger is considered a magical weapon for attack purposes.
+
+Flying daggers are neutral, nonintelligent, and cannot be affected by psionic or magical mental control. A *dispel magic* spell cast on one of these daggers causes it to become inanimate and harmless for 20 turns.
+
+Flying daggers are usually enchanted to attack anything that moves within 60 feet. The spells that cause such daggers to swoop, dart, and detect opponents also prevent rusting and brittleness resulting from extreme heat and cold. The activation conditions for a given dagger can be as general as "attack all intruders" or as specific as the most elaborate triggering conditions of a *magic mouth* spell. Some flying daggers can reflect or are immune to certain spells.
+
+Some flying daggers can be enchanted with special abilities — immunity or reflection of certain spells; their touch can rust metal items as a rust monster (items struck must save vs. lightning or rust — a flying dagger strikes metal when it attacks a target creature carrying or wearing something metal, and its attack roll misses by only one point); or perhaps the flying daggers can even deliver a *shocking grasp* effect upon contact.
+
+---
+
+<!-- page 364 -->
+
+## Dagger, Flying II
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+
+*Source: The Ruins of Myth Drannor*
+
+This item was very popular as an animated guardian in elder days. Many different specimens can still be found (a DM can freely alter the statistics of an individual flying dagger). The secrets of magically animating such daggers are known to few living mages; 1d12 such daggers are usually found. A flying dagger darts about silently, point first, and is usually 9 inches long. The trigger activating a dagger can be as general as "attack all intruders" or as specific as the most elaborate triggering conditions of a *magic mouth* spell.
+
+An average flying dagger is AC 5; MV Fl 24 (A); HD 1+1; hp 9 each; THAC0 17; #AT 3; Dmg 1d4; and is considered a magical weapon for purposes of deciding what it can hit. Flying daggers cannot be affected by any sort of mental control.
+
+The spells that cause a flying dagger to swoop, dart, and detect opponents — it is usually enchanted to attack anything within 60 feet that moves — also prevent rusting and brittleness due to extreme heat and cold. A dagger that successfully strikes a moving arrow or thrown weapon deflects it, if a DM desires.
+
+Some flying daggers can reflect, or are immune to, certain spells, or have special abilities; for example, their touch can rust metal items as a rust monster's antenna does. Items struck must save vs. lightning or rust. A flying dagger strikes metal when it is attacking a target being carrying or wearing something metal, and its attack roll misses by only one to three points.
+
+## Dagger, Freya's Fiery
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+
+*Source: Legends & Lore*
+
+Any being struck by the avatar's fiery dagger must save vs. spell or burst into flames (suffering 2d10 points of damage). The magical flames continue to burn until a successful *dispel magic* is used on them.
+
+## Dagger, Frigga's
+
+**XP Value:** 2,500 &emsp; **GP Value:** 13,000
+
+*Source: Legends & Lore*
+
+Any being struck by her dagger must save vs. paralyzation or be carried two miles away by a powerful wind.
+
+## Dagger, Golemblight
+
+**XP Value:** 450 &emsp; **GP Value:** 2,250
+
+*Source: Mordenkainen's Fantastic Adventure*
+
+Against a golem, this weapon gains a +2 bonus to attack rolls and inflicts 2d8 points of damage, plus any other bonuses applicable. In addition, if the attack roll is a natural 19 or 20, a second attack may be made during the same round. It is otherwise a normal dagger +1.
+
+## Dagger, Grimwald's
+
+**XP Value:** 2,500 &emsp; **GP Value:** 7,500
+
+*Source: DRAGON Magazine #169*
+
+First popularized by High Lady Alustriel of Silverymoon, these amusing and effective daggers emit a continuous snarling noise, like a small and angry dog, when drawn and held. The snarls become barks whenever the blade actually strikes a living target. Opponents touched but not wounded by the blade of a Grimwald's dagger must save vs. spell or shudder helplessly with laughter on the following round (−2 on saving throws, Strength checks, Armor Class, and attack rolls). This effect lasts for one round but may recur each time contact is made with the blade.
+
+Once per day, the wielder of this type of dagger can cause it to savage an opponent. This causes the blade to emit a shrill, ululating screaming noise (audible up to half a mile away in good conditions) and grants the wielder two rounds of hastened attacking (double attacks, −2 initiative bonus, and no aging). During this time, the dagger gains an additional +1 attack and damage bonus and its base damage is doubled.
+
+This sort of dagger is named for its inventor, the wizard Grimwald, who delighted in teasing his cats.
+
+## Guardian Blade
+
+**XP Value:** 1,600 &emsp; **GP Value:** 8,000
+
+*Source: The Assassin's Knot*
+
+Its chief function is to lie on or beside a sleeping character and warn of approaching danger. It can detect enemies like a *wand of enemy detection* within a 20-foot sphere. Upon detecting an enemy, the guardian flashes a single burst of light, telepathically alerts its owner, and goes out. This power can be used but once per day, and operates continuously for up to six hours. It may be used while the character is awake and moving, but once used, it does not function again for 24 hours.
+
+---
+
+<!-- page 365 -->
+
+## Hastseltsi's Throwing Dagger
+
+**XP Value:** 750 &emsp; **GP Value:** 3,750
+
+*Source: Deities & Demigods Cyclopedia*
+
+His throwing knife does 1d10 points of damage and is a +2 weapon.
+
+## Hecate's Dagger
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+
+*Source: Legends & Lore*
+
+Any creatures hit by Hecate's dagger must save vs. death magic or fall into a trance and be controlled by the avatar as if they were undead.
+
+## Hornblade
+
+| Size          | XP Value | GP Value |
+|---------------|----------|----------|
+| Knife-sized   | 500      | 1,750    |
+| Dagger-sized  | 750      | 2,000    |
+
+*Source: Dungeon Master Guide, 1st Edition*
+
+This is a magical weapon with a sickle blade that resembles some sort of animal horn. Hornblades range in size from that of a knife to somewhat less than the length of a short sword. Even a close inspection is 90% unlikely to reveal it as anything other than a piece of horn of ½ to 1 foot in length, set in some sort of handle or grip. If detect magic is used, a hornblade faintly radiates enchantment magic. However, if the proper pressure is applied in the correct place, a curved blade of great strength and sharpness springs out.
+
+The small versions (knife- and dagger-sized) are usually enchanted to +1 or +2, and the largest version (scimitar-sized) commonly has a bonus of +2 or +3. Smaller hornblades can be thrown, and the bonus applies to both attack and damage rolls.
+
+Any character class permitted to use sickle weapons can use a hornblade. The possessor can use it with proficiency, providing he or she has proficiency with the appropriately sized weapon.
+
+## Dagger of Illusory Metal
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: Prince of Lankhmar*
+
+This dagger does not give a bonus to attack or damage rolls. It does, however, allow the attacker to ignore normal, metal armor (not magical armor). This is because the dagger passes through metallic armor as though it were illusionary armor.
+
+The dagger also passes through stone and brick as though they weren't there. Neither handle nor a user's arm gains the ability to pass through metal or stone; only the dagger's blade can do this.
+
+The magical protection from spells and from rings, dexterity, cloaks, and all other nonmetallic armor bonuses work as normal, giving the wearer a better than standard Armor Class, but the Armor Class bonus from metal armor itself is nullified.
+
+The dagger does the normal damage of 1d4/1d3 as long as it is never damaged. It cannot be damaged by any rock or metallic object, which makes damaging it very difficult. Whittling and other wood cutting is possible, but using a sharpening stone is impossible. So, once this blade becomes dull, it remains dull, unless magic that sharpens and hones blades can be utilized.
+
+The blade does not radiate any discernible light, but it does appear to be cloudy; it looks more like the clouds in the sky than metal.
+
+If detect magic is cast upon the blade, the caster can see an unmistakable magical aura. If an identify spell is cast, the caster can determine that the spells used in making the item are necromantic, alteration, and invocation. Also during the casting of the identify spell, the caster can see an entity made of air and steam thrashing about as though it were trying to get out.
+
+## Dagger of Impaling
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+
+*Source: The Complete Thief's Handbook*
+
+These daggers are +2 on attack and damage, and on a natural roll of 20 (19 if this is sufficient to score a hit) on a backstab attack, they impale the target, inflicting an additional 1d4+2/1d3+2 points of damage, and stay in the wound, where they cause an additional 1d4+2/1d3+2 points of damage each round until removed.
+
+## Iyarim's Flying Dagger
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+
+*Source: DUNGEON Magazine #18*
+
+Iyarim's flying dagger darts about silently, point first, and is typically about 9 inches in length. It has an Armor Class of 5, a Movement rating of 24, a Maneuverability Class of A, and 1+1 Hit Dice. It attacks three times per round, striking as a 3-HD monster and doing 1d4 hit points of damage per strike (1d3 vs. Large-size opponents). It is considered a magical weapon for attack purposes.
+
+The dagger is neutral, nonintelligent, and cannot be affected by psionic or magical mental control. A dispel magic spell cast on the dagger causes it to become inanimate and harmless for 20 turns.
+
+---
+
+<!-- page 366 -->
+
+## Iyarim's Flying Dagger
+
+Iyarim's flying dagger is enchanted to attack anything that moves, within 60 feet. The spells that cause the dagger to swoop, dart, and detect opponents also prevent rusting and brittleness resulting from extreme heat and cold. The activation conditions for the dagger can be as general as "attack all intruders" or as specific as the most elaborate conditions of a *magic mouth* spell.
+
+Iyarim's flying daggers have a special ability; their touch can rust metal items as a rust monster's antennae. Items struck must save vs. lightning or rust. (A flying dagger strikes metal when it is attacking a target carrying or wearing something metal, and its attack roll misses by only one, two, or three points.) Iyarim's daggers have 9 hit points.
+
+## Dagger of Jump
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: DRAGON Magazine #169*
+
+This magical weapon looks and functions as a normal dagger, but it has three special powers. One operates automatically, affecting the blade and any one creature grasping it as if by a *feather fall* spell. This power is negated only during the use of the next power described. A wielder can, at will, make one *jump* (as the 1st-level wizard spell) every other round, so long as the weapon is grasped (it need not be drawn). The weapon must accompany the wielder.
+
+A wielder can also move small, nonliving objects about by pointing the blade at the object and willing the effect to occur. An attack roll is required, and the object will jump up to 30 feet away, its distance and direction set by the wielder of the jump dagger. The objects cannot be larger than 3 feet in any dimension and must weigh less than 100 pounds.
+
+This property is often used to pass weapons, keys, and valuables to another being, or to snatch them away from an enemy, such as a mage readying spell components. If it is used to launch an attack (even indirectly, such as a lit torch being directed at a flammable object), the DM should require a successful attack roll to ensure that the object reached its intended target.
+
+If this power is directed at an opponent's weapon or other firmly held object, the opponent is allowed a Strength check on 1d20 to retain the hold and break the dagger's attempt (for that round, at least). If the check succeeds, the opponent retains full control over the weapon, and is not penalized in any attack rolls launched during the round. If the check fails, the weapon is snatched out of the opponent's grasp; magical weapons are allowed a save vs. spell to be unaffected, with a bonus equaling any "pluses" they possess. The opponent can never be overbalanced or pulled along by the affected item.
+
+The making of jump daggers requires *feather fall*, *jump*, and *levitate* spells, in combination with a special tempering. The oil for the quenching of the tempering process must contain blink dog or displacer beast blood or beholder ichor, stirred and mixed well.
+
+## Kiaransalee's Dagger
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: Monster Mythology*
+
+The avatar's curved dagger +4 drips acid and inflicts 1d4 points of acid damage for 1d4 rounds after a hit (curative spells end the additional damage).
+
+## Knife of Continual Sharpness
+
+**XP Value:** +300 &emsp; **GP Value:** +1,500
+
+*Source: DRAGON Magazine #73*
+
+This blade, no matter what it is used against or how it is treated, will always keep an edge so keen, it can cut a piece of elven hair.
+
+---
+
