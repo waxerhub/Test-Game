@@ -623,3 +623,258 @@ These powers grant knowledge of or control over the elemental forces of Water. M
 
 ---
 
+<!-- page 14 -->
+
+### Table 1-10: Elemental Earth
+
+These powers grant knowledge of or control of the elemental forces of earth. Most function like the spell of the same name. Some activate by touching the artifact while others transfer power to the user.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast *animate rock* by touch (1/day) |
+| 2 | Imbue the user with the ability to appraise gems and jewelry as long as the artifact is in the user's possession |
+| 3 | Cast *conjure earth elemental* (1/week) |
+| 4 | Imbue the user with the ability to detect depth underground as a dwarf while the artifact is in hand |
+| 5 | Imbue the user with the ability to detect gems while the artifact is in hand |
+| 6 | Imbue the user with the ability to detect stonework traps as a dwarf while the artifact is in hand |
+| 7 | Cast *earthquake* (1/month) |
+| 8 | Cast *fist of stone* upon the user (3/day) |
+| 9 | Cast *flesh to stone* by touch (1/day) |
+| 10 | Imbue the user with the gem cutting proficiency |
+| 11 | Cast *meld into stone* (3/day) |
+| 12 | Cast *move earth* (1/week) |
+| 13 | Cast *passwall* (1/day) |
+| 14 | Cast *sink* (1/week) |
+| 15 | Cast *stone shape* (3/day) |
+| 16 | Cast *stone tell* (3/day) |
+| 17 | Cast *stoneskin* (1/day) |
+| 18 | Cast *transmute rock to mud* (1/day) |
+| 19 | Cast *wall of stone* (1/day) |
+| 20 | Open a portal to the Elemental Plane of Earth. The passage can be traversed both ways and the portal remains open for 1 hour. Any creature may use the portal. |
+
+### Table 1-11: Enchantment/Charm
+
+These are the charms, holds, suggestions, and other abilities that influence the minds of creatures. Most operate directly through the artifact — the owner must present the device boldly when activating the power. The targets may then be entranced by the power radiating from the artifact.
+
+| Roll | Power |
+|------|-------|
+| 1 | Increase the user's Charisma score by 3, but the enhancement only affects the opposite gender. The user need not present the artifact, but the power vanishes when the artifact is no longer in possession. |
+| 2 | Imbue the user with the effects of *animal friendship* while the artifact is in hand |
+| 3 | Cast *charm monster* (1/day) |
+| 4 | Cast *charm person* (2/day) |
+| 5 | Cast *charm plants* (5/day) |
+| 6 | Cast *cloak of bravery*/*cloak of fear* (2/day) |
+| 7 | Cast *command* (7/day) |
+| 8 | Cast *confusion* (1/day) |
+| 9 | Cast *demand* (1/week) |
+| 10 | Cast *domination* (1/week) |
+| 11 | Cast *emotion* (1/day) |
+| 12 | Imbue the user's gaze with the effects of *cause fear* while the device is in hand |
+| 13 | Cast *feeblemind* by touch (1/week) |
+| 14 | Cast *forget* by touch (3/day) |
+| 15 | Cast *geas* by touch. The mission must relate to the goals of the artifact, if any (1/month). |
+| 16 | Cast *hold person* (1/day) |
+| 17 | Cast *hypnotism* (1/day) |
+| 18 | Cast *Otto's irresistible dance* by touch (1/day) |
+| 19 | Cast *quest* by touch. The mission must relate to the goals of the artifact, if any (1/month). |
+| 20 | Cast *suggestion* (3/day) |
+
+### Table 1-12: Fate and Fortune
+
+This table is a collection of powers that grant the user the benefits of good fortune. Some powers are straightforward, many are unusual, and a few are quite potent. These powers tend to be automatic as long as the user possesses the artifact.
+
+| Roll | Power |
+|------|-------|
+| 1 | Grant a +1 bonus to all saving throws |
+| 2 | Grant a +1 bonus to the user's THAC0 |
+| 3 | Grant a +1 bonus (assuming a high roll is good) to all die rolls for the division of treasure, including magical items (but not other artifacts). This bonus is mandatory. |
+| 4 | Permanently imbue the user with all… |
+
+---
+
+<!-- page 15 -->
+
+| Roll | Power |
+|------|-------|
+| 10 | Grant the user's adventuring group automatic surprise (1/week) |
+| 11 | Allow the user to always find suitable work, despite status or skills |
+| 12 | Prevent the user from ever being completely destitute. Should all of the user's funds be consumed, some lucky chance happens to provide just enough to get by, such as a reward, coins found in the street, or a kind stranger. The amount is never great, but it sees to basic needs. |
+| 13 | Always grant fair sailing winds to any ship or wind-powered vessel the user is aboard |
+| 14 | Prevent the user from ever being the target of pickpockets, thieves, house-breakers, or con artists—except for those who are specifically after the artifact. The power does not prevent general holdups by bandits and the like, only individual thefts. |
+| 15 | Prevent merchants from overcharging the user, always offering the best deals |
+| 16 | Prevent the user from ever getting lost |
+| 17 | Allow the user to always sell goods at 50% greater than normal prices |
+| 18 | Prevent the user from ever going hungry. If the user is unable to buy or find food, some fortunate circumstance occurs to provide a meal. A deer may wander too close to camp, or an innkeeper may extend the hand of charity. |
+| 19 | Cause the user to always appear innocent of crimes. The user is never suspected or accused of a crime unless there is no other possibility. Even then, plausible explanations cause a reaction roll to see if the story is accepted. |
+| 20 | Cause all spells cast by the user to operate at maximum effect |
+
+### Table 1-13: Healing
+
+These powers take away the injuries and woes that beset characters and make the world a better place. Most trigger by touching the artifact to the person to be healed or cured. Only a few are continually in effect. The artifact can:
+
+| Roll | Power |
+|------|-------|
+| 1 | Constantly provide the user with the benefits of accelerated healing |
+| 2 | Cast *aid* (5/day) |
+| 3 | Cast *breath of life* (1/week) |
+| 4 | Render one creature permanently immune to a specific disease or poison by touch (1/week) |
+| 5 | Cast *cure blindness or deafness* (3/day) |
+| 6 | Cast *cure critical wounds* (2/day) |
+| 7 | Cast *cure disease* (3/day) |
+| 8 | Cure insanity or restore the mind of one affected by *feeblemind* or similar spells (1/week) |
+| 9 | Cast *cure light wounds* (7/day) |
+| 10 | Cast *cure serious wounds* (3/day) |
+| 11 | Purge a body of the effects of any drug, including drunkenness, by touch (1/day) |
+| 12 | Cast *heal* (1/day) |
+| 13 | Grant the user the power to heal according to the paladin's ability to lay on hands |
+| 14 | Restore hit points to the user by draining 1d6 points from every other creature within 10'. Drained points are added to the user's but cannot exceed the original hp total. |
+| 15 | Cast *neutralize poison* (3/day) |
+| 16 | Cast *raise dead* (1/week) |
+| 17 | Cast *regenerate* (1/week) |
+
+---
+
+<!-- page 16 -->
+
+Place a creature in stasis, halting all further decay and damage. The inert body is immune to gases, fire, cold, or lack of oxygen, but can still be harmed by physical attacks. Damage from these attacks is subtracted immediately, but death does not occur until the stasis is lifted. No further damage affects the body but all damage suffered and poisons still in the system continue their normal course when stasis ends. Only willing targets can be placed in stasis and the effects last 1 week or until the user of the artifact cancels it. Those in stasis are completely static, and not even mental and psionic powers can function (1/week).
+
+19 — Cause all healing spells applied to the user to be doubly effective.
+
+20 — Erase scars and other disfigurements caused by battle (at will).
+
+### Table 1-14: Immunity
+
+These powers are similar to those found on Table 1-23: Protection, and prevent the user of the artifact from coming to harm. Those listed here, however, are much more sweeping—they provide a complete shield to certain effects. Unless otherwise noted, immunities are continually in effect—the character need only have the artifact at hand to gain the benefit. The artifact can:
+
+| Roll | Power |
+|------|-------|
+| 1 | Make the user immune to all normal diseases—colds, flu, black death, even food poisoning. This does not include diseases caused by spells or monsters (like mummy rot). |
+| 2 | Grant immunity to all magical diseases. While it offers no protection from things as mundane as the common cold or the flu, the immunity works against diseases like mummy rot and the results of *cause disease* spells. |
+| 3 | Imbue the user with immunity to all forms of disease, both normal and magical. |
+| 4 | Create immunity to magically caused fear. |
+| 5 | Make the user immune to all forms of gas. The user must still breathe, however, and could suffocate or drown. |
+| 6 | Confer immunity to charm- and hold-based spells and spell-like effects—except those caused by artifacts. |
+| 7 | Make the user immune to missiles from *magic missile* spells. |
+| 8 | Imbue the user with immunity to all forms of psionics. |
+| 9 | Provide immunity to all magical mental attacks. The character is still vulnerable, though, to psionic attacks. |
+| 10 | Grant immunity to all forms of paralysis, including all *hold*-based spells, and the results of *web* and *entangle* spells. |
+| 11 | Create immunity to cold temperatures as low as -50°. Saving throws vs. magical cold gain a +2 bonus. |
+| 12 | Bestows a 20% magic resistance or gives the user a 20% bonus to any existing magic resistance. |
+| 13 | Impart immunity to all forms of poison. |
+| 14 | Grant immunity to normal fire and provide a +2 bonus to saving throws vs. all forms of magical fire. |
+| 15 | Make the user immune to all forms of electrical attack. |
+| 16 | Make the user immune to energy drains. |
+| 17 | Imbue the user with complete immunity to illusions, always revealing these as shadowy forms. This power does not reveal anything where the physical form has actually been changed, such as polymorphed objects or creatures. |
+| 18 | Serves as a moral guide. Whenever the user intends something evil or unlawful, the artifact delivers a powerful, numbing shock. No damage is taken, but the user is paralyzed for 1d6 rounds. The shocks end when the character gives up the intention or the temptation is gone. Note that this power is only suitable for lawful good artifacts. |
+| 19 | Confer immunity to polymorph and shapechanging spells and spell-like effects. |
+| 20 | Make the user immune to petrification. |
+
+### Table 1-15: Major Powers
+
+This table is a collection of powerful spells, many of which do not fit well into any other category. These powers must be invoked directly from the artifact and are identical to the spells named.
+
+---
+
+<!-- page 17 -->
+
+### Table 1-15: Major Powers (continued)
+
+| Roll | Power |
+|------|-------|
+| 1–3 | Cast age object (1/day) |
+| 4–7 | Cast animate dead (1/day) |
+| 8–10 | Cast blade barrier (1/day) |
+| 11–13 | Cast cause critical wounds (1/day) |
+| 14–17 | Cast cause serious wounds (3/day) |
+| 18–20 | Cast control undead (3/day) |
+| 21–23 | Cast control weather (1/day) |
+| 24–26 | Cast destruction (1/week) |
+| 27–30 | Cast forcecage (1/day) |
+| 31–33 | Cast globe of invulnerability (1/day) |
+| 34–36 | Cast harm (1/day) |
+| 37–40 | Cast hold monster (2/day) |
+| 41–43 | Cast liveoak (3/day) |
+| 44–46 | Cast magic jar (1/day) |
+| 47–50 | Cast mindshatter (1/week) |
+| 51–53 | Cast Mordenkainen's disjunction (1/day) |
+| 54–57 | Cause ghoul-like paralysis by touch (3/day) |
+| 58–60 | Cast physical mirror (1/day) |
+| 61–63 | Cast prismatic spray (1/day) |
+| 63–67 | Cast resurrection (1/week) |
+| 68–70 | Cast reverse gravity (1/day) |
+| 71–73 | Cast shades (1/day) |
+| 74–76 | Cast spacewarp (1/day) |
+| 77–80 | Cast telekinesis (3/day) |
+| 81–83 | Cast time stop (1/week) |
+| 84–86 | Cast veil (1/day) |
+| 87–90 | Cast wall of force (1/day) |
+| 91–95 | Cast wall of thorns (1/day) |
+| 96–00 | Cast wither (1/week) |
+
+### Table 1-16: Minor Powers
+
+This table contains all of the minor powers that infuse many artifacts. All of these powers function as the spells they are named for and only work when the artifact is pointed at or touches the target or area of effect.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast accelerate healing (5/day) |
+| 2–3 | Cast audible glamer (7/day) |
+| 4–5 | Cast bless (7/day) |
+| 6–7 | Cast burning hands (5/day) |
+| 8 | Cast call upon faith (5/day) |
+| 9–10 | Cast call woodland beings (5/day) |
+| 11 | Cast calm chaos (5/day) |
+| 12–13 | Cast chill touch (5/day) |
+| 14–15 | Cast color spray (5/day) |
+| 16 | Cast contagion (3/day) |
+| 17–18 | Cast continual darkness (3/day) |
+| 19–20 | Cast continual light (3/day) |
+| 21–22 | Cast control temperature, 10' radius (5/day) |
+| 23–24 | Cast create food and water (5/day) |
+| 25–26 | Cast curse (5/day) |
+| 27–28 | Cast dancing lights (5/day) |
+| 29 | Cast darkness, 15' radius (3/day) |
+| 30 | Cast dispel magic (3/day) |
+| 31 | Cast dust devil (5/day) |
+| 32–33 | Cast enlarge (3/day) |
+| 34 | Cast enthrall (5/day) |
+| 35–36 | Cast Evard's black tentacles (3/day) |
+| 38–39 | Cast faerie fire (5/day) |
+| 40 | Cast fear (3/day) |
+| 41 | Cast fire purge (5/day) |
+| 42–43 | Cast flame arrow (5/day) |
+| 44–45 | Cast flaming sphere (5/day) |
+| 46 | Cast gaze reflection (3/day) |
+| 47–48 | Cast glyph of warding (3/day) |
+| 49–50 | Cast grease (7/day) |
+| 51–52 | Cast hold animal (5/day) |
+| 53–54 | Cast hold plant (5/day) |
+| 55 | Cast hypnotic pattern (3/day) |
+| 56–57 | Cast invisibility (3/day) |
+| 58 | Cast levitate (5/day) |
+| 59–60 | Cast magic missile (5/day) |
+| 61 | Cast music of the spheres (5/day) |
+| 62–63 | Cast phantasmal force (3/day) |
+| 64 | Cast phantasmal killer (3/day) |
+| 65–66 | Cast plant growth (5/day) |
+| 67–68 | Cast polymorph other (3/day) |
+| 69–70 | Cast protection from cantrips (7/day) |
+| 71–72 | Cast shadow monsters (3/day) |
+| 73–74 | Cast shocking grasp (5/day) |
+| 75 | Cast shout (3/day) |
+| 76–77 | Cast silence, 15' radius (3/day) |
+| 78–79 | Cast sleep (5/day) |
+| 80 | Cast slow (3/day) |
+| 81 | Cast slow poison (7/day) |
+| 82 | Cast spike growth (3/day) |
+| 83–84 | Cast stinking cloud (5/day) |
+| 85–86 | Cast stone shape (5/day) |
+| 87–88 | Cast summon lycanthrope (3/day) |
+| 89–90 | Cast tongues (5/day) |
+| 91–92 | Cast trip (5/day) |
+| 93–95 | Cast vampiric touch (3/day) |
+| 96–98 | Cast web (5/day) |
+| 99–00 | Cast wizard lock (5/day) |
+
+---
+
