@@ -7880,3 +7880,377 @@ Magically sharpened to aid woodsmen in cutting rare woods to be exported from th
 
 ---
 
+<!-- page 121 -->
+
+## Thor's Kiss
+
+**XP Value:** 800 &emsp; **GP Value:** 5,000
+
+*Source: Adventures in Blackmoor*
+
+Thorsen One Thumb, the First Jarl's main defense, is a heavy double-bladed battle axe +1 that he calls Thor's Kiss. This weapon does not have any other extraordinary powers.
+
+## Axe of Throwing
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1    | 600      | 3,500    |
+| +2    | 750      | 4,500    |
+| +3    | 1,000    | 5,000    |
+| +4    | 2,000    | 10,000   |
+| +5    | 3,000    | 12,000   |
+
+*Source: DUNGEON MASTER Guide*
+
+This hand axe can be thrown up to 180 feet with the same attack and damage bonuses as if swung by a character.
+
+## Thumb Height Man's Axe
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Gods, Demigods, & Heroes*
+
+His axe seems to be his only magic item, it being a flaming axe +3. When it hits anything it causes 20d4 points of regular damage. If the target does not make a saving throw vs. spell, he or she is burned to a cinder.
+
+## Torshorak
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: POLYHEDRON Newszine #43*
+
+Torshorak (a goblin word meaning "elf-cleaver") is a great axe, notched and nicked but still nasty-looking. It has no magical effect on nonelven characters, but in the hands of a person of lawful evil alignment it functions as a +2 weapon, +3 against elves. When the owner is fighting an elf, he or she must save vs. spell at −5 or go into a berserker rage (attacking 2 times per round, with +2 to attack and damage). This weapon is thought to be in the hands of an evil warlord who leads goblin hordes.
+
+## Tunnelrunner's Axe
+
+**XP Value:** 6,000 &emsp; **GP Value:** 65,000
+
+*Source: POLYHEDRON Newszine #90*
+
+Aeons ago, the dwarves of the north lived in the kingdom of Delzoun. This realm was peppered with dwarven citadels, large and small, and their metal crafts were seldom rivaled. As mining was the lifeblood of the dwarves, their mines, especially those with mithral veins, were the heart of Delzoun.
+
+As the sturdy folk worked and prospered, the increasingly frequent raids by orcs and goblins became a growing nuisance. The humanoid incursions began to menace the dwarven communities. After innumerable clashes in the mines of Delzoun, one dwarven defender crawled out—and into legend.
+
+Amidst the chaotic frenzy of bloody beards and flying goblin heads, Tunnelrunner of Clan Irongrip turned the tables on the evil raiders. The raging warrior led inspired attacks to the very hearts of the invaders, his axe permanently removing evil thoughts from their leaders' minds by separating heads from shoulders.
+
+Tunnelrunner continued to roam the fringes of dwarven society, a free agent in the defense of all that was good and strong. His fate is unknown, but stories told by forgelight imply that Tunnelrunner met his demise when he ravaged the lair of a large orcish force—alone.
+
+Tunnelrunner did indeed take on a few more orcs than he and his trusty axe could handle. And upon his death, Tunnelrunner's stalwart soul was gently carried to the mountains of the dwarven gods by the scarred, leathery hands of Clangeddin Silverbeard himself. At Tunnelrunner's behest, a portion of his spirit was channelled into his old axe, so that he could continue to protect his people.
+
+The weapon appears to be an old dwarven battle axe, showing only faint enchantment magic if checked. It has a head of polished steel and a very keen edge. The haft is of stout oak, deeply stained from the axe's grisly past. It is shod with a beaten steel cap that resembles a dwarven helmet. Among the many scores and notches on the haft is carved the original owner's name—Tunnelrunner. These letters cannot be removed or defaced by any means short of destroying the axe.
+
+Any good dwarf who holds the axe and speaks the name "Tunnelrunner" hears the dwarven hero's voice mentally. The hero tells of past battles and the axe's magical nature, and urges that the wielder continue to defend against evil. The axe's enchantments then reveal themselves.
+
+The weapon is a battle axe +3. Once each day the wielder can ask the axe to bestow a "tunnelrunning" ability, which lasts for three turns. This
+
+---
+
+<!-- page 122 -->
+
+This page appears to contain only decorative artwork or a chapter divider with no readable text content to transcribe.
+
+---
+
+<!-- page 123 -->
+
+(continuing the Tunnelrunner entry's concluding paragraphs, then the remaining axe entries)
+
+is similar to the *spider climb* spell, except that the affected dwarf's hands need not be empty. With this power, the axe wielder can run up a wall and stand freely on the ceiling while continuing to swing the weapon in combat. The tunnelrunning ability is not subject to a dwarf's ability to resist magic.
+
+Should the wielder ever commit an evil act, or fail to protect goodly folk against evil, then Tunnelrunner ceases communicating. The hero's spirit withdraws the enchantments from the axe, leaving the wielder a simple, worn weapon. If the wielder atones for his actions, the hero may allow the enchantments to return.
+
+The weapon is rumored to lie at the bottom of a "mountain" of orc skeletons. Legends say a skeletal dwarvish hand is amid the pile, clutching an old scarred battle axe, its stained oaken haft carved with the legend "Tunnelrunner" in Dwarvish runes.
+
+## Withering Pickaxe
+
+**XP Value:** 8,000 &emsp; **GP Value:** 35,000
+*Source: Nightstorm*
+
+At 7th level, a Kirtanta receives a silver pickaxe. In the hands of a Kirtanta, this weapon acts as an axe +1, but it can be easily concealed by loose clothing. The pickaxe also has certain magical abilities, but these only function for the individual for whom the axe was forged. The Kirtanta cannot use their ability to strike from behind with the pickaxe.
+
+Once per day, the silver pickaxe can act as a *staff of withering*. The aging occurs during a successful hit (a saving throw vs. wands negates the effect), and the withering is in addition to the damage of the blow.
+
+At 10th level, the withering pickaxe may be used as a *staff of withering* three times per day. A Kirtanta never draws a silver pickaxe in front of innocent bystanders, except in dire emergency. Each swears an oath of hatred on a pickaxe: If the person the weapon was drawn against is not slain, the Kirtanta will track that individual down and finish the deed, even if it takes the rest of the assassin's life.
+
+## Axe of the Woodsman
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: POLYHEDRON Newszine #57*
+
+The long, curved ironwood handle fits neatly into a mithral-edged iron head. Enchanted to +3 attack and damage, it is crafted for felling the largest of trees. This is a magical version of woodsman axes which are designed especially for lumberjacks. Unlike other axes, a woodsman axe is not a slashing weapon, and it is not balanced for throwing. The axe was not created to be used as a weapon; however, it can be very deadly. The axe has the following statistics: Speed Factor 6, Weight 10 pounds, Size M, Damage 1d4+1/1d4+1 (with the +3 bonus added thereafter).
+
+## Zebulon's Axe of Leaving
+
+**XP Value:** 250 &emsp; **GP Value:** 1,500
+*Source: New Item*
+
+When Zebulon swings this axe +1 three times around and concentrates, he can teleport to a single destination of his choice, and is protected from all magical attacks for 1d4 rounds. He can even transfer himself to another plane, but only to or from the Prime Material Plane. Planar creatures may not use this weapon.
+
+## Zzzzzz's Axe of Snoring
+
+**XP Value:** 250 &emsp; **GP Value:** 1,500
+*Source: New Item*
+
+This is an ordinary axe with no magical bonus unless it is used by a dwarf. If a dwarf uses it to attack traditional dwarven foes, the enemy must make a save vs. spell or fall sound asleep for 1d4 rounds. If a traditional enemy of the dwarves attempts to wield this axe, he or she automatically falls asleep for 1d6 rounds, no saving throw allowed. This weapon is ineffective against other dwarves.
+
+---
+
+<!-- page 124 -->
+
+# Badge
+
+Badges are distinctive insignia, usually metallic pins, but sometimes cloth patches or other small, distinctive items. Assume that a badge is a metallic pin unless otherwise stated in the item's description. Patches must be sewn or otherwise secured to an exposed piece of clothing to function. Metallic badges must be pinned to the outermost piece of clothing for their magic to be effective. Only one badge may be worn at one time.
+
+## Badge of Freedom
+
+**XP Value:** 500 &emsp; **GP Value:** 1,000
+*Source: The Ruins of Undermountain*
+
+This small pin is fashioned of any metal, and takes the shape of a pair of tiny wings above an open shackle. Worn or carried on the person, it allows that being—or another being touched by it—to be freed of paralysis, held, and repulsion spells and effects, webs of magical or mundane nature, chains, bonds, and the like. The item does not make the bearer immune to the above ensnarements. The badge of freedom must be activated by the conscious will of the wearer, and works only once, vanishing when activated in a wink of white light.
+
+## Badge of Monster Control
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: DUNGEON Magazine #11*
+
+These badges were used during the construction of the secret conventicle to gain control over the monstrous denizens of the sewers. Each gives its wearer the ability to control any monster, up to a total of 30 Hit Dice, within a 60-foot radius. It allows communication with monsters—control is otherwise identical to that of *charm monster* (no saving throw). It cannot control humans, demihumans, or creatures with Intelligence of 12 or above who have more than 6 Hit Dice. The control includes humanoids—goblins, orcs, and gnolls.
+
+---
+
+# Bag
+
+A bag or pouch is small, made of cloth, leather, or burlap. Magical bags are identical to ordinary ones. After learning the magical properties of the bag a character acquired, roll on the following table to find the type of bag.
+
+| Roll  | Bag Type              |
+|-------|-----------------------|
+| 01–05 | Almoner               |
+| 06–10 | Backpack              |
+| 11–15 | Bag                   |
+| 16–20 | Carpetbag             |
+| 21–25 | Duffel bag            |
+| 26–30 | Feedbag               |
+| 31–35 | Gipser                |
+| 36–40 | Gunnysack             |
+| 41–45 | Haversack             |
+| 46–50 | Knapsack              |
+| 51–55 | Large Belt Pouch      |
+| 56–60 | Large Sack            |
+| 61–65 | Pouch                 |
+| 66–70 | Purse                 |
+| 71–75 | Rucksack              |
+| 76–80 | Saddlebag             |
+| 81–85 | Small Belt Pouch      |
+| 86–90 | Small Sack            |
+| 91–95 | Satchel               |
+| 96–00 | Waterskin (1 gal.)    |
+
+## Backpack of Holding
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+*Source: DRAGON Magazine #73*
+
+Appearing as an ordinary leather backpack, this pack contains an other-dimensional space that allows up to 30 cubic feet of material to be placed in it, if no single object is more than 5 feet in length. There is no reduction in the weight of the materials carried, however.
+
+## Bag of Beans
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DUNGEON MASTER Guide*
+
+This bag, constructed of heavy cloth, is about 2 feet wide and 4 feet long (the size of any other large bag or sack). A character who opens it will find several large, pebble-like objects inside. If spilled out of the bag, they explode for 5d4 points of damage each. All creatures within a 10-foot radius must successfully save vs. spell or suffer full damage. For safe removal, the beans must be taken from the bag by hand—telekinesis won't prevent them from exploding, trying to work them out with tools is also useless. If planted and watered, each bean "sprouts" a creature or object. Bags of beans generally hold 3d4 beans, only one or two of which are beneficial, the others sprouting monsters or useless things. For example:
+
+---
+
+<!-- page 125 -->
+
+## Bag of Beans II
+
+*(continued from previous page)*
+
+| Bean # | Sprouted Object/Being |
+|--------|----------------------|
+| 1 | Three shriekers spring up and wail |
+| 2 | An ice storm strikes the area |
+| 3 | A poisonous raspberry bush with animated runners shoots up, but each of its 5d4 berries is a gem of 100 or 500 gp base value (or perhaps just worthless glass). |
+| 4 | A hole opens in the ground; a purple worm or a djinni ring may be below. |
+| 5 | Smoke and gas cover an area with a 50-foot radius for five turns; creatures in the smoke cloud can't see and are blinded for 1d6 rounds when they step out of the cloud. |
+| 6 | A wyvern grows instantly and attacks; its sting is a javelin of piercing. |
+| 7 | Poison gas seeps slowly, forming a cloud with a 20-foot radius that persists for one turn; while it lasts, it might turn some dirt at its center into magical dust (appearance, vanishing, sneezing and choking). |
+
+Thought, imagination, and judgment by the DM are required with this item.
+
+**In Ravenloft:** Each bean has a 20% chance of "sprouting" a Ravenloft encounter.
+
+---
+
+## Bag of Beans II
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DRAGON Magazine #171*
+
+The following list has been conjured to function as an alternative whenever a bag of beans is used. If it seems that most of these effects are harmful, remember that the bag is an item used only en extremis or out of great curiosity. All magical effects are assumed to be cast at the 12th level, unless otherwise specified. Just roll 1d100 for each bean. References for the statistics of most monsters and spells are to be found in the appropriate AD&D manuals. Unless otherwise noted, all items and beings created by beans are permanent and may be destroyed or slain normally:
+
+| d100 Roll | Result |
+|-----------|--------|
+| 01 | Toadstools, 10d10 of them, grow from the ground about the planted bean. If eaten, they: |
+| 01–50 | Are poisonous, requiring a save vs. poison at −2 to avoid death. |
+| 51–00 | Act as *goodberries*, as the 2nd-level priest spell. The toadstools vanish after 24 hours. |
+| 02 | A 20-foot-tall tree with 24 assorted fruits instantly springs from the ground. When a fruit is cut, crushed, or bitten, out springs a device of some sort (use the random roll table for a robe of useful items listed under Robe). The tree vanishes after 48 hours, but items from it remain. |
+| 03 | A great whirlwind (like one created by a djinni) instantly forms above, and dissipates one round later. |
+| 04 | A 50-foot-diameter hemisphere of darkness is created and remains until dispelled (see the 1st-level priest spell). |
+| 05 | A geyser erupts, throwing water 20 feet into the air for 1d12 rounds. If desired, the water may be replaced by another nonmagical liquid, such as ale, beer, berry juice, tea, vinegar, wine, or crude oil. |
+| 06 | A pheasant jumps up from the soil and attempts to fly away (AC 6; MV 3, fl 24; HD 1/4; hp 2; no attacks). If stopped and examined, it may be discovered that 1d4 of its feathers are Quaal's feather tokens (See Feather). |
+| 07 | A spring bubbles up. The first person who drinks from it has his or her age… |
+
+---
+
+<!-- page 126 -->
+
+(continuing the Bag of Beans entry, results 08–23)
+
+| Roll | Effect |
+|------|--------|
+| 08 | Several powerful zombies (HP 3d8; AC 4; MV 12; HD 2; hp 16; #AT 2; Dmg 1-8/1-8; THAC0 19) crawl forth and attack all living things. The zombies cannot be turned and move fast—they always strike first in a melee round. |
+| 09 | A 60-foot-diameter earthquake strikes the area, with the planted bean at its center. |
+| 10 | A chaotic evil treant (AC 0; MV 12; HD 12; hp 52; #AT 2; Dmg 4-24; THAC0 9) of the largest size appears and attempts to destroy all living beings it can reach within its 10-foot grasp. |
+| 11 | A pool of molten lava rises to the surface, and expands 10 feet every round until it is a maximum of 50 feet in diameter. Anyone caught in the lava receives 10d8 hp damage per round. The lava remains above ground and slowly cools. |
+| 12 | Gases erupt from the ground within an area 60 feet in diameter around the bean and have a mutating effect; anyone caught in them must save vs. spell or be affected by a 1d4 die roll: 1) Gain 1d4 hp permanently. 2) Lose 1d4 hp permanently. 3) Contract lycanthropy (DM's choice of type). 4) Contract a rotting disease, as if touched by a mummy. |
+| 13 | Conjured animals begin to rise from the earth; one animal of the DM's choice appears each round until a total of 24 HD has arrived (see the 6th-level priest spell). They remain until slain or 24 rounds have elapsed. They behave as if they were under a *confusion* enchantment (see the 7th-level priest spell). If the result is "Act normally for one round," the animal obeys the wishes of the bean planter. |
+| 14 | A special incendiary cloud flows up from the ground, remaining for two full turns. It is a volume 20 feet in height and 40 feet in length and breadth. It remains dormant until any spells or spell-like effects are activated within it. Damage is 1 hp per level of the spell cast per round. |
+| 15 | A pair of huge, disembodied magical hands appear. One is a *Bigby's grasping hand* and the other a *Bigby's clenched fist*. Each attacks or holds immobilized a random target within 90 feet of the bean for 12 rounds. |
+| 16 | Fast-growing roots reach up from the ground and wrap about creatures as an *entangle* spell (40-foot-square area), lasting for 10d8 hours. |
+| 17 | A pit, 40 feet square and 10d10 feet deep, opens beneath the bean planter. |
+| 18 | An opening in the ground appears where the bean was planted. If entered and explored, the underground complex turns out to be a sewer beneath a major city. The opening to the sewer complex, which is a long-distance gate, closes after 1d100 rounds, possibly stranding characters in their new locale. |
+| 19 | A simulacrum of the bean planter rises from the ground. The duplicate joins forces with the planter initially, but after 2d10 days it decides to break away and establish a life of its own. Only 1d10 days later, it melts. |
+| 20 | An apparatus of Kwalish (see Apparatus) appears, being operated by a single, unarmed hobgoblin of 7 hit points. |
+| 21 | The area around the bean is struck by *transmute rock to mud* (100 cubic foot areas of effect). The area reverts to stone after 2d4 rounds, entombing anything within it. |
+| 22 | A black sphere rises from the ground, appearing as a *sphere of annihilation*. The sphere moves at a speed of 9, chasing after random targets (one target per round). The exact effects of the sphere, once it touches a creature, are left up to the DM. Possibilities are the destruction of magical items (as a *rod of cancellation*) or the draining of spells from the minds of casters. The sphere cannot be affected in any manner, but if all living creatures manage to avoid its touch for three rounds in a row, it disappears. |
+| 23 | A clear pool of water rises to the surface. The planter of the bean may ask the pool a question and receive a vision, |
+
+---
+
+<!-- page 127 -->
+
+| 24 | as the 7th-level wizard spell of the same name. If the powers are annoyed, the bean planter is attacked by three water weirds (AC 4; MV 12; HD 3 + 3; hp 16; THAC0 15; SA drowning). |
+|----|----|
+| 25 | A female arm wielding an impressive sword of random type thrusts up from the ground in the style of the famous Lady of the Lake and Excalibur. The sword can be taken only by the bean planter, after which the arm descends back into the earth. If the planter is a paladin, this is the moment to give him or her a holy avenger; otherwise, the weapon is a sun blade (See Sword). |
+| 26 | The planted bean summons a meteor from outer space that strikes the ground within five rounds. Anyone standing directly over the bean (the point of impact) is killed instantly, with all items destroyed. Only a *wish* can restore life to the victim. All creatures within 30 feet receive 10d4 hp damage (save vs. breath weapon for half damage)—a crater 10 feet in diameter is left behind. |
+| 27 | A special bush grows with fire seeds, as the 6th-level priest spell; 1d4 missiles and 2d4 incendiaries can be picked. |
+| 28 | A minor death (AC −4; 33 hp; MV 24; strikes with a pitchfork for 2d4 hp damage, never misses, always strikes first in a round and always pursuing) appears and attacks the bean planter as if he drew the Skull card from the deck of many things. Only one such creature appears, but the blows and spells from the planter are the only ones that can affect this being. |
+| 29 | A wall of thorns springs up instantly in a 20- by 20- by 20-foot cube, trapping all creatures in this area. |
+| 30 | A wondrous, articulate war horse appears and offers the planter of the bean a ride to any destination. If the offer is accepted, the horse takes its rider to the floor of The Gray Waste's first layer, then disappears. If the offer is not accepted, the horse disappears. |
+| 31 | An iron golem pops into existence and attacks all nearby living things one by one. In its forehead are set three gems: a gem of brightness, a gem of seeing, and a gem worth 5,000 gp. |
+| 32 | A chariot of Sustarre (as the 7th-level priest spell) is conjured to serve the planter of the bean for 18 turns. Then it explodes in a 6d6 hp fireball. Those on the chariot take maximum damage, no saving throw allowed. This could prove even more deadly if the chariot is being used in the sky when it blows up. |
+| 33 | An ancestral spirit of the bean planter is summoned. If the DM feels the planter has been faithful to his or her alignment, the ghostly ancestor rewards the descendant with 10,000 experience points. Otherwise, the spirit strips away a like amount from the planter and gives a warning to the planter to change his or her ways. |
+| 34 | A single campfire springs forth. Its flames are blue but otherwise normal. |
+
+---
+
+<!-- page 128 -->
+
+## Bag of Beans II
+
+| Roll | Effect |
+|------|--------|
+| 35 | A huge, gaudy marble fountain, decorated with nymphs and dolphins, rises from the earth, spraying water high into the air. A few copper coins (1d4+1) can be found in its basin. The fountain ceases after 2d6 rounds. If cast indoors, the fountain fills the room in which it appears to a height of 20 feet. |
+| 36 | A creeping doom crawls forth and moves in a random direction, attacking all creatures who do not escape its wrath. Beyond the initial 80 yards, the insect mass loses 50 of its number for every 10 yards it travels. |
+| 37 | An extradimensional creature appears as if an iron flask were opened. It is very angry, totally hostile, and has maximum hit points. If "empty" is rolled on the table, roll again until a creature turns up; in this case, the monster is only an illusion. |
+| 38 | A well of many worlds opens in the ground. It can be picked up and carried away. |
+| 39 | A hostile earth elemental (AC 2; MV 6; HD 16; hp 80; #AT 1; Dmg 4–32; THAC0 7; SD +2 weapon or better to hit) is conjured. To make matters worse, the planter of the bean and the elemental swap mental consciousnesses. Thus, the planter's body goes about pummeling people, while the planter must make do with an elemental form. If either the planter or elemental are destroyed, this malady becomes permanent. Player and DM must creatively remedy the situation. |
+| 40 | A hole in the ground opens. Out crawls a wyvern with 500 gp gems for eyes, the ability to detect invisible objects, and the ability to breathe a cone of cold (for 6d4+6 hp damage) once every other round. When slain, the creature transforms into harmless blue smoke; the gems are left behind. |
+| 41 | Sixteen thick and thorny vines crawl from the ground and, with evil sentience, seek out victims. The vines are 40 feet long, AC 4, and have 12 hp each. They wrap around and constrict their victims, inflicting 2d4 hp damage every round after the first successful attack. |
+| 42 | Flowers shoot up from the ground for 120 yards around the planted bean. On the following round, they emit clouds of magical pollen. All creatures in the area fall instantly asleep for 1d12 rounds (no save allowed). Some of these creatures (1d4+1, chosen randomly) are each granted a limited wish of their own design, stemming from their dreams. Have the players describe their characters' dreams without knowing the consequences, then tailor the results accordingly. |
+| 43 | Appearing from the ground to attack the bean planter is a young adult red dragon. If slain, a magical red ruby will be found in the muscle of the dragon's heart. The ruby acts as a wand of fireballs, fully charged. |
+| 44 | A cloud of solid fog, 120 yards in diameter and 20 yards high, rises from the earth, lasting 20 rounds or until dispersed. Just 1d20 rounds later, a death fog spell rises from the earth, lasting another 20 rounds and having the same dimensions. |
+| 45 | An enchanted heavy catapult appears. It is +1 to attack and has double normal range. It fires by itself every other round, requiring people only to load it. The catapult also shrinks upon command to a height of 1 inch. Once per day, it can hurl a ball lightning (4d12 hp damage; see ring of shooting stars for details). |
+| 46 | A huge hemispherical chunk of ground, 150 yards in radius about the bean, rips itself free from the earth and floats away. Characters standing on it may be stranded several hundred feet above the ground or carried to a foreign land. |
+| 47 | Nothing seems to happen. If the planter digs up the bean again, he or she discovers a nugget of gold worth 50 gp. Further excavation proves this site to be a suitable gold mine. Serious digging may be costly, however, and may also mean encounters with beings not happy to see miners (angry duergar, drow, purple worms, etc.). |
+| 48 | Nothing apparently happens, but two invisible stalkers of maximum hit points are conjured. They follow the bean |
+
+---
+
+<!-- page 129 -->
+
+| 49 | A *Leomund's secure shelter* springs forth. Inside are 2d4+1 trolls of different types and maximum hit points who consider this their home. If the DM desires, a trapdoor in the floorboards of the shelter leads to an extradimensional dungeon of the DM's own design. |
+|-----|------|
+| 50 | Only 1d4+1 rounds after the bean is planted, a *Daern's instant fortress* grows upward so quickly that all within 10 yards sustain 10d10 hp damage from its growth. Whoever planted the bean may command the fortress's entrance to open or close. The fortress is permanent but can never be moved or shrunk to its cube form. |
+| 51 | A number of toads (1d4+8) crawl from the earth. Whenever a toad is touched, it polymorphs into a random monster (check the MONSTROUS MANUAL accessory and roll on the Monster Summoning Spell Table of the appropriate level for the party). Every third round, a toad will polymorph without being touched. |
+| 52 | Immediately after the bean is planted, a huge tent (30 by 30 by 10 feet) springs up, enclosing all creatures within its volume. The tent is lavishly furnished with velvet pillows, golden lamps, porcelain vases, exotic tapestries, and pervaded with the scent of rich spices. All creatures in the tent are subject to sympathy, as the 8th-level wizard spell; those failing to save vs. spell cannot leave the tent. Anything removed from the tent turns into scraps of paper, sticks, rocks, etc. unless removed by a thief, in which case they remain as they are. Individual items have values of 100d10 gp each. Each thief may remove a number of items equal to his or her level of experience as a thief; after that, the items not removed by thieves turn into debris in 1d4 days. The tent vanishes after one day. |
+| 53 | A mass of 4d6 laughing skulls, flying on bat wings, spring from the ground and surround the bean planter. The demonic laughter prevents any sleep or spellcasting requiring verbal components. For each day of sleeplessness, the planter takes a −1 penalty on attacks, defenses, and saving throws. The skulls cannot be attacked by any means except one, chosen by the DM (this method may be uncovered by divination spells). The skulls remain for 2d4 days, then fly away. They do not interfere in combat, though some might avoid a victim so affected. |
+| 54 | The bean planter receives an unhatched dragon's egg of a random type. It hatches in 2d6 hours if kept warm. |
+| 55 | A wishing well springs up. It grants a wish to the first person who tosses in a coin and to a second person who dumps in at least 1,000 gp worth of coins or treasure. The well disappears after the second wish. |
+| 56 | A great fissure in the ground opens. It is very narrow (only 4 feet wide), so the bottom cannot be seen. Nothing other than possible injuries can come of climbing down into the crevasse, which is 1d4 miles deep and 10d12×100 yards in length. After 5d4 days, the crevasse closes again, swallowing anything within it. |
+| 57 | Mist rises from the ground and, after 1d4+1 rounds, takes on the form of a dragon. The "dragon" breathes a blast of steam and vapor in a cone 40' long and 20' wide upon any creatures nearby. Damage is 6d6 hp. After it breathes, the dragon-cloud dissipates. It cannot be attacked except by magical electricity, which causes the cloud to fade away while it is forming — only to reappear behind the bean planter 1d4 hours later. |
+| 58 | A rope grows upward to a length of 30 feet. If anyone climbs the rope, an extradimensional space is found (as the *rope trick* spell). It lasts for four hours, after which the rope assumes the abilities of a *rope of climbing*. |
+| 59 | A beanstalk grows up into the air. If climbed, it leads either to a cloud castle, to wildspace (for a Spelljammer® adventure), or to a different plane of existence (a PLANESCAPE™ adventure |
+
+---
+
+<!-- page 130 -->
+
+67 The DM's favorite dinosaur (maximum hit points) grows out of the ground to create a little havoc among the PCs.
+
+68 A squirrel or other woodland creature comes along, digs up the bean, and quickly devours it. The animal then addresses the bean planter in Common and may answer questions as a sage skilled in every field of knowledge. If the planter has no questions, the animal will give clues to the location of a magical artifact. One hour after eating the bean, the animal reverts to normal, though it now follows the PCs wherever they go (it does nothing else).
+
+69 A female vampire exits the ground at nightfall, wielding a vorpal weapon and a rope of entanglement to track down and kill the bean planter. She requires no coffin, staying in gaseous form for 12 turns when slain, reforming after that. Her magical items may be gathered as treasures.
+
+70 A huge eyeball 1-foot in diameter rises from the ground and floats 6 feet in the air. All who gaze upon the eye must save vs. petrification or be transformed into (Roll 1d8):
+
+| Roll | Result          |
+|------|-----------------|
+| 1    | A statue of wax  |
+| 2    | A statue of wood |
+| 3    | A statue of glass |
+| 4    | A statue of ice  |
+| 5    | A statue of gold |
+| 6    | A statue of lead |
+| 7    | A statue of iron |
+| 8    | A statue of salt |
+
+This can only be reversed with a *wish*.
+
+71 A pyxis, a unique wooden box of intricate design, appears in place of the bean (it must be dug up). It is worth 5,000 gp. If it is opened, a horde of 10d10 grotesque monsters pours from the box at the rate of 1d4 monsters per melee round. The pyxis can be shut only with a Strength roll to bend bars and lift gates. These monsters could include aboleths, beholders, bulettes, giant crabs, giant crayfish, giant leeches, otyughs, remorhaz, ropers, rust monsters, giant scorpions, shambling mounds, slithering trackers, giant slugs, thessalmonsters, umber hulks, and xorn; all have ran-
+
+---
+
+*(Continuing from previous entries on this page:)*
+
+61 A lesser basilisk of average hit points crawls from the ground. Its gaze attack does not turn people to stone, but it ages them 5d10 years. The basilisk wanders away after a turn.
+
+62 An umber hulk of maximum hit points digs its way out of the earth, then attempts to maim or kill as many characters as it can before burrowing back into the ground 1d100 rounds later. If slain, the umber hulk changes color, uttering one prophecy before it turns into dust. The prophecy always comes true (the DM should use a lot of imagination here).
+
+63 An entire one-story tavern pops up from the ground. The pub's interior is occupied by helpful unseen servants who dish out helpings of a hero's feast. This tavern remains in place for 3d4 days before vanishing.
+
+64 An insane gynosphinx (maximum hit points) appears and attempts to devour any creatures who cannot answer its silly children's riddles.
+
+65 The area about the bean within a 1d4 mile radius suffers its own chaotic weather patterns. The weather changes every turn for 4d12 hours. Choose weather types randomly from those listed in the 7th-level priest's spell, *control weather*.
+
+66 A patch of pumpkins, 40 yards square, grows instantly. The pumpkins ripen, overripen, go foul, then burst open. Everyone in the area is affected by a *stinking cloud* spell and must save vs. breath weapon or contract a debilitating disease (see the 3rd-level priest spell *cure disease* for details). However, 1d6 pumpkins do not explode, but they instead turn into scarecrows (see the MONSTROUS MANUAL accessory) of maximum hit points, and they will attack the party after two rounds. If they slay the PCs, these monsters roam the land.
+
+67 The planted bean becomes a delayed blast fireball of 18th level, exploding in five rounds.
+
+---
+
+<!-- page 131 -->
+
+72. If all monsters are allowed to escape the pyxis, the person who opened the box is given one wish (but the wish cannot undo the opening of the pyxis).
+
+73. A cagelike throne appears. It allows travel into the Ethereal and Astral Planes at will, for one person only. It cannot be moved from the spot on which it appeared by any means. The throne may be used 1d4 times before it vanishes again.
+
+74. This bean summons a kender handler from the DRAGONLANCE setting of Krynn. The kender may either be adopted as a normal player character, if a player for it is available, or may be run as an NPC. The kender is of the same level as the rest of the party and has no magical items or treasure—but will soon!
+
+75. A hostile skeletal creature crawls out of the ground. The creature has all of the same abilities, statistics, and possessions as the bean planter (as a mirror of opposition) and wears black clothing or armor similar to that worn by the planter. The beast attacks the planter and disappears, with all its items, once slain. Only spells and attacks from the planter affect it.
+
+76. A renegade leprechaun appears for one hour. It is dressed in red clothing and speaks in a normal Common accent. If upset, it attacks with its special ability to use wizards' symbols (any except a symbol of death; usable once per round, one symbol at a time, inscribed in the air). If given a magical item that is not cursed, the leprechaun grants a limited wish, then vanishes.
+
+77. A harp floats up from the ground and plays by itself, filling the air with soft, gentle music. All within 60 feet must save vs. spell or succumb to a magical effect (sleep, fear, confusion, or other) that lasts 2d8 rounds.
+
+78. The ground in a 60-yard radius around the planted bean oozes with a bubbly tar. A creature must roll a strength check every round to successfully move. Movement is cut down to ¼ normal anyhow.
+
+79. A hollow sphere of iron, 30 feet in diameter, with the planted bean at its center, is conjured. It imprisons any creatures within that area. Note that half the sphere is hidden beneath the ground.
+
+80. A giant oak tree grows with 10d10 acorns made of different substances—glass, amber, chocolate, jade, etc. The value of any one acorn is no more than 100 gp. The tree grows normal acorns once all of the unusual acorns have been picked or have fallen.
+
+81. A wall of stone appears 500 feet in the air, above the area where the bean was planted, and it starts to fall. The square wall is 3 inches thick and 20 feet on a side.
+
+---
+
