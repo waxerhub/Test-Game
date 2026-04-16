@@ -5296,3 +5296,266 @@ Finally, armor of the arcane confers 90-foot-range infravision upon any wearer w
 
 ---
 
+<!-- page 72 -->
+
+## Arvoreen's Chain Mail
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+Arvoreen's avatar wears chain mail +3 that can cast all cure wounds spells on him once each day.
+
+## Aslyferund's Armor
+
+**XP Value:** 10,000 &emsp; **GP Value:** 90,000
+*Source: POLYHEDRON Newszine #90*
+
+Ages ago, when Myth Drannor was still a thriving, elven metropolis, there lived an armorer named Aslyferund who fashioned fine elven chain mail.
+
+One day, another armorer by the name of Grelifgray moved nearby. He, too, knew the secret of forging elven chain and soon started taking some of Aslyferund's customers.
+
+Aslyferund became furious and started adding more design and detail to his armor. This in turn made Grelifgray also exceed his prior creations. Grelifgray even went so far as to have a wizard enchant his armor.
+
+Aslyferund knew at this point he could not better Grelifgray's work and felt disgraced. He left Myth Drannor and traveled from town to town, doing odd jobs in exchange for food and lodging. While traveling overland one day during a terrible rainstorm, he sought shelter in a cave. After drying off, Aslyferund discovered that he was not alone.
+
+Peering at him from the back of the cave was a massive, ancient gold wyrm. Aslyferund fell to his knees, begging for his life. The dragon laughed and told Aslyferund that she was good and kind and did not eat elves. They talked for hours, and soon the dragon learned of Aslyferund's woes.
+
+The dragon decided to help Aslyferund—but only if he could do her a favor. She explained to him that she had always wanted a crown, one that held the most beautiful gems from her horde. If he could fashion such a thing for her, she would show him how to make his armor rival Grelifgray's.
+
+Aslyferund immediately set to work and in three months created a monstrous crown bedecked with the most exquisite gems and jewels from the dragon's horde. As she touched the crown her eyes misted over, and huge tears rolled down her cheeks, landing on her stomach scales, glistening and sparkling as they went.
+
+Reaching down with a massive claw to her stomach, she tugged loose six of her golden scales—those that had been struck by her tears.
+
+She gave the scales, the size of small shields, to Aslyferund and explained that by working each into breastplates, he could create armor that would make the wearer immune to natural and magical fire, chlorine gas—and more. The wearer of the armor would be like the ancient wyrm herself, immune to nonmagical missile fire and impervious to blows by normal weapons. Only magical weapons would harm the wearer.
+
+Aslyferund thanked the dragon profusely and returned to Myth Drannor with his newfound knowledge. He spent the next year fashioning six suits of elven mail with gold dragon scale breastplates. The suits of armor were like no others, and each bore Aslyferund's mark—three holly berries etched in gold, in the center of the chest. The suits were as light as leather, but much stronger and considered chain mail +5.
+
+Grelifgray immediately offered a fortune for the secret of the armor's making, but Aslyferund refused to share it with anyone. Soon the king heard of the armor's existence and wished to purchase a suit for himself when he and his escort reached Myth Drannor; however, they found Aslyferund murdered and his home a wreck. All six suits of Aslyferund's armor were missing, and to this day the whereabouts of the armor is a mystery.
+
+---
+
+<!-- page 73 -->
+
+## Armor of Blackflame
+
+**XP Value:** 30,000 &emsp; **GP Value:** 200,000
+*Source: The Five Shires*
+
+This is one of the rarest and most special magical items. It can be worn by any single being of halfling size or smaller, but cannot be worn over normal or magical armor, bulky backpacks, or the like. It looks to be a rigid but weightless suit of full plate armor that, when empty, is a shimmering black.
+
+When worn, it creates a vague, shifting aura of darkness, an other-than-solid garment. It confers no Armor Class protection, cannot be harmed, and does not stop physical attacks. It does not encumber or blind its wearer, may be worn by any class, and its darkness conceals the features of the wearer even against magical scrutiny.
+
+Armor of blackflame can be worn as long as desired and breathing is unrestricted. It cannot be removed unless the wearer does not resist, and can only be destroyed by a *disintegrate* or *wish* spell, or the touch of a rod of cancellation (no saving throw). If destroyed, the armor dissipates utterly; it cannot be repaired or magically restored.
+
+Armor of blackflame protects its wearer at all times from all natural and magical heat, flame, cold, and explosive attacks. A blast might hurl a wearer of armor of blackflame end over end, but no damage would be suffered. The armor's weightlessness and total lack of encumbrance allows the wearer to swim, climb, and perform delicate tasks normally.
+
+## Armor of Blending
+
+**XP Value:** 500 &emsp; **GP Value:** 4,000
+*Source: Oriental Adventures*
+
+This armor looks like normal armor and *detect magic* does not reveal its special property. However, when the command word is spoken, the armor changes shape and form, appearing to all as a set of normal clothing. The armor retains all of its properties and functions normally, even when disguised. Its true nature can be seen by the use of a *true seeing* spell.
+
+## Blue Armor of the Crystalmist Mountains
+
+**XP Value:** 3,000 &emsp; **GP Value:** 17,500
+*Source: GREYHAWK Adventures*
+
+Cut from the hide of an adult blue dragon, this suit of armor +3 was fashioned for use by the mountain dwarves of the Crystalmist range. The armor can be loosely hung on a human-sized character, though the character loses all dexterity bonuses to his or her Armor Class, and fights with a −2 attack penalty. Aside from the Armor Class bonus, the wearer saves against electrical attacks for half damage or none.
+
+## Bradlie's Leather
+
+**XP Value:** 250 &emsp; **GP Value:** 2,500
+*Source: 1993 Collector Card 352*
+
+Bradlie's suit of armor functions as a standard magical suit of leather armor +7. It is, however, so incredibly ugly that anyone wearing it always suffers a negative reaction adjustment. Bradlie loathes to wear the armor and has been looking for another suit that fits his needs better but thus far has not found one.
+
+## Callarduran Smoothhands's Chain Mail
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+The avatar's chain +4 confers 80% magic resistance against spells cast by drow.
+
+## Armor of Charm
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,500
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When the user is hit by an opponent, the opponent must make a saving throw vs. spell or become charmed by the user of this special armor (like the wizard spells *charm person* or *charm monster*). If a hand-held weapon is used in the attack, the opponent gains a +4 bonus to the saving throw. Only one victim can be charmed each day, but any number of saving throws may be made before the charm is successful.
+
+## Armor of Comfort*
+
+**XP Value:** +500 &emsp; **GP Value:** +2,500
+*Source: DRAGON Magazine #181*
+
+Armor of comfort is as comfortable to wear as ordinary clothing, and it may be slept in with no problems. For someone adventuring in the wilderness and camping out where an attack can come at any time, this comes close to being the ultimate low-level lifesaver. A suit of mundane armor that you already have on is far superior to armor +5 that you don't have time to put on before the nocturnal raiders of your choice are in the middle of the camp.
+
+---
+
+<!-- page 74 -->
+
+## Armor of Command
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: DUNGEON MASTER Guide*
+
+This finely crafted armor radiates a powerful aura of magic. When worn, the armor bestows a dignified and commanding aura upon its owner. The wearer is treated as if he or she had a Charisma of 18 for all encounter reactions. Friendly troops within 360 feet of the user have their morale increased by +2. Since the effect arises in great part from the distinctiveness of the armor, the wearer cannot hide or be concealed in any way and still have the effect function.
+
+Bards wearing this armor are able to speak one command a day with the effects of the 1st-level priest spell *command*.
+
+## Armor of Concealed Wizardry*
+
+**XP Value:** +300 &emsp; **GP Value:** +1,500
+*Source: Land of Fate*
+
+These armor types have their magical nature concealed by powerful spells, such that they do not respond to *detect magic* or similar spells (see Weapon, of Concealed Wizardry).
+
+## Armor of Continual Cleanliness
+
+**XP Value:** 1,200 &emsp; **GP Value:** 12,000
+*Source: Realmspace*
+
+This armor is believed to be unique. It is currently worn by a paladin named Kyriel Alathar Pellinore, son of Chiros Pellinore, Third Lord of Everlund, and proud servant of Tyr. Being obsessed with cleanliness, he had Prismal cast a cleaning invocation onto his plate mail +2, adding permanency to it as well. This makes his armor continuously clean. It is never dirty, nor does it rust or show blemishes.
+
+## Armor of Coolness
+
+**XP Value:** 250 &emsp; **GP Value:** 1,250
+*Source: DRAGON Magazine #181*
+
+Armor of coolness may be worn without any discomfort due to heat, and enables its wearer to operate in the hottest of natural environments (70 to 150°F) as well as in a temperate climate. Note that the temperatures must be due to the weather and not to any attack by fire, magic, or monstrous abilities; the armor does not give fire resistance. At the DM's option, the armor can give protection against the natural environments of the Elemental Plane of Fire.
+
+## Armor of Cure Wounds
+
+**XP Value:** 5,000 &emsp; **GP Value:** 40,000
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This armor can cure half the damage the user has incurred, whatever that amount may be, once per day. It can only cure the user, not another creature, and it cannot affect poison, disease, or any other damage except that caused by wounds.
+
+## Armor of the Desert Evening
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #179*
+
+This lamellar armor has no magical bonus to Armor Class, but it may be worn in the desert heat without ill effect to the wearer.
+
+## Dragon Armor
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: Tales of the Lance*
+
+This armor consists of a padded tunic and leggings topped by breast and shoulder plates made of dragon scale and plate mail. The thighs and shins are protected by additional plates, these attached separately. The full-sized helm is a two-piece arrangement, granting protection to the back of the neck as well as the face.
+
+Dragonarmor is custom-fitted to its wearer, who suffers an encumbrance penalty when wearing it. Others may find a suit either too loose or too tight, suffering a -1 penalty on all attacks and all proficiency checks that depend on Dexterity. Dragonarmor was the invention of Sargonnas for his Dark Lady during the War of the Lance.
+
+Dragonarmor is considered scale armor +2. Those who wear the tunic and leggings subtract 1d6 points from any cold- or fire-based attacks against them.
+
+## Eastern Wooden Armor
+
+**XP Value:** 750 &emsp; **GP Value:** 7,500
+*Source: DRAGON Magazine #187*
+
+This armor closely resembles banded mail, except that it is made from strips of highly flexible wood, treated and enchanted to be no more cumbersome than leather armor. It offers protection equivalent to chain mail +1 (AC 4). In addition to its protective value, the armor is silent and can be concealed beneath normal clothing. For these reasons, it is highly prized. This armor may be worn by characters other than druids. Priests and fighters may wear it to full effect; thieves may wear it, but may not perform thieving skills
+
+---
+
+<!-- page 75 -->
+
+in it other than picking locks and listening at doors. The armor does not include a helm, but it is sometimes found along with a wooden shield +1 of medium size.
+
+## Armor of Eelix
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine #139*
+
+This magical ring produces a suit of armor made of blue light around its wearer on demand. The armor is equivalent to chain mail but is weightless. This item may be used by any class for an unlimited duration.
+
+## Armor of Electricity
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: Dungeons & Dragons Rules Cyclopedia*
+
+This armor can, on command of the user, become charged with magical, electrical force. If the user is hit while "charged," the attacker takes 6d6 points of electrical damage. The attacker may make a saving throw vs. spell to take half damage; if a weapon is used in the attack, a +4 bonus to the saving throw applies. The armor can be charged or neutralized as often as desired by using command words, but it can only cause damage ("discharge") once per day.
+
+## Elven Chain Mail
+
+| XP Value  | GP Value |
+|-----------|----------|
+| +1: 1,200 | 7,500    |
+| +2: 2,000 | 12,500   |
+| +3: 3,000 | 20,000   |
+| +4: 5,000 | 30,000   |
+| +5: 7,500 | 50,000   |
+
+*Source: Dungeon Master Guide*
+
+This is magical armor so fine and light that it can be worn under normal clothing without revealing its presence. Its lightness and flexibility allow even wizards and thieves to use it with few restrictions (see the PHB, Player Character Classes Chapter). Elven fighter/mages use it without restriction. However, it is rarely sized to fit anyone other than an elf or a half-elf. Roll percentile dice and consult the following table to ascertain what size character elven chain mail does fit:
+
+| Roll  | Size of Elven Chain Mail                          |
+|-------|---------------------------------------------------|
+| 01–10 | Gnome/Halfling (Hairfoot)                         |
+| 11–15 | Dwarf/Halfling (Stout or Tallfellow)              |
+| 16–80 | Elf/Half-Elf                                      |
+| 81–95 | Human size, normal (up to 6', 200 pounds)         |
+| 96–00 | Human size, large (up to 6½', 250 pounds)         |
+
+## Armor of Energy Drain
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: Dungeons & Dragons Rules Cyclopedia*
+
+The armor can become "charged" on command (as described under the electricity special power), but instead of inflicting damage, it causes the loss of one of the opponent's levels or Hit Dice (as if a wight). The same saving throw as the electricity power applies (possibly with bonuses); if successful, the energy drain does not occur. The item can drain one level or Hit Die per day, but any number of saving throws may be made before this occurs.
+
+## Armor of Ethereality
+
+**XP Value:** 5,000 &emsp; **GP Value:** 30,000
+*Source: Dungeons & Dragons Rules Cyclopedia*
+
+The user may become ethereal on command and remain so for as long as desired. The user may return to the Prime Material Plane when a second command word is spoken. Each command word may be used once per day.
+
+## Armor of Etherealness
+
+**XP Value:** 5,000 &emsp; **GP Value:** 30,000
+*Source: Greyhawk*
+
+The most magical of all forms of armor, this suit of plate allows the wearer to take either of two options — wear it as armor +3, or decide to become ethereal. In the latter case, the wearer can move through solid objects and is subject to attack only by creatures that are able to come out of phase. Only spells such as *phase door* negate the etherealness of the armor. Attacks while ethereal are not possible. The armor can be made ethereal a total of 49 times, and then it becomes merely armor +3. It can never be recharged or restored.
+
+## Armor of Etherealness II
+
+**XP Value:** 5,000 &emsp; **GP Value:** 30,000
+*Source: Dungeon Master Guide*
+
+This is seemingly normal armor +5, but if a command word is spoken, the suit enables its wearer and all nonliving items either worn or carried to become ethereal, as if *oil of etherealness* had been used. While in the ethereal state the wearer
+
+---
+
+<!-- page 76 -->
+
+## Evil Dragon Armor
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,500
+
+*Source: DRAGON Magazine #62*
+
+In an era long past, an intrepid dragon-hunter and his wizard friend discovered that the hide of an evil dragon, if properly prepared, could be cut and formed into a suit of armor that provides protection against attack forms resembling the breath weapon of the dragon from which it was made.
+
+To begin the process, an evil dragon (white, black, red, blue, or green) of at least adult age must be killed, without the use of magic and preferably by means of repeated attacks with blunt weapons. Even a single magical attack directed against a dragon, whether or not the spellcasting succeeds and whether or not the spell causes damage to the dragon, ruins the protective potential of the creature's hide and makes later attempts at enchantment ineffective. If the dragon is hit with edged weapons, there is a chance that the hide is cut and marred to such an extent that it becomes unusable as armor. For each successful hit on the dragon with an edged weapon (regardless of the amount of damage done), add 5% to the chance of the hide being damaged beyond use. (Thus, if a dragon takes 20 hits from edged weapons, there is no chance that the hide can be used as armor.) If and when the dragon is killed, the chance that the hide is spoiled must be exceeded on a percentage die roll in order for the armor-making process to continue.
+
+The hide must be removed with care, and at this juncture a very sharp edged weapon is essential to trim the hide as cleanly and efficiently as possible. The instrument must be able to be controlled with precision, which means it can't be any larger than a standard dagger blade. If the character doing the skinning uses a normal (non-magical) blade, there is a 30% chance that, despite his or her best efforts, the hide does not separate cleanly from the body and the resulting scraps of dragon skin are unusable as armor. If an enchanted blade is employed, the chance of failure at this step of the process decreases by 10% for each "plus" of the instrument; thus, with any blade of +3 or greater, successful skinning is assured.
+
+Once the hide is removed and transported to civilization (assuming the dragon wasn't killed in the village square), the services of skilled armorers, leather-workers, and tailors must be employed to fashion the hide into armor. This process takes 1d10+20 days for each suit of armor, and prices for the needed services are three times the standard rate. Only one set of armor may be fashioned from the hide of a single dragon.
+
+The resulting suit of armor is equivalent to normal scale mail in Armor Class (6), maximum movement rate (6), and bulk (fairly bulky). It weighs about 30 pounds, compared to 40 pounds for normal scale mail. Unenchanted armor can be worn "as is," but if the nonmagical armor is hit even once by an edged weapon, it cannot be enchanted again.
+
+Enchanting the armor must be done by a magic-user of at least 16th level, who insists on a generous payment in gold pieces, or the promise
+
+---
+
+*[Note: The preceding entry for Armor of Etherealness continues at the top of this page:]*
+
+cannot attack material creatures. A *phase door* spell negates the ethereal state and prevents the armor from functioning for one day.
+
+There are 20 charges placed upon armor of etherealness. Once used, the armor cannot be recharged. Furthermore, every five uses reduces the bonus of the armor by one — if five charges are used to become ethereal, the armor is +4; if 10 are used it is +3; +2 if 15 are used; and only +1 if all 20 are exhausted.
+
+---
+
