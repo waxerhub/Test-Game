@@ -14703,3 +14703,725 @@ When this cane is tapped along walls, secret doors, pit traps, and sliding walls
 
 ---
 
+<!-- page 249 -->
+
+## Cane of Stiffness
+
+**XP Value:** — &emsp; **GP Value:** 1,200
+*Source: The Book of Marvelous Magic*
+
+When this cane is touched or moved, the creature moving it must make a saving throw vs. spell with a −4 penalty to the roll. Failure causes the victim's Dexterity score to drop to 3. The victim must keep the cane until a *cure disease* or *remove curse* is applied by a caster of 15th or higher level; this remedy destroys the cane. A *heal* or *wish* restores the victim's original Dexterity score.
+
+## Wemick's Cane of Striking
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+*Source: 1992 Fantasy Collector Card 137*
+
+This magical cane is a +3 weapon. It causes 1d6+3 points of damage when a hit is scored. This expends one charge. If two charges are expended, the damage bonus is doubled, while triple damage is caused when three charges are expended. The cane can be recharged, but, unfortunately, Wemick, in his advanced years, has forgotten the command word and the very fact that the cane is magical. He has not, however, forgotten how to hit people with it.
+
+## Canister
+
+A canister is a cylindrical container with, generally, two command words — one to open and one to close.
+
+## Canister of Condiments
+
+| Type    | XP Value | GP Value |
+|---------|----------|----------|
+| Ketchup | 200      | 1,000    |
+| Mustard | 400      | 2,000    |
+| Pepper  | 300      | 1,500    |
+| Salt    | 500      | 2,500    |
+| Jelly   | 400      | 2,000    |
+| Jam     | 200      | 1,000    |
+
+*Source: POLYHEDRON Newszine 23*
+
+This large ceramic jug can be commanded to produce a magical condiment of some type. The exact type cannot be determined until the canister is commanded, and then opened. The canister will produce one 6-ounce measure per day. To find the condiment created, roll 1d6:
+
+| Roll | Condiment |
+|------|-----------|
+| 1 | **Ketchup of Slowness:** When this is dumped on the ground or floor, any creature approaching within 10 feet of the ketchup is slowed (moving and attacking at half normal rate) for 1 hour. |
+| 2 | **Mustard of Success:** This hardened, yellow goop has no effect unless an edged weapon is used to "cut" it. Any weapon thus treated gains a +2 bonus to all attack rolls for one hour. The mustard may be used to enchant up to three edged weapons. |
+| 3 | **Pepper of Sneezing:** When one ounce of this pepper is thrown at a creature, the victim must make a saving throw vs. poison or stop moving and sneeze for one round. A new saving throw may be made each round, but the victim continues to sneeze until a saving throw is made. Sneezing victims may not move, and suffer a +2 penalty to AC, and a −2 penalty to all saves (which does apply to further attempts to stop sneezing). |
+| 4 | **Salt of the Earth:** Each ounce of this salt may be sprinkled on either one human-sized creature or in a 10-by-10-foot area. If used on a creature, a normal attack roll is required to apply it. If successful, the recipient takes double damage from each wound after that, caused by an edged weapon. The effect lasts 10 rounds or until the salt is washed off. If used on an area of ice or snow, the salt causes it to melt in one turn, even if magically created (such as a wall of ice). |
+| 5 | **Jelly of Attraction:** This purple, sweet smelling jelly attracts the attention of all normal and magical insects within 30 feet. Giant-sized insects are permitted a save vs. spell to resist the effect, but with a −4 penalty to the roll. When attacking an insect that is attracted to the jelly, the attacker gains a +4 bonus on the first attack roll, but the insect is then free of the magical attraction and its effects, even if the attack misses. An attack on one insect does not disturb the others. The jelly may be used only once, and is eaten by the insects. |
+| 6 | **Jam of Logs:** This lumpy, brownish goo may be poured out onto the floor. On command, it grows to become a pile of normal, nonmagical wooden logs, completely filling a volume of 1,000 cubic feet. The logs will block the passage of any solid creatures or items, as well as vision. The log jam is permanent until burned away by… |
+
+---
+
+<!-- page 250 -->
+
+## Canister of Curses
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+
+*Source: POLYHEDRON Newszine #23*
+
+This appears in all respects to be a canister of condiments, but the effect of any condiment created may (50% chance per use) cause ill effects to the user, or no effect, as follows:
+
+| Roll | Effect |
+|------|--------|
+| 1 | The ketchup causes the user to be slowed. |
+| 2 | The mustard bestows a –2 penalty to attack rolls. |
+| 3 | The pepper blows back on the user. |
+| 4 | The salt may fall upon the user, or cause snow and ice to grow, or have no damaging effect. |
+| 5 | The jelly attracts insects to the user. |
+| 6 | The yam creates barriers on all sides of the user. |
+
+The owner or user of a canister of curses cannot sell or dispose of the item until a *remove curse* is applied by a caster of 26th level or greater. This canister functions normally 1d4 times before revealing the curse.
+
+---
+
+Canteens are metal, ceramic, or animal-skin containers for carrying water. All canteens have a cap or stopper to keep the liquid from evaporating or spilling as it's carried about. Canteens are useful in any location where drinkable water is not readily available; however, they tend to be very expensive anywhere they are necessities, and very cheap where they are mere conveniences.
+
+## Canteen of Coolness
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+
+*Source: DRAGON Magazine #30*
+
+The canteen of coolness holds one quart of liquid and keeps it at 40° Fahrenheit regardless of its surroundings. It is said to work especially well with certain red wines.
+
+## Canteen Erdlu
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+
+*Source: DRAGON Magazine #197*
+
+This magical canteen is made from the empty shell of an erdlu egg; the entire shell must be available for the canteen to be created. Once per day, after uttering the command word, the canteen fills itself with the fresh, red yolks of an erdlu—a refreshing treat for any inhabitant of Athas. This item is meant to serve as a personal canteen for a lone traveler. It is possible for a member of some adventuring party to create yolks more than once per day, but the canteen must never create them more than seven times in a single, one-week period. If the owner foolishly tries for the eighth time in a week to create yolks, the energy of the creation causes the erdlu canteen to explode, doing 1d4 hp damage to anyone in a 5-foot radius.
+
+## Canteen of Purification
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+
+*Source: DRAGON Magazine #73*
+
+An ordinary canteen, at least in appearance. Any water that has been in the canteen for at least 24 hours is purified; however, deliberately concocted poisons are unaffected.
+
+---
+
+Caps are small hats that fit snugly onto a wearer's head. Very small and plain caps are called skull caps. Wizards who live in seclusion and cloistered priests often wear skull caps to keep hair out of delicate, alchemical experiments. Since they're not very flattering, skull caps are almost never worn outside the work room or monastery except by frugal or ascetic individuals. Roll on the table below to determine the type of cap found or purchased.
+
+| Roll | Cap Type |
+|-------|----------|
+| 01–09 | Beret |
+| 10–18 | Bonnet |
+| 19–27 | Calotte |
+| 28–37 | Cap |
+| 38–46 | Fez |
+| 47–55 | Hat |
+| 56–64 | Hood |
+| 65–73 | Nightcap |
+| 74–82 | Skullcap |
+| 83–91 | Turban |
+| 92–00 | Zuchetto |
+
+---
+
+<!-- page 251 -->
+
+## Cap of the Beguiler
+
+**XP Value:** 2,000 &emsp; **GP Value:** 25,000
+*Source: Forgotten Realms MC Appendix*
+
+The cap of the beguiler gives the wearer the ability to see as though using a *true sight* spell. Invisible creatures and objects are clearly seen, and illusions do not have their intended effect. Displaced foes can be seen at their true locations. Only one cap can be made from a single beguiler pelt. If the cap gets wet, its properties are nullified until it is totally dry. Each time it gets wet, there is a 10% chance it mildews, causing its magical properties to vanish forever.
+
+## Cursed School Cap
+
+**XP Value:** — &emsp; **GP Value:** 2,000
+*Source: 1992 Fantasy Collector Card 51*
+
+At first, this school cap appears to be even better than others—the wearer gains a +4 bonus to all saving throws against spells of one particular school of magic (roll 1d8):
+
+| Roll | School of Magic           |
+|------|---------------------------|
+| 1    | Abjuration                |
+| 2    | Conjuration/Summoning     |
+| 3    | Greater divination        |
+| 4    | Enchantment/Charm         |
+| 5    | Illusion                  |
+| 6    | Invocation/Evocation      |
+| 7    | Necromancy                |
+| 8    | Alteration                |
+
+Furthermore, specialists of the designated school do not inflict a −1 penalty on the wearer against their specialist spells. However, the wearer suffers a −4 penalty to saving throws against spells of all other schools. The cap cannot be removed until a *remove curse* spell is cast.
+
+## Dream Cap of Veluna
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: Greyhawk Adventures*
+
+This cap was enchanted by a wizard who sought to unlock the mysteries of the inner mind. The result of his work is a small leather cap that can affect the future of a sleeping wearer.
+
+For each full night spent asleep, a wearer of the cap experiences dreams of warning. A sleeper dreams of a creature or force that will threaten or attack him or her. If the character is to be attacked by an NPC, monster, spell, or natural hazard, the cap reveals it in a dream. However, the threatening force or creature is usually symbolized rather than revealed in actual form. For example, a minotaur may appear as a bull or a large, hairy man; a fireball may appear as a landscape of flames (such as the Elemental Plane of Fire).
+
+A dreamer must save vs. paralyzation to face the danger courageously. If the saving throw is successful, he or she gains a +2 bonus on saving throws, ability checks, and attack rolls while encountering the real danger when it actually arrives. If the saving throw fails, the character has not faced his or her fears, and receives a −2 penalty to saving throws, ability checks, and attack rolls in the actual encounter.
+
+The character always remembers dreams caused by the cap, though the DM need not mention the memory unless the player asks. After the actual encounter with the threat, a character can make an Intelligence check in order to make the connection between the dream and the reality. Thus, the cap's owner may not realize the cap's powers until after many nights of disturbing premonitions.
+
+## Cap of Evil
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: Mordenkainen's Fantastic Adventure*
+
+This cap changes the wearer's alignment to evil (similar to a *helm of opposite alignment*).
+
+## Healing Cap of Veluna
+
+**XP Value:** 4,000 &emsp; **GP Value:** 22,500
+*Source: Greyhawk Adventures*
+
+This small cloth cap was enchanted to help priests of Veluna heal the wounded and dying. When worn by a priest, it restores double the number of hit points restored by any of the various cure wound spells.
+
+## Nightcap of Sleep
+
+**XP Value:** 400 &emsp; **GP Value:** 2,000
+*Source: The Book of Marvelous Magic*
+
+This cap causes the wearer to fall into a deep slumber. The victim cannot be awakened unless a *remove curse* spell is applied; however, the required level of caster is equal to the number of turns spent asleep. Thus, after 36 or more turns asleep, a *remove curse* from a 36th-level caster is needed. The sleeping victim needs no food or water.
+
+---
+
+<!-- page 252 -->
+
+## Cap of Nightcap of Vision
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+
+*Source: The Book of Marvelous Magic*
+
+This cap enables the wearer to see in the dark (infravision, 90-foot range) as often as desired.
+
+## Cap of Pileus
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: DUNGEONS & DRAGONS Master Set*
+
+The Pileus (pill-A-us) was made deliberately similar to the red Liberty Cap, a long-time symbol of freedom. An Immortal Paragon wizard named Saturnius created it to bring freedom to enslaved mortals. It is rumored that the wearer of this cap will remain free forever, and can free those imprisoned, no matter the reason.
+
+The pileus is a simple, red felt cap, which enlarges or shrinks to fit any user. It must be worn if its powers are to be used.
+
+This cap is inactive when found, and remains inactive until the would-be user wears it while freeing prisoners of his or her race. The night after this act, the user receives knowledge of the cap's powers and the command words, while dreaming.
+
+The pileus produces its effects, either upon the user or some object within range, whenever the user mentally commands it to do so.
+
+**Suggested Powers:** (All abilities are cast at 20th level.) Dimension door, knock, free person (frees all bonds, prison doors, and shackles). Magical imprisonment is affected by a dispel magic spell cast at 20th level.), immune to paralysis (Range: touch; Duration: six turns.).
+
+**Suggested Handicap:** Repel others. The user slowly develops an invisible, repulsive aura; the reaction rolls of all those coming within 30 feet are penalized -3 when the artifact is first used. However, treat any attack result on the Reaction Table as "Flee in disgust." Other characters may make saving throws to try and tolerate the repulsion, but the given penalty applies to those rolls as well. A new saving throw must be made for each hour spent in the user's presence.
+
+**Suggested Penalty:** Rot. A body part becomes diseased and falls off in one hour. This affects the toes first (one by one), then the fingers, ears, and nose, and then limbs. A cure disease applied before the part falls off will negate the effect, at least for that occurrence.
+
+## School Cap
+
+| School                    | XP Value | GP Value |
+|---------------------------|----------|----------|
+| Abjuration                | 2,000    | 10,000   |
+| Conjuration/Summoning     | 2,000    | 10,000   |
+| Greater Divination        | 2,000    | 10,000   |
+| Enchantment/Charm         | 2,000    | 10,000   |
+| Illusion                  | 2,000    | 10,000   |
+| Invocation/Evocation      | 2,000    | 10,000   |
+| Necromancy                | 2,000    | 10,000   |
+| Alteration                | 2,000    | 10,000   |
+
+*Source: Tome of Magic*
+
+The wearer of this cap gains a +2 bonus to saving throws against spells of one particular school of magic. In addition, specialists of the designated school cannot inflict a -1 penalty on a wearer's saving throws against their specialist spells. The nature of the school cap is determined using a 1d8:
+
+| Roll | Affected School           |
+|------|---------------------------|
+| 1    | Abjuration                |
+| 2    | Conjuration/Summoning     |
+| 3    | Greater Divination        |
+| 4    | Enchantment/Charm         |
+| 5    | Illusion                  |
+| 6    | Invocation/Evocation      |
+| 7    | Necromancy                |
+| 8    | Alteration                |
+
+Of these caps, 10% are mixed blessings since they have a cursed side effect — the wearer suffers a -1 penalty to saving throws against spells of opposition schools. The curse takes effect the first time the wearer is subjected to a spell from an opposition school. Once the curse has been engaged, the cap cannot be removed except by use of a remove curse spell.
+
+## Cap of Sleep
+
+**XP Value:** — &emsp; **GP Value:** 500
+
+*Source: The Book of Marvelous Magic*
+
+This cap causes the wearer to fall into a deep slumber. The victim cannot be awakened unless a remove curse spell is applied; however, the level of the caster needed is equal to the number of turns spent asleep. Thus, after 36 or more turns asleep, a remove curse from a 36th-level caster is needed. The sleeping victim needs no food or water.
+
+---
+
+<!-- page 253 -->
+
+## Cap of Teleportation
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Tall Tales of the Wee Folk*
+
+This red bonnet permits its wearer to teleport without error to another location and back again, once a day. The wearer raises his or her right hand, says, "Here's off to—," and is instantly transported to the named destination. The destination can be no more specific than a city, and the wearer has no control over the exact spot he or she appears. To return, one raises the left hand and says, "Here's off back to—," naming the place of origin. Again, the destination is hazy; the wearer arrives somewhere within 1d4–1 miles of the point of original departure. A character is transported with all immediate possessions. One tale tells of a man who was about to be hanged in a city to which he had (somewhat inadvertently) teleported himself; as his last wish, he asked "to wear the red cap in my pocket." He then promptly teleported himself home, bringing not only the hangman's noose around his neck, but the gallows plank as well!
+
+## Cap of Vision
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This cap enables the wearer to see in the dark (infravision, 90-foot range) whenever desired.
+
+## Caparison
+
+A caparison is an ornamental covering for a horse, covering its body but sometimes the neck and head as well. It is usually worn only for show, as for a parade, but magical caparisons are often enchanted to be useful on adventures. Magical caparisons are nearly always made for specific groups of knights, and thus have specific color patterns woven into them showing the symbols or coats of arms of those knights or their liege lords. They are enchanted to enlarge or shrink slightly to fit any horse from pony to the largest draft or heavy war horse perfectly. They also resist stains and stay perfectly clean, regardless of the circumstances, and will not trip nor blind their wearers.
+
+## Caparison, Armored
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: New Item*
+
+The armored caparison grants the horse wearing it a base Armor Class of 4 without the use of actual barding. Any real barding worn beneath it has no effect. Further, this armor grants its wearer AC 0 against pointed, piercing weapons such as arrows, quarrels, pikes, and spears.
+
+## Caparison of Comparison
+
+**XP Value:** — &emsp; **GP Value:** 500
+*Source: New Item*
+
+The caparison of comparison functions in all respects as any other magical caparison. However, it has the additional quirk that within 1–4 days after it has been put into use, it curses its rider with a form of deranged envy, such that the rider begins to compare everything he or she has with the possessions of friends and allies. The rider is then compelled, every day after that, to somehow acquire a possession of a friend that is better than a similar item he or she owns. For example, if the rider owns a sword +2 but the rider's best friend has a sword +3, he or she is compelled to get that sword by any means possible, including theft and treachery. The rider cannot be reasoned with on this matter, and only a *remove curse* spell from a priest of 10th or higher level frees the rider of envy—at least of the magical variety.
+
+## Caparison of Enslavement
+
+**XP Value:** — &emsp; **GP Value:** 500
+*Source: New Item*
+
+The caparison of enslavement functions like other magical caparisons, until such time as the horse's owner or regular rider climbs upon it while the caparison is being worn. At that point, the rider magically falls under the telepathic control of the horse and must do whatever the horse wants done. If the horse is tired of walking, the rider stops the horse and lets it rest. If the horse is hungry, the rider feeds it or lets it wander off to eat. If the horse wants to go home, the rider takes it home. The enslavement lasts even after the rider dismounts, so that the rider tends to every whim of the horse, until a *remove curse* spell from a priest of 10th or higher level is cast upon the rider while mounted on the caparison. Then the rider may dismount and remove the caparison without further effect.
+
+---
+
+<!-- page 254 -->
+
+## Caparison of Protection
+
+**XP Value:** +1: 1,000 &emsp; **GP Value:** +1: 5,000
+**XP Value:** +2: 2,000 &emsp; **GP Value:** +2: 10,000
+**XP Value:** +3: 3,000 &emsp; **GP Value:** +3: 15,000
+*Source: New Item*
+
+The caparison of protection functions as a ring of protection, with the following exceptions:
+
+- The bonuses to saving throws and Armor Class are granted to both the horse and the rider. If more than one being rides on the horse's back, the protective qualities of the caparison function only for the horse.
+- If magical barding is worn, the protective qualities of the caparison function only for saving throws, not for Armor Class.
+- Only one caparison may be worn at a time by any horse.
+
+## Caparison of Silence
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: New Item*
+
+The caparison of silence allows horse and rider to travel soundlessly over any terrain. No sounds made by the horse and rider (shouts, snorts, hoofbeats) can be heard. This does prevent any spells with verbal components from being cast by the rider, however.
+
+## Caparison of Sustenance
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: New Item*
+
+The caparison of sustenance allows the horse (but not its rider) to go indefinitely without food or water. It also keeps the horse looking perfectly groomed and kills all equine parasites and minor pests (such as flies) that touch either it or the horse. Finally, it prevents all diseases having a magical cause, and grants the horse a +3 bonus to save against magically induced diseases, such as from a *cause disease* spell or a mummy's rotting touch.
+
+---
+
+A cape is a sleeveless garment that falls loosely from the shoulders and is fastened about the neck with a chain or cord. A cape may be worn over armor or ordinary clothes, or even over a coat. A magical cape is made of fine cloth, often with strands of gold or silver woven into the fabric. (See also Cloak and Coat.)
+
+## Cape of Disguise
+
+**XP Value:** 500 &emsp; **GP Value:** 3,000
+*Source: The Book of Marvelous Magic*
+
+This cape allows the wearer to change body shape into any form of the same approximate size. It does not change facial features, voice, or size, merely the appearance of the arms, legs, and body.
+
+## Cape of Good Hope
+
+**XP Value:** 1,000 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This item gives the wearer a morale of 10 (if applicable) and a bonus of +4 on all saving throws vs. fear. It also allows a saving throw to be made without adjustments whenever magically created fear is so powerful as to allow none normally.
+
+## Cape of the Hornet
+
+**XP Value:** 800 &emsp; **GP Value:** 2,400
+*Source: DRAGON Magazine #5*
+
+With this cape, the user may fly at 360 feet per round indefinitely. The cape grants the user the ability to fire as many as three "stings" each round. A sting is a bolt of energy with a 25-foot range that causes 1d4 points of damage to any creature it hits. The user must use his or her THAC0 to determine the attack's success.
+
+Wearing this cape grants the user a +2 AC bonus against normal and magical missiles, but not against any other type of attack. The wearer can also turn invisible whenever desired (one turn duration, followed by a one turn recharge period). As with normal invisibility, once the user makes an attack, the invisibility dissipates.
+
+## Cape of Horns
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This cape appears to be like any other, but, when commanded to function, it causes horns to grow from the wearer's head. The horns prevent the use of any helmet, and this bestows a −1 penalty to Armor Class if the victim usually wears any type of armor. The horns cannot be used for attack and may be removed safely only by a *remove curse* spell. If the horns are broken off or damaged, the victim loses 1d4 hit points permanently; this loss can be regained only by a *wish*.
+
+---
+
+<!-- page 255 -->
+
+I'm unable to produce content for this page as the OCR output contains no extracted text, and I have no structured table data or other source material to work from for page 255.
+
+If you can provide the raw OCR text, an image of the page, or the structured table data, I would be happy to process it into clean markdown.
+
+---
+
+<!-- page 256 -->
+
+## Cape of Tuz's
+
+**XP Value:** 6,000 &emsp; **GP Value:** 60,000
+*Source: The Temple of Elemental Evil*
+
+Tuz is said to wear an old, short cape that boosts his magic resistance by 20%, and serves as a cloak of protection +4 as well. Anyone who wears this cloak gains a 20% magic resistance. If a magic resistance is already possessed, the resistance is increased by 20% to a maximum of 90%.
+
+## Cape of Protection
+
+**XP Value/GP Value:**
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1    | 1,000    | 10,000   |
+| +2    | 2,000    | 20,000   |
+| +3    | 3,000    | 30,000   |
+| +4    | 4,000    | 40,000   |
+| +5    | 5,000    | 50,000   |
+
+*Source: The Book of Marvelous Magic*
+
+This cape gives the wearer a bonus to all saving throws and to Armor Class. It may be combined with all other protective items, magical or ordinary, including armor, shields, rings of protection, and so forth.
+
+## Cape of Reeking
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: The Book of Marvelous Magic*
+
+This cloak appears to be a cape of disguise, but, when commanded to function, it makes the wearer smell like a rotten fish. The smell is easily detected for a range of 120 feet and ruins all chances for surprise. The victim may not remove the cape until a *remove curse* is applied by a caster of the 25th level.
+
+## Cape of Shadow
+
+**XP Value:** 2,500 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This powerful cape is of immediate benefit to thieves; it bestows a +25% bonus to hide in shadows attempts. Any character may use the item, however, and any creature not wearing metal armor can hide in shadows with a 25% chance of success. In addition, the cape enables the wearer to magically travel from one shadow to another; the effect is identical to a wizard's *dimension door* spell (360-foot range, no chance of error), except that the user must be in shadow to activate the cape and must arrive in a shadow. The shadow cape may be used for magic travel three times per day, but misuse does not count as a use. (Any attempt to travel to lighted or occupied areas fails.) Any fire, normal or magical, can instantly destroy the cape unless the user makes a successful saving throw vs. spell.
+
+## Carrague's Iron Golem
+
+**XP Value:** 4,000 &emsp; **GP Value:** 40,000
+*Source: POLYHEDRON Newszine #84*
+
+Nineteen years ago, Carrague created what he thinks is a better and more useful iron golem. Unlike a normal golem, Carrague's iron golem is not animated by an elemental spirit. Instead, a fighter wears a suit of plain looking, magical brown leather armor and a metal helmet fitted with ruby lenses. The armor allows the fighter to control all the golem's actions at a distance.
+
+The golem instantly responds to any motion the fighter makes. The control range is 120 feet. The golem also has the same THAC0 as the controlling fighter. In addition, the controlling fighter uses the ruby lenses to see through the golem's eyes. The fighter must mimic any action the golem undertakes, which can make the fighter rather conspicuous to opponents. However, the fighter need not have the golem in view to control it. Controlling the golem requires some concentration. Damage to the fighter does not break control over the golem, but the fighter can do nothing else while operating the golem.
+
+Carrague's iron golem has all the powers and immunities listed for iron golems in the *MONSTROUS MANUAL* accessory, except that it cannot breathe poison gas. If the fighter wearing the armor is killed, paralyzed, or rendered unconscious, the golem ceases to function. Destruction of the armor renders the golem useless, and vice versa.
+
+---
+
+# Carpet
+
+Carpets, otherwise known as rugs, are floor coverings designed to make a floor more comfortable and more attractive. Often, carpets are hung on walls in order to cover holes or open windows. (Such carpets are more properly called tapestries.) Magical carpets usually provide transport, issue warnings, or trap intruders.
+
+| Roll  | Carpet Type |
+|-------|-------------|
+| 01–11 | Broadloom   |
+| 12–23 | Carpet      |
+| 24–34 | Doormat     |
+| 35–45 | Mat         |
+| 46–56 | Rug         |
+| 57–67 | Runner      |
+| 68–78 | Rya         |
+| 79–89 | Shag        |
+| 90–00 | Throw Rug   |
+
+---
+
+<!-- page 257 -->
+
+## Accursed Rug
+
+**XP Value:** 400 &emsp; **GP Value:** 2,000
+*Source: Mordenkainen's Fantastic Adventure*
+
+This rug is made from rich silks, and is finely woven. Depicted upon its surface is an alien wilderness consisting of rooted trees in strange colors, multiheaded animals, and gaudily plumed sawtooth birds among crooked, dun-colored branches. Double suns, one red, the other white, are seen rising, shedding their opulent, mingling hues over a twisted, purplish river, flowing through greenish yellow plants set along its banks. In the distance is a grandiose city, a miniature in perspective, but the distance to it seems endless, suggesting that the artist's depth is distorted or that the city is gargantuan in size.
+
+This rug radiates magic and is actually an item known to Tomorast as the accursed carpet. When handled, the rug takes on one of the following two aspects (50% chance of each):
+
+- The rug animates, moving and attacking of its own accord as if it were semi-intelligent. The rug's characteristics are: AC 5; MV 15 flying; HD 7; hp 40; #AT 1; Dmg 2d10 points smothering; SA once attached, smothers for automatic damage; SD, see below. The rug flies about, attempting to land on and smother victims below it. When it hits, it inflicts smothering damage automatically until destroyed. Victims trapped under it move at half speed, have a −2 penalty to initiative, and if a weapon used is while trapped inside the rug (50% chance), it may only inflict half damage.
+
+- In this aspect, the rug remains where it is on the wall. Several strong, thick threads (2d6 strands, 50 feet long, of the carpet's frilly edging) hang from it. Attached to the end of each thread is a foot wide mouth with many teeth that seem especially made for severing and chewing. Each "mouth" attacks as a 6 HD monster, inflicting 1d6+1 points of damage per bite. Other statistics are as given above.
+
+**Damaging the rug:** In either aspect, this rug is immune to spell attacks. Fire and weapon attacks affect it as follows:
+
+- Torch: 1d6 points per hit.
+- Flask of Burning Oil: 2d4 points initially, 1d4 points per round for the following three rounds.
+- Raging Fire (bonfire, cask of oil, etc.): 2d6 points per round in the fire; rug catches fire for six rounds, 2d4 points per round.
+- Magical fire: No effect.
+- Weapons: Piercing weapons and blunt weapons inflict only magical and character Strength bonuses, if any. Slashing weapons inflict those bonuses, and the following normal damage per hit:
+  - Dagger: 1 point.
+  - Short sword and hand axe: 1d2 points.
+  - Long sword: 1d4 points.
+  - Bastard sword and edged polearm: 1d6 points.
+  - Battle axe/broad sword/halberd: 1d8 points.
+  - Two-handed sword: 1d10 points.
+
+## Carpet of Diving
+
+**XP Value:** — &emsp; **GP Value:** 1,250
+*Source: Secrets of the Lamp*
+
+This cursed item appears to be a standard 5- by 7-foot carpet of flying, capable of holding three passengers and moving at a rate of 30—until the user flies it at an altitude above 200 feet. Then the carpet rises slightly, stalls, and begins a final dive. Unless they have some means of preventing the fall, those on the carpet suffer 20d6 hit points impact damage and must make a saving throw vs. death magic to avoid instant and unpleasant deaths.
+
+## Carpet of Fighting
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: DRAGON Magazine #179*
+
+This magical rug is similar to a rug of smothering but functions on the command word of the owner. It will wrap up any who stand upon it (other than the owner) and smother them, rendering them unconscious (but not dead) in 1d4+2 rounds. Creatures that do not need to breathe are unharmed, but unable to move. It requires an animate object, hold plant, or wish to escape the carpet, or a Strength of 19+ to unwrap it (it unwraps at the command of the owner as well). The carpet may be destroyed by inflicting 25 hp on it (AC 10) but the damage is also inflicted on those on the carpet.
+
+---
+
+<!-- page 258 -->
+
+## Carpet of Flying
+
+**XP Value:**
+| Capacity | XP Value | GP Value |
+|----------|----------|----------|
+| 1 Person | 2,500 | 12,500 |
+| 2 Person | 5,000 | 25,000 |
+| 3 Person | 7,500 | 37,500 |
+| 4 Person | 10,000 | 50,000 |
+
+*Source: DUNGEON MASTER Guide*
+
+The size, carrying capacity, and speed of a carpet are determined by rolling percentile dice and consulting the table below. Each carpet has its own command word to activate it—if the device is within voice range, the command word always triggers it. The carpet is then controlled by spoken directions.
+
+These rugs are oriental in make and design. Each is beautiful and durable. Note that tears or other rents cannot be repaired without special weaving techniques known only in distant, exotic lands.
+
+| Roll  | Size  | Capacity | Speed |
+|-------|-------|----------|-------|
+| 01–20 | 3'×5' | 1 person | 42    |
+| 21–55 | 4'×6' | 2 person | 36    |
+| 56–80 | 5'×7' | 3 person | 30    |
+| 81–00 | 6'×9' | 4 person | 24    |
+
+## Carpet of Frying
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+
+*Source: DRAGON Magazine #35*
+
+Anyone sitting on this magic carpet and commanding the carpet to do anything at all, is paralyzed (saving throw applicable), causing all aboard to stretch out along its length. It then begins to radiate a temperature of 375° F. and continues until the victim is well done. Needless to say, the smell of frying human (or halfling, elf, dwarf, gnome or half-orc) may attract any monsters in the area who are fond of such delicacies.
+
+## Leonardo's Carpet of Flying
+
+**XP Value:** 8,000 &emsp; **GP Value:** 40,000
+
+*Source: 1992 Fantasy Collector Card #81*
+
+Leonardo's magical carpet is of an unusual size—it is a mere 3 feet wide, but fully 12 feet long. This unusual size allows 6 fully equipped individuals to travel in single file on the carpet. The narrow design, however, allows the carpet to travel at a speed of 42, despite the size and the weight of its burden. Leonardo uses the carpet to transport other wizards and himself, flying fast and low to the ground. Thus, they are able to catch enemies off guard and either attack them magically with surprise or get away from them without being followed.
+
+## Rug of Mothering
+
+**XP Value:** 300 &emsp; **GP Value:** 3,000
+
+*Source: DRAGON Magazine #156*
+
+Indistinguishable from a rug of smothering, this carpet forms an emotional attachment with anyone who picks it up. After that, it is always found somewhere about the person or his or her gear, worrying about how he or she eats, constantly nagging about how he or she takes care of his or her clothes, and fussing when he or she goes out in the rain without galoshes. This is all the more likely to be embarrassing when one remembers that the standard rug of smothering is generally used only by assassins.
+
+## Rug of Smothering
+
+**XP Value:** — &emsp; **GP Value:** 1,500
+
+*Source: DUNGEON MASTER Guide*
+
+This finely woven carpet resembles a carpet of flying and detects as magical. The character sitting on it, and giving a command is surprised, however, as the rug of smothering rolls itself tightly around the victim, suffocating the unfortunate one in 1d4+2 rounds. The rug cannot be physically prevented from wrapping itself, and it can only be prevented from smothering its victim by the casting of any one of the following spells: *animate object*, *hold plant*, *wish*.
+
+## Rug of Welcome
+
+**XP Value:** 6,500 &emsp; **GP Value:** 45,000
+
+*Source: DUNGEON MASTER Guide*
+
+A rug of this type is the same as a carpet of flying, and it performs the functions of one (6- by 9-foot size), but a rug of welcome has other, additional powers. Upon command it functions as a rug of smothering, entrapping any creature up to ogre-size that steps on it. A rug of welcome can elongate itself, becoming hard and strong as steel—maximum length, 27 feet by 2. In this form, it can serve as a bridge or a barricade. In this latter form it is AC 0 and takes 100 points of damage to destroy. Finally, the owner needs only to utter a word of command, and the rug shrinks to half size for easy storage and transportation.
+
+## Rug of Self Cleaning
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: DRAGON Magazine #73*
+
+An ordinary rug. When a command word is spoken, the rug rises up and shakes itself free of dust
+
+---
+
+<!-- page 259 -->
+
+I have no text content to work with for page 259 — the Tesseract OCR output is empty and no structured table data was provided.
+
+If you can supply the raw OCR text or an image of this page, I'll be happy to produce the clean markdown.
+
+---
+
+<!-- page 260 -->
+
+and dirt. (It does not take itself outside.) The rug may be of any form, from a small throw rug to a large carpet.
+
+## Solomon's Magic Carpet
+
+**XP Value:** 19,000 &emsp; **GP Value:** 75,000
+
+*Source: DUNGEONS & DRAGONS Master Set*
+
+According to legend, this green silk carpet is supposed to have carried not only Solomon and his great throne, but all of his army. (In game terms, this carpet can carry up to 10,000 pounds of weight, maintain a Movement Rate of 60 and a Maneuverability Class of B.)
+
+---
+
+Carts are wooden vehicles with one or two pairs of wooden wheels. Each pair of wheels is connected by a wooden pole that serves as an axle. In front of the cart is a second, longer pole that is attached to a harness of a single draft animal or a team of animals. The bed of the cart occasionally has a framework that helps keep larger cargo in place.
+
+## Cart of Convenience
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+
+*Source: The Book of Marvelous Magic*
+
+This cart, which moves at 60 feet per round, can be used normally. However, it may also be hitched to one or two horses or mules, and then immediately unhitched; the cart remains in position as if the animals were still in place. If the animals are ridden behind the cart, it moves as if being pulled normally. Its capacity is 400 pounds with a single horse behind it, 800 pounds with two; however, the encumbrance is not counted against the mounts.
+
+## Cart of Decks
+
+**XP Value:** 1,100 &emsp; **GP Value:** 5,500
+
+*Source: The Book of Marvelous Magic*
+
+If the command word for this cart is spoken after the cart has been loaded normally, all its contents vanish into an extradimensional space, leaving the cart apparently empty. The cart can then be refilled, and the command word spoken again; the contents disappear once more, only to be replaced by the original load. Like a cargo vessel, the cart's two "decks" can be loaded and unloaded normally, but the cart's total encumbrance limits (400 or 800 pounds) still apply. The cart is useful for carrying valuable cargo while appearing to carry only ordinary goods.
+
+## Mouse Cart
+
+**XP Value:** 3,500 &emsp; **GP Value:** 17,500
+
+*Source: Tome of Magic*
+
+A mouse cart resembles a miniature wooden cart with two wooden wheels and a tiny, leather harness. When a normal mouse is secured in the harness, the cart expands to the size of a normal cart (about 5 square feet). The mouse retains its normal size, but is enchanted, acquiring the ability to pull the cart and 250 pounds of cargo at a movement rate of 12.
+
+As long as the mouse remains in the harness, it is compelled to obey all oral commands of the person who placed the animal in harness. The mouse will run forward, stop, turn, and obey all similar commands; it does not attack or take any action that a mouse is normally incapable of performing. No other creature attached to the mouse cart can activate the device's magical properties. A character or other creature polymorphed or otherwise transformed into a mouse can activate the cart's magic.
+
+## Carven Oak
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: The Minrothad Guilds*
+
+The Verdier Clan of elves left their clan tree behind when they emigrated from their homeland. Some say that tree was the inspiration for Ilsundal's later creation, the tree of life, familiar to so many mainland elves. However this may be, the Verdier elves arrived in the Minrothad Islands without any relic at all. Whatever sprig or offshoot of the clan tree went with them had perished during their long travels.
+
+When these elves isolated themselves from their aquatic elf kin in the early days on Alfeisle, they withdrew into the forests, heartsick for the woodlands they had left behind. Alawyn Verdier was the keeper at that time, although no relic existed for her and her assistants to guard. Discontented with a useless existence, Alawyn and a few brave companions went on a quest to find a new relic for the Verdier Wood elves.
+
+The keeper and her followers were gone for five years. After adventures that took them to the planes of the Immortals, Alawyn and her friends returned, much aged and fewer in number, but with a relic (of sorts) for their isolated clan. They had brought with them the carven oak, a powerful artifact given to the wood elves by the immortal they follow.
+
+---
+
+<!-- page 261 -->
+
+## Carven Oak
+
+The carven oak is a life-sized carving of an oak tree. It stands 30 feet tall and is made of solid wood—of a species not even the forest elves can identify. The trunk and branches are carved to look like bark, the leaves resemble leaves down to their finely detailed veins. Besides the leaf-covered branches, the carven oak was made with 100 separate branchlets standing starkly alone.
+
+The carven oak stands in a heavily guarded, sacred grove not far from Verdun on Alfeisle. Mahogany grows in this island forest, but the carven oak stands alone in a clearing 200 feet across. The artificial tree is deeply rooted, originally with the base of its trunk set deeply in the ground. It appears that the trunk has actually taken root in the past century. Although the rest of the artifact is clearly dead wood, its keepers are hopeful that it may be turning into a living tree.
+
+The carven oak is a greater artifact created by an Immortal of the Sphere of Time. It possesses none of the powers of traditional elf clan relics, although its powers are great enough in their own right. Only the current keeper, Rewen Verdier, and his senior assistant, Hani Oliwn, understand all the powers, uses, and dangers of the artifact.
+
+The artifact is charged with 500 power points. It recharges at the rate of 20 points per turn, or 120 an hour. The artifact has the following powers: Control plants, control animals, turn wood, blight, speak with plants, find the path, pass plant, warp wood, create normal object, wish, cure serious wounds.
+
+### Handicaps and Penalties
+
+Handicaps are permanent effects; penalties wear off when the duration has expired or the artifact is no longer possessed.
+
+**Handicaps:** The junior immortal Oleyan is imbedded in the carven oak and bound to serve the wood elves, the result of a dispute he lost with the creator of the artifact. This is unknown to any but the keeper himself. It is because of Oleyan's presence that the carven oak has begun to take root. He has 1,500 years of service left, or until the artifact is destroyed. Oleyan helps anyone who comes to destroy the carven oak, for he has long since become bored with this existence. He can communicate telepathically with anyone touching the carven oak, but does not do so unless he senses that person may be sympathetic to his desire for freedom.
+
+When control plants, speak with plants, or pass plant is used, there is a 20% chance that the user loses 1 hit point permanently.
+
+If two powers are used in a single day, the user suffers −50% to attack ranges for missiles and spells for the next 24 hours.
+
+**Penalties:** When a wish is invoked, there is a 90% chance that the user dies. There is no saving throw, and this effect does not reverse itself if the artifact is destroyed.
+
+When using find path, control animals, or create normal object, there is a 60% chance that the user becomes compelled to serve the wood elves as if under a geas. This does not occur if the character is already serving the elves with his or her use of these powers. When warp wood or cure serious wounds is used, there is a 5% chance for the user to age 15 years.
+
+For each power used, there is a 50% chance that the user's Dexterity drops by −3 for one day.
+
+If a power costing more than 50 power points is used, there is a 50% chance that the user's next saving throw is penalized by −1d12.
+
+### Activation
+
+These powers can be activated in two ways. The most common is to touch the carven oak and invoke the name of the power. The second way is to break off one of the leafless branchlets of the artifact. At any later time, the user can break that branchlet in half and invoke the name of the desired power. The power then takes effect as if the user were touching the artifact. If a branchlet is broken without a power being named, it is not wasted; each lesser length retains its power until one artifact ability is invoked. This ability can only be used once per branchlet, no matter how many times it is broken.
+
+This latter method of activation in effect makes each branchlet a one-time magical device that can be used at any distance from the carven oak. The branchlets are given on rare occasions to adventurers or heroes working in the cause of the Verdier clan. When the keeper gives a branchlet for this purpose, he tells the recipient what spell effect the branchlet has. He does not mention that the branchlet can invoke any power, nor what the full range of powers are. If a person receives more than one branchlet, they are painted or tied with colored string so that the supposedly separate spell effects can be told apart. There are currently 82 branchlets remaining on the carven oak. Once they are gone, they cannot be replaced. No other pieces of wood from this artifact have the same remote power effect.
+
+---
+
+<!-- page 262 -->
+
+## Carving of Restful Sleep
+
+**XP Value:** — &emsp; **GP Value:** 2,000
+
+*Source: Assault on Raven's Ruin*
+
+This cursed woodcarving depicts a peaceful pastoral scene with a number of sheep grazing in a field, while two shepherds doze under a tree. The item's curse is activated when the carving is hung on a wall. Anyone in the room where the carving hangs falls asleep instantly, with no saving throw. Even elves and other demihumans are susceptible to the curse. The item may be broken or burned easily.
+
+---
+
+## Case
+
+Magical cases appear to be either normal belt pouches or small wooden boxes with attached lids. Either type of case radiates a faint magical aura if *detect magic* is used. Magical cases are usually enchanted to allow their owners to find tools or other items without searching for them.
+
+## Case of Compression
+
+**XP Value:** — (Cursed) / 1,000 (Normal) &emsp; **GP Value:** 1,000 (Cursed) / 5,000 (Normal)
+
+*Source: The Complete Bard's Handbook*
+
+When empty, this musical instrument case appears much like any other instrument case. However, when any instrument normally carried in a case is placed into it, it transforms to perfectly fit the instrument. When the case is closed with the instrument inside, it shrinks until it fits in the palm of a hand. The reduced case weighs only a pound. When the case is opened, it returns itself and its instrument to full size. About 10% of these cases are cursed; such cases devour the instrument 25% of the time.
+
+## Case, Exalted Component
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: Vale of the Mage*
+
+This magical item, which usually appears as a soft, leather pouch, acts as the smallest-sized bag of holding and is enchanted to keep all spell components stored inside it fresh indefinitely. Furthermore, the container is waterproof and airtight.
+
+## Scrollcase of Document Transmission
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+
+*Source: POLYHEDRON Newszine #82*
+
+This magical item has two parts: a scrollcase that is used as a transmitter, and a nearly identical case that serves as a receiver. When the user places a nonmagical scroll in the transmitting case and utters a command word, the scroll vanishes. Three rounds later, the scroll appears in the receiver case and the sender hears a tone to indicate the scroll has been sent.
+
+The scrollcases can be separated by up to 1,000 miles. If the cases are farther apart than that, they do not function. If someone attempts to transmit a magical scroll, both the scroll and the two cases are destroyed. The scrollcases are prized by adventurers who send messages, plans, maps, and requests for aid to their associates.
+
+## Case of Scroll Holding
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+
+*Source: DRAGON Magazine #73*
+
+A rectangular, leather case about 12 by 9 by 5 inches, capable of holding many separate scrolls or papers. Any scrolls or papers put into the case are magically inserted among the contents in alphabetical order, if the person putting an item into the case speaks the word that defines the item.
+
+## Tenser's Portmanteau of Frugality
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+
+*Source: Tome of Magic*
+
+This moderately large, black leather traveling case contains a bewildering number of small instruments—tweezers, measuring beakers, small ceramic jars, and the like. It can be used to extract the greatest possible benefit from certain single-use magical items by partly diluting or mixing them. All potions, oils, dusts, incenses, glues, solvents, and Nolzur's marvelous pigments can be affected by Tenser's portmanteau.
+
+For every two potions, applications of dust, or similar substances that are treated by the portmanteau, a third active dose or use can be extracted. Any such item may be affected only once by the power of the portmanteau. Single doses do not provide sufficient magic for treatment by the portmanteau.
+
+The process of extracting the magic is not a simple task. The work takes 2d6 hours to complete. At the end of this time, the wizard must make an Intelligence check. If the check succeeds, a third dose is created. If it fails, the third dose fails and only enough remains of the original materials for a single dose of the magical sub-
+
+---
+
