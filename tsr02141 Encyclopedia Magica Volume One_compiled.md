@@ -4409,3 +4409,890 @@ Zo
 
 ---
 
+<!-- page 51 -->
+
+## Anklet of Levitation
+
+**XP Value:** 2,500 &emsp; **GP Value:** 17,000
+*Source: The Book of Marvelous Magic*
+
+This item can be locked and commanded to rise. It stops and goes upon command of the person who locked it. If one anklet is used, the wearer is hoisted by one leg, in a most inconvenient posture; if two are used, normal levitation is obtained. It is controlled within a range of 60 feet, but the effect is otherwise identical to the wizards' spell levitate, bestowing vertical movement at the rate of 20 feet per round. The victim cannot be "dropped" unless the anklet is suddenly unlocked or destroyed.
+
+## Anklet of Sinking
+
+**XP Value:** — &emsp; **GP Value:** 600
+*Source: The Book of Marvelous Magic*
+
+This anklet appears and functions as an anklet of walking in all respects. However, when used to walk on acid, or on water more than 30 feet deep, the anklet stops functioning at some inconvenient point, suddenly becoming as heavy as a 100-pound weight (per anklet). When the malfunction occurs, the anklet also negates all other water walking spells and effects. The wearer sinks like a stone until the anklet is removed, although feather fall or other spell effects may slow the victim for a time.
+
+## Anklet of Sure Footing
+
+**XP Value:** 2,000 &emsp; **GP Value:** 16,000
+*Source: POLYHEDRON Newszine #90*
+
+It is popularly believed by most sages that the wizard who invented these items served on a pirate ship based in the Corsair Domains. Legend has it that the wizard did not adapt well to life at sea; the ship's pitching and rolling as it rode the waves made it impossible for the wizard to cast spells. After months of research, he enchanted a pair of anklets that would make his life at sea easier. The anklets were woven from kelp, and the wizard dubbed them anklets of sure footing.
+
+Both anklets must be worn, and they do not function if covered by footwear or cloth. The wearer is never affected by seasickness and can move at normal speeds across ship decks, even under treacherous conditions such as mountainous waves and gale force winds. Spellcasting is not hampered by the ship's movement, because the anklets ensure the caster's steadiness.
+
+In addition, the wearer can climb rigging as easily as walk, and fight and cast spells from the rigging as if standing on solid ground.
+
+Although the anklets can be worn by any race and class, they are highly sought after by seafaring rogues and spellcasters.
+
+## Anklet of Walking
+
+**XP Value:** 1,260 &emsp; **GP Value:** 6,000
+*Source: The Book of Marvelous Magic*
+
+When locked, this anklet enables the wearer to walk upon any fluid, water, oil, acid, etc., without actually touching it. Feet or boots hover a fraction of an inch above the fluid. One anklet can support 200 pounds in weight; two support 500 pounds.
+
+## Antennae of Triangulation
+
+**XP Value:** — &emsp; **GP Value:** 55,000
+*Source: Realmspace*
+
+These antennae are usually over 8 feet in width and can be 20 feet or more in length. They appear to be antennae removed from some gargantuan insect. There is a helmet of liaison that accompanies the antennae when it is first purchased — assuming one is for sale — that links the antennae and the wearer of the helmet. The helmet relays the information found by the antennae in exact detail to the wearer. When the helmet is put on, the wearer immediately gets a complete picture of the space around him. The operator sees everything in a 360-degree, 10,000 yard sphere. Every
+
+---
+
+<!-- page 52 -->
+
+## Anvil
+
+An anvil is a heavy iron block that has a flat top and a round, horn-shaped end. Blacksmiths heat metals until they soften, and use the anvil's surface to hammer the metal into the desired shape. Magical anvils, however, can be of any size, shape, or weight, and they are commonly used to perform functions other than those performed by their nonmagical counterparts.
+
+## High Anvil of the Dwarves
+
+**XP Value:** 5,000 &emsp; **GP Value:** 50,000
+*Source: DRAGON Magazine #58*
+
+The skill of dwarf metalcrafters is legendary, and through the ages they have continued to find ways of improving their smithing abilities. At some time within the last several centuries, dwarves learned how to create a magical device that would make them even more skilled as armorers, weapon makers, and smiths. The great cost of creating a high anvil, however, has kept the number of these items down to a precious few. Only a very large enclave can afford to make one — high anvils are never found in the shops of dwarven armorers, weapon makers, or smiths located in cities and towns — the danger of theft is too great.
+
+High anvils are large, elaborately carved, and forged from an alloy of adamantite and steel. They radiate a faint aura of magic. The anvils weigh about 175 pounds and cannot be easily moved or carried, and are often fixed or welded to the floor of the main armory of dwarven colonies.
+
+The workmanship involved in the forging and decoration of a high anvil represents the best that the dwarves of the clan can offer, frequently adorned with depictions of great events in the clan's history. While dwarves hold their high anvils to be beyond price, a realistic appraisal of one's worth would probably range from 30,000 to 60,000 gold pieces.
+
+When used for metalworking, a high anvil adds +50% to the skill level of dwarven armorers, and doubles their efficiency, effectively cutting armor construction time in half. Dwarven smiths using a high anvil have doubled efficiency when forging any item, and weapon makers may construct axes, swords, and the like at three times the normal rate, working them on a high anvil. Nondwarf characters or creatures who use a high anvil (a very rare event, since dwarves are extremely protective of their treasures) have +25% added to their skill as armorers but enjoy no other benefits.
+
+The increase in skill level and decrease in construction time are not permanent and only apply when a high anvil is used. Mithral and adamantite alloys can be worked with greater ease on a high anvil, and anything forged on one is of the highest quality.
+
+A high anvil is created by a long and involved process of crafting and enchantment. The physical work upon the anvil takes between 24 and 36 months, and can only begin after the members of the clan have taken 6d4 months to decide on the anvil's shape, design, and decorations. Once the anvil has been forged, it must undergo a ritual blessing by the most powerful dwarven priest in the clan, and 4d4 other priestly assistants. (The main priest must be at least 6th level, and a member of the same clan as the dwarves who forged the anvil.) The blessing takes 1d4+4 days, and the clan's patron deity is invoked during the final enchantments.
+
+High anvils are not commonly found in treasure hoards. One might be discovered in the ruins of a dwarven stronghold, but even if the clan had been destroyed or driven off, another clan would try to recover the anvil to keep it from falling into the hands of another race. Dwarves who do manage to gain possession of a high anvil (from nondwarves, of course, since dwarves do not steal from each other) gain 10,000 experience points; the award is half as great for nondwarves who come to own one.
+
+## Iron Anvil of the Armies
+
+**XP Value:** 1,750 &emsp; **GP Value:** 17,500
+*Source: DRAGON Magazine #178*
+
+This is a great, black, iron anvil, embossed with runes of power in gold and brass. Any competent smith will find nonmagical tasks uncannily easy when using this anvil. Bent swords straighten with a single tap, having lost none of their
+
+---
+
+<!-- page 53 -->
+
+## Anvil of the Lortmil Mountains
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: GREYHAWK Adventures*
+
+This blacksmith's tool was enchanted in a shrine of Moradin, king of the dwarven gods. It allows a dwarven weaponsmith to create extremely strong and sharp blades. Each weapon takes twice as long to create, but, when finished, is either a normal weapon (on an unsuccessful proficiency check) or a weapon of fine quality (on a successful proficiency check). All weapons of fine quality created by this anvil are worth 100 times the cost of a normal weapon of the same type. It is rumored that this anvil forged legendary magical weapons for the dwarves.
+
+The anvil is too massive to transport except with the most elaborate methods, and using it is hard work. The smith must have a minimum Strength of 15 and can work only as many days in one stretch as his or her Constitution score divided by five (rounded down) before resting for a like period of time.
+
+In addition, everything worked on this anvil has a little extra shine and a cleaner finish, horse shoes are just the right size, and the smith works at six times the usual speed.
+
+---
+
+"Apparatus" is an all-encompassing term used to describe a machine so complex, it is impossible to associate a name with its function. Other terms that could work as well are "magical machine," "contraption," or "mechanism." Most apparati are too large to move or relocate due to the possibility of breakage.
+
+## The Apparatus
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: RAVENLOFT Campaign Set*
+
+This huge machine stands over 30 feet tall and it is 20 feet wide at the base. A glass globe, 15 feet high, rests upon a massive tripod made of wood and steel. The tripod lifts the globe over 15 feet from the floor. The globe encases a great, spinning ball of sulphur. A network of rings, made of cold-forged steel, tops the enormous glass sphere.
+
+Two smaller globes, each the height of a man, are suspended below the large one. The pair, linked by a narrow glass neck, looks like an hourglass on its side. A 3-foot-wide trap door opens from the bottom of each smaller globe. A steel, tubular arch links each smaller globe to the mother sphere above.
+
+A third, and still smaller, series of globes rings the entire base of the tripod, linked together like a chain by thin glass tubes. A bewildering array of metal and glass — rods, wires, and plates — joins the circle of spheres to the two human-sized glass chambers.
+
+Lightning energizes the apparatus. The steel rings on top focus electricity into the mother globe. To fully charge, the apparatus requires 12 lightning strikes within the span of three hours; over a longer period, the charge fades. The energy is converted into a magical force by the spinning ball of sulphur within the globe.
+
+This contraption can perform a number of monstrous and misguided tasks. The first is a "transpossession." It can cause the exchange of minds between two intelligent subjects — even an intelligent creature and a man. The subjects must stand in the formidable glass chambers. On the 12th lightning strike, the psyches of the two individuals are exchanged. All mental abilities go with the psyche, all physical abilities stay with the body. Both subjects fall unconscious for 1d3 turns. Any attempts to determine the alignment or true nature of a transpossessed subject fails. Spells such as *know alignment*, *detect evil*, or *true seeing* act as if the subject had a truly neutral alignment.
+
+The second function of this machine requires the rod of Rastinon. When the rod is placed in the glass tube connecting the two large chambers, a subject's personality can be split in two. An intelligent subject must stand in one of the big globes. On the 12th lightning strike, the psyche splits. In a flash, a duplicate of the subject appears in the adjacent chamber. Physically, they are almost twins. Mentally, they are unique. As of this writing, the split has involved only good and evil, separating the dark side from the light. Other divisions may be possible.
+
+The "dark side" is a being of such evil that Ravenloft's dark powers envelop him or her, granting a lordship and a domain. They may also give great powers, and transform the character physically. The individual immediately seeks to destroy the other half, because only then is he or she secure.
+
+According to legend, the apparatus can also rejoin the psyches it has divided. Both halves
+
+---
+
+<!-- page 54 -->
+
+(continuing from prior content about the rod of Rastinon and the apparatus's powers)
+
+must occupy the globes, with the rod of Rastinon in place. On the 12th strike, their psyches join, and the original subject is restored. Theoretically, two normal subjects—each unique and whole—might be forced to share one body through this process. The stronger body would harbor the two psyches, while the weaker body would become a withered, empty shell.
+
+## Alchemist's Apparatus
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Book of Artifacts*
+
+The apparatus, or the alchemist's apparatus as it is sometimes known, is best described from the notebooks of Meister Dettrick.
+
+> *The very sight of it [the Apparatus] inspired a terror within me, for its very shape spoke of the unholy researches that planned it. It filled Herr Gustav's great hall, o'er-reaching even the balconies that looked upon the floor below. The main part consisted of a great glass sphere of sulphurous fumes, madly churning as the lightning teased the steel receptors set atop it. The whole is supported in a tripod of oppressive wood and iron, beneath which were suspended two smaller globes, each the height of a man. Piping arced from these to the sulphurous orb. Ringing these were yet smaller orbs, interwoven by tubes through which flowed streams of noxious yellow gas. To my trepidation, Herr Gustav already stood among the wires and pipes of the platform, priming the foul device for the coming storm. Then I saw that each contained a beast—one a quivering fawn, the other a ravening dire wolf. "Behold the test!" he cried to me, frantic with his madness as he gestured to the orbs. From his robes he produced a crystal rod, no more than 2 feet long, that throbbed with crystal fire. "The rod!" he shouted above the enraged storm. "With the rod I shall..."*
+>
+> *No more of his madness could I bear, and so risking the fury of the elements I fled the sage's halls, out into the night. . . .*
+
+It is unclear whether the apparatus is a single device or a set of plans and concepts so infernal in their execution that the result is the diabolic machine known by that name. The doubt exists because several times this artifact is said to have been both invented and destroyed, and yet, somehow it seems to recreate itself elsewhere to once again wreak havoc upon those who experiment with it.
+
+The first known construction of the apparatus was by one known as the Alchemist of Mordentshire, sometimes confused with Count Strahd Von Zarovich, another player in this tale. The story is that the alchemist created the apparatus in order to divide a soul and purge it of evil or, as others maintain, to fuse his own incomplete soul with that of another. Whatever his goal, his ambitions became entangled in those of Strahd and led to disaster, destroying the apparatus and its maker.
+
+The monstrous apparatus had more of a life than its maker, it seems, for it has reappeared in other lands, sometimes as it was and sometimes changed and improved. Thus it is that some sages maintain that the true artifact is not the apparatus itself but the supposed notebooks of the original alchemist, and that it is from these plans that the physical apparatus is built. No one, however, can ever testify to seeing a copy of these notes.
+
+One important feature of the apparatus is the rod of Rastinon. This magical item, although not an artifact in its own right, is vital to several of the apparatus's powers. It must be set in place between the two chamber orbs and then powered by lightning—or so that is how the story goes.
+
+The apparatus is a wonderful artifact with which to threaten PCs, because its powers of transpossession and soul-splitting strike at the very essence of the player character. The thought of having one's mind and psyche transferred into that of an orc or, perhaps worse, a goat should be enough to rouse fear in the heart of any PC.
+
+Since the apparatus is not small, portable, or even quick to use, any adventure involving it must have a strong villain, one who can trap the PCs and then operate the device. A strong villain needs strong ambitions, too. The goals of this villain are certainly more than just tormenting the PCs. They are only attacked because they are useful in some experiments or because they threaten, knowingly or not, greater plans.
+
+Should the characters manage to avoid the threats posed by the apparatus, they may still have problems. Friends and allies may suddenly become enemies through transpossession. Innocents may need to be restored or transpossessed spies ferreted out. This might require that the characters seize and operate the apparatus, all at great peril to themselves!
+
+---
+
+<!-- page 55 -->
+
+Among all of the artifacts, this apparatus is the easiest to remove from any campaign, for it has a history of overloading, exploding, and otherwise destroying itself. Whenever the device's time has passed, it is a simple matter to demolish it in a dramatic stroke of lightning. Another apparatus, should it ever be needed, can always conveniently appear elsewhere, for like true science, once released from Pandora's box, it can never be banished completely.
+
+Unlike many other artifacts, the powers of the apparatus cannot be utilized at will. Although magical in nature, the device operates more like a machine. To run, it must be energized by lightning. No other electrical source can suffice, for the apparatus requires not only the voltage, but the elemental power that the lightning provides. The metal receptor plate in the top must be struck 12 times in the space of three hours for the device to build up the necessary charge. Only one charge can be held at a time and beyond the time limit, the stored energies fade. The charge is enough to feed a single power of the apparatus. Which power is used is determined by the operator, who must constantly supervise the machine's operation. Transpossession can be used without additional preparation, but the remaining powers of the apparatus require the use of the rod of Rastinon, set in its place between the two globes.
+
+**Invoked Powers:** The simplest power is transpossession, the complete exchange of minds between two creatures. The subjects are placed in the two globes and, amid swirls of gas and glowing blue sparks, the transfer is made. All mental, spellcasting, and psionic abilities are transferred between the two bodies. The new form has the Strength, Constitution, Dexterity, and Charisma of the host, but the Intelligence and Wisdom of the transferred mind. The subjects are struck unconscious for 1d3 turns. Transpossessed subjects detect as neutral to all spells and psionics that would reveal alignment, ethos, or personality.
+
+The second power, soul splitting, divides a single subject into two personalities. The split separates some property of the psyche into its opposing elements — good vs. evil, law vs. chaos, wisdom vs. folly, and other opposing forces. The two persons are physically similar, differing only in ways that characterize the nature of the split and the strength of each trait. The good personality may be fair and strong, if the original subject was filled with good, or sickly and pale if the subject was less than noble. Each personality has the full knowledge and abilities (within the limits of the separation) of the original body.
+
+The two forms are also utterly opposed to each other, so that cooperation is impossible. Depending on the nature of the separation, one seeks to destroy the other or reverse the soul splitting process. An evil twin would seek its counterpart's death while the good one tries for reunion. A wise twin might revel in freedom from the foolish half. A foolish twin is likely to become wild and bestial, filled with more-than-animal cunning. In all cases, the two separated properties become concentrated and exaggerated in each individual until the distilled trait dominates their personalities. It radiates with astonishing intensity to detection spells revealing that trait.
+
+The third power is that of soul fusing. Here, two personalities are joined in one body. Normally this is done to reverse the process of soul splitting, but it is possible to merge two unrelated personalities into a single creature. The merged form now has two separate minds within it. Each retains its own personality, including all class, mental, spellcasting, and psionic powers. One personality, however, cannot use the powers of the other.
+
+The result of this fusion is seldom harmonious, for unless the two minds are in perfect agreement on all things, they vie for control of the body. Any time there is a disagreement over a course of action, an Intelligence check is made for each mind. Should one succeed and the other fail, that personality seizes physical control. The subject's mannerisms, voice, accent, likes, and dislikes are instantly those of the dominant personality. Should both fail, the subject is racked by fearsome headaches so severe that any action is impossible. If both succeed, the subject's body is the battleground for control. Movements become confused and jerky, behavior erratic from moment to moment, as each tries to assert itself.
+
+Attempts to detect the mental nature of such a person reveal details of the current dominant personality. If there is no dominant force, the result is a confused blur that might be mistaken for neutrality.
+
+**Curse:** With the apparatus there are perils both for those subjected to its horrible transformations and for those who would use it upon themselves or others.
+
+For subjects, beyond the perils described
+
+---
+
+<!-- page 56 -->
+
+I have no text content to process for this page — the Tesseract OCR output is empty and no structured table data was provided.
+
+If you have an image of the page or additional data, please provide it and I will produce the clean markdown.
+
+---
+
+<!-- page 57 -->
+
+## Apparatus of Dreadful Construction
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: New Item*
+
+Reports have surfaced from those who visit other worlds of the appearance of a bizarre device that disrupts the tranquility of civilized life. Sages who collect and study such reports say that a large wheeled mechanism, reputed to be made of adamantite-alloyed iron, has briefly appeared on certain worlds at random to leave a trail of chaos in its wake. The purpose and origins of the device are a mystery, but a few facts are known about it.
+
+The apparatus of dreadful construction, as it has come to be known, resembles a huge, iron, fully enclosed, two-wheeled chariot lacking the front bar to which horses would be harnessed. It stands about 15 feet high, 20 feet wide, and 25 feet long. Its weight is guessed to be 15 to 30 tons. Three great metal chimneys rear from its stern, spewing sparks and flames up to 30 feet into the air. (The fires cause any flammable material within 30 feet of the device to save vs. normal fire or burn.) Two monstrous studded wheels enable the apparatus to cross any terrain at a constant speed (MV 24, or 8.182 miles per hour), night or day. Most fearsome, however, are the eight human-sized metal teeth at its front, each driven by a great piston, which chew through every kind of stone, metal, or other substance. If the apparatus runs into a cliff or mountainside, it digs its way through at a reduced but still rapid speed (MV 18), leaving a permanent tunnel behind it. Any being run over by this device, whether crushed by a wheel or "bitten" by a metal tooth, takes 10d12 points of crushing damage and 6d6 points of heat damage (no saving throw), and must pass a system shock roll or die at once.
+
+As the apparatus travels across the landscape, it destroys everything before it in a path 20 feet wide, moving in a perfectly straight (if not entirely level) line. Nothing, not even a *wish* spell, can turn it aside or direct its movements. Witnesses report that the apparatus is able to survive falls from considerable heights without damage, observing that it continued on its journey as if nothing happened. The single mindedness of the apparatus's movements and feats leads most observers to believe that it has escaped its original owner or creator and is now running without any intelligent control.
+
+As it moves, part of the mechanism takes the rocky material it destroys, draws the debris into the vehicle, and leaves it behind in the form of a black paved road measuring 12 feet wide, with churned earth and ground rock littering either side. The created road is exceptionally durable, making all saving throws as metal +4. Immediately after the passage of the apparatus, however, the roadway is extremely hot, doing 6d6 points of damage to anyone who touches it; it cools by one die of damage for every hour that passes after it begins to cool. Furthermore, the road contains poisonous substances that kill all plant life within
+
+---
+
+*(entry continues on next page)*
+
+---
+
+above, there is a chance that, unable to reconcile oneself to the alteration, madness results. The subject (or subjects in the case of a split) must immediately roll a successful saving throw vs. death magic or succumb to incurable madness. After that, the subject must roll a successful saving throw every day for a full week. Only after this time is the subject able to come to terms with the situation. Note that for those subjected to soul fusing, each personality must roll a separate saving throw and it is perfectly possible for one personality to be sane and the other to be utterly mad.
+
+The experimenter risks other fates each time the apparatus is used. There is a 20% chance (noncumulative) that the energies of the apparatus create a field that transfers the device and surrounding locale (such as the building housing it), along with all characters, into Ravenloft. (Players familiar with the demiplane know this is a serious curse.)
+
+**In Ravenloft:** Where the device was originally found, the operator must roll a dark powers check each time the device is used—even if the operator is the subject. Evil "twins" created by the apparatus are immediately adopted by the land.
+
+### Suggested Means of Destruction
+
+- The machine itself is quite fragile and can be easily destroyed. However, it recreates itself at some other place and time.
+
+- The characters must travel back in time to the workshops of the original alchemist and there destroy him, his works, and all his notes.
+
+- Mystical barriers blocking the blend of science and magic must be built to protect each world in the Prime Material Plane. This does not destroy it. It merely prevents its appearance in that world.
+
+---
+
+<!-- page 58 -->
+
+50 yards for a full year. This road, though of high quality, of course leads nowhere in particular except by random chance. Any city unlucky enough to be in the path of the device must be abandoned until it has departed, leaving road and ruin behind it.
+
+The apparatus travels from world to world as a result of a random plane shift power, 1–20 rounds after it is fully submerged in water—ocean, lake, or river. After its plane shift, it reappears out of the deep waters of another world, in another crystal sphere, to drive across the landscape until it reaches water again. A few wizards and priests discovered this aspect of its nature and exploited it by having lakes dug and filled in its path to protect cities, causing the device to leave their world for another.
+
+Though the device has caused destruction in its passage across inhabited lands, the ruin is very limited in scope and the damage is eventually reversed (though the roadway it creates remains). In some cases, its passage has even been beneficial, as it opens tunnels through the most impassable mountains and builds roads across the worst terrain. It is more an annoyance than a real threat.
+
+The device radiates enormous, powerful magic, and its invulnerability to all forms of magical and physical attack certainly indicate that it is an artifact. Because the upper part of the apparatus has the appearance of a beast's head, complete with fiery nostrils and smokestack "horns," it is sometimes called the Iron Bull, as well as Ground-Eater, Road-Maker, the Starving Juggernaut, and a few less pleasant epithets (particularly thrown by those who have lost farms and forests to its flames).
+
+Certain elements of its appearance have led to speculations that it was built with the assistance of Krynnish tinker gnomes (Minoi), though there is neither record nor proof of this. (Indeed, some tinker gnomes actively pursue the device in order to learn more about it.) Another theory is that it is a reactivated relic from the ancient empire of Blackmoor—of Mystara, not of Oerth. The truth cannot be known at this time. As its first appearance in the Known Spheres dates back to only 130 years, the assumption of scholarly sages is that the device is either of recent construction or lay dormant until accidentally activated by a curious (and no doubt now deceased) discoverer.
+
+## Apparatus of Kwalish
+
+**XP Value:** 8,000 &emsp; **GP Value:** 35,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+When found, this item is a large, sealed iron barrel, but it has a secret catch that opens a hatch in one end. Inside are 10 levers:
+
+| Lever | Effect |
+|-------|--------|
+| 1 | Extend/retract legs and tail |
+| 2 | Uncover/cover forward porthole |
+| 3 | Uncover/cover side portholes |
+| 4 | Extend/retract pincers and feelers |
+| 5 | Snap pincers |
+| 6 | Forward/left or right |
+| 7 | Backward/left or right |
+| 8 | Open "eyes" with continual light inside/close "eyes" |
+| 9 | Raise (levitate) or sink |
+| 10 | Open/close hatch |
+
+The apparatus moves forward at a speed of three, backward at six. Two pincers extend forward 4 feet and snap for 2d6 points of damage each if they hit a creature—25% chance, no reduction for armor, but Dexterity reduction applies (5% per bonus point). The device can operate in water up to 900 feet deep. It can hold two human-sized characters and enough air to operate for 1d4+1 hours at maximum capacity. The apparatus is AC 0 and requires 100 points of damage to cause a leak, 200 to stave in a side. When the device is operating it looks something like a giant lobster.
+
+**In a DRAGONLANCE Campaign:** The apparatus of Kwalish does not exist on Ansalon.
+
+## Apparatus of Spikey Owns
+
+**XP Value:** 7,000 &emsp; **GP Value:** 32,000
+*Source: DRAGON Magazine #28*
+
+This item exactly resembles the apparatus of Kwalish except that, when activated, it becomes a 10-piece one-man-band renowned for its cacophony. It enrages all who hear it, including party members, unless a saving throw vs. spell is made. Those who fail the saving throw will attempt to do harm to the operator until he or she stops playing the apparatus. Of course, the owner is charmed by the device and continues to operate it.
+
+---
+
+<!-- page 59 -->
+
+## Apple of Bragi
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: Dungeons & Dragons Master Set*
+
+Although they are extremely rare, two magical apples have been discovered.
+
+In Scandinavian legend, Bragi (son of Odin) had a magically inexhaustible supply of these apples. Each can cure weariness, decay of power, ill temper, or failing health.
+
+## Apple of Chaos
+
+**XP Value:** 300 &emsp; **GP Value:** 3,000
+*Source: POLYHEDRON Newszine #26*
+
+The apple of chaos is a 5-inch-diameter apple of gold. If thrown, its material form disappears where it lands, but its image remains (a phantasm), affecting all creatures within 40 feet of it. All victims are affected as if by the 5th-level wizard spell *chaos*, suffering confusion (as the druid spell). Normal fighters (not paladins or rangers), illusionists, creatures with Intelligence 4 or less, and monsters that do not use magic may each make a saving throw vs. spell to avoid the effect; no other creatures gain a saving throw. The confusion lasts for 20 rounds, until the phantasmal apple disappears. The image (and the effect) may be removed by a *dispel magic* spell, but checked against 20th-level magic use.
+
+## Apron
+
+Aprons are used for a multitude of purposes. Mostly, they protect the wearer from the effects of heat, sparks, or haphazard knife wielding. Magical aprons, on the other hand, can be used to relieve fatigue, grant cooking proficiencies, or promote cleanliness.
+
+## Apron of Comfort
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: POLYHEDRON Newszine #57*
+
+This magical apron must be worn to be effective. It makes its wearer immune to heat and fatigue caused from long hours in the kitchen, or from prolonged adventuring in hot climes. The apron also catches spills and stains before they touch the wearer or the wearer's clothing. Upon uttering the command word, the apron cleans itself and appears new. The apron increases the cooking proficiency of the wearer by +3. If the wearer cannot cook, the apron taps natural talents and grants the basic proficiency in cooking.
+
+## Flandal Steelskin's Apron
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+The avatar wears an apron of fire resistance that can cast *stoneskin* twice per day. Once per day, he can summon 1d4 16 HD fire elementals for six turns.
+
+## Leather Apron
+
+**XP Value:** 300 &emsp; **GP Value:** 2,000
+*Source: Day of Al'Akbar*
+
+This leather wrap is a magical leather apron +1 that acts as leather armor.
+
+## Arabel's Huggable Bear
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: POLYHEDRON Newszine #82*
+
+This huggable, lovable stuffed magical bear is made of white ermine. It sports an onyx nose, sapphire eyes, and is stuffed with owlbear down. During the slumber hours, this small bear radiates a sphere of protection in a radius of 3 yards. The sphere keeps invading forces from entering the mind of any sleeping person. ESP and mind-
+
+---
+
+<!-- page 60 -->
+
+affecting spells, including psionics, do not work on any subjects sleeping within the bear's domain. The stuffed animal also prevents those in its area of effect from suffering bad dreams. Because of the restful nature of sleep while slumbering near the bear, hit points are restored at twice the normal rate.
+
+## Arcane Formula
+
+Arcane formulae are recipes for converting a victim into another, often mystical, form. Generally, the formula converts living or recently deceased wizards and priests into undead versions of liches.
+
+## Arcane Formula for a Dracolich
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Forgotten Realms MC Appendix*
+
+The creation of a dracolich is a complex process involving the transformation of an evil dragon by arcane magical forces, the most notorious practitioners of which are members of the Cult of the Dragon. The process is usually a cooperative effort between the evil dragon and the wizards, but especially powerful wizards have been known to coerce an evil dragon to undergo transformation against its will.
+
+Any evil dragon is a possible candidate for transformation, although old dragons or older with spellcasting abilities are preferred. Once a candidate is secured, the wizards first prepare the dragon's host, an inanimate object that holds the dragon's life force. The host must be a solid item of not less than 2,000 gp value, resistant to decay (wood, for instance, is unsuitable). A gemstone is commonly used as a host, particularly a ruby, pearl, carbuncle, and jet, and is often set in the hilt of a sword or other weapon. The host is prepared by casting *enchant an item* upon it and speaking the name of the evil dragon; the item may resist the spell by successfully saving vs. spell as an 11th-level wizard. If the spell is resisted, another item must be used for the host. If the spell is not resisted, the item can then function as a host. If desired, *glassteel* can be cast upon the host to protect it.
+
+Next, a special potion is prepared for the evil dragon to consume. The exact composition of the potion varies according to the age and type of dragon, but it must contain precisely seven ingredients, among them a *potion of evil dragon control*, a *potion of invulnerability*, and the blood of a vampire. When the evil dragon consumes the potion, the results are determined as follows (roll percentile dice):
+
+| Roll  | Result |
+|-------|--------|
+| 01–10 | No effect. |
+| 11–40 | Potion does not work. The dragon suffers 2d12 points of damage and is helpless with convulsions for 1d2 rounds. |
+| 41–50 | Potion does not work. The dragon dies. A full *wish* or similar spell is needed to restore the dragon to life; a *wish* to transform the dragon into a dracolich results in another roll on this table. |
+| 51–00 | Potion works. |
+
+If the potion works, the dragon's spirit transfers to the host, despite the distance between the dragon's body and the host. A dim light within the host indicates the presence of the spirit. While contained in the host, the spirit cannot take any actions; it cannot be contacted nor attacked by magic. The spirit can remain in the host indefinitely.
+
+Once the spirit is contained in the host, the host must be brought within 90 feet of a reptilian corpse; under no circumstances can the spirit possess a living body. The spirit's original body is the ideal, but the corpse of any reptilian creature that died or was killed within the previous 30 days is suitable.
+
+The wizard who originally prepared the host must touch the host, cast a *magic jar* spell while speaking the name of the dragon, then touch the corpse. The corpse must fail a saving throw vs. spell for the spirit to successfully possess it; if it saves, it never accepts the spirit. The following modifiers apply to the roll:
+
+| Modifier | Condition |
+|----------|-----------|
+| −10 | If the corpse is the spirit's own former body (which can be dead for any length of time) |
+| −4 | If the corpse is of the same alignment as the dragon |
+| −4 | If the corpse is that of a true dragon (any type) |
+| −3 | If the corpse is that of a firedrake, ice lizard, wyvern, or fire lizard |
+| −1 | If the corpse is that of a dracolisk, dragonne, dinosaur, snake, or other reptile |
+
+If the corpse accepts the spirit, it becomes ani-
+
+---
+
+<!-- page 61 -->
+
+## Arcane Formula for a Lich
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Lords of Darkness*
+
+To become a lich, a wizard or wizard/priest must attain at least the 18th level of experience as a wizard. A candidate for lichdom must have access to the spells *magic jar*, *enchant an item*, and *trap the soul*. Nulathoe's ninemen, a 5th-level wizard spell that serves to preserve corpses against decay, keeping them as strong and supple as in life, is also required.
+
+The procedure for attaining lichdom is ruined if the candidate dies at any point during the process. Even if successful resurrection follows, the workings must be started anew. The procedure involves the preparation of a magical phylactery and a potion. Most candidates prepare the potion first and arrange for an apprentice or ally to raise them if ingestion of the potion proves fatal. Preparation of the phylactery is so expensive that most candidates do not wish to waste all the effort of its preparation by dying after it is completed but before they are prepared for lichdom.
+
+The nine ingredients of the potion are as follows:
+
+- Arsenic (2 drops of the purest distillate).
+- Belladonna (1 drop of the purest distillate).
+- Blood (1 quart of blood from a dead pegasus foal, killed by wyvern venom).
+- Blood (1 quart from a dead demihuman slain by a phase spider).
+- Blood (1 quart from a vampire or a being infected with vampirism).
+- Heart (the intact heart of a humanoid killed by poisoning; a mixture of arsenic and belladonna must be used).
+- Reproductive glands (from seven giant moths, dead for less than 10 days, ground together).
+- Venom (1 pint or more, drawn from a phase spider less than 30 days prior).
+- Venom (1 pint or more, drawn from a wyvern less than 60 days prior).
+
+The animated corpse is mated by the spirit. If the animated corpse is the spirit's former body, it immediately becomes a dracolich; however, it does not regain the use of its voice and breath weapon for another seven days (note that it is unable to cast spells with verbal components during this time). At the end of seven days, the dracolich regains the use of its voice and breath weapon.
+
+If the animated corpse is not the spirit's former body, it immediately becomes a protodracolich. A protodracolich has the mind and memories of its original form, but the hit points, immunities to spells, and priestly turning of a dracolich. A protodracolich can neither speak nor cast spells. Furthermore, it cannot cause chilling damage, use a breath weapon, or cause fear as a dracolich. Its Strength, movement, and Armor Class are those of the possessed body.
+
+To become a full dracolich, a protodracolich must devour at least 10% of its original body. Unless the body has been dispatched to another plane of existence, a protodracolich can always sense the presence of its original body, whatever the distance. A protodracolich tirelessly seeks its original body to the exclusion of all other activities. If its original body has been burned, dismembered, or otherwise destroyed, the protodracolich need only devour the ashes or pieces equal to or exceeding 10% of its original body mass (total destruction of the original body is possible only through use of a *disintegrate* or similar spell; the body could be reconstructed with a *wish* or similar spell, so long as the spell is cast in the same plane as the disintegration). If a protodracolich is unable to devour its original body, it is trapped in its current form until slain.
+
+A protodracolich transforms into a full dracolich within seven days after it devours its original body. When the transformation is complete, the dracolich resembles its original body; it can now speak, cast spells, and employ the breath weapon of its original body, besides having all of the abilities of a dracolich.
+
+The procedure for possessing a new corpse is the same as explained above, except that the assistance of a wizard is no longer necessary (casting *magic jar* is required only for the first possessions). If the spirit successfully repossesses its original body, it again becomes a full dracolich. If the spirit possesses a different body, it becomes a protodracolich and must devour its former body to become a full dracolich.
+
+A symbiotic relationship exists between a dracolich and the wizards who create it. The wizards honor and aid their dracolich, and provide it with regular offerings of treasure items. In return, the dracolich defends its wizards against enemies and other threats, as well as assisting them in their various schemes. Like dragons, dracoliches are loners, but they take comfort in the knowledge that they have allies.
+
+---
+
+<!-- page 62 -->
+
+## Arcane Formula for a Lich
+
+The ingredients are mixed in the order given, by the light of a full moon, and must be drunk within seven days after they combine into a sparkling black liquid that gleams with a bluish radiance. All of the potion must be drunk by the candidate, and within six rounds produces an effect as follows (roll percentile dice):
+
+| Roll | Effect |
+|-------|--------|
+| 01–10 | All body hair falls out, but potion is ineffective (the candidate knows this). Another potion must be prepared if lichdom is desired. |
+| 11–40 | Candidate falls into a coma for 1d6+1 days, is physically helpless and immobile, mentally unreachable. Upon waking, potion works; the candidate knows this. |
+| 41–70 | Potion works, but candidate is feeble-minded. Any failed attempt to cure the candidate's condition is 20% likely to slay the candidate. |
+| 71–90 | Potion works, but candidate is paralyzed for 2d6+2 days (no saving throw, despite curative magic). There is a 30% chance for permanent loss of 1d6 Dexterity points. |
+| 91–96 | Potion works, but candidate is permanently: |
+| &emsp; 01–33 | Deaf |
+| &emsp; 34–66 | Dumb |
+| &emsp; 67–00 | Blind |
+| | The lost sense can only be regained by a *wish* or *limited wish*. |
+| 97–00 | Death of the candidate. Potion does not work. |
+
+The successfully prepared candidate for lichdom can exist for an indefinite number of years before becoming a lich. Lichdom is not achieved at death unless preparation of his or her phylactery is complete. A successfully prepared candidate may appear somewhat paler of skin than before imbibing the potion, but cannot be mentally or magically detected by others as ready for lichdom. The candidate, however, is always aware of readiness for lichdom, even if charmed, insane, or memory loss occurs. (A charmed candidate can never be made to reveal the location of the phylactery — although he or she could be compelled to identify what the phylactery is, if it is shown.)
+
+The phylactery may take any form — it may be a pendant, gauntlet, scepter, helm, crown, ring, or even a lump of stone. It must be of inorganic material, must be solid and of high-quality workmanship if made by humans and cannot be an item having other spells or magical properties in it. It may be decorated or carved in any fashion.
+
+*Enchant an item* is cast on the phylactery (this is one of the rare cases in which this spell can be cast on unworked material), a process requiring continual handling of the phylactery for a long time. The phylactery must successfully make its saving throw as noted in the spell description. It must be completely enchanted within nine days (not the 24 hours normally allowed by the spell). Note that the "additional spell" times given in the *enchant an item* spell description are required.
+
+When the phylactery is made ready for enchantment, the candidate must cast *trap the soul* on it. Percentile dice are rolled; the spell has a 50% chance of working, plus 6% per level of the candidate (or caster, if it is another being) over 11th level. The phylactery glows with a flickering, blue-green faerie fire radiance for one round if it is successfully receptive for the candidate's essence.
+
+The candidate then must cast *Nulathoe's nine-men* on the phylactery, and within one turn of doing so, cast *magic jar* on it and enter it with his or her life force. No victim is required for this use of the *magic jar* spell. Upon entering the phylactery, the candidate instantly loses one experience level along with its commensurate spells and hit points. The essence and lost hit points remain in the phylactery, which becomes AC 0 and maintains those hit points from now on. The candidate is now a lichnee, and must return to his or her own body to rest for 1d6+1 days. The ordeal of becoming a lichnee is so traumatic that the candidate forgets any memorized spells of the top three levels available, and cannot regain any spells of those levels until the rest period is completed. (Candidates usually resume a life of adventuring to regain the lost level.)
+
+The next time the lichnee candidate dies, despite the manner or planar location of death, or barriers of any sort between corpse and phylactery, the candidate's life force goes into the phylactery. For it to emerge again, there must be a recently dead (less than 30 days) corpse within 90 feet of the phylactery. The corpse may be that of any creature, and must fail a saving throw vs. spell to be possessed. If it makes its saving throw,
+
+---
+
+<!-- page 63 -->
+
+it never receives the lich. If the creature had 3 Hit Dice or fewer in life, it saves as a 0-level fighter. If it had 3+1 Hit Dice or greater in life, it saves as if it were alive, with the following alignment modifiers:
+
+LG, CG, NG: +0
+LN, CN, N: −3
+LE: −4
+NE: −5
+CE: −6
+
+The candidate's own corpse, if within range, is at −10, and may have been dead for any length of time. The lichnee may attempt to enter its own corpse once per week until it succeeds. (A phylactery too well hidden might never offer the lichnee a corpse to enter. Many lichnee commit suicide to save themselves such troubles.) When the lichnee enters its own corpse, it rises in 1d4 turns as a full lich, with all memorized spells and all undead abilities described in the *Monstrous Manual™* accessory.
+
+---
+
+## Ardraken's Refreshment Simulacrum
+
+**XP Value:** — &emsp; **GP Value:** 11,500
+*Source: The Book of Wondrous Inventions*
+
+Ardraken, a wizard from Greyhawk adventuring in another dimension, first discovered the creature named "Cola." Cola was a rectangular, human-sized thing. It spoke few words, but was very friendly. For just two silver pieces, Cola gave a total stranger a refreshing elixir. Once back in Greyhawk, Ardraken resolved to create his own "cola."
+
+Ardraken's refreshment simulacrum is a colorful box standing on one end. Its usual colors are red, white, and blue. Glowing runes read, "Cola," "Drink," "New Generation," "Exact Change When Lit," and other arcane sayings. A small opening large enough to accept a coin is located midway to the top, on the right. One foot from the bottom is a large aperture, almost as wide as the box. Ideally, the thing affably greets people, then offers its elixir for a mere two silver pieces.
+
+**Construction:** 11,500 gp; 17 days.
+
+A simulacrum is magically created to duplicate another living being. The process calls for an ice model of the creature to be duplicated. Thus, a refreshment simulacrum requires a block of ice with the dimensions given under Statistics. The water for the ice is mixed first with crushed red, white, and blue precious gems. Each gemstone must be valued at 100 gp. Three gems of each color are needed. The mixture is frozen around a container of that exotic potion Elixir of Cola, called simply "cola," named for the creature that produces it. The cola is usually contained in metal cylinders. If found in Oerth markets, a 12-ounce cola is worth 600 gp. The ice model is carved with the proper runes. Finally, the spells *reincarnation* and *limited wish* or *create monster* are cast. These give the simulacrum life and the ability to imitate Cola's talents.
+
+**Statistics:** Size: 2 × 4 × 6 feet. Weight: 300 pounds.
+
+Two silver pieces are put in the metal slot, and the simulacrum drops a potion in a metal cylinder through the lower aperture. It can also accept other coins and will make correct change. Both processes are magical conversions — silver to elixir.
+
+Somehow these enchantments never malfunction for the wizard who casts them, so a cola always operates perfectly for the wizard that made it. For anyone else, any number of nasty things can happen. First, Cola may accept money, but not give any change due. Half the time, it dismisses the user with a simple taunt: "No drinks for you, scum." Those less fortunate are either attacked or become the recipients of one of Cola's
+
+---
+
+<!-- page 64 -->
+
+## Arm of Doom
+
+**XP Value:** 8,000 &emsp; **GP Value:** 40,000
+*Source: New Item*
+
+This scaled, taloned, reptilian limb is believed to have been severed from a lizard man long ago, and infused with powerful magic by a Calishite archmage who was later killed by an apprentice employing the arm. It grafts itself to the chest, back, pelvis, or shoulders of any creature who touches it and wills a union (and location of attachment). It becomes part of the body of the afflicted creature and is under the same muscular control as the creature's own normal limbs.
+
+---
+
+*The following section header introduces the Arm item category:*
+
+**Arm**
+
+Magical arms are prosthetics that are placed in an empty socket, such as an elbow or shoulder joint. The arm, once in place, grafts to the user, becoming an easily manipulated appendage. Prosthetics are often permanently attached until a *dispel magic* or *remove curse* is cast upon the item or user, but some can be removed by simply speaking the command word.
+
+---
+
+In the early days of Calimshan (when that country was a loose collection of warring satraps and self-styled pashas), a mountain stood near the city of Calimport. The Sunspire was a tall, needle-pointed cone honeycombed with internal passages. The subterranean depths beneath the peak were flooded, and home to many lizard men. These 'scalyskins' raided coastal Calimshan at will, retreating to their lightless, watery lair whenever strong forces rose to oppose them.
+
+One day, a local pasha looked out over his ruined city after one too many lizard man raids, and resolved to destroy the scalyskins of Sunspire. The pasha, Thurongh Klazarr, hired all the wizards he could find, and they worked powerful spells together, blasting the Sunspire until it collapsed, crushing the lizard man colony inside. Only a few scalyskin raiding bands escaped; one was taken in by the evil, reclusive archmage Ilthoon Sarshimm. Ilthoon wanted guards for his home (now a long-vanished tower northwest of Calimport), but found his authority challenged by the leader of the lizard men — so he slew that scalyskin and took one of its arms as his own. He laid powerful spells on the limb, to preserve, animate, and control it. He made it into a removable body part, which grafts itself onto the user and becomes a directly controlled limb (it need not replace a missing limb, but can function as an "extra"). Throughout the years that followed, Ilthoon added magical powers to the arm, ruling the towns around his tower by fear. There were tales of the disembodied limb crawling about at night by itself, strangling folk, and it became known as the arm of doom. Ilthoon was ultimately slain by a treacherous apprentice employing the arm — but that unfortunate wizardling fell afoul of brigands soon after, and the arm saw use in brigand ambushes and feuds throughout Calimshan for many years. It is believed to have since fallen into the possession of an agent of Thay, and to have traveled with him around the Heartlands, seeing use in night strangling and alley attacks. Its precise, current whereabouts (and its owner's identity) are unknown.
+
+### Powers
+
+The arm of doom can punch and slash foes for 2d12 hp damage per round, and it can pass through metal barriers (such as armor, shields, shackles, and the bars of prison cells) as if they do not exist to attack targets (the metal is not affected in any way by the passage of the arm). It is immune to all magical attacks and effects, even those that the host body may succumb to (a held being would be frozen, but not the arm of doom).
+
+The touch of the arm of doom on any item bearing a dweomer suspends the operation of all item magic for one turn, one time only. (That particular item can never again be affected by the arm; its magic isn't ruined, nor does its duration "run out," it simply doesn't work for one turn.)
+
+The arm serves until the being it is attached to is slain or it has taken 50 lives while attached to a single being. Whenever either of these states is reached, the arm tears free, and crawls away at MV 120
+
+---
+
+*Note: The Cola creature entry appears on this page as a continuation from a previous entry (Special Drinks):*
+
+Each Special Drink differs from the last and its effects are always malign. At best, a Special Drink is noxious and gives the imbiber an embarrassing acne problem. The worst Specials cause insanity, loss of hit points, or death. It is believed these hazards prove that simulacrums are inherently evil. Simulacrums are thought to fear their makers and therefore do them no mischief.
+
+**Cola:** AC 2; 7 HD; hp 28; MV nil; AT 1d3, Range 16; Dmg 1d4+3; AL CE. The creature attacks by firing 1d3 of its drinks as missiles. If reduced to half its hit points or less, Cola gives up and offers its attackers the real elixir.
+
+---
+
+<!-- page 65 -->
+
+## Silver Arm of Ergoth
+
+**XP Value:** 10,000 &emsp; **GP Value:** 50,000
+
+*Source: Dragons of Light*
+
+The silver arm of Ergoth was forged by dragon, elf, man, and dwarf during the creation of the original dragonlances. This artifact is able to guide the hammer of Kharas to the exact location of the dragonmetal to create a perfect lance. Only with pure dragonmetal, the silver arm, and the hammer of Kharas can lasting dragonlances be crafted. The silver arm also acts as a ring of regeneration for its owner.
+
+## Silver Arm of Ergoth II
+
+**XP Value:** 9,000 &emsp; **GP Value:** 45,000
+
+*Source: Tales of the Lance*
+
+The silver arm of Ergoth was created by dwarves, elves, men, and good dragons during the Third Dragon War. Used to forge the original dragonlances, it was used again during the recent war against the Dragon Empire.
+
+The arm must be attached to a humanoid with a Strength of at least 17. The person must be of good alignment and be missing his or her right arm. When a proper wearer places the arm to his or her right shoulder, the arm grafts itself to the character and becomes a normal arm for all common tasks.
+
+When used with the hammer of Kharas, however, the silver arm of Ergoth has the power to properly forge dragonlances from dragonmetal. Only with the hammer of Kharas, the silver arm of Ergoth, pure dragonmetal, and the skill of a blacksmith or weaponsmith can true dragonlances be forged. The arm acts as a ring of regeneration.
+
+---
+
+*(Continued from previous page:)*
+
+MV 9 (can jump to 20 feet horizontally), seeking another living being. If the arm tears free, it does 4d6 damage, and forces a system shock roll.
+
+The arm is rumored to have other powers, and perhaps even a destiny (to slay particular types, nationalities, or classes of beings, regardless of the wishes of the being attached to it), but these are the subject of great controversy among sages, and have not yet been clearly established.
+
+## Arm of Valor
+
+**XP Value:** 8,000 &emsp; **GP Value:** 40,000
+
+*Source: The Ruins of Myth Drannor*
+
+This priceless item is one of two known surviving power arms in the Realms (the other is in the keeping of the Heralds, in the Herald's Holdfast)—and only certain senior Harpers and powerful wizards such as Elminster know about the other one.
+
+Made by a cabal of mighty archmages when Myth Drannor was strong, the arm of valor takes the form of five pieces of full, adamantite plate armor. Together, the five pieces form a complete covering for one arm (they alter size and shape to fit either arm of any M-sized creature). There is no known way to dispel the magic instilled in them, and they make all saving throws at 1 on 1d20. (If three or more pieces are worn together, the save drops to 0 or automatic.)
+
+Whenever any power of any piece of the arm is used, there is a 1% chance (not cumulative) that one of the pieces vanishes, teleporting far away (despite the mythal), and draining the life-force from the wearer. The power that was used takes full effect, but the wearer suffers 1d12 hp damage, and permanently loses an additional 1d2 hit points.
+
+The arm was designed for use by champions defending Myth Drannor; its powers override all mythal powers and aren't subject to wild magic.
+
+The pieces are a gauntlet, vambrace (tubular covering for the forearm), couter (a winged, hinged elbow-covering), rerebrace (tubular cover for the upper arm), and a pauldron (shoulder cover, flaring up into a raised half-collar, and over to cover much of the chest and shoulder blade at the back). The rerebrace and vambrace each contain small (4 by 6 by 2 inches) storage compartments that latch shut, and are shielded against magical scrying.
+
+Whenever any piece of the arm is first brought to within 200 feet of another, both pieces glow with a blue-white faerie fire for four rounds (this won't happen again until the two pieces are farther apart, and then moved together again; it doesn't happen continuously when the pieces are very close together or actually touching). When worn ("worn together" in this context means strapped onto the same arm of the same being), the pieces of armor confer the following powers:
+
+### Gauntlet
+
+- immunity to charm, hold, and sleep (and all related spells and psionics).
+- punch does 1d4+1 points of damage, and can strike creatures only hit by +1 or better magical weapons.
+- power smash (3d6 points of damage plus "crushing blow" saving throw forced on items struck) once per turn.
+
+---
+
+<!-- page 66 -->
+
+### Vambrace
+
+- feather fall at will.
+- jump once per turn (range as the spell, but safe landing guaranteed).
+- all weapons wielded solely by the arm wearing the vambrace strike at +1 damage.
+- immunity to ESP spells, spell-like powers, and psionics.
+- wearer can see invisible beings and objects (30-foot range).
+
+### Couter
+
+- dimension door once per turn.
+- airy water (creates airy water automatically around the wearer, whenever submerged).
+- wearer can see dweomers within 30 feet and distinguish between spell areas of effect, enchanted beings, and permanent magical auras.
+
+### Rerebrace
+
+- temporarily raises the status of all weapons wielded by the wearer to the status of +2 magical weapons—+2 on damage and attack rolls, and can be used to hit beings struck only by magical weapons; these bonuses are not cumulative with magical weapon bonuses (a +1 sword would be raised to +2, but a +2 sword doesn't become +4), but are cumulative with vambrace bonuses, if both are worn together.
+- immunity to all illusion and phantasm spells.
+
+### Pauldron
+
+- wearer's Armor Class improved by four points.
+- immunity to all enchantment and charm spells.
+- force blast once per turn (does 3d4 points of damage, neither has nor uses charges, additional impact powers as for a ring of the ram).
+
+The arm of valor also has some cumulative additional powers, conferred only by combinations of various pieces worn together, as follows:
+
+### Any Two Pieces Worn Together
+
+- immunity from all polymorph attacks.
+- all system shock rolls automatically successful.
+- immunity from magical fear.
+- a bonus of +1 on all saving throws.
+
+### Gauntlet, Vambrace, and Couter Worn Together
+
+- dispel magic (90-foot range, 90-arc ray, once per turn).
+- magic missile (5 missiles, 1d4+1 points of damage each, one missile from each digit of gauntlet, one unleashed per turn, or all five missiles in the same round).
+- immunity from petrification.
+
+### Entire Arm Worn Together
+
+- additional +2 bonus on all saving throws.
+- fly (four rounds maximum burst, one use per turn).
+- minor creation once per day.
+- wizard eye once per day.
+- If all five pieces of the arm are worn together, they fuse into a flexible but solidly linked unit that can be readily separated at the wearer's will, but not otherwise.
+
+---
+
+## Armband
+
+Armbands appear and function almost exactly like anklets, but are usually made of sturdier materials. In use, an armband is fastened about the upper arm—it does not function if attached to any other body part. It may not be used by an armless creature, although it may function on a tentacle. All other details for Anklet (command words, resistance, hit points, and so on) apply also to armbands.
+
+## Armband of Comfort of Sleep
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: DRAGON Magazine #73*
+
+These are black arm wrappings. An insomniac (or anyone else) wearing these bands sleeps soundly and comfortably.
+
+## Armband of Death
+
+**XP Value:** 250 &emsp; **GP Value:** 1,200
+*Source: The Book of Marvelous Magic*
+
+This armband appears to be an armband of healing, but when locked on the arm, the snakes of its insignia animate and bite the wearer. Both hit each round, with no attack roll required. Each inflicts one point of damage per bite and requires a saving throw vs. poison per bite—failure results in death. After the snakes are animated, the armband cannot unlock until destroyed.
+
+## Armband of Healing
+
+**XP Value:** 1,500 &emsp; **GP Value:** 9,000
+*Source: The Book of Marvelous Magic*
+
+This item bears the insignia of a caduceus—two snakes entwined about a staff. When locked on
+
+---
+
+<!-- page 67 -->
+
+## Armband of Music
+
+**XP Value:** 700 &emsp; **GP Value:** 7,000
+*Source: The Book of Marvelous Magic*
+
+This item appears to be and functions in all respects as either an armband of healing or an armband of strength. However, each time it is activated, the armband emits the sounds of a brass band (with drums). The band plays a rousing march for one turn. These "concerts" don't overlap if the armband is used while the music is playing; if the armband is activated three times in three successive rounds, the music lasts for three turns. The armband cannot be unlocked while it is producing music. The noise can be heard clearly within a 60-foot range, regardless of intervening walls, doors, etc., and may attract the attention of monsters within that area. Note that a *silence 15' radius* spell only dampens the effect slightly, reducing the range to 30 feet.
+
+## Armband of Salutation
+
+**XP Value:** — &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This armband bears the symbol of a fleur-de-lis. When locked on the arm, it causes the wearer to salute an opponent, bending the arm and raising hand to the eyebrow, before engaging in hand-to-hand combat. It has no effect on missile fire combat. The victim must hold the salute for one round. The opponent may attack during that round, gaining a +2 bonus on attack rolls. There is, however, a 50% chance that the opponent is so surprised it fails to attack that round. The wearer is never forced to salute an opponent more than once in any melee. Once the first salute is made, the armband cannot unlock unless a *wish* is used.
+
+## Armband of Snake Changing
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: POLYHEDRON Newszine #17*
+
+These armbands, found in pairs, allow the user to cast an equivalent of the *polymorph self* spell, but the user can only change to some form of snake. Both bands must be worn and the power can be invoked once a day.
+
+## Armband of Strength
+
+**XP Value:** 750 &emsp; **GP Value:** 8,000
+*Source: The Book of Marvelous Magic*
+
+This band bears the symbol of a lion. When locked on the arm, it may be commanded to raise the wearer's Strength score to 18 for one turn. It functions three times per day.
+
+## Armband of Trueheart's Warding
+
+**XP Value:** 6,900 &emsp; **GP Value:** 42,000
+*Source: Tales of the Lance*
+
+This armband of bronze is etched with a hawk that bears arrows in its talons and four roses upon its breast. Its tale is a twisted web of intrigue and tragedy.
+
+The armband's origins are clouded in mystery to mortal inquirers. Eventually, it passed into the hands of Khantal Krellick "Oathbreaker," who maintained a bloody feud with his brother. At last, weary of war, Khantal bequeathed the armband to his brother Novace to end their feud.
+
+Among the ranks of mercenaries, however, Novace's magic armband became coveted by many. A soldier who desired the armband used a peculiar dagger of venom to slay Novace from behind. While the coward looted the body, the warrior Vanderjack who had witnessed the betrayal, confronted the villain with his crime. In the ensuing skirmish, Vanderjack slew the man. Vanderjack swore an oath to one day return the armband to its family.
+
+In the years that followed, Vanderjack's path crossed that of the legendary Gregor Uth Matar. Seeing a similarity in the crests on the armband and Sir Gregor's armor, Vanderjack passed the armband to Sir Gregor, who promised to return it to his relatives, who had that very crest. Whether Gregor ever intended to honor the bargain remains uncertain. Gregor bequeathed the armband to his daughter Kitiara. She wore it proudly and began her own career as a warrior. As time passed, she bid farewell to her family and gave the armband to her warrior brother Caramon, who still holds it.
+
+This artifact detects only as simple magic, for the depths of its powers are drawn from the spirit bound within the metal: the armband provides its wearer with several enchantments. The wearer receives *protection from normal missiles* and a +3 bonus to saves vs. magic and special attacks. Three times a day, the armband lets the wearer automatically avoid a special attack or reduce it
+
+---
+
+*Note: The preceding entry for Armband of Healing (continued from prior page) states: when locked on the arm of a priest, it causes any three curing spells cast by that priest to cure the maximum possible damage: seven points for a cure light wounds, 14 for a cure serious wounds, etc. Only three spells per day are affected.*
+
+---
+
+<!-- page 68 -->
+
+## Armband of Variable Strength
+
+**XP Value:** — &emsp; **GP Value:** 750
+
+*Source: The Book of Marvelous Magic*
+
+This armband is indistinguishable from an armband of strength but, when commanded to function, it drops the wearer's Strength score to 3. The Strength score rises by one per turn, until 18 is reached, and drops again to 3 on the following turn. The victim's original Strength returns only if a *remove curse* spell is applied by a spellcaster of 15th level.
+
+---
+
+*[Note: The following text on this page is a continuation of the preceding entry for Trueheart's Warding (an artifact), which carries over from the previous page.]*
+
+The armband also works much like a ring of protection +3, improving the wearer's Armor Class by 3. Further, only +2 weapons or better can strike the wearer for full damage. Other weapons only inflict 1 point of damage plus Strength and magical bonuses.
+
+The armband can heal the wearer of all wounds once per day. With all of these abilities, Trueheart's warding is proof against the blight of age, ill will, and curses, and the wearer is undying.
+
+This artifact is the third in the Circle of Love, created by Sirrion for the goddess Mishakal during the Age of Dreams. To prove the strength of love over deceit, Mishakal drew the girl Mirri to the young enemy warrior Trae. They fell in love. Allied with Trae's brother Heris, the lovers set to establishing peace between their warring nations. The evil god Hiddukel, however, betrayed the lovers, imprisoning each of their spirits in one artifact from the Circle of Love. Trae is bound in the Trueheart's warding. The armband opposes the dagger of vengeance in Hiddukel's Triad of Betrayal.
+
+---
+
+## Armor
+
+In this section, there are descriptions of some very special kinds of armor. Before adding these to your campaign, however, be sure you are familiar with the armor gradation system:
+
+For each +1 bonus to armor, regardless of the type of armor, the wearer's Armor Class moves down (AC 2 to 1, to 0, −1, −2, and so on). A normal shield improves the Armor Class by 1. A magical shield improves Armor Class like magical armor — to −1, −2, etc. Note, however, that Armor Class can never be improved beyond −10.
+
+Thus, chain mail +1 is like ordinary chain mail (AC 5), but one category better (AC 4). A shield +1 is equal to Armor Class 8 — two places better than no armor (+1 for bearing a shield, +1 for the magical bonus of the shield).
+
+When adding magical armor to the game, be aware of sizing problems: 65% of all armor (except elven chain mail) is human size, 20% is elf size, 10% is dwarf size, and only 5% is sized for gnomes or halflings. (Elven chain mail sizing is determined on the table below.)
+
+After determining the magical properties of the armor the character found, purchased, or traded for, roll on the two following tables to determine the type of armor and the construction materials. Please note that certain armor types do not require a roll on the materials table (for example, the different types of leather and padded armors). Roll on the table below to determine the type of item found.
+
+According to the first edition of the DMG, page 164:
+
+- Armor of +3 bonus is of special steel made from meteorite iron.
+- +4 is mithral, alloyed with steel.
+- +5 is adamantite, alloyed with steel.
+
+---
+
+<!-- page 69 -->
+
+I have no text content to work with for page 69 — the Tesseract OCR output is empty and no structured table data was provided.
+
+If you can supply the raw OCR text or an image of the page, I will be happy to produce the clean markdown.
+
+---
+
+<!-- page 70 -->
+
+# Armor (continued)
+
+## Armor Type Table
+
+| Roll | Armor |
+|-------|-------|
+| 01–06 | Banded |
+| 07 | Batakari |
+| 08 | Brigadine |
+| 09 | Chahar-aina |
+| 10–14 | Chain |
+| 15–18 | Coin |
+| 19 | Cuir-Boulli |
+| 20 | Do-maru |
+| 21 | Drow Chain |
+| 22 | Dwarven Plate |
+| 23 | Elven Plate |
+| 24–28 | Field Plate |
+| 29–33 | Full Plate |
+| 34 | Gallic Armor |
+| 35 | Gnomish Leather |
+| 36 | Haidatc |
+| 37 | Hara-ate |
+| 38 | Hara-ate-gawa |
+| 39 | Haramaki |
+| 40 | Haramaki-do |
+| 41–46 | Hide |
+| 47 | Horo |
+| 48 | Kot |
+| 49 | Lamellar |
+| 50–56 | Leather |
+| 51 | Leather Scale |
+| 52 | Lorica Hamata |
+| 53 | Lorica Segmenta |
+| 54 | Metal Scale |
+| 55 | O-Yoroi |
+| 56–61 | Padded |
+| 62–67 | Plate Mail |
+| 68–73 | Ring |
+| 74 | Samnite Armor |
+| 75–80 | Scale |
+| 81 | Sodc |
+| 82–86 | Spiked Leather |
+| 87–91 | Splint |
+| 92–96 | Studded Leather |
+| 97 | Sune-ate |
+| 98 | Thracian Armor |
+| 99–00 | with Body Spikes* |
+
+## Armor Material Table
+
+| Roll | Armor Material | Cost Multiplier |
+|-------|----------------|-----------------|
+| 01 | Adamantite | × 50 |
+| 02–05 | Bronze | × 95 |
+| 06–08 | Copper | × 9 |
+| 09–10 | Electrum | × 2.5 |
+| 11–12 | Gold | × 5 |
+| 13–62 | Iron | × 1 |
+| 63–72 | Obsidian | × 75 |
+| 73 | Platinum | × 25 |
+| 74–75 | Silver | × 5 |
+| 76–90 | Steel | × 9 |
+| 91–99 | Wood | × 5 |
+| 00 | Mithral | × 100 |
+
+---
+
+## Armor of Abbathor's
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Monster Mythology*
+
+Abbathor's avatar's leather armor +4 can cast *blindness* at one creature per round within 30 feet (save vs. spell at −6 to negate, −3 if looking away).
+
+---
+
+## Armor of Absorption
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+If the user is hit by a blow that would cause an energy drain, this armor absorbs the draining effect and only the normal damage affects the user. Each energy drain causes the loss of one AC bonus modifier from the armor. When reduced to zero bonuses, the item crumbles to dust. (For instance, armor +3 that has absorbed two energy drain attacks is now armor +1. If it absorbs yet another energy drain, it is reduced to zero and disintegrates.) This special power is not under the control of the user; a character cannot choose to suffer the energy drain and leave the item intact. The normal limit of one use per day does not apply to this power.
+
+---
+
+## Armor of Acidic Secretion*
+
+**XP Value:** — &emsp; **GP Value:** +2,000
+
+*Source: DRAGON Magazine #99*
+
+This cursed armor appears to be normal, magical armor, but it gives no benefit to the wearer in combat (though this is not known by the wearer). From the moment that the wearer first suffers damage while using this suit, the armor and any padding used with it secretes a corrosive acid for 1d20 rounds, causing 1d4 points of damage to the wearer each round (no saving throw). It takes a full turn (10 rounds) to remove this suit of armor, and it continues doing acidic damage during that entire time (if the secretion duration is still in effect).
+
+Due to the nature of the acid, the burns and blisters left by such wounds cannot be removed except by a *wish*, *alter reality*, or *tempus fugit* spell, although normal rest and healing does recover lost hit points. Once the 1d20 round acid-secretion period is past, the armor is once again safe to wear.
+
+---
+
+<!-- page 71 -->
+
+## Anything Armor
+
+**XP Value:** 4,500 &emsp; **GP Value:** 45,000
+
+*Source: Unearthed Arcana*
+
+Anything armor can be of any construction, from leather to plate. Initially, it has a +1 dweomer, but, on command, it can become any sort of other normal magical armor—one of the types listed on the tables, and not necessarily of the same construction as the anything armor in its unchanged form (for example, anything armor that appears as leather can change into plate, or vice versa). However, each such change is singular; anything armor never forms into a specific type of armor more than once. A change into a nonspecial sort of armor lasts for one day (24 hours) before anything armor reverts to its usual +1 status. A change into armor with a special function (such as plate mail of etherealness) lasts but one hour. After the owner has commanded the anything armor to change three different times, the armor loses all of its magical properties.
+
+## Aquatic Armor*
+
+| &nbsp; | XP Value | GP Value |
+|---|---|---|
+| With free action: | −25% | −25% |
+| Without free action: | −50% | −50% |
+
+*Source: DRAGON Magazine #181*
+
+Ideal gear for fledgling underwater adventurers, these weapons and suits of armor have bonuses that apply only underwater. After all, since the PCs are out of their element underwater, they may need advantages that they would not need on dry land. Aquatic weapons and armor cost half as much as their normal counterparts.
+
+**Free Action:** The DM may provide these weapons and armor with free action ability (only while underwater, of course) for an XP value equal to that of a normal, magical weapon or suit of armor. Note that with free action, an aquatic long sword +1 is not difficult to swing undersea.
+
+## Armor of the Arcane
+
+**XP Value:** 3,000 &emsp; **GP Value:** 20,000
+
+*Source: Lost Ships*
+
+A few of these blue giants have been encountered wearing magical armor. The arcane do not sell or give away their armor, and its stability is often (75%) linked to the wearer's life. If an arcane is slain, the armor slowly melts away, dissolving despite any magic used to try to stop the process.
+
+Armor of the arcane magically alters in size to fit the wearer, and confers AC 3 protection. Two hit points of every physical attack striking the wearer are suffered by the armor, and are not subtracted from the wearer's hit points. It protects the wearer from all forms of natural or magical mental influence and control, and similarly makes him or her immune to the effects of poisonous vapors. It prevents cantrips and all spells of the 3rd or lower levels from affecting the wearer, absorbing the spell energy for its own maintenance.
+
+A suit of armor of the arcane can absorb 1d20+12 points of damage before dissipating. Consider the contact of any spell to give the armor additional hit points—2 per spell level—with a cantrip giving a single point, unless the spell is one that normally deals damage. In such cases, the damage the spell would have done is gained by the armor as additional hit points of its own. All damage dealt by spells of the 4th or higher levels is suffered directly by the armor, until it is destroyed. All other spell effects (such as spells that do not cause damage) of such higher level spells affect the wearer directly, bypassing the armor's protection completely, unless they involve poisonous vapors or mental attacks.
+
+Finally, armor of the arcane confers 90-foot-range infravision upon any wearer who does not possess this power naturally. The armor itself saves as metal with a +3 bonus against all attack forms requiring a saving throw. An arcane who sees a nonarcane wearing such armor will challenge the individual. Anyone impersonating an arcane needs telepathic powers, not merely illusions, to be successful, and must know much of the arcane society, values, and aims. The challenging arcane offers the armor wearer whatever magical item he or she desires most in return for the armor—and the tale of how the being came to be wearing it. If the wearer refuses the deal, demands an artifact or too much magic in return, or offers the arcane an unbelievable tale, the arcane calls on other arcane, or its hired minions and directs them to attack the wearer. It then returns, invisible, following the wearer to see where the user goes and who he or she has dealings with, until the attack comes. The arcane continue to hire attackers until the armor is destroyed or surrendered. They don't care if this involves the death of the wearer.
+
+---
+
