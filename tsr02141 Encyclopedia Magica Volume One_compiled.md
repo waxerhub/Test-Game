@@ -16943,3 +16943,797 @@ This band of platinum is usually unadorned and magically expands or contracts to
 
 ---
 
+<!-- page 294 -->
+
+weapon, increased Hit Dice, increased combat modifier, and decreased THAC0. A dragon automatically receives the innate, magical powers that are normally gained by dragons only when they reach the age category of wyrm. Finally, a dragon can cast as many spells as a wyrm (it doesn't automatically learn any new spells, however, so this might not be a significant benefit).
+
+All of this assumes that the dragon isn't already a wyrm or great wyrm. Wyrms are unaffected by the circlet, while great wyrms diminish in power while wearing the circlet.
+
+The circlet may be removed at any time, but the mental shock causes the creature to be stunned for 1d4+1 rounds. For each round that the dragon engages in melee combat, there's a 5% (noncumulative) chance that the circlet falls off, stunning the dragon. If the dragon grapples or is grappled by another dragon, the chance increases to 10% per round (noncumulative) as long as the dragons continue to grapple. There is also a one-shot, 7% chance that the circlet falls off during a wingover maneuver.
+
+Dragons can wear the circlet only when they're in their own form. Polymorph and shape change spells cause the circlet to fall off, stunning the dragon.
+
+There are legends of a similar circlet of the great wyrm, but this magical item has never been found.
+
+## Claw
+
+Claws are long, sharp, and curved nails found on the feet (or paws) of animals. Usually thought of as a predator's trait, many herbivores have claws for defense or for digging and climbing. Magical claws are usually attached to a handle or some other device that allows a humanoid user to use them as slashing weapons.
+
+## Claw of Magic Stealing
+
+**XP Value:** 3,500 &emsp; **GP Value:** 17,500
+*Source: Tome of Magic*
+
+This peculiar item is usually fashioned in the form of a miniature, silver hand or claw. An attempt to identify it suggests that it is an item capable of casting the 2nd-level wizard spell *spectral hand* three times per day. The claw can indeed do this, but that is only its secondary function.
+
+The claw's real purpose is to steal spells from other spellcasters. If the victim of the *spectral hand* spell is a wizard, he or she must make a saving throw vs. spell. Failure to make a successful save means that a randomly selected spell is drained from the wizard's memory and its energy transferred to the claw's owner. The owner of the claw may then use the magical energy to "power" a memorized spell, provided it is of the same or lower level. Such a spell may be cast without being lost from the mind of the wizard possessing the claw.
+
+The claw of magic stealing does not store magical energy in any way; either the owner of the claw uses the energy to "power" a spell on the next round, or the energy dissipates and is lost.
+
+## Claw of Mighty Simurgh
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: DUNGEONS & DRAGONS Master Set*
+
+Long ago, a great roc-like bird appeared to a wandering priest. The bird said it was Immortal, and had already seen three cycles of life on earth — each ending in destruction by water, ice, and fire. It gave one of its smallest claws (a mere 2 feet long) to the priest. Explaining its powers, the Mighty Simurgh asked that it be used for the betterment of mankind. The priest did what she could, but lives no more, and the claw has apparently fallen into the clutches of evil.
+
+The claw is a curved talon 25 inches long, made of an ivory-like substance.
+
+The artifact is active when acquired. Once the claw is claimed, full knowledge is granted telepathically during the user's first sleep.
+
+**Suggested Powers:** (All abilities are cast at 20th level.) Calm others (range 10 feet; effects up to 40 HD of levels), turn bonus (1d6+2 HD), predict weather (duration 12 hours; effects 40 square miles), immunity to poison (duration 18 turns; affects self only).
+
+**Suggested Handicap:** The handicap is activated when the first power is used — the user loathes violence, urges peace to all living things, and refuses to attack anyone unless attacked. This effect does not include undead.
+
+**Suggested Penalty:** Simurgh may appear (25% chance) whenever rainfall, flooding, tornado, falling snow, or similar weather conditions are present. The user imagines that the Simurgh has demanded an interview. The user must gather a party to go to the far northern mountains, leaving within three days. The effect will wear off when the mountains are reached.
+
+---
+
+<!-- page 295 -->
+
+## Claw of Nezram
+
+**XP Value:** 3,750 &emsp; **GP Value:** 35,000
+*Source: Old Empires*
+
+The great wizard Nezram made a number of unique, magical items before he left the Realms for parts unknown. One of the most unusual is the claw of Nezram. It is a replica of a humanoid hand made of ivory, studded with rubies, with sharp claws instead of fingers.
+
+The claw has several functions. Its mundane function causes it to scratch any part of the wielder's body on command, to relieve an itch. If ordered into combat, the claw has two options—it may slash at an opponent, causing 1d6 points of damage; if it inflicts maximum damage on any attack, it grabs the target around the throat and causes 2d10 points of damage per round until the target is dead. Or, it may grab at a target's weapon hand, negating one attack each melee round (if a victim has 3/2 attacks, the first round attack is lost as well as one of the second round attacks). The claw is AC 0. If 50 points of sharp-edged damage are done to it, it stops attacking for 24 hours; 200 points of such damage completely destroys it.
+
+The claw is intelligent; any new master trying to control it must battle against a neutral alignment, 12 Int, and 16 Ego (as an intelligent sword). The hand glows red if rubies (other than the ones embedded on the hand) are within 50 feet.
+
+Nezram is known to have constructed at least five claws, one of which is in the possession of Hodkamset, the most powerful wizard of the Cult of Set.
+
+## Noj's Claw of Magic Exchange
+
+**XP Value:** — &emsp; **GP Value:** 2,000
+*Source: 1992 Trading Card 393*
+
+Noj thought he had a bonafide, noncursed item, a claw of magic stealing, when he found this claw—the first time he used it, he realized that he had a new spell floating around his head. Soon after, though, he realized that he had also lost his best memorized spell. A little experimentation with the claw showed him that he received a random spell from his victim's memory in exchange for his own most powerful memorized spell. Therefore, Noj carries only cantrips or spells that are worthless in combat. Now, when his enemies fail a saving throw vs. spell, Noj gets a spell he can use.
+
+## Talon of the Danse Macabre
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: Old Empires*
+
+These items were created by the priests of Hoar/Assuran in Chessenta; eight pairs are known to exist, most scattered among treasure hoards across the Realms. These magical items appear to be eagle's talons, plated in a dull silver that resembles pewter. When two of them are thrown down, and the proper command word is given, they immediately attack, causing 2d4 points of damage per round for one turn before they become inactive for 24 hours. They can be stopped with the proper command word, or a successful dispel magic spell cast against 12th-level magic (which also neutralizes them for 24 hours). No weapon can touch them in combat and they appear to be indestructible.
+
+## Talon of Zaltec
+
+**XP Value:** 700 &emsp; **GP Value:** 6,000
+*Source: Maztica Campaign Set*
+
+This is a small object made from the claw of a jaguar. The tip contains lethal venom (-4 to saving throws). The wielder of the talon must make a successful attack roll in hand to hand combat. The victim must make a saving throw or die. There is enough venom for 1d10 doses in a single talon.
+
+The other use of the talon is contained in the wide upper end of the claw. This contains a small amount of powder. If cast into the eyes of a victim within 5 feet, that victim must save vs. spell or be blinded for 2d6 hours. All victims are considered AC 10 for purposes of the blinding powder. There is enough of the powder for 2d12 uses per talon.
+
+## Twisted Claw
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: The Ruins of Undermountain*
+
+This palm-sized, silver sculpture looks like a gnarled beast's claw; its unnaturally long talons wind over each other and around themselves in a boneless manner, forming an almost spherical mass. The claws can easily be bent, but they don't break.
+
+A twisted claw is inactive until carried next to its owner's skin for at least one day. After this time, the claw can be controlled by the mental commands of its wielder.
+
+---
+
+<!-- page 296 -->
+
+A claw can be thrown up to 40 feet at an opponent with the thrower's normal THAC0, and willed to activate if it hits. Another common method is to curl the claw around the end or edge of a bludgeoning or slashing weapon, perhaps even transfixing it on the point of a piercing weapon, and willing the item to take effect if the weapon hits. A claw does not cause damage, either by itself or in addition to a weapon it rides. It causes any victim it strikes to twist, writhe, and flail in pain the round after it strikes, no applicable saving throw. This gives the victim's Armor Class a penalty of +2, prohibits any spellcasting or other attacks, and causes all held items to be dropped (2% chance per level or Hit Die of the victim of retaining hold on any item). The claw vanishes after one use. A twisted claw cannot affect any undead creature, though its magic is not wasted if used against such beings.
+
+A twisted claw can override a ring of free action or similar magical protection; it was specifically designed to override such things. It can be rendered inoperative by an antimagic shell, until removed from the shell's area of effect.
+
+## Cleats of Gripping
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+*Source: The Book of Marvelous Magic*
+
+A wearer of these useful items can walk on otherwise impassibly slippery surfaces, even if magical. Sheer surfaces cannot be climbed, but any slope of 45° or less can be easily scaled. When they are used with claws of raking, the wearer may climb sheer surfaces as well as a 4th-level thief. The cleats make clicking noises when worn, so a wearer cannot surprise others.
+
+## Cloak
+
+Cloaks are loose, sleeveless outer garments used to ward off the effects of weather. They often are voluminous enough to allow the user to wear armor or heavy clothing underneath. A tie string or metal pin helps secure a cloak to the user's body in high winds. Many cloaks also have attached hoods for better protection from the elements. (See also Cape, Coat, and Robe.) Roll on the following table to determine the type of cloak discovered.
+
+| Roll  | Cloak Type              |
+|-------|-------------------------|
+| 01–04 | Aba                     |
+| 05–08 | Baladrana               |
+| 09–12 | Caftan                  |
+| 13–16 | Cape                    |
+| 17–20 | Capote                  |
+| 21–24 | Cassock                 |
+| 25–28 | Cloth Cloak             |
+| 29–32 | Coat                    |
+| 33–36 | Dolman                  |
+| 37–40 | Frock                   |
+| 41–44 | Fur Cloak               |
+| 45–48 | Jacket                  |
+| 49–52 | Manta                   |
+| 53–56 | Mantle                  |
+| 57–60 | Mino (Straw Raincape)   |
+| 61–64 | Palatot                 |
+| 65–68 | Poncho                  |
+| 69–72 | Robe                    |
+| 73–76 | Shawl                   |
+| 77–80 | Smock                   |
+| 81–84 | Surcoat                 |
+| 85–88 | Tabard                  |
+| 89–92 | Toga                    |
+| 93–96 | Tunic                   |
+| 97–00 | Vest                    |
+
+## Cloak of Appearance
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: DRAGON Magazine #73*
+
+Anyone wearing this item appears to be 5–10% lighter in weight. Generally, the effect is to make overweight people look normal or normal ones look quite slim. A disguise aid.
+
+## Cloak of Arachnida
+
+**XP Value:** 3,000 &emsp; **GP Value:** 25,000
+*Source: DUNGEON MASTER Guide*
+
+This black garment gives the wearer the ability to climb as if a *spider climb* spell had been cast. If *detect magic* is used, the cloak radiates a strong aura of alteration magic.
+
+In addition to the wall climbing ability, the cloak grants the wearer immunity to entrapment by webs of any sort—the wearer can actually move in webs at a rate equal to that of the spider that created the web, or at a base movement rate of 6 in other cases.
+
+Once per day the wearer of this cloak can cast a double-sized web (this operates like the 2nd-level wizard spell). Finally, the wearer is less subject to the poison of arachnids. He or
+
+---
+
+<!-- page 297 -->
+
+she gains a +2 bonus to all saving throws vs. such poison.
+
+## Artemus's Cloak of Displacement
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+*Source: 1992 Fantasy Collector Card 185*
+
+Artemus's magical cloak functions much like a typical cloak of displacement, distorting light and providing a bonus of +2 to Armor Class. However, this cloak also serves as a sort of lightning rod, attracting all electricity-based spells. When this happens, Artemus is not allowed a saving throw to halve the effects of those spells.
+
+## Cloak of the Atmospheric
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+*Source: DRAGON Magazine #159*
+
+Also known as a cloak of air pockets, this appears to be an average cloak and hood. When worn outside any planetary atmosphere, the cloak magically doubles the size of a wearer's air envelope, which greatly increases a character's survival time away from a ship or planetoid. A human size air envelope increases to hold enough fresh air for 4d10 turns.
+
+When the cloak is worn in the presence of fouled or stale air, it generates fresh air around its wearer three times daily. This envelope exists only within the hood of the cloak, which must be pulled around the wearer's head to be of use. This pocket of fresh air stays in effect for 2d10 turns; after that there is a 1d4 hour delay before it can generate another fresh air pocket. Note that this does not confer immunity to poisonous gases; the cloak simply adds fresh air within the confines of the hood but does not remove any poisons from the air. However, a wearer does gain a +1 to saving throws vs. poisonous gases and vapors either in wildspace or within planetary atmospheres.
+
+## Baravar Cloakshadow's Cloak
+
+**XP Value:** 7,000 &emsp; **GP Value:** 35,000
+*Source: Monster Mythology*
+
+His magical cloak has properties of blending and displacement, and can also cast 1d4+2 mirror images as shadowy duplicates of the avatar within a 60-foot radius.
+
+## Cloak of the Bat
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: DUNGEON MASTER Guide*
+
+Fashioned of dark brown or black cloth, a cloak of this type is not readily noticeable as unusual. It radiates both enchantment and alteration in equal proportions. The cloak bestows a 90% probability of being invisible when the wearer is stationary within a shadowy or dark place. The wearer is also able to hang upside down from the ceiling like a bat, and to maintain this same chance of invisibility.
+
+By holding the edges of the garment, a wearer is able to fly at a speed of 15 (Maneuverability Class: B). If desired, a wearer can actually transform into an ordinary bat — all possessions worn or carried are part of the transformation — and fly accordingly. Flying, either with the cloak or as an ordinary bat, can be accomplished only in darkness (either under the night sky or in a lightless or near lightless environment underground). Either of the flying powers is usable for up to one hour at a time, but after a flight of any duration, the cloak does not bestow any flying power for a like period of time.
+
+The cloak also provides a +2 bonus to Armor Class. This benefit extends to the wearer even when in bat form.
+
+---
+
+<!-- page 298 -->
+
+## Cloak, Battle
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,000
+*Source: DRAGON Magazine #112*
+
+The battle cloak entangles any weapon parried by it (treat opponents' unsuccessful attack rolls on the cloak wearer or wielder as a parry). Magical weapons must then make a saving throw of 20, with a bonus equal to their magical bonuses; those magical weapons without combat bonuses save on a 20, and all artifacts save at +5 or at their own bonus, whichever is greater. Failure to make the save binds the weapon fast to the cloak for 1d3 rounds. This entanglement prevents further attacks using that weapon, and a bend bars/lift gates roll is needed to pull the weapon free prematurely. If an attacking creature leaves or moves away to engage another opponent before the 1d3 rounds are up, it must part company with its weapon, which remains in the possession of the cloak-bearer.
+
+The cloak has one other function—on the speaking of a command word while the cloak is held (but not worn), it transforms into a stout bar or cudgel for 1d4+4 rounds. The cudgel is largely composed of magical force, is not damaged by normal usage (except for contact with magical weapons or spells), counts as magical for attack purposes, but has no bonuses; it does 1d6/1d3 points of damage, and cannot be used to entangle other weapons as above. The cloak can be destroyed by parrying (in the above manner) eight blows from magical weapons while in this form. It can be wielded by characters of any class without proficiency penalties.
+
+## Bear Cloak of the Sulhaut Mountains
+
+**XP Value:** 1,500 &emsp; **GP Value:** 17,500
+*Source: GREYHAWK Adventures*
+
+Many years ago, tribal shamans called upon their gods to enchant the hide of a cave bear slain in combat. The cloak became a powerful aid in their struggle to survive against the hostile creatures and the forces of nature that forever threaten their tribes. The fur cloak included a bear's head cap, pelt, and claws. The cloak allowed a wearer to speak with animals twice per day and hold animal once per day. It also increased a wearer's strength to 18/50 and gave 50% immunity to fear. Once a week, a wearer could turn into a cave bear for 1d4+2 hours. The current location of the cloak is unknown.
+
+## Cloak of the Beguiler
+
+**XP Value:** 3,000 &emsp; **GP Value:** 17,500
+*Source: FORGOTTEN REALMS MC Appendix*
+
+The cloak of the beguiler changes its hue and the color of its wearer to match the coloration of the surroundings—up to three times a day for 1d4 turns each time. The wearer may choose to remain absolutely motionless during that time, hiding in shadows with 70% success. Ethereal creatures close to the Prime Material Plane may be observed and attacked with ease. If the cloak gets wet, its properties are nullified until it is completely dry. Each time the cloak gets wet, there is a 10% chance it mildews, causing the properties to vanish forever. To fit an average human, 12 animal pelts are required.
+
+## Cloak of Blackflame
+
+**XP Value:** 20,000 &emsp; **GP Value:** 100,000
+*Source: The Five Shires*
+
+This magical cloak resembles a tangle of thick, black cobwebs or black silk scraps when not worn. When examined, it is seen as an intact, off-the-shoulder half cloak. When donned, it fastens by itself and alters to fit any wearer up to giant size. Usable by beings of any race or class, it can be freely removed and worn as long as desired. Only one creature can wear and be protected by such a cloak at a time.
+
+A cloak of blackflame makes its wearer immune to all energy level draining attacks, whether they actually strike the garment or not. The wearer is also rendered immune to all attacks or effects that would ordinarily cause paralysis, even in situations where no saving throw is usually allowed. Although such a cloak does not make its wearer invisible, it does foil infravision by shielding its wearer's infrared aura.
+
+Cold attacks do not affect a cloak of blackflame, but all other sorts of attacks affect it normally. A damaged cloak confers full protection until it disintegrates utterly into smoky wisps of vapor. This occurs when a cloak suffers 14 points of damage. Damaged cloaks can be repaired by a keeper or other skilled hin using blackflame. A day's enchantment will restore 1d4+4 lost points to a cloak.
+
+---
+
+<!-- page 299 -->
+
+## Bolder's Cloak of the Rogue
+
+**XP Value:** 6,000 &emsp; **GP Value:** 20,000
+*Source: New Item*
+
+Centuries ago a brash young noble of Waterdeep, who needed to be furtive in order to go adventuring, commissioned an unknown wizard to create the cloak of the rogue. This young man, whose name was Bolder, needed a magical item that would allow him to quietly slip away from his father's estate so he could spend his evenings in the wilds of Waterdeep. Costing him nearly all of his savings (a very considerable sum), Bolder commissioned the cloak from a secretive wizard, and a month later was rewarded with the item. However fate was not kind to the brash young noble, for on the first night he slipped past his father's estate guards, never to return. Although the fate of Bolder is unknown, his cloak has appeared throughout the Realms several times in the last century. A cloak matching the description of the magical garment was reported by Harpers engaging agents of the Zhentarim near Amn a decade ago. However the Zhentarim operative managed to escape into the shadows of the night, taking the cloak with him.
+
+The cloak of the rogue confers and enhances many of the skills of those who wear it, but only if they are of the rogue class. Wearing the cloak increases all thieving skills by 10%. It also adds an additional multiplier to a rogue's chance to backstab an opponent, with a natural roll of 20 causing maximum damage to an unfortunate victim. The cloak functions as a cloak of protection +7 in all respects, and a wearer is allowed a saving throw vs. all detect magic and similar spells (detect invisibility and the like).
+
+Perhaps the most useful function of this cloak is that the four pockets found in the inside lining act as bags of holding, each holding up to 30 pounds. These pockets can only be seen by the wearer; others cannot find them.
+
+Bolder's cloak of the rogue conforms to the shape of the wearer, from halfling to ogre, with a full hood and hanging to the wearer's knees. The fabric of the cloak is unknown, but it has a silken texture and a pattern of deep brown and black swirls that are woven throughout the garment. The cloak weighs one pound and can easily be rolled up and hidden in a pocket. It saves vs. destruction as hard metal. If the cloak is stuffed into one of its magical pockets, it is instantly destroyed.
+
+---
+
+## Cloak of Chameleon
+
+| | XP Value | GP Value |
+|--------|----------|----------|
+| Wis 15 | 750 | 3,750 |
+| Wis 16 | 800 | 4,000 |
+| Wis 17 | 850 | 4,250 |
+| Wis 18 | 900 | 4,500 |
+
+*Source: The Complete Ranger's Handbook*
+
+This lightweight, hooded cloak covers a wearer from neck to foot, and may be worn comfortably over studded leather or lighter armor. The color of the cloak automatically changes to blend in with the surrounding terrain. If a wearer enters a jungle, the cloak becomes mottled with patches of green and brown. If a wearer enters a plain of snow, the cloak turns white. At night, the cloak becomes black. The color changes are instantaneous.
+
+A chameleon cloak allows a character to be personally camouflaged, as if using the camouflage proficiency, in any terrain. The chameleon cloak can conceal only one person at a time. The cloak conceals with an effective Wisdom equal to its rating.
+
+| Roll | Wisdom Rating |
+|-------|---------------|
+| 01–06 | 15 |
+| 07–15 | 16 |
+| 16–19 | 17 |
+| 20 | 18 |
+
+---
+
+## Cloak of Changeling
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: Top Ballista*
+
+A gift from another lover, this cloak gives Leni Narayan a −2 bonus to her AC, a +2 bonus to all her saving throws, and allows her to alter her appearance. She can appear as a humanoid of any race or species, and of either gender, with up to a 50% change in height and weight.
+
+---
+
+## Cheetah Cloak of Amedio
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: GREYHAWK Adventures*
+
+This yellow, black-spotted cheetah hide was enchanted by the original tribesmen of the Amedio jungle. It gives the wearer a +3 dexterity bonus (to racial maximum). Once every three turns the wearer can sprint for three rounds at a movement rate of 45. At night, under a moonless sky, the wearer can turn into a cheetah for up to six hours in any 24-hour period.
+
+---
+
+<!-- page 300 -->
+
+## Cloak of the Clouds
+
+**XP Value:** 4,000 &emsp; **GP Value:** 25,000
+*Source: IMAGINE Magazine #29*
+
+This gray cloak, wispy and tattered-looking, allows its wearer to cast the following spells, once per day, as though a 12th-level wizard — feather fall, gust of wind, fly, lightning, and control weather. Any creature who touches a wearer of the cloak of clouds must make a saving throw vs. death magic or suffer 6d6 points of electrical damage.
+
+## Cloak of Comfort
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: DRAGON Magazine #112*
+
+This cloak imparts equable temperatures for comfortable studying, physical activity, sleep, and so on. It does this by alternatively exuding heat or cold that it has magically absorbed, including the heat of the sun, the chill of night breezes, and extremes of temperature common to deserts, glaciers, and other inhospitable regions. The cloak's outlines are always visible to creatures having infravision. Notably, cold- and heat-based magical attacks are absorbed by the cloak harmlessly; the wearer is rendered immune to cone of cold, heat metal, and similar spells.
+
+Note that most fire-based spells and magic like ice storm do damage for other reasons than merely the temperature of their effects. A wearer of a cloak of comfort suffers -2 hit points per die of damage from ice storm and fire-based magic of all sorts, although the cloak itself is immune to the effects of flame and freezing. Electrical and other energy attacks are unaffected by such a cloak. The capacity for absorption of such a cloak is not known — none is known to have ever "overloaded" nor, when destroyed, to have exploded or emitted any bursts of heat or cold. A wearer of the cloak of comfort never suffers the effects of exposure to the wilderness, such as reduced Constitution, Dexterity, though sunstroke (due to ultraviolet radiation) and water damage to accouterments are still possible. Hypothermia and the fatal effects of frigid waters are not possible.
+
+## Cloak of Delight
+
+**XP Value:** 3,000 &emsp; **GP Value:** 3,500
+*Source: The Magister*
+
+These strange, rare garments cause all who view their wearers to feel calm, at peace in the user's presence, and friendly toward the wearer. At first sight of a wearer of a cloak of delight, regardless of any natural charisma, all who fail to save vs. spell feel loyalty and love for the wearer, and tend to carry out even the most bizarre commands with enthusiasm and alacrity. All who wish to attack the wearer of such a cloak must save vs. spell at every attack or strike at -2 due to reluctance and remorse. Once per day, the cloak wearer may entrance creatures who fail to save vs. spell by causing the cloak to display the ultimate pleasure and goal of each (creatures of low or animal intelligence save at -3, nonintelligent creatures are unaffected). Entranced creatures remain in a motionless trance for 1d8 rounds, oblivious to their surroundings, but will attack any creature or object obstructing their view of the cloak in a demented rage. Use of darkness, pyrotechnics, or similar obscuring spells ends the trance. Entranced creatures cannot employ psionics or cast spells.
+
+A side effect of the cloak's powers is that everyone who views the garment will see it differently, and give widely different descriptions of it later.
+
+## Cloak, Displacer
+
+**XP Value:** 3,000 &emsp; **GP Value:** 17,500
+*Source: Dungeons & Dragons Rules Cyclopedia*
+
+This item warps light rays; the wearer is actually 5 feet away from the perceived location. The cloak gives a bonus of +2 to a wearer's saving throws vs. spell, wand/staff/rod, and turn to stone attacks. Hand-to-hand attacks against the wearer are penalized by -2 on attack rolls, and most missile fire automatically misses.
+
+## Cloak of Displacement
+
+**XP Value:** 3,000 &emsp; **GP Value:** 17,500
+*Source: DUNGEON MASTER Guide*
+
+This item appears to be a normal cloak, but when it is worn by a character its magical properties distort and warp light waves. This displacement of light waves causes its wearer to appear to be 1 to 2 feet from the actual position. Any missile or melee attack aimed at a wearer automatically misses the first time. This can apply to first attacks from multiple opponents only if the second and successive attackers were unable to observe the initial displacement miss.
+
+After the first attack, the cloak affords a +2 bonus to protection (two classes better Armor Class), as
+
+---
+
+<!-- page 301 -->
+
+(This page is a continuation of the Cloak of Displacement entry, followed by several Dragon Cloak and other Cloak entries.)
+
+---
+
+well as a +2 bonus to saving throws vs. attacks directed at the wearer (such as spells, gaze weapon attacks, spitting and breath attacks, etc., which are aimed at the wearer of the cloak of displacement).
+
+## Cloak, Dragon
+
+| Type   | XP Value | GP Value |
+|--------|----------|----------|
+| Black  | 1,000    | 10,000   |
+| Blue   | 1,000    | 10,000   |
+| Brass  | 1,000    | 10,000   |
+| Bronze | 1,000    | 10,000   |
+| Copper | 1,000    | 10,000   |
+| Gold   | 1,000    | 10,000   |
+| Green  | 1,000    | 10,000   |
+| Red    | 1,000    | 10,000   |
+| Silver | 1,000    | 10,000   |
+| White  | 1,000    | 10,000   |
+
+*Source: POLYHEDRON Newszine #82*
+
+These heavy cloaks of dragon hide give their wearers a +3 saving throw bonus vs. any type of dragon breath. In addition, they confer a +6 saving throw bonus vs. specific breath weapons. For example, a red dragon cloak provides a +6 saving throw bonus vs. a red dragon's fiery breath weapon. A blue dragon cloak protects against lightning breath, a black cloak against acid breath, a white dragon cloak against cold breath, and so on.
+
+## Cloak of Echoes
+
+**XP Value:** — &emsp; **GP Value:** 3,000
+
+*Source: The Magister*
+
+This cursed item is identical to a cloak of elvenkind, and functions properly as such an item at all times. When a wearer is attempting to be silent and stealthy (and only at such times) all noises made by the wearer are greatly magnified, and loudly echoed. Thus, the sound of a footfall or that of a weapon being drawn would alert other beings to the presence, if not the precise location, of the wearer. Whenever such an echo-activated cloak is taken off, it emits a weird, echoing falling cry as it is parted from the being who has just worn it.
+
+## Cloak, Elven
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+
+*Source: DUNGEONS & DRAGONS Basic Rules Set*
+
+A wearer of this cloak is nearly invisible (roll 1d6; seen only on a 1). A wearer becomes visible when attacking or casting a spell, and may not become invisible again for a full turn.
+
+## Cloak, Elven II
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+
+*Source: The Elves of Alfheim*
+
+These cloaks are made from the carefully treated leaves of a tree of life. The leaves are pulped with great ritual and very little of each leaf is usable, so many are needed.
+
+Wearing this cloak makes one virtually invisible. There is a one in 10 chance that anyone can see a person wearing one of these cloaks unless the wearer is attacking physically or casting spells. This means that a company of elf archers wearing elven cloaks is virtually invisible to counterfire in a battle. If the wearer normally has a hiding skill roll, it takes a roll of one on 1d20 to find the character.
+
+## Cloak of Elvenkind
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+
+*Source: DUNGEON MASTER Guide*
+
+This cloak of neutral, gray cloth is indistinguishable from an ordinary cloak of the same color. However, when it is worn with the hood drawn up around the head, it enables the wearer to be nearly invisible — the cloak has chameleonlike powers.
+
+Outdoors, in natural surroundings, the wearer of the cloak is almost totally invisible; in other settings, nearly so. However, the wearer is easily seen if violently or hastily moving, regardless of the surroundings. Invisibility is bestowed as follows:
+
+| Condition                       | Invisibility |
+|---------------------------------|--------------|
+| **Outdoors, natural surroundings** |           |
+| Heavy overgrowth                | 100%         |
+| Light growth                    | 99%          |
+| Open fields                     | 95%          |
+| Rocky terrain                   | 98%          |
+| **Outdoors, other**             |              |
+| Buildings                       | 90%          |
+| Brightly lit room               | 50%          |
+| **Underground**                 |              |
+| Torch/lantern light             | 95%          |
+| Infravision                     | 90%          |
+| Light/continual light           | 50%          |
+
+In Kara-Tur: This cloak is not common to Oriental lands. The result should be rolled.
+
+---
+
+<!-- page 302 -->
+
+## Cloak of Etherealness
+
+**XP Value:** 2,600 &emsp; **GP Value:** 15,500
+
+*Source: The Assassin's Knot*
+
+This apparently ordinary cloak allows the user to fade briefly into the Ethereal Plane up to three times a week. It is activated by one segment of concentration. No verbal command is necessary — the character just begins to fade. The process requires an Initiative modifier of five, during which time the user cannot move, but may defend against attacks. While fading into the ether the character can be struck by any weapon or spell.
+
+At the end of the five segments the character is wholly in the ether and thus invisible on the Prime Material Plane and immune to most attacks. While ethereal, the user can move at the rate of 15 feet per initiative segment in any direction, even up or down, and can bypass walls, ceilings, magical traps, and doors. At the end of three initiative segments, the user will fade back into the Prime Material Plane. The cloak cannot be activated again for one full turn, and may be activated only three times in any one week. While in the ether there is a 1% chance of an ethereal encounter that may follow the user at the DM's discretion. A user who would rematerialize inside a material object is trapped on the Ethereal Plane!
+
+The cloak can be used but 12 times, after which the item becomes nonmagical.
+
+## Cloak of Fangs
+
+**XP Value:** 1,500 &emsp; **GP Value:** 10,600
+
+*Source: DRAGON Magazine #112*
+
+This cloak can be worn as a normal, heavy-duty, all-weather cloak for an unlimited time, but when magically activated, it serves only once. The word of activation for all such cloaks is "Feerond," the name of their maker. When spoken, the cloak becomes dangerous to a wearer's friends and foes alike; it fires darts of pure force up to 30 feet distant in all directions. This spray of invisible missiles lasts for seven rounds regardless of the cloak wearer's intentions. No wearer can ever be struck by any of these missiles, nor do such missiles ricochet, but all creatures within 30 feet of a cloak wearer (who may, of course, move and fight normally) suffer 6d4 points of damage per round; a save vs. spell indicates half damage, and spells such as *shield*, *wall of force*, *antimagic shell*, and the like offer complete protection against the missiles. The missiles also cannot penetrate other planes or extra-dimensional spaces (for example, those created by *portable hole* or *rope trick* spells), although if a cloak wearer enters such a space or plane by some means, the flurry of missiles accompanies him or her. The missiles do not hamper the movement rates of affected creatures, but do prevent spellcasting that involves somatic and material components. At the end of the seven-round flurry of missiles, the cloak vanishes forever.
+
+## Firebane Cloak
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: Tree Lords*
+
+This garment is a normal cloak of elvenkind with several significant differences. The cloak confers the invisibility benefits of a regular elven cloak as follows:
+
+| Terrain | Concealment |
+|---|---|
+| **Outdoors, natural surroundings** | |
+| Heavy growth | 100% |
+| Light growth | 99% |
+| Open fields | 95% |
+| Rocky terrain | 98% |
+| **Other Terrain** | |
+| Outdoors, other buildings | 90% |
+| Brightly lit room | 50% |
+| Underground torch/lantern light | 95% |
+| Infravision | special |
+| Light/continual light | 50% |
+
+Besides gaining the benefits derived from the cloak's chameleon powers, a scout is also protected from infravision, since the material is saturated with heatbane.
+
+The cloak has a hood, which must be drawn up around the head in order to take full advantage of its invisibility and infravision protections. The cloak is voluminous enough for the wearer to wrap up in it, exposing nothing but shins and feet.
+
+The saturation of the firebane cloak in heatbane is so great that, if drawn fully around the wearer, it grants a +3 bonus to saving throws against all forms of fire, both magical and mundane, and reduces each die of fire damage by −1. The cloak's saturation in heatbane also acts as insulation, keeping the kirath warm without bulky furs. Additionally, the cloak is waterproofed against the elements.
+
+Unlike cloaks of elvenkind, firebane cloaks come not only in neutral gray, but also light tan,
+
+---
+
+<!-- page 303 -->
+
+dark brown, forest green, and even flat black.
+
+The cloaks have four interior pouches, two on the wearer's left, and two on the right. The pouches are easily sealed, and waterproof.
+
+Creating a firebanecloak is a difficult, 60-day process. For this reason, they are not given to just any scout who happens to want one. Only kirath who have shown that they can function as scouts without benefit of marvelous concealment clothing are eligible to receive a cloak.
+
+In game terms, earning a cloak occurs when the PC survives the first level of experience, and has gone on at least four scouting missions without causing a mishap. Note that fulfilling the above conditions does not automatically bestow a cloak upon a supplicant. The DM must judge if the PC has followed his or her alignment and the ways of the Silvanesti with a bare minimum of deviation.
+
+Since a firebanecloak's primary function is concealment, decorations such as personal coats of arms, jeweled broaches, or symbols of rank, are not applied. The cloaks themselves are badges of rank and a sign of competence.
+
+Normally, the cloaks are held in place by means of a simple leather thong sewn in the lining around the throat. The knot used to secure the cloak is configured so that tugging the drawstring in a certain manner causes the cloak to fall off in seconds, if there is an urgent need to remove it quickly.
+
+Firebane cloaks save as cloth, though they gain a +3 bonus against all fire-based attacks. The cloak weighs an average of two pounds. An elf purchasing a firebanecloak pays 1,000 gold pieces. A non-elf desiring to purchase a firebanecloak must first of all convince the seller to part with it. Once this is done, the buyer pays at least 2,000 steel pieces.
+
+## Cloak of Flame
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: POLYHEDRON Newszine #19*
+
+This cloak is either red or orange. It functions as a cloak +1 for any wearer. When worn by a wizard, it conveys a sense of warmth, and functions as a ring of warmth. Upon command, the cloak can create a fire shield spell effect with hot flames (to grant protection from cold only), but this cancels the warmth. The duration of the fire shield is 1d4 turns. If the wearer casts any fire-based spell (fireball, wall of fire, and so on), the cloak may be used to add one point per die of damage done. However, this causes the cloak to become nonmagical for 1–4 turns after that.
+
+This item inflicts 1d4 points of heat damage to any cold-based creature striking the wearer (such as an ice paraelemental). Unfortunately, it also gives a +2 bonus to the attack rolls of fire-based creatures (such as salamanders) attacking the wearer. The cloak of flame radiates magical heat at all times. This powerful effect cannot be negated or modified, and can always be seen with infravision, even if the cloak and its wearer are invisible. Its heat interferes with infravision used nearby; creatures within 15 feet must use normal or magical vision, since infravision can reveal only a reddish cloud of heat.
+
+## Cloak of the Gargoyle
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+*Source: The Temple of Elemental Evil*
+
+When donned, this garment polymorphs the user into a gargoyle, with the effects of the polymorph self spell. No command word is used. Items carried are absorbed within the gargoyle form, unusable. Immunities, flying ability, and all other gargoyle characteristics are bestowed. Armor Class is likewise altered, but is modified by the user's true Dexterity, magical effects, and protective devices worn or carried (but excluding modifications from armor and shield).
+
+The cloak's effects may be produced up to a maximum of three times per day. The polymorph occurs immediately after the cloak is donned, without the sparkling lights usually accompanying a polymorph. After the first full turn of use, there is a 10% chance per turn (cumulative) of the wearer being mentally changed into a gargoyle as well. If this occurs, the user either attacks or flies off (just as a real gargoyle). Only a wish or death can then return the victim to normal form.
+
+The cloak is easily damaged by any edged weapon, fire, and other hazards. If the wearer takes 20 or more points of damage from such attacks, consider the cloak destroyed. The cloak may be repaired magically (via limited wish or a similar enchantment) but not by normal means.
+
+As a final note, other cloaks of polymorphing may be found. Each is designed to change the user into one specific creature. Each confers benefits and hazards in the manner given above—a full polymorph self (lacking only the spell's curative effects), with the given chance of permanent mental change as well.
+
+---
+
+<!-- page 304 -->
+
+## Kaldair Swiftfoot's Cloak
+
+*(Table of cloak types — see entry below)*
+
+| Roll | Cloak Type |
+|------|------------|
+| 01 | Banderlog |
+| 02 | Crabman |
+| 03 | Dakon |
+| 04 | Faun |
+| 05 | Galeb Duhr |
+| 06 | Gargoyle |
+| 07 | Gnoll |
+| 08 | Illithid |
+| 09 | Kelpie |
+| 10 | Lizard Man |
+| 11 | Manscorpion |
+| 12 | Owlbear |
+| 13 | Pixie |
+| 14 | Rakshasa |
+| 15 | Sahuagin |
+| 16 | Umber Hulk |
+| 17 | Urd |
+| 18 | Vegepygmy |
+| 19 | Xaren |
+| 20 | Yeti |
+
+## Cloak of Guarding
+
+**XP Value:** 1,500 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine #91*
+
+This garment is identical in weight, texture, and appearance to a normal woolen cloak, and is typically gray in color. When it is worn and the user is struck by a physical blow, the cloak instantly becomes rigid at the point of impact, deflecting all nonmagical missiles and absorbing some of the force from any other physical attack (-2 to damage, down to a minimum of one point of damage per die). After the attack has landed and withdrawn, the cloak instantly becomes flexible again.
+
+If a cloak of guarding is subjected to constriction or sustained pressure (as in a deadfall trap, or when caught between two walls that are closing together), the garment protects a wearer in the manner of a rigid suit of armor until it has suffered 25 points of damage, whereupon it disintegrates. A cloak of guarding that is damaged in this fashion cannot bestow its powers of protection upon a wearer again until it has rested for a number of rounds equal to the number of points of damage it has absorbed, or until it is taken off and not worn for at least one round. The construction of a cloak of guarding (which involves metal spun into fine threads) is such that the wearer will take maximum damage, no saving throw permitted, from heat, cold, or electrical attacks of all sorts. The cloak itself cannot burn.
+
+## Cloak of Healing
+
+**XP Value:** 400 &emsp; **GP Value:** 6,000
+*Source: Dragon Magazine #188*
+
+This magical item can appear as virtually any sort of ordinary cloak — leather, hide, black cotton, or tattered sheepskin. Placing a cloak of healing on any living mammal causes the cloak to pulse with a bright rosy light. When the light fades, one round later, the being who donned it is instantly cured of all diseases, poisonings, lycanthropy, or curses (not including geas or quest spell effects), and all current damage. Such cloaks function 2d4+1 times; the last time they function, they fade into nothingness. They work only on nonmagical mammals (of any sort, including humans, demihumans, and humanoids of up to ogre size, and even including Pleistocene mammals such as mastodons, but excluding such magical beasts as unicorns, pegasi, and griffons). The cloak does not work on the dead, nor on undead, and it cannot regenerate lost limbs or organs.
+
+## Cloak of the Hellfurnaces
+
+**XP Value:** 2,000 &emsp; **GP Value:** 8,000
+*Source: GREYHAWK Adventures*
+
+Created by a wizard who sought treasure in the volcanic mountains, this magical red garment provides protection against many of the volcanic dangers, and gives protection against similar dangers from other sources. The wearer takes only half damage from natural heat sources. The cloak also protects the wearer from sparks and hot ash ejected during a volcanic eruption, but not chunks of rock (called "bombs" or "blocks"). The cloak's hood has a strip of cloth that can be wrapped around a character's mouth and nose to keep dust and ash from entering the lungs; it also provides a +3 saving throw bonus against inhaled poison.
+
+The cloak provides a +2 bonus to all saving throws against magical fire or fiery dragon breath, and reduces damage by one point per die (each die inflicts a minimum of one point of damage).
+
+## Kaldair Swiftfoot's Cloak
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Monster Mythology*
+
+He has a cloak with permanent *deeppockets*.
+
+---
+
+<!-- page 305 -->
+
+## KalnaKaa's Black Cloak
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Drums on Fire Mountain*
+
+KalnaKaa found this cloak during his explorations of his ancestors' chambers. Any person wearing the cloak can open any magical portal from either side simply by touching the part of the wall where the portal appears.
+
+## Cloak of Lathandar
+
+**XP Value:** 3,500 &emsp; **GP Value:** 17,500
+*Source: New Item*
+
+Found only on the world of Toril, the cloak of Lathandar was fashioned by priests of that god to provide power to their itinerant priests and wandering champions. The cloak is made of black velvet on the outside, but is lined on the inside with a rose-colored pink silk. When it is opened wide, it resembles nothing so much as the sun rising on the eastern horizon, and it provides light for its wearer as a *continual light* spell when held this way.
+
+Another power of the cloak is to repel the undead as a 7th-level priest. To employ this power of the cloak, the wearer must simply call upon the power of Lathandar, open the cloak to its fullest span, and will the light of the god to come forth. A coruscating ball of energy surrounds the cloak, and then streams forth to engulf the undead nearby. This turning is in addition to any a character might already have attempted, thus making the cloak of Lathandar a potent weapon for those who seek out the undead.
+
+## Cloak of Lordliness
+
+**XP Value:** 650 &emsp; **GP Value:** 22,000
+*Source: IMAGINE Magazine #12*
+
+The cloak is a companion to the crown of the imperium. It should be constructed from furs or skins appropriate to the ruler's culture and worth at least 6,000 gp, sewn together with platinum thread worth 250 gp. A cloak of lordliness for a human prince or princess would be made of the finest ermine, while one for a hobgoblin chieftain would be made from the frayed skins of a dwarf or elf.
+
+The wizard takes the cloak and casts *enchant an item* and *ventriloquism* on it before an illusionist casts *audible glamour* and *deafness*. The wizard then casts a *permanency* upon the cloak.
+
+The cloak has the effect of making any oratory of a wearer so inspiring as to cause all within 60 feet to stop whatever they are doing to listen to the speech, unless they make a saving throw vs. spell at −4. This power can be used three times per day.
+
+## Cloak of the Manta Ray
+
+**XP Value:** 1,800 &emsp; **GP Value:** 9,000
+*Source: Blackmoor*
+
+While underwater, this cloak's wearer can breathe freely and move as fast as a manta ray. The cloak will fight as a manta ray when released to do so — unfortunately, the wearer loses the ability to breathe underwater while the cloak is not being worn.
+
+## Cloak of the Manta Ray II
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,500
+*Source: DUNGEON MASTER Guide*
+
+This cloak appears to be made of leather, until the wearer enters salt water. At that time, the cloak of the manta ray adheres to the individual, and he or she appears nearly identical to a manta ray — there is only a 10% chance that someone seeing the wearer will know he or she isn't a manta ray.
+
+A wearer can breathe underwater and has a movement rate of 18, like a manta ray (see the MONSTROUS MANUAL accessory). The wearer also has an Armor Class of at least 6, that of a manta ray, but other magical protections or magical armor can improve the AC.
+
+Although the cloak does not enable a wearer to bite opponents as a manta ray does, the garment has a tail spine that can be used to strike at opponents behind. The spine inflicts 1d6 points of damage, and there is no chance of stunning. This attack can be used in addition to other sorts, for the wearer can release his or her arms from the cloak without sacrificing underwater movement if so desired.
+
+## Mantle of Celestian
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: Unearthed Arcana*
+
+This garment is of black cloth — the color of the 7th Order of Priests of Celestian. It is otherwise unremarkable. If the item is checked for magic, the mantle radiates an aura of alteration. The principal power of this wrap is to enable a wearer to exist in the cold void of outer space. Its wearer can breathe and feel as if he or she were in a cool, well-ventilated place where any oxygen-breathing creature could exist. It also protects against poison gases of all sorts. The mantle also provides +1 on all saving throws vs. electricity, fire, and noise (including drums of deafening or panic,
+
+---
+
+<!-- page 306 -->
+
+(This page is a continuation of an earlier entry — the **Mantle of Celestian** or similar — before the new items begin. The left column continues text from the previous page.)
+
+---
+
+roaring, or thunder). The mantle is well suited for travel, having the following qualities:
+
+- **Food:** A wearer may simply reach inside one of its many pockets and find sufficient rations for one person for one day; this nourishment is available once per day.
+
+- **Drink:** In another pocket there is a small ewer that provides up to seven gallons of water, pouring cold or warm as the user commands. Such a draught is obtainable once per day.
+
+- **Shelter:** A wearer does not grow cold or hot or become wet or damp while wearing the mantle.
+
+- **Storage:** The mantle has seven large and seven small pockets, and only one of each is needed for food and water, so the remaining 12 can be used to store whatever is desired (up to seven pounds in the small pockets or fourteen pounds in the large) with no bulk, bulge, or added weight.
+
+The mantle also has a special power that is conveyed to the wearer only if he or she is a priest of Celestian, whether druidic or not. This dweomer enables a wearer to see the aura of any stranger met along the way, so as to give warning of evil, neutral, or good intent. The power is not automatically bestowed, however, for a wearer must concentrate to sense the aura.
+
+---
+
+## Mantle of Mist
+
+**XP Value:** 800 &emsp; **GP Value:** 5,000
+*Source: POLYHEDRON Newszine 47*
+
+This is a voluminous cloak made of valuable white fur; it radiates an aura of alteration. Three times per day the mantle can transform itself into a dense fog cloud with dimensions of 20 by 20 by 10 feet. The fog lasts for one turn, or until the wearer chooses to terminate it, whichever comes first. It is useful in making a quick escape or diversion.
+
+---
+
+## Mantle of the Mundane
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: The Complete Thief's Handbook*
+
+This very ordinary, even shabby, brown or gray cloak makes its wearer appear utterly unmemorable. It gives a 5% bonus to hide in shadows in all circumstances and makes the wearer 80% undetectable if in a crowd (detection resistance also applies). It also makes a wearer almost impossible to recognize after having been seen — very useful in avoiding identification after a crime. Unless a witness (and it must be an eyewitness) makes a check against ½ of his or her Intelligence, a wearer of the mantle appears so mundane and boring in appearance that the witness is unable to recognize a user as the thief, regardless of whether or not the thief is wearing the mantle.
+
+---
+
+## Cloak of Many Colors
+
+**XP Value:** 1,200 &emsp; **GP Value:** 8,000
+*Source: DRAGON Magazine #112*
+
+This rare garment can so shift its pigmentation that its wearer is immune to the effects of color spray, prismatic spray, and the like, and can pass through a prismatic sphere or wall (together with all items carried or worn within the cloak) as though the barrier did not exist. Only a wearer (not companions) is so protected, and he or she is likewise solely protected from blindness due to blur, pyrotechnics, hypnotic pattern, darkness, blinding light of all sorts, and magical effects.
+
+The cloak itself does not seem to an observer to alter its own colors, but always appears to have a swirling and indistinct surface (aiding the success of a wearer hiding in shadows by +10%; 25% when it is acting to shield its wearer's gaze from color effects cast at the wearer). The cloak cannot, however, deliberately be used to camou-
+
+---
+
+<!-- page 307 -->
+
+## Cloak (continued)
+
+flage the wearer by blending in with surroundings, nor does it have any power to affect creatures other than a wearer, either by attack or by conferring protection.
+
+Once every 12 turns, a wearer, by effort of will, can cause the cloak to glow white (equivalent to a *light* spell, but not blinding). The glow lasts for nine rounds, without any concentration required, and ceases sooner if the wearer wills. Obviously, a wearer cannot hide in shadows while the cloak is being used in this manner.
+
+## Midnight Slasher's Cloak
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: Children of the Night*
+
+The Midnight Slasher is not a man who likes to stand for a fair fight. However, when he is able to strike with surprise, he is a deadly assassin. The black cloak that he wears was crafted by the drow of Arak and is said to have been fashioned from darkness itself. When the Slasher wears this cloak, he is able to hide in shadows with 90% effectiveness. His boots, along with his cloak, work only in darkness; together, they give the Slasher triple the normal chance for surprise.
+
+## Cloak of the Mummy
+
+**XP Value:** 3,000 &emsp; **GP Value:** 12,000
+*Source: POLYHEDRON Newszine #47*
+
+Only a beggar would be seen in this once white, now tattered, rotting cloak. When worn by a lawful evil character, it enfolds the wearer, making him or her appear as a mummy with a 10% chance to detect the deception. Additionally, the cloak confers the power to cause disease three times per day by touch, and makes a wearer immune to the attacks of mummies. All good creatures touching the cloak must save vs. death magic at -1 (paladins save at -2) or lose 3,000 experience points. A good creature who destroys the cloak immediately gains 3,000 experience points. The cloak can be used by characters of any class.
+
+## Cloak of the One Plume
+
+**XP Value:** 4,200 &emsp; **GP Value:** 21,000
+*Source: Fires of Zatal*
+
+This cloak is a majestic item of pluma magic, apparently crafted of a single, vast, multicolored feather. Worn as a cape, it gives its user a number of unique abilities.
+
+The chief ability of the cloak is to enhance one's Charisma and leadership. It raises a user's Charisma to 18, and allows the individual to function as if using the 2nd-level priest spell *enthrall*. For BATTLESYSTEM rules, the command radius of a cloak user is doubled. This ability only functions for natives of Maztica, those born in the True World.
+
+The cloak can also function as a *fly* spell, but only with a movement of 3 and MC of A, once per day. The cloak also provides fire resistance like the ring of the same name. This protection can extend not only to a wearer, but to one other covered by the cloak. These abilities may be used by anyone wearing the cloak, regardless of birthplace.
+
+Following the destruction of Nexal and yet another eruption of Mount Zatal, the cloak was believed destroyed. However, it was saved from destruction by certain priests of Azul, who hid it in a cave on the side of the volcano. They asked their god for a guardian, and a young rain dragon was sent to be that guardian. The priests who hid the garment died soon afterwards, but other priests of Azul maintain regular tribute to the rain dragon, unaware of what he guards.
+
+## Cloak of Passage
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Dragon Dawn*
+
+The cloak of passage appears to be an ordinary garment of gray-green cloth, but woven with spider silk for a light, billowy weave. In fact, the cloak holds unusual enchantments. Its wearer can walk at will across the boundary of the Ethereal and Prime Material Planes, taking along anything he or she touches, as well as other living beings, if they are in physical contact with the wearer. Short of hulderfolk magic opening the gateway to Summerhome, only someone wearing this cloak can leave the Banquet Glade and enter Taladas.
+
+The cloak's command word is embroidered in ancient Elf on the inside collar of the garment. When that word is spoken, the cloak's wearer gains the ability to walk into one plant and out of another, like the priestly spell *pass plant*. When the word is spoken in reverse, the cloak permits the wearer to *dimension door*, as the spell. The cloak bestows no special protections on its wearer, and every time one of its properties is used, it ages the wearer by one year. If the wearer removes the cloak while on the Ethereal Plane or within a plant, he or she is trapped there until some other means of escape from that space can be found.
+
+---
+
+<!-- page 308 -->
+
+## Cloak of Plenty
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+
+*Source: POLYHEDRON Newszine 65*
+
+This cloak of black wool, lined with deep purple satin, radiates an aura of alteration magic. It keeps its wearer warm and dry in any climate or weather. It gives a wearer a saving throw bonus of +4 against all forms of elemental attacks. The cloak is so comfortable as to permit the recovery of hit points while a wearer sleeps, as if he or she were resting in a comfortable bed. The cloak has other properties. It grants infravision to its wearer. There are 12 hidden pockets inside that open to an extradimensional space. They contain the following items, which the cloak refills daily — one-half pound of cheese, one-half pound of fresh cinnamon raisin bread (warm), one pound of spare ribs, four ears of steamed and buttered sweet corn, one apple, one orange, one pear, one-half pint honey, one-half pound cracked walnuts, one quart strawberries, one quart cold apple cider, one quart cool water, and one hunting knife.
+
+## Cloak of Poisonousness
+
+**XP Value:** — &emsp; **GP Value:** 2,500
+
+*Source: Dungeon Master Guide*
+
+This particular cloak is usually made of a woolly material, although it can be made of leather. It radiates magic. The cloak can be handled without harm, but as soon as it is actually donned, the wearer is stricken stone dead.
+
+A cloak of poisonousness can be removed only with a *remove curse* spell — this destroys the magical properties of the cloak. If a *neutralize poison* spell is then used, it may be possible to revive the victim with a *raise dead* or *resurrection* spell, but there is a −10% chance of success because of the poison.
+
+## Cloak of Protection
+
+| | **XP Value** | **GP Value** |
+|-----------|-------------|-------------|
+| Cloak +1 | 1,000 | 10,000 |
+| Cloak +2 | 2,000 | 20,000 |
+| Cloak +3 | 3,000 | 30,000 |
+| Cloak +4 | 4,000 | 40,000 |
+| Cloak +5 | 5,000 | 50,000 |
+
+*Source: Dungeon Master Guide*
+
+The various forms of this marvelous cloak all appear to be normal garments made of cloth or leather. However, each plus of a cloak of protection betters Armor Class by one and adds one to saving throw die rolls. Thus, a cloak +1 would lower Armor Class 10 (no armor) to Armor Class 9, and give a +1 bonus to saving throw rolls. To determine how powerful a given cloak is, roll percentile dice and consult the table below:
+
+| Roll | Power |
+|-------|-------|
+| 01–35 | Cloak +1 |
+| 36–65 | Cloak +2 |
+| 66–85 | Cloak +3 |
+| 86–95 | Cloak +4 |
+| 96–00 | Cloak +5 |
+
+This cloak can be combined with other items or worn with leather armor. It cannot function in conjunction with any sort of magical armor, normal nonleather armor, or with any sort of shield.
+
+## Cloak of Reflection
+
+**XP Value:** 1,500 &emsp; **GP Value:** 10,000
+
+*Source: The Magister*
+
+These cloaks were made to protect rangers and other traveling messengers in the service of the High Lady of Silverymoon. The precise magical defenses against each spell have been lost; the knowledge died with the maker of the cloaks, the wizard Irentalar. An attacking caster or wielder can escape the cloak's reflective effects only by escaping into another plane (or extradimensional space). Momentary dislocations such as *blink*, *dimension door*, and *teleport* are not sufficient to escape, and distance is not a factor. Elminster does not know of any instance in which a wearer of such a cloak faced a creature having natural, magical powers akin to the spells reflected by the cloak, but he believes that such magical powers would be reflected as are spells and magical item functions.
+
+This cloak (many have been made) confers a limited spell immunity upon any one living creature wearing or covered by it. The following spells and magical item functions are directed back at a caster/wielder as follows:
+
+- **Magic missile:** reflected back at caster with full effect (no saving throw).
+
+- **Shocking grasp:** discharge directed back instantly into caster and nullified; caster takes no damage, but spell is lost.
+
+- **Forget:** Spell distorted and thrown back at caster, who is confused as the 4th-level wizard spell *confusion* for the following round (no
+
+---
+
