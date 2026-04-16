@@ -13007,3 +13007,925 @@ The change from bracelet to weapon takes no time at all, but this can only be do
 
 ---
 
+<!-- page 218 -->
+
+(continuing the Bracelet of Charms entry from the previous page)
+
+turn. The bracelet itself can be used just eight times in a day; turning the bracelet into a weapon counts as one use, and turning the weapon back into a bracelet counts as one use.
+
+If the weapon held in the bracelet's enchantment is called on and used, then disarmed, the character cannot call on another weapon from the bracelet. The bracelet itself is within the weapon. The character must retrieve the weapon first, and only then can its magic be used.
+
+A weapon can be taken out of the bracelet's array. When a character wishes to do this, he or she takes the bracelet off the wrist and speaks the name of the weapon, and then says the command word — a reversal of the previous procedure.
+
+The bracelet does not magically know its owner. Anyone who steals the bracelet from its owner and discovers what it is may use it and call the previous owner's weapons forth.
+
+This item is best used when the wielder wants to carry a variety of different weapons, and wants to do so secretly. With a single warrior, the weapons might be a long bow and quiver (quivers count as part of the weapon they carry arrows for), a bastard sword, a halberd, and a dagger. This gives the warrior the ability to call forth the weapon best suited to the task at hand. If a weapon is broken, the bracelet isn't; the user needs to call forth the bracelet, then separate the broken weapon from it.
+
+Quivers are not magically replenished when they are the size of charms. Whatever number of arrows are in the quiver when it becomes a charm are still in it when it becomes a quiver again. Likewise, a broken bowstring stays broken.
+
+The bracelet of charms may not be used on the same weapon as a set of rings of readiness.
+
+## Bracelet, Copper
+
+**XP Value:** 10 &emsp; **GP Value:** 100
+
+*Source: Black Courser*
+
+This matched set of copper bracelets is very tarnished. They emit a magical green glow — that is the entire extent of their enchantment.
+
+## Bracelet, Dalamar's
+
+**XP Value:** 7,000 &emsp; **GP Value:** 35,000
+
+*Source: Tales of the Lance*
+
+The true name of this ancient artifact is lost to time; it received its current (and misleading) name when Dalamar took it from its resting place in the Tower of High Sorcery and presented it to Tanis. Dalamar did this to offer Tanis some small protection against the magic of the death knight, Lord Soth.
+
+The bracelet contains an evil taint that prevents those of lawful or chaotic good alignments from using it. If those folk touch the bracelet, they are struck by lightning that arcs from the artifact, causing 3d10 points of damage. Any character class may wear the bracelet, though it provides limited protection against magic. It offers 10% magic resistance against spells of 3rd to 5th level, 20% against those of 6th to 7th level, and 30% against those of 8th to 9th level. The wearer can, using a command word, call up magic resistance three times a day for each of the three spell ranges. The command word must be uttered just as the opponent casts the spell.
+
+Sadly, this benefit comes at a cost. The evil taint of the bracelet causes the user's alignment to slowly slide toward chaotic evil. Every nine uses (equivalent to a full day's use of the magic resistance) cause the character to slip one alignment. From the top, the progression is as follows: lawful good, neutral good, chaotic good, lawful neutral, neutral, chaotic neutral, lawful evil, neutral evil, chaotic evil. The DM should keep track of the number of uses of the bracelet and, after each nine, slip the player a note showing his or her new alignment. The PCs will soon discover the cause of this shift.
+
+## Bracelet, Equus
+
+**XP Value:** 2,000 &emsp; **GP Value:** 8,000
+
+*Source: DUNGEON Magazine #22*
+
+An equus is a magical piece of jewelry that, upon command, polymorphs into some form of a beast of burden. The word "equus" (plural "equi") comes from an ancient language and has no literal translation in the common tongue. The closest translation is "beast of burden" or "horse," but the word can be applied to anything that is used like a horse. Thus, an actual horse, mule, worg, camel, dog-sled team, nightmare, or any other creature that can be ridden, used to pull a load, or carry goods can be termed an equus. Equi come in many different varieties, with the most common listed below. While 80% of equi are either good or neutrally aligned, 20% polymorph into evil creatures like nightmares, worgs, and giant spiders. It is said that the death knight Shan Nikkoleth once possessed an equus that polymorphed into gorgon form.
+
+---
+
+<!-- page 219 -->
+
+## Bracelet of Equus (continued)
+
+Equi bracelets are invariably made of silver, one side engraved with the image of the creature it becomes, the reverse side etched with the command word.
+
+### Creature List
+
+The DM may choose the form of the creature into which the equus polymorphs from the following table. The bracelet form polymorphs into one type of creature only. A DM who prefers to roll randomly should add the roll of 1d8 to that of 1d12 and consult the table below. The DM should use only a creature he or she feels comfortable with and is sure will not give the PC an unfair advantage in the campaign. Types of creatures can be added to or deleted from the list as the DM sees fit. Any of the following creatures that do not appear on Table 49 in the PHB should be considered equal to a heavy horse in movement rate and encumbrance.
+
+If the equus is slain (reduced to 0 hit points or less) in creature form, the creature immediately reverts to bracelet form and cannot change into creature form again. Damage to the creature form of the equus can be healed magically by cure wounds spells. If the creature is allowed food and rest, it heals naturally at the rate of 1 hit point per day. However, the equus can neither heal itself nor be healed while in bracelet form.
+
+| Roll | Creature |
+|------|----------|
+| 02 | **Unicorn:** AC 2; MV 24; HD 4+4; hp 28; THAC0 15; #AT 3 (hooves and horn); Dmg 1d6/1d6/1d12; SA charge, +2 to hit when attacking with horn, −6 penalty to opponents' surprise rolls; SD teleport, immune to poison, charm, hold, and death spells; can sense approach of enemy at 240 yards distance; makes all saving throws as 11th-level wizard; ML 14; AL CG. The unicorn's Intelligence is 8–16 (1d4+8). It can be ridden only by female characters; if a male character rolls the unicorn, use the ultraheavy war horse. |
+| 03 | **Giant stag:** AC 7; MV 21; HD 5; hp 30; THAC0 15; #AT 1 (antlers) or 2 (hooves); Dmg 4d4 or 1d4/1d4; ML 14; AL N. Intelligence 4–7 (1d4+3). |
+| 04–05 | **Bull:** AC 7; MV 15; HD 4; hp 24; THAC0 15; #AT 2 (horns); Dmg 1d6/1d6; SA charge; ML 15; AL N. The bull has an Intelligence of 4–7 (1d4+3). |
+| 06–08 | **Superheavy war horse:** AC 6; MV 15; HD 4+4; hp 28; THAC0 15; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; SD 30' infravision, immunity to all hold and charm spells; ML 16; AL NG. This horse has an Intelligence of 7–12 (1d6+6). |
+| 09–13 | **Heavy war horse:** AC 7; MV 15; HD 4+4; hp 21; THAC0 17; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; ML 15; AL N. This horse has an Intelligence of 5–8 (1d4+4). |
+| 14–16 | **Superheavy war horse (special):** Same as above (roll of 6–8), though it has MV 18, a 40-lb. bonus on its carrying capacity load limits, and no infravision. |
+| 17–18 | **Camel:** AC 7; MV 21; HD 3; hp 18; THAC0 17; #AT 1 (bite); Dmg 1d4; SA spitting; ML 14; AL N. This camel is of a more mellow disposition than its meaner cousins. It has an Intelligence of 4–7 (1d4+3). |
+| 19 | **Water buffalo:** AC 7; MV 15; HD 5; hp 30; THAC0 15; #AT 2 (horns); Dmg 1d8/1d8; ML 16; AL N. This water buffalo has an Intelligence of 4–7 (1d4+3). |
+| 20 | **Ultraheavy war horse:** AC 5; MV 24; HD 5+5; hp 35; THAC0 15; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; SD 60' infravision, immunity to poison and all hold and charm spells; ML 18; AL LG. This special horse can understand but not speak the common tongue and is able to use *animal friendship* and *pass without trace* spells three times per day each, *locate animals or plants* once per day, and *water walk* once per week. This horse has an Intelligence of 9–16 (1d8+8). |
+
+---
+
+## Bracelet of Hog-Tying
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+
+*Source: In the Phantom's Wake*
+
+A character who puts these bracelets on screams in agony, buckles at the waist, and falls to the floor. Delicate gold chains fly up and connect the bracelets together, wrapping themselves around the ankles as well—effectively hog-tying the prey. The heartbeat pulses in the victim's fingers and toes as the chains strangle circulation.
+
+If another character tries to cut the chains
+
+---
+
+<!-- page 220 -->
+
+## Bracelet of Wishes (continued)
+
+using a magical weapon, they break easily. If the weapon is nonmagical, the golden cord cannot be cut, no matter how much force is applied. A *dispel magic* spell is required to affect the gold chains. If neither weapon nor spells are available, the character is trapped.
+
+## Bracelet of Ivy
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+
+*Source: DRAGON Magazine #5*
+
+A fragile band of enchanted, forest ivy, the ivy bracelet is created only in forest havens of druids or sylvan creatures. It imparts to its wearer the power of plant control (as the potion) until it is removed. It also enables one to speak with plants, as the priest spell. Any hand-to-hand combat can destroy this delicate item, unless it saves vs. crushing blow (as bone or ivory).
+
+## Medegian Bracelet of Lost Ships
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+
+*Source: GREYHAWK Adventures*
+
+This silver disk contains a zircon stone that was enchanted by a greedy wizard who used it to attain great wealth before he was captured and hung by pirates.
+
+The stone in the bracelet glows red on the side that faces the nearest sunken ship within 1 mile. When the gem enters within 50 feet of the horizontal (not vertical) distance from a sunken ship, the stone glows blue. When the command word is spoken, the bracelet causes the sunken ship to rise to the surface for two turns.
+
+The bracelet has up to 25 charges and cannot be recharged. The detection ability drains no charges, but raising a sunken ship drains a number of charges depending on size.
+
+| Vessel Type            | Charges |
+|------------------------|---------|
+| Small boat or barge    | 1       |
+| Small galley           | 3       |
+| Large galley           | 4       |
+| Small merchant ship    | 4       |
+| Warship                | 5       |
+| Large merchant ship    | 6       |
+
+For each sunken vessel discovered, there is a 25% chance that 1d6 other lost ships lie in the same area. Only one ship can be raised at a time. Each vessel has a 75% chance of being inhabited by a random monster. Lost ships tend to consist mostly of rotting wood covered with seaweed. Each character who boards a raised ship has a 20% chance per turn of taking 1d6 damage from falling through unstable floorboards (optional Dexterity check to avoid damage). Note also that a ship broken into several fragments may require several separate charges, and that a badly shattered ship may not be recoverable.
+
+## Bracelet of Scaly Command
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+
+*Source: The Complete Wizard's Handbook*
+
+This coral bracelet enables the wearer to control water-dwelling creatures with animal intelligence or lower (mainly fishes and reptiles). The creatures must be within a half-mile radius of the caster in order to be controlled, and they must be within 30 feet of each other. The number of creatures that can be affected is a function of Hit Dice. The spell affects 1d10 Hit Dice of monsters. Monsters with 5+3 Hit Dice or more are unaffected.
+
+The center of the area of effect is determined by the spellcaster. The creatures with the fewest Hit Dice are affected first, and partial effects are ignored. The caster does not have to be in the water to command the creatures. The control lasts for 2d6 turns and cannot be dispelled. No saving throw is allowed against the magic of the bracelet. The wearer can use this ability once per week.
+
+## Bracelet of Wishes
+
+**XP Value:** 300 &emsp; **GP Value:** 10,000
+
+*Source: The Land Beyond the Magic Mirror*
+
+This bracelet is lined with semiprecious stones. If the stones are examined, it can be seen that the large ones are merely star quartz, though of an unusual blue-violet color that shades toward silver in the light. Each of these stones contains a wish, but the only way to learn of this property is to actually make a wish. Detection magic does not reveal the nature of this bracelet and its stones. The bracelet has 1d6 of these wish quartz stones.
+
+---
+
+# Bracer
+
+Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm. Generally, the magic that is instilled in bracers is good only during combat, since most bracers help protect the wearer from injury, or improve chances to strike at an opponent. Exceptions do exist, however, and more are found each day.
+
+---
+
+<!-- page 221 -->
+
+## Bracers of Archery
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: Dungeon Master Guide, 1st Edition*
+
+These magical wrist bands are indistinguishable from normal, nonmagical protective gear. When worn by a character or creature able to employ a bow, they enable the wearer to excel at archery.
+
+The bracers empower a wearer to use any bow (not including crossbows) as if he or she were proficient in its usage, if this is not the case. If the wearer of the bracers has proficiency with any type of bow, he or she gains a +2 bonus to attack rolls and a +1 bonus to damage whenever that type of bow is used. These bonuses are cumulative with any others, including those already bestowed by a magical bow or magical arrows, except for a bonus due to weapon specialization.
+
+## Bracers of Attraction
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: DRAGON Magazine #91*
+
+These arm guards appear to be normal bracers, although they radiate magic, and are revealed as bracers of defense (AC 2) if an identification attempt is made. Any character who puts them on, however, will find his or her wrists drawn together irresistibly, until the bracers of attraction are stuck to each other. Under such a condition, it is impossible to successfully cast a spell that has a somatic component; any attempt to do so will simply result in the spell being wasted. Fighting can be done, but with some difficulty—the wearer suffers a -2 penalty on all attack and damage rolls for as long as the bracers are stuck together.
+
+The bracers can be separated if the wearer makes a successful bend bars roll, and they remain apart for 1d4 rounds after that. Whether the bend bars attempt succeeds or not, another such roll cannot be made until one turn has passed. When they are stuck together, the bracers can be removed by any other character with a Strength of 18 or greater. To remove them, either the wearer or another character needs a Strength of at least 16.
+
+If the bracers of attraction are not removed physically, they can only be taken off after a priest of at least 10th level casts remove curse, or by a limited wish, alter reality, or wish spell. The bracers retain their cursed nature even after removal (physically or magically), and provide no AC benefit.
+
+## Bracers of Blasting
+
+**XP Value:** 3,500 &emsp; **GP Value:** 35,000
+*Source: POLYHEDRON Newszine #82*
+
+These magical bracers can be activated if the wearer has a Strength of at least 14. The wearer slams the bracers together and yells the command word, creating a cone of sound that is 120 feet long, 2 feet wide at the base, and 30 feet at the wide end. All creatures within the cone must save vs. spell. If the save is successful, the creatures are stunned for one round and deafened for two. Those who fail the saving throw sustain 1d10 points of damage, are stunned for two rounds, and deafened for one turn.
+
+If the bracers are quickly slammed together twice, a wave of ultrasonic sound, 1-foot wide and 100 feet long is created. The sound weakens materials such as metal, stone, and wood. These objects must save vs. disintegration with a +4 bonus or be destroyed. Magical items are immune to the attack. If the bracers are used more than once a day, there is a 10% cumulative chance per use that they explode and inflict 4d10 points of damage to the user.
+
+## Bracers of the Blinding Strike
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: The Rogues Gallery*
+
+These bracers look exactly like most magical bracers. If worn by nonwarriors, they simply act as bracers of defense, AC 4. However, they have two special powers that reveal themselves when worn by fighters. First, the bracers allow the user to add +1 to his or her initiative rolls whenever they are worn. Second, on mental command, the bracers double the number of strikes the wearer is allowed for a particular round. The fighter may only use this second power three times per day.
+
+## Bracers of Brachiation
+
+**XP Value:** 100 &emsp; **GP Value:** 1,000
+*Source: Dungeon Master Guide, 1st Edition*
+
+These wrist bands appear to be of the ordinary sort, but they enable the wearer to move by swinging from one tree limb or vine to another to get from place to place. This power can only be employed in locales where these kinds of environmental conditions exist. Movement is at a rate of 3, 6, or 9—the more jungle-like the conditions, the greater the movement rate.
+
+The wearer is also able to climb trees, vines, poles, and ropes at a rate of 6, and can swing on a rope, vine, or other dangling, flexible object as if
+
+---
+
+<!-- page 222 -->
+
+## Bracers of Invulnerability *(section continued)*
+
+he or she were an ape.
+
+The wearer can also jump as if wearing boots of striding and springing, but the jump must culminate in the grasping of a rope or vine, movement through the upper portion of trees, the climbing of a tree or pole, or some other activity associated with brachiation.
+
+## Bracers of Brandishing
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+
+*Source: Tome of Magic*
+
+These unpredictable and bewildering items appear similar to other magical bracers, but their magic is revealed only when the character wearing them uses a charged rod, staff, or wand. When a charge is expended from such an item, the bracers of brandishing alter the charge expenditure and the local balance of magical forces in a chaotic manner. The drain on the charged rod, staff, or wand is actually in the range of five charges to −4 (the item is recharged). The number of charges used is 1d10−5 (with negative results indicating that charges are restored). If an item is reduced to fewer than zero charges by a drain, it crumbles into dust.
+
+Items that are not normally rechargeable can be recharged through the chaotic operation of these items, except for the rod of absorption.
+
+## Bracers of Cleanliness
+
+**XP Value:** 1,500 &emsp; **GP Value:** 8,000
+
+*Source: DRAGON Magazine #30*
+
+After extended nagging by Fran about getting his hands dirty, it is said that Orlow developed the bracers of cleanliness. These items allow him to work in his garden and still have the clean fingernails his spouse felt were appropriate for his station (or at least hers). If placed around a wrist, all dirt and foreign matter turns to dust and falls off. (This includes worn gloves, but not jewelry.)
+
+## Bracers of Defense
+
+**XP Value** &emsp; **GP Value**
+
+| Type | XP Value | GP Value |
+|------|----------|----------|
+| AC 2 | 4,000 | 24,000 |
+| AC 3 | 3,500 | 21,000 |
+| AC 4 | 3,000 | 18,000 |
+| AC 5 | 2,500 | 15,000 |
+| AC 6 | 2,000 | 12,000 |
+| AC 7 | 1,500 | 9,000 |
+| AC 8 | 1,000 | 6,000 |
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+These appear to be wrist or arm guards. Their magic bestows an effective Armor Class equal to someone wearing armor and employing a shield. If armor is actually worn, the bracers have no additional effect, but they do work in conjunction with other magical items of protection. The Armor Class bonus that bracers of defense bestow is determined by making a percentile roll and consulting the following table:
+
+| Roll  | AC |
+|-------|----|
+| 01–05 | 8  |
+| 06–15 | 7  |
+| 16–35 | 6  |
+| 36–50 | 5  |
+| 51–70 | 4  |
+| 71–85 | 3  |
+| 86–00 | 2  |
+
+## Bracers of Defenselessness
+
+**XP Value:** — &emsp; **GP Value:** 2,000
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+These appear to be bracers of defense, and actually serve as such until the wearer is attacked in anger by a dangerous enemy. At that moment, the bracers drop Armor Class to 10 and negate any and all other magical protections and Dexterity bonuses. Bracers of defenselessness can be removed only by means of a *remove curse* spell.
+
+## Bracers of Deflection
+
+**XP Value:** 4,500 &emsp; **GP Value:** 27,000
+
+*Source: DRAGON Magazine #99*
+
+These magical bracers function like bracers of defense of the most powerful sort, affording the wearer an effective Armor Class of 2. In addition, if the wearer chooses to attempt to parry an opponent's attack, the bracers cause the opponent to take a −4 attack penalty, making a successful parrying attempt more likely. The wearer may only parry in this manner against one opponent in any round, and cannot attempt to parry unless the wearer takes no offensive action during that round.
+
+## Bracers of Invulnerability
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Realmspace*
+
+These bracers are items of immense power. They reputedly were created in a different crystal sphere and brought by the sage Sarelk to Lumbe, the second moon of H'Catha. He brought the bracers here because the power they contain is very corrupting when they are worn for extended periods of time. Legends say that nothing can
+
+---
+
+<!-- page 223 -->
+
+## Bracers of the Mermen
+
+**XP Value:** 2,000 &emsp; **GP Value:** 4,500
+
+*Source: DRAGON Magazine #91*
+
+These devices allow a wearer to swim at a constant speed of 18 for up to 6 hours once per day, and at a speed of 12 indefinitely. The bracers also confer water breathing upon the wearer for an indefinite period. They do not, however, allow one to use fire or to wield weapons underwater as one could on the surface. The bracers appear to be ordinary wrist guards or arm guards; they contain no engraving or other elaborate decoration. As with all magical bracers, both must be worn by the same character in order to work.
+
+*(Note: The top of this page continues the description of a prior bracer item — Bracers of [unknown name, preceding page] — whose curse prevents the wearer from eating, drinking, or touching anything, cuts the wearer off from everything by levitating them slightly above it, and returns the bracers to their original location (Lumbe, belonging to Sarelk) whenever removed.)*
+
+## Noj's Bracers of Brandishing
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+
+*Source: 1992 Fantasy Collector Card 514*
+
+The nature of Noj's bracers has been warped by his claw of magic exchange so that the bracers apparently have a 60-foot radial area of effect. Should Noj use a charged item (rod, wand, staff), the number of charges spent is chaotically altered by 1d10−5, crumbling to dust any item whose charge count falls to zero or less, while actually recharging others. But thanks to Noj's magical claw (and his generally double-edged life), anyone who uses their own charged item within 60 feet of Noj experiences the same effects.
+
+## Phandoorl's Bracers
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+
+*Source: Menzoberranzan Campaign Set*
+
+Named for the ancient drow wizard who devised them, these dark, ordinary-looking bracers have been made by many wizards since, because they are extremely useful. They automatically protect the wearer against all attacks by all sorts of arachnids and snakes (including other beings who have magically assumed such forms), forcing them to attack the wearer of these bracers at −3 on attack rolls, and allowing the wearer a +2 bonus on all saving throws vs. webs (of any sort — even webs and web monsters, which have nothing to do with arachnids), venom, acidic, and other secretions.
+
+In addition, Phandoorl's bracers completely ward off all attacks made by whips of fangs, those borne by priestesses of Lloth; the fanged heads of such weapons simply cannot touch the wearer of the bracers.
+
+Phandoorl's bracers may be worn under clothing, and function unhampered. They may be worn around the thighs, biceps, or ankles, as well as wrists, and still function normally. If a single bracer, rather than a pair, is worn, the protection is reduced to −1 on spider, snake, and whip of fangs attack rolls, and a +1 bonus on saving throws vs. poison, webs, and secretions.
+
+## Brass Horseman
+
+**XP Value:** 24,000 &emsp; **GP Value:** 120,000
+
+*Source: The Emirates of Ylaruam*
+
+These brass golems were created by the ancient race of the City of Brass as guardians and guides. They serve only those who know the command words — all others are attacked on sight. Only by learning the command words and finding a brass horseman can one visit the fabled City of Brass, for the horseman may be commanded to guide its master to the city and grant protection for the journey.
+
+## Brassier of Defense
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DRAGON Magazine #35*
+
+The brassier of defense will not come off except by command of the wearer, granting the wearer an Armor Class 2 while in use. It lowers the morale of all males attacking the wearer by −1. This piece of clothing cannot be worn by males, and automatically adjusts to fit the female wearing it.
+
+## Brazier
+
+A brazier is a metallic receptacle used for holding hot coals. These are often used to heat rooms, but are more commonly covered with grills to cook food. Magical braziers are commonly used to summon and control fire elementals, or to create magical effects covering large areas.
+
+---
+
+<!-- page 224 -->
+
+## Brazier of Commanding Fire Elementals
+
+**XP Value:** 4,000 &emsp; **GP Value:** 25,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This device appears to be a normal container for holding burning coals; however, if *detect magic* is used, a dweomer is present. It enables a wizard to summon an elemental of 12 Hit Dice from the Elemental Plane of Fire. A fire must be lit in the brazier—one round is required to do so. If sulphur is added, the elemental gains +1 on each Hit Die (1d8+1 hit points per Hit Die). The fire elemental appears as soon as the fire is burning and a command word is uttered. (See the MONSTROUS MANUAL accessory for other details.)
+
+In Ravenloft: The elemental cannot return to its native plane unless it finds a normal escape route from Ravenloft. If the elemental is freed somehow from control, it attacks the summoner.
+
+## Hu'i Wing
+
+**XP Value:** 600 &emsp; **GP Value:** 1,200
+*Source: Kara-Tur*
+
+Under Karak is a huge subterranean fortress built by the Kozakurans, with many unexplored levels (mostly flooded). Local rumors have the invaders still hiding below. It is an extremely dangerous place and few brave souls dare to enter, but somewhere in its depths lies the singular, most valuable Koryoan relic, the Hu'i Wing.
+
+For many years it was the centerpiece of a shrine near Goisho, where monks of the Wing-ta order tended it. It was stolen by the Kozakurans and carried to Karak where it was built into the fortress below the city. It is a huge copper brazier, 8 feet in diameter, with an ornately carved lip of swimming dragons and sail-finned carp. A fire must be started in it—the hotter the better. When the brazier begins to glow with heat, the dragons and carp become cherry-red and begin to flow around its lip. Soon they begin to swim, faster and faster, until they are a blur of flames spinning about the coals.
+
+Anyone viewing the flames at this point sees them flashing white, as time is torn and fades into a picture of the future. An important event is revealed, such as a disaster, a civil war, or an assassination, but the vision will not involve the personal destinies of the watchers, unless they are very important indeed! The vision is the same event for all, but comes from a different perspective for each, and those events do come to pass in the next year. This knowledge can be used for good or evil, to prosper or aid, at the viewer's discretion. The object cannot be removed from the dungeon without destroying it, so it must stay as it is, an old legend of the Han stolen by an evil enemy and lost for 10 generations.
+
+## Brazier of Sleep Smoke
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This device is exactly like a brazier commanding fire elementals. However, when a fire is started within it, the burning causes great clouds of magical smoke to pour out in a cloud with a 1-foot radius around the brazier. All creatures within the cloud must save vs. spell or fall into a deep sleep. At the same moment, a fire elemental of 12 Hit Dice appears and attacks the nearest creature. Sleepers can be awakened only by a *dispel magic* or *remove curse* spell.
+
+---
+
+## Bridle
+
+This leather apparatus is placed about the head of a riding animal for control and guidance and includes a headstall, bit, and reins. A horse or other mount can wear only one bridle at a time, unless it has multiple heads.
+
+## Bridle of Acquiesce
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #73*
+
+When placed on a recalcitrant beast, the bridle of acquiesce forces the creature to obey the ordinary commands of its master. It cannot, however, force an animal to act against its own fears (for example, to run into a fire), nor does it have any effect when unusual orders are given—the beast simply does not understand. The harness is particularly useful for mules and camels.
+
+## Bridle of Control
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This bridle automatically calms the mount, preventing all nonmagical fear. Flying dragons, nearby snakes, and other situations that could cause unprotected animals to falter or flee do not affect the mount. The bridle of control has a continuous effect while worn.
+
+## Bridle of Control II
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: POLYHEDRON Newszine #82*
+
+When this simple leather bridle is placed on a mount, the mount must make a save vs. spell at
+
+---
+
+<!-- page 225 -->
+
+## Bridle, Golden
+
+*(continued from previous page)*
+
+half its normal Hit Dice or become charmed as if a *charm monster* spell had been cast. If the mount successfully saves, the bridle falls off.
+
+This bridle grants the mount the ability to understand the individual who placed the bridle on it. It only functions on creatures large-sized and smaller that have at least animal Intelligence.
+
+## Bridle, Golden
+
+**XP Value:** 4,000 &emsp; **GP Value:** 12,000
+*Source: The Emirates of Ylaruam*
+
+This beautiful, magical bridle, encrusted with gems and fine gold filigree, was crafted for Al-Kalim. A pegasus will faithfully serve whoever presents this bridle, so long as the owner is virtuous and honorable. If the owner performs an evil or dishonorable act, the pegasus deserts his former master, taking the bridle.
+
+## Bridle of Listening
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This bridle gives the mount the ability to understand any language. It does not enhance the animal's ability to speak — a *speak with animals* spell is needed for the mount to act as an interpreter. The bridle functions as long as it is worn.
+
+## Bridle, Plane Shifter
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+*Source: New Item*
+
+This is a marvelous piece of tooled leather, adorned with emerald and stainless metal, that fits any equine beast, whether it be a mule, a horse, a pegasus, or a unicorn. If fitted upon the head of such a beast, the rider can move from the Prime Material Plane to one of the Outer or Inner Planes. Unfortunately, there is little control over where the bridle takes the rider.
+
+Each bridle is designed to home in on a specific Outer or Inner Plane, and the stamps on the leather are designed to give some sort of impression of the destination. For example, a bridle centered on the Elemental Plane of Fire is stamped with little flames. The Outer Plane destination is stamped with its symbol (found in the PLANESCAPE boxed set), and the Prime Material designation is stamped in a swirling combination of earth, air, fire, and water.
+
+To use the bridle, one must merely touch the stamp and speak the name of the plane to which it is associated. There is a moment of whirling vertigo, and character and mount are instantly transported to the last place where the bridle was used. Unfortunately, this is not always the best of all possible situations. . . .
+
+## Bridle of Soaring
+
+**XP Value:** 1,600 &emsp; **GP Value:** 8,000
+*Source: The Book of Marvelous Magic*
+
+This bridle gives the mount the ability to fly (as the wizard spell) at any rate up to 360 feet per turn. The speed is not affected by encumbrance, but the duration is six hours per day if the animal is lightly encumbered or three hours if fully laden. The total time is not limited to a single journey and may be used in any number of parts. Each night uses one turn of flying time even if the flight is only of a few rounds' duration.
+
+## Bridle of Speaking
+
+**XP Value:** 1,400 &emsp; **GP Value:** 7,000
+*Source: The Book of Marvelous Magic*
+
+This bridle gives the mount the ability to understand and speak in the common tongue. Since most riding animals are not highly intelligent, the words and ideas are limited.
+
+## Bridle of Taming
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+*Source: The Book of Marvelous Magic*
+
+When used by an animal trainer (an NPC specialist), this bridle makes nearly any mount trainable and lowers the training time needed by 50%. It can only be used on large four-legged mounts, such as griffons, hippogriffs, and pegasi.
+
+## Bridle of Wings
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: The Book of Marvelous Magic*
+
+On command, this item causes wings to grow from the mount. A normal horse gains the movement rate of a pegasus (480 feet per turn flying) with these wings. The affected creature probably (90%) will not cooperate at first, disliking the sudden appearance of the wings and refusing to fly. This chance can be reduced if the animal is handled carefully and spoken to (using a *speak with animals* spell); the chance decreases by 10% per turn of explanation. A bridle of wings functions three times per day for up to one hour per use. The wings disappear at the end of the hour.
+
+---
+
+<!-- page 226 -->
+
+## Brooch
+
+A brooch is an ornamental piece of jewelry with a pin on the back to allow its owner to fasten the jewelry to clothing. Very expensive versions are made from gold or platinum and decorated with gems. They may contain any magic, but the most popular ones protect the wearer from damage or theft.
+
+## Abbor-Alz's Brooch of Warning
+
+**XP Value:** 1,200 &emsp; **GP Value:** 12,000
+*Source: Rary the Traitor*
+
+The barbarians of the hills value alertness in battle highly. Anyone wearing this brooch can never be surprised.
+
+## Brooch of Begoing
+
+**XP Value:** 4,000 &emsp; **GP Value:** 16,000
+*Source: DUNGEON Magazine #11*
+
+This item appears to be a decorative pin set with rubies, worth about 2,500 gp. However, it has distinct magical properties and can be used by a PC of any race and class. Each brooch has 1–50 charges.
+
+Once per week, the brooch allows the wearer to teleport himself plus an additional 750 lbs. to any part of the Prime Material Plane familiar to the person. This power drains two charges. Up to three times per week (but never more than once per day), the wearer can blink (as the 3rd-level wizard spell), except that the distance of displacement is 6 feet, and the direction of displacement is of the wearer's choosing. This power drains one charge. Once a day, the wearer can become invisible (as the spell). This power uses no charges.
+
+Furthermore, the brooch acts like a ring of protection +1 so long as the wearer has it on his or her person and wears no other form of magical protection or armor. The brooch of begoing may be worn with bracers of defense, however. No charges are drained by this ability.
+
+## Brooch of Bones
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: The Book of Marvelous Magic*
+
+This strange piece of magical jewelry has no effect unless worn by a druid. The brooch bestows a protection from undead power when worn and the command spoken: "undead cannot touch a druid." It does not turn undead or protect against their spells or other powers (if applicable); it does prevent all damage, level drains, and other effects of the attack or touch of undead creatures. The brooch may be used three times a day for one turn per use.
+
+## Equus Brooch
+
+**XP Value:** 2,000 &emsp; **GP Value:** 8,000
+*Source: DUNGEON Magazine #22*
+
+An equus is a magical piece of jewelry that, upon command, polymorphs into some form of a beast of burden. The word "equus" (plural "equi") comes from an ancient language and has no literal translation in the common tongue. The closest translation is "beast of burden" or "horse," but the word can be applied to anything that is used like a horse. Thus, an actual horse, mule, worg, camel, dog-sled team, nightmare, or any other creature that can be ridden, used to pull a load, or carry goods can be termed an equus. Equi come in many different varieties, with the most common listed below. While 80% of equi are either good or neutrally aligned, 20% polymorph into evil creatures such as nightmares, worgs, and giant spiders. It is said that the death knight Shan Nikkoleth once possessed an equus that polymorphed into gorgon form.
+
+This is a simple copper or silver brooch in the shape of the creature it becomes after polymorphing. The command word is engraved on the back of the brooch. It may be worn as a decorative pin or used as a clasp for a cloak or cape.
+
+### Creature List
+
+The DM may choose the form of the creature into which the equus polymorphs from the following table. The jewelry form polymorphs into one type of creature only. A DM who prefers to roll randomly should add the roll of 1d8 to that of 1d12 and consult the table below. The DM should use only a creature he or she feels comfortable with and is sure will not give the PC an unfair advantage in the campaign. Types of creatures can be added to or deleted from the list as the DM sees fit. Any of the following creatures that do not appear on Table 49 in the PHB should be considered equal to a heavy horse in movement rate and encumbrance.
+
+If the equus is slain (reduced to 0 hit points or fewer) in creature form, the creature immediately reverts to brooch form and cannot change into creature form again. Damage to the creature form of the equus can be healed magically by cure
+
+---
+
+<!-- page 227 -->
+
+wounds spells. If the creature is allowed food and rest, it heals naturally at the rate of 1 hit point per day. However, the equus can neither heal itself nor be healed while in brooch form.
+
+| Roll | Creature |
+|------|----------|
+| 02 | Unicorn: AC 2; MV 24; HD 4+4; hp 28; THAC0 15; #AT 3 (hooves and horn); Dmg 1d6/1d6/1d12; SA charge, +2 to hit when attacking with horn, -6 penalty to opponents' surprise rolls; SD teleport, immune to poison, charm, hold, and death spells; can sense approach of enemy at 240 yards; makes all saving throws as 11th-level wizard; ML 14; AL CG. The unicorn's Intelligence is 8–10 (1d4+8). It can be ridden only by female characters; if a male character rolls the unicorn, use the ultraheavy war horse (#20) instead. |
+| 03 | Giant stag: AC 7; MV 21; HD 5; hp 30; THAC0 15; #AT 1 (antlers) or 2 (hooves); Dmg 4d4 or 1d4/1d4; ML 14; AL N. Intelligence is 4–7 (1d4+3). |
+| 04–05 | Bull: AC 7; MV 15; HD 4; hp 24; THAC0 15; #AT 2 (horns); Dmg 1d6/1d6; SA charge; ML 15; AL N. The bull has an Intelligence of 4–7 (1d4+3). |
+| 06–08 | Superheavy war horse: AC 6; MV 15; HD 4+4; hp 28; THAC0 15; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; SD 30' infravision, immunity to all hold and charm spells; ML 16; AL NG. Intelligence 7–12 (1d6+6). |
+| 09–13 | Heavy war horse: AC 7; MV 15; HD 4+4; hp 21; THAC0 17; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; ML 15; AL N. Intelligence 5–8 (1d4+4). |
+| 14–16 | Superheavy war horse (special): Same as above (roll of 6–8), though it has MV 18, a 40-lb. bonus on its carrying capacity load limits, and no infravision. |
+| 17–18 | Camel: AC 7; MV 21; HD 3; hp 18; THAC0 17; #AT 1 (bite); Dmg 1d4; SA spitting; ML 14; AL N. This camel is of a more mellow disposition than its meaner cousins and has an Intelligence of 4–7 (1d4+3). |
+| 19 | Water buffalo: AC 7; MV 15; HD 5; hp 30; THAC0 15; #AT 2 (horns); Dmg 1d8/1d8; ML 16; AL N. This water buffalo has an Intelligence of 4–7 (1d4+3). |
+| 20 | Ultraheavy war horse: AC 5; MV 24; HD 5+5; hp 35; THAC0 15; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; SD 60' infravision, immunity to poison and all hold and charm spells; ML 18; AL LG. This special horse can understand but not speak the common tongue and is able to use *animal friendship* and *pass without trace* spells three times per day each, *locate animals or plants* once per day, and *water walk* once per week. Intelligence 9–16 (1d8+8). |
+
+## Brooch of Falling
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+
+*Source: Champions of Mystara*
+
+When worn, this small brooch, shaped like a leaf, protects the wearer from falls. Whenever the wearer approaches any hard surface fast enough to cause damage, the leaf automatically takes effect, slowing the wearer to a slow fall (like a leaf). No falling damage is sustained in falls of 60 feet or less, and only one point for each 10 feet of falling thereafter (maximum 20 points of damage regardless of height). The leaf of falling has 3d10 charges when found, and each use expends one charge.
+
+## Brooch of Imog
+
+**XP Value:** 1,200 &emsp; **GP Value:** 12,000
+
+*Source: DRAGON Keep*
+
+Shaped like a circlet of mistletoe and made of gold leaf, this item was the traditional reward given to wizards who served in the elven realms of Krynn. When worn by a wizard who knows the command word ("Sister"), it can create a *minor globe of invulnerability* that lasts for 10 rounds, once a day.
+
+## Brooch of Imog II
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+
+*Source: Tales of the Lance*
+
+Made of gold leaf, these brooches are fashioned as a ring of mistletoe with white-gold berries. They are a traditional reward given to wizards who have served elven nations well. No new brooches have been crafted since the Cataclysm, though the skill to create them survives.
+
+When worn by a wizard who knows the command word, a brooch of imog may (once per day) create a *minor globe of invulnerability*: a shim-
+
+---
+
+<!-- page 228 -->
+
+## Brooch of Number Numbing
+
+*[Entry continues from previous page]*
+
+A shimmering, magical 5-feet-wide sphere that prevents all 1st-, 2nd-, and 3rd-level spells from effecting those within. Magic may still be cast by those within the sphere on targets beyond. The effect lasts one turn.
+
+---
+
+## Ivory Plume of Maat
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: DUNGEONS & DRAGONS Master Set*
+
+This small, exquisitely crafted brooch, shaped like a feather, was created by a great paladin, the beautiful fighter Maat. She was a many-talented mortal, and strove always to promote good over evil. Her device is said to enable the user to follow in her noble footsteps, doing good deeds and furthering the cause of law and justice.
+
+The plume is 3 inches long, made of very fine ivory. The plume is active when acquired. Knowledge of the powers is granted immediately, telepathically, to any user who is a paladin or good knight. Any other would-be user must gain the knowledge through a *contact other plane* or *commune* spell, by asking Maat directly.
+
+Each of the following powers is activated by mental command alone:
+
+**Suggested Powers:** (All abilities are at 20th level.) *Dispel evil*, *geas*, *continual light*, *turn* (as 20th-level priest), lie detection, know alignment, choose best option (duration one turn; affects one choice), *purify food and water*, repair normal objects (affects up to 100 pounds of nonmagical material), *remove fear*, saving throw bonus (+4 bonus), immune to disease (range touch; affects all nonmagical diseases; duration 18 turns), immune to energy drain (range touch; duration six turns).
+
+**Suggested Handicaps:** When first used, a *wall of stone* forms as a closed cylinder around the user. However, if the user closes his or her eyes, thinks of justice (or Maat), and steps forward, the wall vanishes when touched. The wall is completely invulnerable to outside attacks, including a *wish*. If the wall is destroyed or damaged by the user, he or she takes double damage from all physical attacks (no saving throw, and unremovable, as a handicap). Secondly, alignment changes to a lawful bent; if already lawful, the character becomes more rigidly so, and works more actively to defeat chaos.
+
+**Magic error:** An 80% chance of error applies whenever the user casts a spell (or uses a magical device requiring a command word) to harm any lawful or neutral creature that has no evil intention.
+
+**Suggested Penalties:** Whenever the item is touched, and if the creature touching the plume is chaotically-aligned or has evil intentions, *disintegrate* is cast with no saving throw.
+
+If the user slays a lawful creature, he or she is immediately reduced to −10 hp, and dies (no saving throw).
+
+The following have standard chances of either occurrence:
+
+- **Harden:** A volume of up to 30,000 cubic feet of mud, mire, swamp, or other muck suddenly dries completely, if within 120 feet of the user.
+- **Opponents:** 1d4 chaotically-aligned enemies magically materialize out of the air, within 30 feet of the user. All the creatures are of one type; the type has a number of Hit Dice equal to 31–50% (1d20+10) of the user's levels. The creatures are native to the user's plane of existence (consider undead as native to any plane). Each opponent has maximum possible hit points. Neither side has surprise.
+
+---
+
+## Brooch, Lunar
+
+**XP Value:** 1,800 &emsp; **GP Value:** 9,000
+*Source: The Book of Marvelous Magic*
+
+This piece of jewelry bears the likeness of a crescent moon. If worn by a spellcaster, it bestows additional power to any *light* or *continual light* spell cast. The light from either spell causes all lycanthropes in the area of effect to assume animal form (no saving throw). They remain as animals until they leave the lighted area. The lunar brooch has no command word and operates continuously while worn.
+
+---
+
+## Brooch of Number Numbing
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: Tome of Magic*
+
+These silver or golden brooches (15% are set with jewels) are used to fasten cloaks and capes. They magically cloud the minds of those who converse with the wearers of these brooches, but confusion applies only to numbers.
+
+The brooch must be in plain sight to have any effect. Anyone conversing with someone wearing the brooch is allowed a saving throw vs. spell to avoid the effects.
+
+If the saving throw fails, the victim falls under the brooch's special enchantment. The victim forgets the relative value of numbers and cannot
+
+---
+
+<!-- page 229 -->
+
+remember if five is greater than three or if tens are smaller than hundreds. Furthermore, the victim does not recognize his or her inability to remember the values of numbers. While under the influence of the brooch, the victim thinks that all numbers are pretty much the same. He or she accepts any claim pertaining to numbers and accepts almost any financial deal.
+
+The victim remembers the relative values of coins (that gold pieces are worth more than silver pieces), but not their exact conversions. Thus, the victim is unable to remember whether 2 sp or 100 sp are equal to 1 gp.
+
+The enchantment lasts only as long as the wearer is present and for 2d6 rounds after that. Once the effect wears off, the victim regains a normal understanding of numbers. Furthermore, he or she remembers exactly what was said and done while under the influence of the brooch, although, perhaps, not the cause.
+
+## Brooch of Obsidian Shattering
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON'S CROWN Sourcebox*
+
+This magical brooch takes the form of a small, silver hammer of elven manufacture. It contains up to 60 charges, and must be activated by being touched with a piece of obsidian (that turns into dust) as the elven word "shallackan" (shatter) is spoken. The brooch shatters all obsidian within 120 feet of the wearer when activated. These brooches are especially effective in disarming opponents armed with obsidian weapons.
+
+## Pin of Communication
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: POLYHEDRON Newszine #58*
+
+A pair of 2-inch platinum pins in the shape of human ears make up this wondrous item. The magic takes effect when the ears are pinned on two individuals—on clothing, or directly on their bodies. A wearer hears what the other is saying in his or her native language. This effect is similar to a *comprehend languages* spell. The translation works only between two wearers. The pins can be transferred from one person to another as often as necessary. Only verbal communication is translated. The pins of communication lose their magic if they are separated by 100 feet for more than five minutes.
+
+## Brooch of Shielding
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: Dungeon Master Guide, 1st Edition*
+
+This appears to be a piece of silver or gold jewelry (10% chance that there are jewels set in it). It is used to fasten a cloak or cape. In addition to this mundane task, it can be used to absorb magic missiles of the sort generated by spell, wand, or other magical device. A brooch can absorb up to 101 hit points of magic missile damage before it melts and becomes useless. Its use can be determined only by means of a *detect magic* spell and experimentation.
+
+## Broom
+
+Brooms consist of a 4- to 6-foot-long wooden pole that serves as the item's handle. A fan of straw or similar material is attached to one end of the handle with a length of thread or a metal ring. When drawn across a floor or other firm surface, the straw gathers up loose dirt for easy removal. (Please note that it is possible for an individual to have a magical broom without ever being aware of it.)
+
+## Broom of Animated Attack
+
+**XP Value:** — &emsp; **GP Value:** 3,000
+*Source: Dungeon Master Guide, 1st Edition*
+
+Indistinguishable from a normal broom, except by means of magical detection, this item is identical to a broom of flying by all tests short of attempted use. Using it reveals that a broom of animated attack is a very nasty item.
+
+If a command word ("soar") is spoken, the broom does a loop-the-loop with its hopeful rider, dumping the hapless flyer on his or her head from 1d4+5 feet off the ground. The broom then attacks the stunned victim, swatting the would-be rider's face with the straw end and beating with the handle.
+
+The broom gets two attacks per round with each end (two swats with the straw, two with the handle). It attacks as if it were a 4-HD monster. The straw end causes blindness for one round if it hits. The other end causes 1d3 points of damage when it hits. The broom is Armor Class 7 and takes 18 hit points to destroy.
+
+**In Kara-Tur:** This broom is not commonly available in Oriental lands. Reroll this result.
+
+---
+
+<!-- page 230 -->
+
+## Broom of Blindness
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: The Book of Marvelous Magic*
+
+This apparently normal broom attacks anyone who touches or moves it, be it by magical or any other means. It attacks as a 20 HD monster, can attack an invisible victim without penalty, and inflicts five points of damage per hit. Each time it hits, the victim must make a saving throw vs. spell or be blinded. The broom is AC 0, has 20 hp, and can be affected only by magical spells or weapons.
+
+## Broom of Flying
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This magical broom is able to fly through the air at up to 30 base movement speed. The broom can carry 182 pounds at this rate, but every 14 additional pounds slow movement by one. The device can climb or dive at an angle of 30°. A command word (determined by the DM) must be used. The broom will travel alone to any destination named. It comes up to within 300 yards of its owner when the command word is spoken.
+
+In Kara-Tur: This broom is not commonly available in Oriental lands. Reroll this result.
+
+## Broom of Serving
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: The Book of Marvelous Magic*
+
+This apparently normal broom functions magically only while indoors and only if commanded by a wizard. Upon command, it grows arms. It can carry up to 500 pounds and is able to grow up to six arms, as needed, to perform its duties. It may be commanded to sweep and can clean a 10-by 10-foot area of dust and grime in six rounds. It follows its master within 30 feet, if not instructed otherwise, or it remains where it is told within a castle or a room. A second command causes it to cease work and turn back into its original, armless form. The animated broom is AC 5, has 20 hp, and can be damaged only by fire or magic.
+
+## Broom of Sweeping
+
+**XP Value:** 120 &emsp; **GP Value:** 600
+*Source: DRAGON Magazine #30*
+
+For obvious convenience, the broom of sweeping was developed. It can sweep a 10-foot-square area clean of loose dust and small items in a turn. The sweepings are left in a neat pile.
+
+## Broom of Sweeping II
+
+**XP Value:** 120 &emsp; **GP Value:** 600
+*Source: DRAGON Magazine #73*
+
+This is a straw broom of normal appearance. Upon the utterance of the proper command word (written in Common on the end of the handle), it sweeps out the room it occupies. It does not operate outdoors. It will attempt to sweep out all unprocessed organic material such as dirt, leaves, and living and dead animals and insects, even humans. The reverse of the command word, or completion of the task, stops it.
+
+---
+
+# Brush
+
+A brush consists of a wooden or ceramic piece, 4 to 6 inches long that serves as the handle. One side of the handle is generally ornately decorated. The other side has several hundred thin animal hairs, or bristles, embedded in it. There are specialized brushes designed for all kinds of tasks from personal grooming to applying paint.
+
+## Brush of Colors
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine #30*
+
+The brush of colors was designed by the wizard Orlow to save him the bother of cleaning or
+
+---
+
+<!-- page 231 -->
+
+## Brush of Detangling
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: DRAGON Magazine #73*
+
+A bone-and-bristle brush of untidy and uninviting appearance, this implement immediately untangles the hair of anyone who uses it, without pain.
+
+## Brush of Grooming
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #73*
+
+This is a rune-covered brush of dragonbone and animal bristles. Upon uttering the command word (written in elvish runes), the brush begins to groom the hair of the holder, responding to the owner's telepathically expressed desires.
+
+## Vladium's Fabulous Equine Brush
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: POLYHEDRON Newszine #82*
+
+This magical brush is made of silver and inlaid with tortoise shell. The bristles are of fur from a giant, black ermine. Although the bristles are soft, they easily remove dirt, debris, and loose hair from any mammal with the first stroke. The great paladin Audry Vladium grew tired of the constant grooming and time required to keep her war horse immaculate, and so she commissioned the creation of the brush from a long-forgotten wizard. There are only about a dozen such brushes known to be in existence.
+
+## Bucket of Fire Snuffing
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #73*
+
+This miniature, bronze bucket has a bronze inner surface that looks much like water. If the bucket is brandished at a fire, as though water were being thrown from it, the fire reacts as though a normal bucket of water had been thrown on it, except that no chemical reaction takes place. The bucket can be used repeatedly on any normal fire. It has no effect on magical fires.
+
+## Buckle
+
+A magical buckle looks like any ordinary buckle and is used to fasten a belt about the waist. Magical buckles are always made of fine metal (often gold or platinum) and may be decorated with gems. If the owner does not know it is magical, it might be sold for 100–600 gp. If two or more magical buckles are worn, none have any effect.
+
+## Buckle of Armor
+
+| &nbsp; | XP Value | GP Value |
+|--------|----------|----------|
+| AC 0:  | 5,000    | 30,000   |
+| AC 1:  | 4,500    | 27,000   |
+| AC 2:  | 4,000    | 24,000   |
+| AC 3:  | 3,500    | 21,000   |
+
+*Source: The Book of Marvelous Magic*
+
+When worn, this item protects the wearer as if a full suit of plate mail armor were being worn (AC 3). It is useless when worn with any sort of normal or magical armor but can be combined with a shield and a magical protective device that has plusses, such as a ring of protection. The buckle of armor may be enchanted further, at great price, to a maximum of +3.
+
+## Buckle of Faulty Lockpicks
+
+| &nbsp;  | XP Value | GP Value |
+|---------|----------|----------|
+| −5%:    | —        | 1,500    |
+| −10%:   | —        | 2,000    |
+| −15%:   | —        | 2,000    |
+| −20%:   | —        | 3,000    |
+
+*Source: The Book of Marvelous Magic*
+
+This buckle appears to be and functions as a buckle of lockpicks. However, the lockpicks carried within it bestow a −5% penalty, instead of a +5% bonus, for each lockpick owned. Even if other magical lockpicks are found and added to the set, they become reversed when contained in this buckle.
+
+## Buckle of Lockpicks
+
+| &nbsp;  | XP Value | GP Value |
+|---------|----------|----------|
+| +5%:    | 1,000    | 7,000    |
+| +10%:   | 1,250    | 7,500    |
+| +15%:   | 1,500    | 8,000    |
+| +20%:   | 1,750    | 8,500    |
+
+*Source: The Book of Marvelous Magic*
+
+This apparently normal belt buckle has a secret compartment in which a set of lockpicks can be hidden. The buckle contains 1d4 magical lockpicks when found; each lockpick bestows a 5% bonus to a thief's open locks attempts (+10% for two picks, +15% for three picks, and so on). The magical lockpicks must be kept in the buckle when not in use — they lose their enchantment if left out for one hour. Other magical lockpicks may be found or made using these as models, up
+
+---
+
+<!-- page 232 -->
+
+## Buckle of Opening
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This buckle appears to be and functions as a buckle of protection in all respects. However, it has a 20% chance of malfunctioning and must be checked once each turn in which the wearer is attacked physically, such as with a blow from a weapon or a claw. If the buckle opens, all the items worn by the victim suddenly fall off—hat, cloak, armor, backpack. Held items are not affected, only those worn.
+
+## Buckle of Protection
+
+**XP Value:** &emsp; **GP Value:**
++1: 2,000 &emsp; 10,000
++2: 2,500 &emsp; 12,500
+
+*Source: The Book of Marvelous Magic*
+
+This buckle adds a bonus to the wearer's saving throws and Armor Class. Its effect may be added to other bonuses gained with magical armor, shield, cloak, or ring. The buckle may be enchanted to a maximum of +2 quality.
+
+| Roll  | AC Bonus |
+|-------|----------|
+| 01–75 | +1       |
+| 76–00 | +2       |
+
+## Buckle of Weaponry
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This buckle contains a small, secret compartment in which small objects may be kept. It contains several miniature weapons when found, each about an inch long—a mace, spear, war hammer, battle axe, two-handed sword, and a light crossbow with 10 quarrels. When any one of them is held and the command word uttered, the item enlarges to full size. There is a different command word for each weapon, and the weapons have no plusses when enlarged. If the word is spoken a second time, the held weapon returns to miniature size and may be replaced in the buckle. Each weapon can be enlarged only once per day; a *dispel magic* spell causes any enlarged weapon to shrink (no roll needed).
+
+## Bush of Lemmikainen
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+This bush was left at home and would bleed noticeably if Lemmikainen were in trouble, thus warning his mother.
+
+## Buttercup's Bouquet
+
+**XP Value:** 600 &emsp; **GP Value:** 2,400
+*Source: POLYHEDRON Newszine #43*
+
+Buttercup, a charming and ingenious half-elf of the locksmith persuasion, was best known for her wit and ingenuity. She favored a device crafted specifically for her by an infatuated, magic-using admirer. It resembled a collection of glorious blossoms and was made to be worn on the lapel or in the hair. When a secret catch is released, a gaseous substance squirts forth, blinding everyone within a 15-foot radius. Buttercup, of course, knew to keep her eyes closed. The fumes dissipate immediately, but the blindness persists for 1d8 rounds per individual.
+
+## Button
+
+Buttons are small disk- or barrel-shaped knobs that are attached to an article of clothing. They serve as fasteners when passed through a loop or button hole. Buttons are commonly made from bone, wood, coral, shell, metal, or ceramic. Magical buttons cannot be discerned from mundane buttons without the use of a *detect magic* spell.
+
+## Button of Blasting
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+This small, cream-colored, bone button may be thrown as far as 120 feet. When the command word is spoken by the owner, the button explodes as a *fireball* spell, but for only 4d6 points of damage. The command word detonates the button only if spoken within 240 feet of it.
+
+## Button of Confusion
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+When found, this small, cream-colored bone button gives no clue to its powers. However, when carried, once per hour it jumps to another victim within 60 feet. The original carrier of the button immediately becomes aware of its disappearance but not of its new location, since it has buried
+
+---
+
+<!-- page 233 -->
+
+## Button of Discus
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: New Item*
+
+These flat, circular silver buttons are usually found on paper cards — 10 buttons to a card. They may be sewn onto a vest or jacket, and detach when the command word is spoken. At a second command word they enlarge, becoming 8-inch discs with a +2 attack roll bonus; they have razor sharp edges that do 2d6 damage on contact. The full size discs may be thrown up to 200 feet and disintegrate on contact.
+
+## Button of Fastening
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: The Book of Marvelous Magic*
+
+This small, dark ivory bone button may be used to lock any cloth item, magical or ordinary. When it is placed on cloth and the command word spoken, the cloth becomes rigid; the cloth is treated as if a stout door fastened by a *wizard lock* cast by a 21st-level wizard. Something such as a normal blanket may thus be used to secure valuables. The button unlocks when touched and the command word spoken.
+
+## Button of Rosy Vision
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: New Item*
+
+These buttons are always found in pairs; both are circular, about 1-inch in diameter and made of brass. One has a rose-colored stone in the center, and the other a small depression. When the rose-stone button is sewn on a doublet or other outer wear, it enables the holder of the second button to see through the rose-stone while it is being worn.
+
+---
+
+*[Note: This page also contains the tail end of a previous Button entry (unnamed on this page), describing a button that hides itself undetected in a new victim's belongings. The former carrier must make a saving throw vs. spell or stop and insist on a one-turn search to recover the button. If the saving throw is successful, the victim forgets about the button.]*
+
+---
+
+<!-- page 234 -->
+
+## Cabinet of Air Restoration
+
+**XP Value:** 600 &emsp; **GP Value:** 6,000
+*Source: DRAGON Magazine #159*
+
+With the recent flood of groundling adventurers moving into space, the arcane have introduced a new item needed on many heavily laden ships — an air supply device. Many of these are included with new helms, instead of offering helms with portal locators. They have also been sold to older customers at a fixed price. The cabinet of air restoration works on the same principle as a furnace helm, by drawing magic from magical items. The small cabinet stands 2 feet tall by 1 foot wide; two small doors in its front open to reveal a hollow area 10 inches square. The front and sides of the cabinet are of dark hardwood, but the base and repository within the cabinet seem to be made of crystal — the same crystal found in many minor helms. When an item is placed inside the cabinet, the crystal glows deep green, brightening whenever it is producing fresh air. When a charged, magical item is placed within the cabinet, 1d3 charges are immediately drained away prior to use. With each subsequent use, the cabinet of air restoration drains one charge from the magical item and generates 50 cubic yards of fresh air, enough to support up to 12 crewfolk for one week before the air becomes foul; a single command word activates this function.
+
+A second command word activates the full potential of the cabinet of air restoration, allowing it to regenerate the entire air envelope of the ship. When commanded, the cabinet drains 1d8 charges for every 10 tons of the ship and restores the atmosphere by one rank. For example, to restore the atmosphere aboard a hammership (a 60-ton ship) from foul air to fresh, the cabinet would drain 6d8 charges from an item. The atmosphere would be completely restored, supporting a crew of 60 for four to eight months with a regenerated atmosphere.
+
+## H'Veyk's Cavernous Cabinet
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: Egg of the Phoenix*
+
+This item is used in conjunction with H'Veyk's robe of immediate access (see Robe). The cabinet has metal doors but no locks. The only access is through H'Veyk's robe of immediate access. If the cabinet is broken into (AC 3, hp 30), the wearer of the robe has only a 25% chance of finding items when digging through the robe's pockets.
+
+The cabinet can hold a total of 200 pounds of material, allowing the robe's wearer to immediately find whatever is needed (unless, of course, someone breaks into the cabinet).
+
+## Cabinet of Ministering
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This cabinet appears identical to a cabinet of security but can be easily moved, damaged, etc. If the user steps inside, closes the doors, and speaks any of three command words, the cabinet either removes curse, cures disease, or cures wounds (for 50 points of curing). The cabinet functions only once per month.
+
+## Cabinet of Security
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+This piece of wooden furniture is 5 feet tall, 4 feet wide, and 3 feet deep. Its construction is magical, and it has the strength of steel. It can be opened only by a special command word and has no visible lock. The cabinet cannot be moved unless another command is uttered, but it is then carried easily, having only 100 pounds encumbrance, regardless of its contents. A third command causes shelves to appear or disappear within it, as many as desired and spaced in any manner; the shelves cannot be removed by any means. The cabinet can hold up to 1,000 pounds or any object small enough to fit inside.
+
+## Cadaver Comb
+
+See Circlet, Doom's Diadem
+
+## Cage
+
+A cage is an enclosure used to keep a creature confined without consent. Whether the cage is called a pen, menagerie, corral, coop, cell,
+
+---
+
