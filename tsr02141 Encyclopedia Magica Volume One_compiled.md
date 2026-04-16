@@ -20650,3 +20650,499 @@ This blade, no matter what it is used against or how it is treated, will always 
 
 ---
 
+<!-- page 367 -->
+
+## Knife of Sharpness
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: Gods, Demigods, & Heroes*
+
+Treat as a sword of sharpness but with only a +1 chance to hit.
+
+## Koalinth Slayer
+
+**XP Value:** 100 &emsp; **GP Value:** 1,000
+*Source: DRAGON Magazine 48*
+
+These are frequently found in the possession of tritons, who are typically armed with a dagger and one other weapon. This is a coral or fish-tooth dagger, usually with a carved handle. If an alignment is present in such an item, it will be good. Against Koalinth it is a dagger +3.
+
+## Loki's Envenomed
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine 110*
+
+This dagger is the equivalent of a dagger of venom +3, though the dagger has an endless supply of venom.
+
+## Longtooth
+
+**XP Value:** 250 &emsp; **GP Value:** 2,500
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This appears to be a normal weapon, or perhaps a nonspecial, magical weapon. However, when this broad-bladed weapon is wielded by a small demi-human (a gnome or halfling), it actually lengthens and functions as a short sword (retaining its +2 bonus). Even when functioning in this way, it remains as light as a dagger would be in the hands of the same character. The weapon actually penetrates wood and stone as easily as it enters softer materials, inflicting maximum damage against either substance.
+
+## Mageslayer
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: Slave Pits of the Undercity*
+
+This +1 dagger is attuned to mages and other creatures that possess magical capabilities. Against mages and enchanted creatures it has a +2 bonus.
+
+## Dagger of the Magius
+
+**XP Value:** 1,500 &emsp; **GP Value:** 5,000
+*Source: Tales of the Lance*
+
+Raistlin Majere purchased this dagger from the Tower of High Sorcery, giving in exchange a valuable magical item he found in his early days of mercenary service. He carried the dagger on his right forearm by means of a cunningly designed leather thong of his own making. This allowed the dagger to slip into his hand with a simple movement of his wrist. Six inches long, this silver dagger is carved in the shape of a dragon with the tail as the blade. It is slender and lightweight and can easily be hidden upon the person of the mage. The dagger has a +3 bonus on both attack and damage rolls. It also has the ability to remain undetected in a search of the mage's person.
+
+## Mervic's
+
+**XP Value:** 900 &emsp; **GP Value:** 4,000
+*Source: POLYHEDRON Newszine 43*
+
+This bejewelled, ornate silver blade acts as a +2 weapon in the hands of anyone but neutral good mages. In their hands, it becomes a +5 weapon. It augments their effective character level by 2 when carried, the level increase applying to spells, hit points, and attack tables. It is semisentient, and can communicate with its owner telepathically. It is rumored to have some other innate abilities, but sages differ on the details. It has a neutral good alignment, an Ego of 19, an Intelligence of 23, and knows the following languages: Common, Elf, Dwarf, Halfling, and Gnome.
+
+It once belonged to the renowned mage Mervic, who always carried it with him. It was found by a group of adventurers who searched his fortress after hearing rumors of his mysterious disappearance, but it was lost in later years and is said to be in the hoard of a particularly loathsome lich.
+
+## Nut's Black
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: Legends & Lore*
+
+Nut's avatar wields a black bladed dagger +3 in combat. Anyone struck by it must save vs. spell or lose two levels instantly, just as if they had been struck by a vampire.
+
+## Dagger of Quickness
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine 179*
+
+In addition to providing a bonus to attack and damage, this dagger may strike first that round, even if thrown. If used in situations with other weapons that allow a "first strike" (such as a scimitar of speed or short sword of quickness), such attacks are simultaneous. The dagger of
+
+---
+
+<!-- page 368 -->
+
+(Note: The top of this page continues text from the previous entry about a "Quickness" dagger, then presents new entries.)
+
+---
+
+quickness does not allow any increase in the number of attacks allowed to the user.
+
+## Rabbitslayer
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+
+*Source: Tales of the Lance*
+
+Tas brags about how his lucky knife always finds its way back to him. Called Rabbitslayer (because Caramon said it would only be of use against ferocious rabbits), the dagger's origin remains unclear. Tas claimed he found it in the cursed lands near Xak Tsaroth. Goldmoon once pronounced the blade "blessed by the gods" and "more powerful than imagined." Others scoffed.
+
+Rabbitslayer is a dagger +4. It always returns to its owner's hands within 1d20 hours after it is lost or stolen. Only if it is willingly given away does Rabbitslayer gain a new owner.
+
+## Dagger of Random Target
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: DRAGON Magazine #134*
+
+These rather exquisite throwing daggers are +2 on attack and damage, and function normally if used in hand. There is a catch — if thrown, the daggers pick their own targets. Whenever they are thrown, everyone within a range of 30 feet (including the user) is counted as a potential target, up to a maximum of the 20 nearest creatures. An appropriate die is then rolled to randomly determine the target. The usual steps to determine attacks are then followed. To most people, these daggers would seem evil or cursed, but they are weapons that jesters love in their own mischievous ways. Random target daggers are usually found in groups of three.
+
+## Dagger, Resource
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +2    | 500      | 5,000    |
+| +3    | 500      | 5,000    |
+| +4    | 500      | 5,000    |
+
+*Source: The Complete Thief's Handbook*
+
+These daggers usually have handles of ebony or ivory, or some similarly valuable and exotic substance, and have 1d3+1 small studs in the cross guards. The dagger has attack and damage bonuses, but it also has additional tools located within it, and depressing one of the studs will cause the corresponding item to spring from the hilt of the dagger, ready for use (only one tool at a time can be used). The bonuses and tools depend on the number of studs in the weapon, as shown below:
+
+| No. of Studs | Attack/Damage Bonus | Tools Avail. | Description of Tools |
+|--------------|--------------------:|-------------:|----------------------|
+| 2            | +4                  | 2            | Lock picks add +5% to open locks rolls, plus tool to remove stones from horses' hooves. |
+| 3            | +3                  | 3            | As above, plus lens of detection. |
+| 4            | +2                  | 4            | As above, plus gem of brightness with 3d10 charges. |
+
+## Rust Blade
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DRAGON Magazine #169*
+
+These rare weapons have constantly operating, involuntary powers. Whenever the naked blade of a rust blade directly touches metal (a successful attack roll is required), the metal rusts, crumbling to useless shards and flakes in one round. Magical metallic items contacting a rust blade have a chance of escaping destruction equal to 10% per plus (a dagger +1 has a 10% chance of being unaffected). Special powers or abilities may, at the DM's option, be considered equivalent to additional bonuses. A rod of lordly might, for example, has 10 powers, and could be considered to have a 100% chance of escaping a rust blade's effects. Consider all magical items that are not weapons or armor of some sort to have a 20% base chance of being unaffected.
+
+These weapons cannot be carried in metal scabbards — they are as much a hazard to the wielder and allies as they are to enemies. The creation of these weapons requires some of the flesh of a rust monster's antennae. If a rust monster smells such a blade, it will attack it over all other possible metallic meals. A rust blade touched by a rust monster antenna collapses into a hot, sparkling gray liquid that a rust monster will immediately devour, after that falling into a contented doze. The liquid takes 1d4+1 turns to digest but acts as a healing agent and growth stimulant, giving the affected rust monster full (40) hit points. In rust monsters at full hit points, devouring a rust blade awakens a strong urge to
+
+---
+
+<!-- page 369 -->
+
+## Rutterkin Sling Blade
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+
+*Source: Outer Planes MC Appendix*
+
+The least tanar'ri, rutterkins, use a three-armed blade thrown from a sling-like device. The weapon weighs two pounds, is Size S, has a Speed Factor of 3, causes 1d6/1d6 points damage, and has ranges of 2/4/6. These weapons generally have a +3 enchantment that applies to both damage and attack rolls.
+
+## Dagger of Sahuagin Dolphin
+
+**XP Value:** 100 &emsp; **GP Value:** 1,000
+
+*Source: DRAGON Magazine #91*
+
+Found only in undersea lairs, this weapon is a coral or shark-tooth dagger made by powerful sahuagin priests. These daggers are +1, but +2 when used against dolphins; they have a lawful evil alignment, and anyone of another alignment finds that such daggers function as −1 cursed weapons when used by them.
+
+## Dagger of Set
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: Old Empires*
+
+This horrible, snake-shaped blade is a throwing dagger used by warriors in the service of Set. It is a dagger +2, with a typical range. Should it roll a natural 19 or 20, it has found a vital organ of its victim and kills instantly. Furthermore, it remains in the wound and continues to inflict 1d4+2 points of damage each round, until it is pulled free (an 18 or greater Strength is required to pull it from the wound; the action takes one round). For each round it is in the wound, roll 1d20; if a 19 or 20 is ever rolled, it has found a vital organ and killed its target. The number of Daggers of Set that exist is unknown.
+
+## Soma's Dagger
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: Legends & Lore*
+
+Anyone struck by the avatar's dagger must successfully save vs. death magic or believe that they have died. The misconception lasts 1d10 turns, during which the affected character is effectively out of the game.
+
+## Dagger of Sounding
+
+**XP Value:** 300 &emsp; **GP Value:** 3,000
+
+*Source: The Complete Thief's Handbook*
+
+This oddly designed dagger is +1 for attack and damage, but it has a peculiar, hollow bronze bulb at the tip of the pommel. If the tip is gently tapped against a hollow surface, it gives a resounding ring, quite different from the dull tone emitted if struck against solid stone. Tapping it gently against walls allows a thief a 5 in 6 chance to find a secret door, rising to 11 in 12 if the thief is elven or half-elven. Also, the thief can search for secret doors at twice the normal rate when using this dagger. In other cases, the thief is 80% likely to be able to determine successfully the approximate thickness and nature of the material the dagger is used to sound.
+
+## Speaking Dagger
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+
+*Source: DRAGON Magazine #169*
+
+When thrown, this otherwise normal dagger's special power is unleashed. It is +4 to attack, but only when thrown, and upon impact it emits an audible message. This spoken "sending" cannot be a spell incantation, nor can it trigger any delayed spell or activate any item or effect by uttering a command word. It can, of course, convey passwords or instructions.
+
+Such a message reproduces the accent and tone of the speaker, can be up to 50 words in length, and is repeated each time the dagger is thrown. (The irritation that a mocking comment can produce makes it a favorite of Calishite torturers, who throw it near the arms and legs of bound prisoners in the darkness, without warning and at irregular intervals.)
+
+Only one message can be spoken over the dagger in a day. A code word (not part of the message, nor counted in its word length) begins and ends the dagger's "recording" of a message, which may be implanted by any being knowing the word and having the power of speech. If the word is spoken twice over the blade, with nothing being said in between, the blade will bear no message.
+
+The making of such blades is known to require the crushing of certain gems, the casting of a *magic mouth* spell, and uttering the code word, which can never be changed after that.
+
+---
+
+<!-- page 370 -->
+
+## Spider Fang
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine #169*
+
+These daggers are always black or dark purple in color. Their touch causes all nonmagical ropes, bindings, and magical or natural webs to part instantly. Despite the name, this weapon has no effect on poisons and does not itself employ poison. Once every six turns, a spider fang can emit a web from its tip. Such webs are in all respects identical to those created by the spell and last for four turns, if not destroyed earlier. A spider fang can also emit a curtain of cobwebs once a day. This shroudlike, oval curtain hangs upright in midair, always 6 feet in front of the point of the dagger. The curtain partially obscures the vision of others, so that they may not be able to identify the wielder of the spider fang, and it causes all nonmagical missile attacks (excluding those from siege engines) against the wielder to be launched at -1 to hit and damage.
+
+A curtain of cobwebs acts in all other respects like a *shield* spell, except that it has no effect at all on magic missiles. It lasts for seven rounds, moving as the point of the dagger is moved, and may be positioned over a window or portal and left there, if the wielder leaves the dagger on a table or jammed into a crevice.
+
+If a curtain of cobwebs contacts any living being who is not at the same time also touching the spider fang that created it, it collapses instantly all over the being, doing 1d3 hp corrosive damage. A curtain of cobwebs is destroyed instantly by any contact with flame, being consumed with a flash and a roar. If this occurs at the same time that the curtain contacts a creature, the creature suffers an additional 2d4 hp fiery damage (save vs. spell for half flame damage).
+
+The creation of spider fangs is known to involve the ichor and web silk of driders or certain monstrous types of spiders, *shield* and *web* spells, and a complicated brew of strange ingredients in which the blade must be submerged for several days.
+
+## Sung Chiang's Dagger
+
+**XP Value:** 3,500 &emsp; **GP Value:** 17,500
+*Source: Legends & Lore*
+
+Sung Chiang's Avatar can use his dagger as either a melee or missile weapon. When his dagger is thrown, another appears in his hand and the first disappears after it has inflicted its damage. Anyone hit by his dagger must save vs. poison or suffer a loss of 3d6 points of Constitution. If Constitution is reduced to 0 or less, the victim is slain. If not, the lost points return over the next 1d6 days.
+
+## Dagger of Throwing
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1    | 250      | 1,250    |
+| +2    | 350      | 1,750    |
+| +3    | 450      | 2,250    |
+| +4    | 550      | 2,750    |
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This appears to be a normal weapon but radiates strong magic if checked. The balance of this sturdy blade is perfect, such that when it is thrown by anyone, the dagger displays superb characteristics as a ranged weapon. The magic of the dagger enables it to be hurled up to 180 feet. A successful hit when it is thrown inflicts twice normal dagger damage, plus the bonus provided by the blade, which ranges from +1 to +4. To find the bonus for a specific dagger, roll percentile dice and consult the following table:
+
+| Roll  | Bonus |
+|-------|-------|
+| 01–35 | +1    |
+| 36–65 | +2    |
+| 66–90 | +3    |
+| 91–00 | +4    |
+
+## Dagger of Throwing II
+
+**XP Value:** 350 &emsp; **GP Value:** 1,780
+*Source: CARDMASTER Adventure Design Deck*
+
+When thrown, the dagger of throwing adds one die to the adventurer's attack roll. The dagger can be used only once per battle and is usable by all classes. (Valid for CARDMASTER games only.)
+
+## Throwing Dagger of Returning
+
+**XP Value:** 500 &emsp; **GP Value:** 2,000
+*Source: POLYHEDRON Newszine #47*
+
+This small, finely balanced weapon has no magical bonuses, but automatically returns to the wielder's hand after it has been thrown.
+
+## Tooth of Torm
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: Tantras*
+
+This special sort of magical dagger, developed by priests and wizards loyal to Torm in ages past, is customarily borne only by high-ranking servants of the Lord of Loyalty. It is a silver-bladed, +2
+
+---
+
+<!-- page 371 -->
+
+## Dagger of Truth
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: Secrets of the Lamp*
+
+This cursed dagger +1 prevents its owner from ever telling a lie, though the truth may be evaded and lies by misdirection are possible.
+
+---
+
+*(The following text continues from the previous page's entry for **Tooth of Torm**:)*
+
+…weapon that never tarnishes, breaks, or loses its sharpness. When grasped and commanded, it empowers the wielder to see invisible creatures and objects within a 60-foot range. This sight also shows the alignment auras and dweomers of beings and items viewed.
+
+A tooth of Torm is not wielded in battle, but if released while under a command to strike, it will blink away to attack any selected target creature up to 30 feet away, striking and returning within a round. It cannot be grasped while attacking or returning, and comes to float beside its commander's shoulder. No living creature can travel with it, but hand-sized or smaller, nonliving items strapped or tied to the blade are carried along with it. It obeys only lawful good beings, and burns (for 1d2 points of damage per touch, or per round of continual contact) chaotic evil creatures upon contact.
+
+A tooth of Torm can also be commanded to guard. The commander holds the dagger with its point toward the object or area to be guarded (such as a door, altar, or archway), positions it as needed, and then releases it. The commander then repeats the word "guard" continually until the dagger has reached or is touching the area or object to be guarded. The dagger then hovers in place indefinitely, until it is affected by dispel magic or the guarded area is violated, whereon it blinks to the attack. The dagger will strike repeatedly, once per round, until the guarded object or area is no longer touched or disturbed, or until the dagger itself is destroyed. (An intruder who flees empty-handed thus suffers only a single attack from the dagger.)
+
+Note that the commander of the dagger, or any lawful good creature, cannot cause the dagger to activate, even if such a creature does disturb or enter the guarded item or area. An avatar or high servant (being from another plane) of Torm cannot cause a tooth of Torm to strike either. The presence of all other worshipers of Torm who are not lawful good will cause the dagger to strike. Any number of teeth can be combined to guard a single object; it was common practice of old to place a ring of teeth in the air above a coffer containing temple treasures each night, as an inner guard on the valuables.
+
+---
+
+## Tufala's Jambiya
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: 1992 Fantasy Collector Card 80*
+
+Tufala's magical jambiya +2 is a typical, double-edged curved dagger that confers a +2 bonus in combat. Tufala was given this jambiya by her tribal chieftain when she became the tribe's rawun. It has been passed down from rawun to rawun for 20 generations, and if it is ever lost or stolen, the rawun who has so carelessly allowed this will lose all honor within the tribe and be cast out until it is recovered. So far, Tufala has been very careful, but she has enemies who see this as a potential weapon to be exploited.
+
+---
+
+## Tvashtri's Dagger
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+
+*Source: Legends & Lore*
+
+Tvashtri's avatar carries a long dagger with a triangular blade that causes permanent paralyzation to any creature it strikes (save vs. paralyzation to negate).
+
+---
+
+## Dagger of Vengeance
+
+**XP Value:** 1,300 &emsp; **GP Value:** 6,500
+
+*Source: Tales of the Lance*
+
+This double-edged dagger has a nasty barb at its tip and a fuller that runs its entire length. The pommel of the dagger is wrapped in serpent skin and bears a flaming red garnet. Legends praise this weapon as the bringer of righteous revenge.
+
+From the time of its mysterious beginnings, the dagger of vengeance has wandered Krynn, wreaking terrible tragedy and advancing the cause of evil. Ever it follows in the path of the magical item Trueheart's Warding; often has it slain the wearer of the armband. No one knows who now bears the dagger of vengeance.
+
+The dagger of vengeance appears to be a dagger of venom. It secretes its own extremely virulent poison (save vs. poison -2). If employed in what the wielder perceives to be an act of vengeance, the blade backstabs at +4 on the attack roll, causes 1d4+2 points of damage, and requires a save vs. poison at -2. On a roll of 18 to 20 on 1d20, the dagger injects a second dose of poison,
+
+---
+
+<!-- page 372 -->
+
+requiring a second save vs. poison at −4.
+
+The dagger of vengeance slowly gains control over anyone who wields it, especially those who harbor anger or jealousy. With each use, the dagger gradually shifts a wielder's thoughts to chaotic evil. The ranks shift as follows: lawful good, neutral good, chaotic good, lawful neutral, neutral, chaotic neutral, lawful evil, neutral evil, chaotic evil. The dagger makes a wielder paranoid, temperamental, and quick to anger. Whenever a PC or NPC performs an action that the character might consider a threat, the DM should have a bearer of the dagger of vengeance make a Wisdom check minus the number of times the player has used the dagger. If the check fails, the player goes into a paranoid rage and attacks the offender. "Vengeance will be mine!"
+
+If the dagger is stolen, it continues to call out to previous owners across the miles. Any owner who has a combined Intelligence and Wisdom of less than 27 must pursue the dagger fanatically, seeking its return.
+
+This dagger is one of the three artifacts in the Triad of Betrayal created by Reorx and imbued with the essence of Hiddukel. He created the dagger of vengeance as a foil to Mishakal's Trueheart's warding. The dagger seeks out the owner of Trueheart's warding and strives to destroy him or her.
+
+Mishakal bestowed the three artifacts of the Circle of Love on the lovers Trae and Mirri, and Trae's brother Heris. These artifacts bound them together, bringing about a peace between their feuding families. Hiddukel plotted to destroy that peace. He bestowed the dagger of vengeance upon Lady Dobal, who lusted after the heart of the mage Heris. Lady Dobal feared the impending alliance between the feuding families. She planned to slay the warrior and his bride to free Heris's heart for her alone. Through treachery, Lady Dobal shattered the new alliance. But when Trae and Mirri lay dead, Heris took his own life, leaving Lady Dobal again alone.
+
+## Dagger of Venom
+
+**XP Value:** 350 &emsp; **GP Value:** 3,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This appears to be a standard dagger +1, but its hilt holds a hidden store of poison. Any hit on a roll of 20 injects fatal poison into the opponent unless a saving throw vs. poison is successful. The dagger of venom holds up to six doses of poison. If the hilt contains fewer than six doses, the owner can pour more in up to the maximum. (Use of this weapon by good—particularly lawful good—characters must be carefully monitored for effects on alignment.)
+
+## Dagger Werebane
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: The Hidden Shrine of Tamoachan*
+
+This dagger has no bonus except against lycanthropes and shapechangers—at +1.
+
+## Dagger Xochiquetzal's
+
+**XP Value:** 1,800 &emsp; **GP Value:** 9,000
+*Source: Legends & Lore*
+
+Xochiquetzal's avatar carries a small, silver dagger that causes but 1d4 points of damage; however, anyone hit by it must save vs. paralyzation or enter into a state of euphoria and be stunned for 1d4 rounds.
+
+## Dagger Yama's
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: Legends & Lore*
+
+Anyone struck by Yama's dagger must save vs. death magic or die.
+
+## Dart
+
+A dart is a small missile weapon that is hurled by hand or fired from a blowgun. Blowgun darts are tiny, usually no more than a few inches in length; hand hurled darts usually are two to 14 inches long. Both types are equipped with feathers to keep them stable in flight.
+
+| Roll  | Dart Type                          |
+|-------|------------------------------------|
+| 01–09 | Barbed Dart                        |
+| 10–18 | Blowgun or Blowpipe Barbed Dart    |
+| 19–27 | Blowgun or Blowpipe Needle         |
+| 28–36 | Blowgun or Blowpipe Pellet         |
+| 37–45 | Dart                               |
+| 46–54 | Lizard Man Dart                    |
+| 55–63 | Needle                             |
+| 64–72 | Pelota                             |
+| 73–81 | Sling Bullet                       |
+| 82–90 | Sling Stone                        |
+| 91–00 | Thrown Dart                        |
+
+## Dart of Biting
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When the missile hits, the dart turns it into a poisonous snake. In addition to normal damage,
+
+---
+
+<!-- page 373 -->
+
+## Dart of Blinking
+
+**XP Value:** 200 &emsp; **GP Value:** 800
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A missile with this talent cannot hit any friend of the user, "blinking" in and out of existence until it reaches an enemy. (If the sight of the enemy is blocked by friends, a penalty may apply to the attack roll.)
+
+## Dart of Branding
+
+**XP Value:** 200 &emsp; **GP Value:** 1,500
+
+*Source: The Magister*
+
+When thrown, darts of branding burst into blinding flame, unquenchable by water or cold, and this conflagration leaves a branded mark where the dart strikes. The marks are usually shaped by careful construction of the dart into runes or devices. The dartfire consumes the weapon and does 1d6+3 points more damage than normal darts. Creatures not resistant to fire get no save vs. the fiery damage, but dartfire is relatively feeble and does no damage if the target is protected by a *resist fire*, *dispel magic*, or more powerful protective spell. Darts of branding can pass undamaged through a *wall of fire*, however, and derive additional heat from the wall, doing one point of additional damage for every 1 inch (and remaining fraction) of flames they pass through. *Flame strike* and *flame arrow* spells have no effect on darts of branding.
+
+## Dart of Charming
+
+**XP Value:** 200 &emsp; **GP Value:** 500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+The victim hit must make a saving throw vs. spell or be charmed by the user (as the *charm person* or *charm monster* mage spell).
+
+## Dart of Climbing
+
+**XP Value:** 200 &emsp; **GP Value:** 600
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This talent only functions if the dart is fired at an object. The missile securely fastens itself to any object it hits and then creates a magical 50-foot rope, issuing from the spot where it struck. The rope supports any weight of climbers and disappears one turn later or upon command of the user. The dart cannot be moved after it hits, and it disappears when the rope does.
+
+## Dart of Curing
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A dart with this talent is obviously blunt, inscribed with a holy symbol. When it hits a living creature, it does not inflict damage. Instead, it cures 2d6 points of damage plus 2 extra points for each magical bonus of the missile. For example, if a 5 is rolled for a curing dart +2, the total points of damage cured are 9.
+
+## Dart of Death
+
+| | **XP Value** | **GP Value** |
+|--------|-------------|-------------|
+| Large: | 4,000 | 16,000 |
+| Small: | 5,000 | 20,000 |
+
+*Source: Menzoberranzan Campaign Set*
+
+This dart is similar to the surface-world guardian known as a flying dagger. Few drow mages know how to fashion them (and fewer still will admit to knowing how, for fear of being captured and enslaved by a noble house, and set to making endless darts for protection and sale). They are eagerly sought after by noble and wealthy drow.
+
+In old hoards, 1d8 such weapons are usually found. Sometimes one or more is set atop or inside a chest, with instructions to attack all living things except the being who placed them there (or someone named as having access). A death dart resembles a 9-inch-long, black needle. It has a flared butt-end, tapers swiftly, and then thickens more gradually to a bulge in the center, before thinning down to a long, deadly point (so that the 'bulge' looks like two back-to-back cones, large ends placed together). When constructed, a dart is either set to activate at a whispered command word (to be carried about for personal defense), or given activation conditions as specific as the most elaborate triggering conditions of a *magic mouth* spell. Once determined, the activation conditions of a given dart can never be altered.
+
+Once activated, a death dart flies about silently, point-first. Death darts cannot be affected by any sort of mental control. The spells that enable a death dart to swoop, dart, and detect opponents (they are usually set to attack anything within 60 feet that moves) also prevent rusting and brittleness due to extreme heat and cold. A dart that successfully strikes a moving arrow or thrown
+
+---
+
+<!-- page 374 -->
+
+## Dart of Death II
+
+**XP Value:** 3,000 &emsp; **GP Value:** 13,000
+*Source: The Endless Stair*
+
+This rare item always appears as a small, coin-sized disc of brass, with compass directions engraved on one side, and a command word on the other. The side with the compass points has a brass pointer on it, set on a central swivel like the hands of a clock.
+
+The dart only operates when it is held in the open hand of a living being. When it is held as the command word is spoken, the disc instantly becomes a dart, and flashes from the wielder's hand in a straight line, at the height held, in the direction that the pointer is set ("north-northeast"). Upon striking a target (attack roll not required if a creature is in the flight path) or reaching its outer limit of 120 feet, the dart drops harmlessly to the ground, and instantly reverts to disc form. The dart deals any struck target 1d4 hp of damage (no saving throw). Changing the direction of the pointer must be done manually, and takes one round. The knowledge of how to make these darts is thought to have been lost long ago.
+
+A dart of death is usable by any living creature able to hold it and pronounce the command word simultaneously.
+
+---
+
+*The following entries continue the Dart section, covering darts from the DUNGEONS & DRAGONS Rules Cyclopedia and other sources. Each entry continues the broader "Dart" item category.*
+
+Some death darts can reflect, or are immune to, certain spells, or have special abilities; for example, their touch can rust metal items as a rust monster's antenna does. Items struck must save vs. lightning or rust. A death dart strikes metal when it is attacking a target being carrying or wearing something metal, and its attack roll misses by one to three points. A few (25%) death darts carry sleep or damaging poison. Poison damage is added to physical damage for the first three strikes of the dart; the target saves vs. poison normally for the first strike, at +2 for the second, and at +4 for the third (after that, the poison has been exhausted). A dart can be anointed with poison as often as its activator has the means and desire.
+
+Most death darts are AC 4; MV Fl 24 (A); HD 1+1; hp 9 each; THAC0 17; #AT 3; Dmg 1d4; and are considered magical weapons for purposes of deciding what they can hit. A few darts may differ slightly from this norm, usually being larger, and AC 6; MV Fl 20 (A); HD 2; THAC0 17; #AT 2; Dmg 1d6+1.
+
+## Dart of Disarming
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This talent only functions if the victim is holding a weapon or other item. The victim must make a saving throw vs. spell or drop the item. A dropped item may normally be recovered in 1 round (unless it falls into a pit or chasm, if someone else grabs it, etc.).
+
+## Dart of Dispelling
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When this dart hits, it creates a dispel magic effect centered on the point of impact (a 20-foot cube) as if cast by a 15th-level caster.
+
+## Dart of Flying
+
+**XP Value:** 200 &emsp; **GP Value:** 600
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This dart can be fired at ranges five times greater than normal. If the missile weapon firing this dart is also magical and has an additional range multiplier, the effect is cumulative; multiply each maximum range by five. If the missile weapon is not magical, use the maximum ranges.
+
+## Dart of Homing
+
+**XP Value:** 450 &emsp; **GP Value:** 4,500
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+These appear to be normal projectiles, but are actually +3 magical weapons. If a dart hits the intended target, it magically returns to the thrower in the same round and can be reused. A dart inflicts a base 1d6 points of damage plus its magical bonus on a successful attack against any size creature (4d4 points total [?]). A dart that misses its target loses its magical power. These weapons have twice the range of ordinary darts—20 yards short, 40 yards medium, 80 yards long.
+
+## Dart of the Hornets' Nest
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1    | 750      | 3,750    |
+| +2    | 1,500    | 7,500    |
+| +3    | 3,000    | 15,000   |
+| +4    | 3,750    | 18,750   |
+
+*Source: Unearthed Arcana*
+
+While appearing to be nothing more than a magical dart, this missile weapon is of far greater power. Once hurled, the dart multiplies in the air, even as it speeds toward its target, all the while
+
+---
+
