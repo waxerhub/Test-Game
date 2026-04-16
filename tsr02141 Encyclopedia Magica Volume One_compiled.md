@@ -5559,3 +5559,799 @@ There are 20 charges placed upon armor of etherealness. Once used, the armor can
 
 ---
 
+<!-- page 77 -->
+
+(and proof) of some other benefit that might be offered. At least half the payment must be supplied in advance, with the rest due when the armor is delivered.
+
+The magic-user must first successfully cast *enchant an item* on the armor, and then apply a second spell (which varies depending on the armor type) to act as a catalyst, triggering the armor's capability to resist a particular attack form. This second spell must be applied (the casting must have been begun) within 12 hours after the completion of *enchant an item*. If the enchanting process fails, either because the casting of *enchant an item* is unsuccessful or because the second spell is not applied within the required time, the wizard is under no obligation to make another attempt free of charge.
+
+The second step in the process depends on the type (color) of dragon hide used. To complete white dragon armor, an *ice storm* spell must be cast on the hide; for black dragon armor, the finished hide must be immersed in acid for 1d12+12 hours; to complete green dragon armor, a *stinking cloud* spell must be cast on (around) the hide; for blue dragon armor, a *shocking grasp* spell is needed, and for red dragon armor, *burning hands*. None of these spells or substances damage the armor when they are applied; their function is to activate the innate resistance in the hide that has already been "brought to the surface" by the *enchant an item* spell.
+
+When the enchantment is complete, the armor is the equivalent to scale mail +1: Armor Class 5, movement 9, weight 15 pounds. In addition, each colored armor type affords the wearer resistance or immunity to a particular attack form. The special properties of each type are:
+
+**White dragon armor** — Resistance against white dragon breath, winter wolf breath, *cone of cold* spells, and other attack forms involving cold, ice, or frost.
+
+**Black dragon armor** — Resistance against black dragon breath, giant slug spittle, anhkheg digestive acid, and other attack forms using acid or acid-like effects.
+
+**Green dragon armor** — Resistance against green dragon breath, iron golem breath, *cloudkill* spells, and other attack forms using poisonous gases.
+
+**Blue dragon armor** — Resistance against blue dragon breath, *lightning bolt* spells, storm giant's lightning attack, and other sorts of natural or magical lightning or electricity.
+
+**Red dragon armor** — Resistance against red dragon breath, *fireball* spells, and other attacks using heat or fire.
+
+"Resistance" includes these benefits: The wearer of the armor gains +1 on all saving throws against the specified attack form; the wearer is unaffected by any attack of the specified type that does six points of damage or less in a round. In all cases, the wearer is entitled to a −1 modifier on each and every damage die rolled (with a minimum of one point of damage per die). If the application of this modifier reduces damage taken in a round to six points or less, the wearer takes no damage (as stipulated above).
+
+Although these suits of armor come from evil dragons, priests and fighters of all alignments may wear them.
+
+## Armor of Fear
+
+**XP Value:** 4,000 &emsp; **GP Value:** 40,000
+*Source: Oriental Adventures*
+
+This armor looks like normal armor and *detect magic* only reveals that it is magical. However, the armor contains 2d10 fear charges when found. Upon uttering the command word, the wearer radiates a fear aura to a 30-foot radius. All creatures within that radius must make a saving throw vs. spell or flee in panic for one turn. The wearer is immune to this effect. Each use expends one charge. When all charges are spent, the armor functions as normal armor. It cannot be recharged.
+
+## Armor of Fear II
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: DUNGEON MASTER Guide*
+
+This armor functions as normal plate mail +1. However, it is imbued with 2d2 fear charges. Upon uttering the command, a charge is spent and the wearer radiates a 30-foot aura of fear. All creatures (except the one wearing the armor) must save vs. spell or flee in panic for 1d4+1 rounds. When all charges are spent, the armor functions as normal armor +1. It cannot be recharged.
+
+## Armor of Flight
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,500
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When commanded, the armor creates a *fly* spell effect on the user, which lasts for 12 turns. The
+
+---
+
+<!-- page 78 -->
+
+## Armor of Gaseous Form
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This valuable armor enables the user to turn into a cloud of gas (as the potion of gaseous form), including all equipment carried (unlike the potion). The user can remain gaseous for up to 6 turns and returns to normal form by mere concentration.
+
+## Armor of Haste
+
+**XP Value:** 2,000 &emsp; **GP Value:** 16,000
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When commanded, the armor creates a haste spell effect on the user, doubling the normal movement rate and the number of attacks (as the 3rd-level wizard spell). The haste lasts for only 1 turn and is usable only once per day.
+
+## Armor of Healing
+
+**XP Value:** 10,000 &emsp; **GP Value:** 80,000
+*Source: Oriental Adventures*
+
+This armor appears to be normal, magical armor. However, once per day, it automatically heals the wearer of 2d6 points of damage (whether desired or not). It does this without warning or set time. Each healing takes one charge and the armor has 3d10 charges when found. When all the charges are spent, the armor becomes magical armor +1.
+
+## Armor of Invisibility
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When commanded, this armor makes the user invisible, as if the 2nd-level wizard spell were cast. In addition, the armor itself can become invisible three times per day, on command of the user.
+
+## Gnarldan's Armor
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+Gnarldan's avatar wears chain mail +2 of fire resistance.
+
+## Heimdall's Armor
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+Heimdall's full plate mail +3 is pure white in color and works as a gem of brightness.
+
+## Heimdall's White Armor
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Legends & Lore*
+
+Heimdall's avatar's white plate armor +3 prevents him from being hit by any weapon of less than +3.
+
+## Armor of Horus
+
+**XP Value:** 3,500 &emsp; **GP Value:** 17,500
+*Source: Old Empires*
+
+This armor is scale mail +4. It is the equivalent of AC 2, and also gives the wearer resistance to all fire and lightning attacks (fire and lightning attacks automatically inflict only ½-damage, ¼-damage if the saving throw is successful).
+
+## Ilneval's Red Chain Mail
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+He wears red chain mail +4 that deflects all bolt and ray spells and spell-like effects (polymorph wand, the ray version of Otiluke's freezing sphere, etc.).
+
+## Indra's Golden Armor
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Legends & Lore*
+
+Indra's avatar wears magical golden armor that protects him from all nonmagical missile attacks.
+
+## Keolish Plate Mail of the Seas
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: GREYHAWK Adventures*
+
+This mail armor was given by the King of Keoland to an admiral who had fought successfully against the Sea Princes. It is plate mail +1, and floats in water, negating the chance for its wearer to sink in even slightly choppy water. The wearer can tread water indefinitely, but cannot dive deeper than 2 feet. Swimming speed is not affected by this armor.
+
+## Kumakawa Armor
+
+**XP Value:** 300 &emsp; **GP Value:** 2,000
+*Source: DRAGON QUEST* Game*
+
+This is a suit of leather armor fashioned from the hide of an owl bear. It has been enchanted with wax from mystical candles. Unlike normal leather armor, which gives its wearer an Armor Class of
+
+---
+
+<!-- page 79 -->
+
+7, the Kumakawa provides an Armor Class of 6. Of course, a shield, a high Dexterity score, or magic can improve this even more.
+
+## Laeral's Storm Armor
+
+**XP Value:** 1,800 &emsp; **GP Value:** 13,500
+*Source: DRAGON Magazine #39*
+
+Named for the wizardess who devised it, storm armor is plate armor +2, of a peculiar nonmetallic alloy. It does not conduct electricity, and has the power to transfer heat to and from the surrounding air, so that the wearer remains comfortable during a freezing gale or under the hot desert sun. The wearer is thus unaffected by fireball, ice storm, or cone of cold spells, and immune to electrical damage of any kind. The wearer can stand securely, or move forward at normal speed, in the face of even the most powerful wind (including a magical gust of wind). If storm armor is struck simultaneously in different areas by spells causing hot and cold (such as cone of cold or chill metal and wall of fire or heat metal) it becomes brittle and may be shattered by physical attacks doing at least 9 points of damage. (The character takes all damage inflicted over 9 points.) The armor is only brittle while both hot and cold spells affect it and for one round afterward. When it shatters, it does so thoroughly; a chain reaction occurs in the unstable components of the alloy and the armor disintegrates into useless pieces.
+
+## Lemmikainen's Armor
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+Lemmikainen's avatar usually wears chainmail +4.
+
+## Armor of Missile Attraction
+
+| Type | XP Value | GP Value |
+|------|----------|----------|
+| −1   | —        | 1,500    |
+| −2   | —        | 3,000    |
+| −3   | —        | 4,500    |
+| −4   | —        | 6,000    |
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This armor appears to be a normal suit of magical armor (determine type and modifier normally). However, the armor is cursed and actually serves to attract missiles. The wearer is two or three times more likely to be selected as a random missile target than normal. In cases where each person is the target of a set number of missiles (most often in large combats), the wearer has a greater number of missiles fired at him or her. The magical protection of the armor fails when calculated for missile attacks. Its true nature is not revealed until the character is fired upon in earnest—simple experiments (throwing rocks, etc.) do not suffice.
+
+## Mourner's Armor
+
+**XP Value:** — &emsp; **GP Value:** 8,000
+*Source: Secrets of the Lamp*
+
+This suit of lamellar armor is often edged with yellow, gold, red, or other bright colors, but the plates are always black. Individual suits vary from +2 to +4 in enchantment, but all provide complete protection from normal missiles. This armor is the product of the great ghul sha'ir, and its protection is a very mixed blessing. When the wearer suffers 50% or more damage in battle, he or she no longer feels pain. (At this point, the DM should stop telling the armor wearer how much damage the character takes.) All wounds feel trivial.
+
+At 75% or more damage, the wearer is filled with a feeling of invincibility and continues fighting no matter what the odds. The PC is now an NPC for the duration of the battle. If he or she survives, the curse is still relentless—magical healing is useless on the victim, and only time can heal his wounds. If the PC is slain, he or she does not notice and continues fighting, though any companions may hear his or her bones shattering or see terrible wounds inflicted on the wearer. The victim "lives" for as many days as the character has levels, as his or her trapped life force is consumed by the armor. Neither priest nor wizard spells can be regained, though sha'irs can still request spells. At the end of this time, the PC is irrevocably dead.
+
+Only a wish spell or the will of the great ghul sha'ir can undo the curse of mourner's armor once it has been activated in battle, although some powerful sha'irs are also said to be able to unlock it from the victim's body. A few great heroes are said to have willingly donned mourner's armor before a critical battle, adding to their army's strength with the certain knowledge of their own doom.
+
+## Oyori of the Unknown Warrior
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,000
+*Source: POLYHEDRON Newszine #82*
+
+This oriental (Kozakuran) armor +2 has been enchanted to display the family mon (crest) of the
+
+---
+
+<!-- page 80 -->
+
+## Armor of the Mon (continued)
+
+wearer. When first found, the armor is stark white. However, when it is put on, it immediately turns black, and the wearer's family mon appears on the chest plate in the appropriate colors.
+
+If a warrior is killed while wearing the armor, it returns immediately to its white state, the color of death and mourning. The wearer can change the appearance of the armor, allowing the user to pass as another individual or create a disguise. The armor can duplicate any color and mon that the wearer imagines. In order to invoke this power, the wearer must make an Intelligence check at a -3 penalty. The number of hours the armor holds the false image is equal to the wearer's Intelligence minus the die roll, if successful.
+
+## Armor, Plate of Solamnus
+
+**XP Value:** 5,000 &emsp; **GP Value:** 20,000
+*Source: Tales of the Lance*
+
+These suits consist of field plate armor that has been beautifully tooled with the markings of all three Solamnic orders. The sigil of the Order of the Rose shows prominently on the breastplate. The suits, made when the Knighthood was first established, have been used by certain Knights of the Rose ever since. Vinas Solamnus wore the first such suit, as did Huma, although he never became a Knight of the Rose. Currently such suits are scarce.
+
+This armor carries a +5 enchantment (AC -3). Wearers must strictly follow the tenets of the lawful good alignment or the armor loses its magical bonus. Neutral or evil characters suffer an additional 1d10 points of damage from any damage received while wearing this armor. DMs must remember that this armor is very rare. It is no longer made. One suit could be the goal of a long, dangerous quest.
+
+## Armor of Possession
+
+**XP Value:** — &emsp; **GP Value:** 10,000
+*Source: Oriental Adventures*
+
+This armor appears to be a normal suit of magical armor and provides the protection of whatever plus is determined. However, in making the armor the craftsman has invested more than the normal effort. The armor has absorbed or stolen the personality and life force of its maker.
+
+The first time the armor is donned, and once per day thereafter, the DM must secretly roll a saving throw vs. spell for the character wearing the armor. If the saving throw is successful, nothing happens.
+
+However, if the saving throw fails, the life force contained within the armor successfully possesses the character. The possession is not a sudden occurrence, but rather a gradual insinuation of the new personality onto the character's psyche. This takes 3d4 days. At first the change is hardly noticeable—a few odd quirks not evidenced before and a certain possessiveness toward the armor. As the days go by, possession becomes stronger and more pronounced. The character leaves old friends as the armorer's personality takes over. He or she abandons old haunts, roaming the streets searching for places the possessing personality once knew, has memories that do not belong, and refuses to abandon or remove the armor. At the end of the given time period, the character is entirely possessed by the armor. As such, the character does not recognize old friends, remember events of his or her own life, or perhaps even the abilities of the character class. He or she may change names, adopt a new alignment, display abilities of a new character class, and the like. If not freed of the possession, the character becomes an NPC under the control of the DM.
+
+The possession can be broken by an exorcism spell, which destroys the personality of the armor. Dispel magic releases the character from possession long enough to remove the armor, but does not cancel any personality traits the character may have already absorbed. If the possessing influence is destroyed, the armor loses all its magical properties.
+
+## Armor of Presence
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: Oriental Adventures*
+
+This armor magically bestows on its wearer a dignified and commanding aura. While wearing the armor, a character is treated as if he or she has an 18 Charisma for all encounter reactions. Friendly troops within 120 feet of a wearer have their morale raised by two points. The armor is quite distinctive and only has its effect when visible to others. As such, the character cannot hope to use the powers of the armor and hide unnoticed in a crowd.
+
+## Armor Quirk
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: DRAGON Magazine #163*
+
+The AD&D game has one of the largest compilations of magical items in the fantasy gaming industry. The following tables have been created
+
+---
+
+<!-- page 81 -->
+
+## Armor Quirk
+
+To add some spice and variety to existing magical items in AD&D game worlds, a table of nonstandard magical item abilities is offered for each major type of magical item in the AD&D game.
+
+Most items are created normally, and they function exactly as a standard item of the same type in the DMG. However, sometimes there is a slight mishap in the creation of the device: the steps are not followed in the proper order, the astrological signs do not bode well, the item's creator is disturbed to begin with, the instructions are incomplete, or something just plain goes wrong. Any of these results may cause a magical item to behave differently from others just like it.
+
+Not all quirks are bad, however. Some are detrimental to the item or its user, some are neutral, and some are even beneficial. The possibility of quirks existing (and the actual number of quirks) is determined by using the table below to determine the exact quirks that the magical armor possesses.
+
+| Roll  | Quirks Present |
+|-------|----------------|
+| 01–86 | No quirks      |
+| 87–94 | One quirk      |
+| 95–98 | Two quirks     |
+| 99–00 | Three quirks   |
+
+| Roll  | Result |
+|-------|--------|
+| 01–06 | Armor is incredibly shiny and reflects light of any kind; furthermore, any creature using a gaze attack within 10 feet of the armor has a 75% chance of seeing its own reflection. |
+| 07–11 | Armor is heavy; add 25% to its total weight and encumbrance. |
+| 12–16 | Armor is tight-fitting; if not oiled at least once every three days, the suit cramps the wearer's fighting skills. As a result, the wearer suffers a –1 penalty on all reaction, attack, and damage rolls until the armor is oiled. |
+| 17–21 | Armor works normally but appears incredibly beaten and battered. No amount of repair can change its appearance. (Status-conscious cavaliers and paladins do have reservations about wearing armor that does not look good.) |
+| 22–26 | Armor is silent; the wearer does not clank loudly if the armor is metal. Note that this does not mean that the wearer can move silently; the armor simply makes no noise. |
+| 27–32 | Armor glows with the light of a *faerie fire* spell. Only continual darkness can negate this radiation (and then for six turns plus one turn per level of the caster). If the armor is covered by clothing, the glow still shines through. |
+| 33–37 | Armor weighs ¼ as much as normal armor of the same type. |
+| 38–43 | Armor lacks magical protective ability against 1d4 specific types of creatures. |
+| 44–48 | Armor is resistant to fire; it can never be burned or melted by normal or magical fire. |
+| 49–53 | Armor has an "Achilles' heel;" every time the wearer is hit, there is a 5% chance that the "heel" is hit and double damage is done to the wearer. |
+| 54–59 | Armor does not magically expand or contract to fit any size wearer. Roll 1d6+3 to determine height of the humanoid figure that can use the armor. Anyone within 1 foot of the size can use the armor. |
+| 60–64 | Armor is attuned to a place of special magical radiance, in much the same manner as drow armor (see Drow Treasure). If the armor is not exposed to this place once every 30 days, its magic is lost. |
+| 65–70 | Armor has complicated straps and is hard to put on and remove. Consequently, the time required to put on and take off the armor is increased by 10 rounds. |
+| 71–74 | Armor cannot be scratched, stained, or dented. |
+| 75–78 | Armor has an inherent disruption of magic. While its wearer enjoys a +1 bonus on saving throws vs. spell, spells cannot be cast if he or she is a multi-classed wizard or a spell-using ranger or paladin. |
+| 79–84 | Armor attracts monsters; any random encounter checks are at double the normal chance for anyone wearing this armor. |
+| 85–89 | Armor is a superconductor of heat and electricity; add +1 hp per die to all damage from fire or electricity. |
+
+---
+
+<!-- page 82 -->
+
+## Armor of Rage
+
+**XP Value:** — &emsp; **GP Value:** 1,500
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This armor is identical in appearance to armor of command and functions as a suit of armor +1. However, when worn, the armor causes the character to suffer a -3 penalty to all encounter checks. All friendly troops within 360 feet have their morale lowered by -2. The effect is not noticeable to the wearer or those affected (characters do not immediately notice that the armor is the cause of their problems).
+
+The following table applies to cursed armor (continued from previous page):
+
+| d100 Roll | Effect |
+|-----------|--------|
+| 90–94 | Armor does not provide magical protection if clothing or a covering is worn over it. |
+| 95–98 | Armor is an exquisite piece of workmanship and commands a price of 150% over normal prices due to its quality. |
+| 99–00 | Armor is possessed by a spirit of random alignment; if the wearer's alignment differs from the spirit's, the armor periodically attempts to possess the wearer. Determine the chance of success as noted under the 5th-level wizard spell, *magic jar*. The spirit's intelligence can be determined by rolling 3d6. The chance of a possession attempt occurring is 15% per week, cumulative. |
+
+## Armor of Rainbow
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,500
+*Source: POLYHEDRON Newszine #43*
+
+Only a couple of suits of this incredible chain mail are known to exist, and those few are handed down from clan leader to successor. They are given by the Norse bridge guardian, Heimdall, to his followers for exceptional deeds performed in the deity's name. Rainbow armor takes the form of multicolored, shimmering chain mail, enchanted to a bonus of +3. The armor glows with a radiance that illuminates a 20-foot surrounding area, negating magical darkness and the ability to hide in shadows. Even invisible objects are revealed within this radius by the thin aura of rainbow light that outlines them. The mail is extremely light, encumbering the wearer only as much as elven chain mail.
+
+## Raji's Armor of the Desert Evening
+
+**XP Value:** 500 &emsp; **GP Value:** 5,000
+*Source: 1992 Fantasy Collector Card #298*
+
+Raji's magical armor is unusual for the land of Zakhara — it is a suit of banded, rather than lamellar, armor. Like other forms of armor of the desert evening, this magical armor does not provide additional bonuses to Armor Class, but it can be worn in the desert heat without ill effect. Raji believes that this armor was originally made for an outland warrior from some country that is more accustomed to banded mail armor.
+
+## Red Armor of the Hellfurnaces
+
+**XP Value:** 6,000 &emsp; **GP Value:** 35,000
+*Source: GREYHAWK Adventures*
+
+This blood-red armor was cut from the back plates of an adult red dragon. Many warriors from the Yeomanry died in the battle to kill the creature, and the best dwarven armorers were hired to rework the plates into a wearable suit. The final product is a set of plate mail +4 that allows its wearer to save against fire-based attacks for half or no damage. Red dragons who see this armor make unusual efforts to kill the wearer.
+
+## Red Dragon Scale Mail
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+*Source: DRAGON Magazine #39*
+
+Made from the scales of a huge old red dragon, this mail is AC 1. Like all magical armor, it is virtually weightless. It covers the body from neck to foot, being worn just like a normal suit of scale mail. Normal weapons employed against the mail do only half damage if a hit is scored. Magical weapons of +1 or better do full damage. The mail provides protection of +3 against all fire-based attacks and the breath weapons of all dragons, with the following exceptions: it cannot protect its wearer against the sonic blast of a platinum dragon, and it does not protect against any breath weapon employed by a red dragon.
+
+## Armor of Reflection
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+If a *light* or *continual light* spell is cast at the user, the armor automatically reflects it back at the caster, who must make a saving throw vs. spell or be blinded (as in the respective spell descriptions). The item reflects up to three spells
+
+---
+
+<!-- page 83 -->
+
+per day. In addition, when the user is in melee against a creature with a gaze attack, the chances of gaze reflection are the same as if a mirror were held, but without the -2 penalty to the user's attack rolls (which represents the awkwardness of holding the mirror and attempting to attack at the same time).
+
+## Armor of Remove Curse
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,500
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This armor cannot be cursed when found. When commanded, the item creates a *remove curse* spell effect on the user only as if a 36th-level caster (automatically removing one curse). Note: This item functions for a total of three times, at a maximum rate of once per day. After its three charges are used, no other special abilities remain and it cannot be recharged; the item does remain magical, however, regardless of spent charges.
+
+## Scale Mail of Horus
+
+**XP Value:** 3,500 &emsp; **GP Value:** 25,000
+*Source: Old Empires*
+
+This armor is *scale mail +4*. It is the equivalent of AC 2, and also gives the wearer resistance to all fire and lightning attacks (fire and lightning attacks automatically inflict ½ damage, ¼ damage if the saving throw is successful).
+
+## Skoriaan's Drow Chain Mail
+
+**XP Value:** — &emsp; **GP Value:** 5,000
+*Source: 1993 Collector Card 466*
+
+Skoriaan believes that his chain mail affords magical protection, while in reality it has been cursed to serve no better than normal human mail. What's worse, Skoriaan's ex-lover had a special magical spell placed upon it that allows her to track Skoriaan wherever he may run. Up until this point, Skoriaan has believed that his spurned lover's minions have been lucky in finding him, but he finally is beginning to suspect that something is not quite right.
+
+## Armor of Solamnia
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: Tales of the Lance*
+
+All Knights of Solamnia gain a suit of this armor when they attain the title of Lord and prove themselves worthy as true and noble knights. Each suit is engraved with the symbols of the knight's order and (for Sword and Rose Knights) those of any previously held knighthood. Production of Solamnic armor resumed in the aftermath of the War of the Lance. The armor is a suit of *field plate +1*.
+
+## Surtr's Iron
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Legends & Lore*
+
+Any being touching this red-hot iron armor suffers 1d10 damage. The person in the armor is immune to its effects.
+
+## Armor of Swimming*
+
+**XP Value:** +700 &emsp; **GP Value:** +3,500
+*Source: DRAGON Magazine #179*
+
+This lamellar armor allows its user to move through water as if unencumbered. It does not convey water breathing abilities nor the swimming proficiency, but it does allow the individual to float and swim if he or she is otherwise capable.
+
+## Armor of Temperature Control*
+
+**XP Value:** +500 &emsp; **GP Value:** +2,500
+*Source: DRAGON Magazine #181*
+
+Armor of temperature control may be worn without any discomfort due to cold or heat, and enables its wearer to operate in the coldest or hottest of natural environments (-40 to 150° F). Note that the temperatures must be due to the weather and not to any attack by fire, cold, magic, or monstrous abilities; the armor does not give fire or frost resistance. At the DM's option, the armor can give protection against the natural environments of the Paraelemental Plane of Ice or the Elemental Plane of Fire. Remember no extra protection is given in combat.
+
+## Tulen's Plate Mail of Etherealness
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: 1992 Fantasy Collector Card 26*
+
+Tulen's *armor +5* can be recharged, but only by a 15th- or higher level wizard. It allows Tulen and anyone who touches the armor to go into the Ethereal Plane. Other people who ride along on the armor's power stay in the plane up to five hours after touching it, but Tulen may remain ethereal indefinitely! This light gray armor never loses its magical AC bonus no matter how many ethereal charges it is reduced to. The armor also glows brightly when ethereal creatures approach within 20 feet.
+
+---
+
+<!-- page 84 -->
+
+## Armor of the Undead
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: POLYHEDRON Newszine #43*
+
+Created and once worn by the infamous Thorines of Thessla, this suit of armor consists of the bones of many creatures, bound together by ligaments and metal hinges to allow movement. It only can be safely worn by a lawful evil character. All others find it cannot be made to fit them, regardless of their size. It confers AC 3, and radiates a *protection from good* 10' radius. If worn by a priest, it raises the individual's effective experience level by 2, but only to turn or befriend undead.
+
+## Armor of Underwater Action
+
+**XP Value:** 1,400 &emsp; **GP Value:** 7,000
+*Source: POLYHEDRON Newszine #82*
+
+Found only as chain mail or plate mail, this armor is always airtight and keeps its wearer dry and comfortable. The armor creates a breathable atmosphere that lasts for 24 hours before it must sit unused another 24 hours to recharge itself. The suit allows the wearer to swim 180 feet per round, provided he or she has a swimming proficiency.
+
+## Armor: Voice of Heroes
+
+**XP Value:** 6,000 &emsp; **GP Value:** 32,000
+*Source: DRAGON Magazine #16*
+
+This is armor +5, but it weighs just 3 pounds.
+
+## Armor of Vulnerability
+
+**XP Value:** — &emsp; **GP Value:** —
+
+| Bonus | GP Value |
+|-------|----------|
+| −1    | 1,500    |
+| −2    | 3,000    |
+| −3    | 4,500    |
+| −4    | 6,000    |
+
+*Source: GREYHAWK*
+
+This armor seems to be genuine, magical armor with a protection factor of +1 to +4 — but the factor is actually −1 to −4. The vulnerability of such armor is not revealed until an enemy strikes a blow in anger at its wearer.
+
+## Armor of Vulnerability II
+
+**XP Value:** — &emsp; **GP Value:** —
+
+| Bonus | GP Value |
+|-------|----------|
+| −1    | 1,500    |
+| −2    | 3,000    |
+| −3    | 4,500    |
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This appears to every test to be magical plate mail +1, +2, or +3, but it is actually cursed armor −2, −3, or −4. The armor's great vulnerability is not apparent until an enemy successfully strikes a blow in anger with desire and intent to kill the wearer. The armor falls to pieces whenever an opponent strikes the wearer with an unmodified attack roll of 20.
+
+## Armor of Warmth
+
+**XP Value:** 250 &emsp; **GP Value:** 1,250
+*Source: DRAGON Magazine #181*
+
+Armor of warmth may be worn without any discomfort due to cold, and enables its wearer to operate in the coldest of natural environments (20 to 40° F) as well as in a temperate climate. Note that the temperatures must be due to the weather and not to any attack by cold, magic, or monstrous abilities; the armor does not give frost resistance. At the DM's option, it can give protection against the natural environments of the Paraelemental Plane of Ice.
+
+## White Armor of the Griff Mountains
+
+**XP Value:** 2,250 &emsp; **GP Value:** 13,500
+*Source: GREYHAWK Adventures*
+
+After tribesmen of the Griff Mountains slew an adult white dragon, they sold the hide to dwarven armorers who created this suit of scale mail +3. The dwarves created it for a human-sized wearer, but a dwarf or halfling can wear it at a penalty of −1 to Armor Class; the total AC modifier is +2. The armor allows the user to save vs. cold-based attacks for half or no damage.
+
+## Armor Bath
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: New Item*
+
+This extremely rare item appears as a 5-foot tall, 6-foot long, claw-footed cauldron made of a metal and ceramic mix. The rim of the cauldron is inlaid with sandalwood, upon which are carved runes of an ancient language. If someone can read the language, they can decipher the message as reading, "To protect one from grievous harms and render oneself immune to the ordinary hurts of the world."
+
+If blessed (or cursed, depending on the alignment of the user) water fills the bath, it can confer great power upon the bather. In short, it places an invisible armor, harder than steel, over body parts immersed in the water. The armor is completely impervious to ordinary weapons and
+
+---
+
+<!-- page 85 -->
+
+(This page is a continuation of the **Bath of Invulnerability** entry, followed by the **Arrow** section introduction and table, then individual arrow entries.)
+
+---
+
+attacks, and grants an effective AC 0 against magical weapons for the affected area. Creatures that are magical in nature are assumed to be as magical weapons, so they attack against AC 0. Damage-causing spells that are not directly cast at the armored individual (such as fireballs not directly centered on the character) cause no damage to the armored parts of the body, though unarmored parts suffer ordinary damage.
+
+There are several disadvantages to this armor. First, it can never be removed. Second, it robs the affected area of all feeling, so tasks that require the tactile skills of a covered area cannot be performed. In addition to losing all feeling in the area, the bathed part loses flexibility, able to move only in a limited fashion.
+
+Third, and most dangerous, if a person using the bath applies the bath's armor to more than 50% of a body, the individual dies. There is no save against this effect. Thus, those who know the full effects of the bath use it only sparingly, covering only their necks, forearms, chest, and the like. They are always careful to restrict how much they place on themselves, knowing that too much can kill them.
+
+Some call this the bath of death. There is some speculation that it was created by dark gods, or fashioned by priests at the behest of gods who needed secret and near-invulnerable assassins for their evil works.
+
+## Arrow
+
+When a magical arrow misses its target, there is a 50% chance that it breaks or is otherwise rendered useless. A magical arrow that hits its target is destroyed unless otherwise specified in its description.
+
+After determining the magical properties of the arrow acquired, roll on the following table to determine the type of arrow. Note: Quarrels and bolts are crossbow missiles.
+
+| Roll  | Arrow Type                    |
+|-------|-------------------------------|
+| 01–03 | Armor-Piercing                |
+| 04–05 | Barbed                        |
+| 06–08 | Bird Arrow/Bolt               |
+| 09–10 | Blunt-headed                  |
+| 11–13 | Broad-headed                  |
+| 14–15 | Corded                        |
+| 16–18 | Ekaa                          |
+| 19–20 | Fishing Arrow/Bolt            |
+| 21–23 | Flare Arrow                   |
+| 24–25 | Flight                        |
+| 26–28 | Frog-Crotch                   |
+| 29–30 | Grappling                     |
+| 31–33 | Hand Quarrel/Bolt             |
+| 34–35 | Heavy Quarrel/Bolt            |
+| 36–38 | Hollow-Tipped: Acid Arrow/Bolt |
+| 39–40 | Hollow-Tipped: Dust Arrow/Bolt |
+| 41–43 | Hollow-Tipped: Flashpowder Arrow/Bolt |
+| 44–45 | Hollow-Tipped: Gas Arrow/Bolt |
+| 46–48 | Hollow-Tipped: Pepper Arrow/Bolt |
+| 49–50 | Hollow-Tipped: Poison Arrow/Bolt |
+| 51–53 | Humming Bulb                  |
+| 54–55 | Incendiary                    |
+| 56–58 | Leaf Head                     |
+| 59–60 | Light Quarrel/Bolt            |
+| 61–63 | Mail-Piercer                  |
+| 64–65 | Major Grapple                 |
+| 66–68 | Medium Quarrel                |
+| 69–70 | Message Arrow                 |
+| 71–73 | Minor Grapple                 |
+| 74–75 | Normal                        |
+| 76–78 | Sheath                        |
+| 79–80 | Spiral                        |
+| 81–83 | Stone                         |
+| 84–85 | Stone Biter                   |
+| 86–88 | Stone Flight Arrow            |
+| 89–90 | Sunet                         |
+| 91–93 | Training/Target Arrow/Bolt    |
+| 94–95 | Trukaa                        |
+| 96–98 | Wood Biter                    |
+| 99–00 | Wooden                        |
+
+## Arrow of Abaris's
+
+**XP Value:** 200 &emsp; **GP Value:** 2,000
+
+*Source: DUNGEONS & DRAGONS Master Set*
+
+Abaris the Hyperborean, a Greek sage in the 6th Century B.C.E., once received a magic arrow from the god Apollo (according to Greek legend). The arrow enabled him to become invisible, cure disease, fly (riding the arrow; MV 60, MC C), and divine the future.
+
+## Arrow of Acid
+
+**XP Value:** 30 &emsp; **GP Value:** 75
+
+*Source: POLYHEDRON Newszine 47*
+
+Found in caches of 1d6, these +1 oddities are highly valued. They transform themselves into a spray of acid when fired, doing 2d6 points of damage to the target, and soaking everything within 15 feet of the point of impact with acid (items must save vs. acid or be destroyed).
+
+---
+
+<!-- page 86 -->
+
+## Arrow of Aggravation
+
+**XP Value:** — &emsp; **GP Value:** 100
+
+*Source: DRAGON Magazine #135*
+
+This cursed arrow infuriates any being it hits, granting its victim a bonus of +2 on attack and damage rolls as well as on saving throws, but causing the victim to lose one point of Armor Class. These effects last for 1d6 turns, during which time the target does everything in its power to slay the archer. The arrow does no damage at all to its victim.
+
+## Arrow of Antimagic
+
+**XP Value:** 60 &emsp; **GP Value:** 360
+
+*Source: DRAGON Magazine #135*
+
+This magical arrow grants a +2 bonus on attack rolls but causes no damage if the target is struck. Instead, the arrow negates all magic within a 10-foot radius of the target for 3d10 rounds. (If the arrow misses its target, the area of effect is centered on the first thing the arrow hits.) All magical items in the area of effect, except for artifacts and relics, are rendered inert for the duration of the arrow's effect. All spells cast by, on, and around the target are dispelled, regardless of the caster's level. Illusions of all sorts are likewise nullified. Spellcasters are also unable to cast any spells for the duration of the effect of this arrow. Note that the arrow's effect causes the target, and the area of effect around it, to be rendered immune to magic. Therefore, fireballs, magic missiles, and the like do not cause any damage to the target, nor to anyone within 10 feet. Only one such arrow may be found at a time.
+
+## Arrow of Apollo's
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Legends & Lore*
+
+Anyone struck by an arrow of Apollo's avatar must save vs. death magic or become instantly ill, suffering a loss of 1d10 points per round until a *cure disease* spell is cast upon the victim.
+
+## Arrow of Attraction
+
+**XP Value:** 100 &emsp; **GP Value:** 400
+
+*Source: The Complete Book of Elves*
+
+Attracted arrows, if they hit, cannot be removed from the victim's body until *dispel magic* is cast upon the person. Meanwhile, the arrow begins to fester within the wound, causing infection and even death in the unfortunate being.
+
+## Arrow of Biting
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When this missile hits it turns into a poisonous snake. In addition to normal damage, the victim must make a saving throw vs. poison or die (or, at the DM's choice, take extra damage; 2d6, 2d10, or 2d20 are recommended amounts).
+
+## Black Arrow of Iuz
+
+**XP Value:** 750 &emsp; **GP Value:** 7,500
+
+*Source: GREYHAWK Adventures*
+
+Carved from the bone of a black dragon, this enchanted arrow strikes with a +3 attack and damage modifier. The arrow reappears in the owner's quiver each dawn after it is used—this item is permanent unless lost to a special attack form or deliberately destroyed. Once a day, an archer can call upon its deadly powers, causing the target to save vs. death magic or die immediately.
+
+Good-aligned characters save at −2. This power must be summoned before the arrow is fired, and a miss wastes its magic for that day.
+
+---
+
+<!-- page 87 -->
+
+## Arrow of Blinding
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+
+*Source: DRAGON Magazine #135*
+
+When this arrow hits a target, it explodes in a flash of light that blinds everyone within 60 feet for 2d6 turns unless a saving throw vs. breath weapon is made. The archer must be outside the area of effect to avoid being blinded.
+
+## Arrow of Blinking
+
+**XP Value:** 200 &emsp; **GP Value:** 600
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A missile with this talent cannot hit any friends of the user, "blinking" in and out of existence until it reaches an enemy. (If the sight of the enemy is blocked by friends, a penalty may apply to the attack roll.)
+
+## Bolts of Lightning
+
+**XP Value:** 200 &emsp; **GP Value:** 1,200
+
+*Source: DRAGON Magazine #127*
+
+Also called thunder bolts, these bolts appear to be normal bolts until fired from a crossbow. After being fired, a bolt of lightning becomes a 7-foot bolt of lightning with a range equal to the maximum range of the bow that fired it (a bolt fired from a heavy crossbow has a range of 240 yards, and a bolt fired from a light crossbow 180 yards).
+
+These bolts grant a +2 bonus on attack rolls and cause 4d4 hp of damage if they strike a target. A save vs. spell is applicable; if the save is successful, only half damage accrues to the creature struck. Furthermore, all creatures within a 15-foot radius of where this magical bolt hits must save vs. petrification or be stunned for one round due to the ear-piercing clash of thunder which accompanies the strike.
+
+Bolts of lightning are usually found in quantities of 2d4. They are also often found mixed with normal bolts or with magical bolts of other types.
+
+## Arrow of Bow-Breaking
+
+**XP Value:** — &emsp; **GP Value:** 100
+
+*Source: DRAGON Magazine #135*
+
+This arrow breaks any bow used to fire it, unless the bow makes a successful saving throw vs. crushing blow at −4.
+
+## Arrow of Burning
+
+**XP Value:** 100 &emsp; **GP Value:** 600
+
+*Source: DRAGON Magazine #135*
+
+All creatures are considered to be AC 10 against this arrow, although creatures with a high dexterity receive their Armor Class bonus. With any successful attack roll, the arrow engulfs the target in a flaming shroud that does 4d6 hp damage (no save), affecting only the victim and a 1-foot radius around him for one round. Creatures that are touching the target when the arrow strikes may make a saving throw vs. spell for half damage. All equipment on the victim must save vs. magical fire at −2. An arrow of burning may be used to burn through an average-sized dungeon door in 1d4+1 rounds.
+
+## Arrow of Charming
+
+**XP Value:** 800 &emsp; **GP Value:** 2,000
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+The victim must make a saving throw vs. spell or be charmed by the user (as the charm person and charm monster wizard spells).
+
+## Arrow of Charming II
+
+**XP Value:** 800 &emsp; **GP Value:** 2,000
+
+*Source: DRAGON Magazine #91*
+
+An item often made by priests of Aphrodite, this arrow has a +3 bonus to attack, but causes no damage to the being struck by it. Any human, demihuman, or humanoid hit by an arrow of
+
+---
+
+<!-- page 88 -->
+
+## Arrow of Charming (continued)
+
+charming is affected as if the one who fired the arrow had cast a *charm person* spell. The feelings of the charmed figure develop quickly into infatuation and then love if the one who fired the missile is of the same race or species and of the opposite sex. No saving throw is allowed at first against the effect, though the charm does wear off over time (see the description of the druid spell *charm person or mammal*). A *detect charm* spell notes the arrow's influence, and a successful *dispel magic* cast against 12th-level magic removes the charm.
+
+The arrow only affects creature types that are susceptible to *charm person* spells. It can only be used once. Once the arrow strikes its target, it disappears. If the arrow misses its intended target, it vanishes. If it hits a creature that cannot be charmed by it, the arrow disappears with no effect, just as if it had missed the target.
+
+An arrow of charming is always red in color, with a heart-shaped arrowhead. Note that other sorts of magical arrows may strongly resemble this one. Arrows of charming are always found singly.
+
+## Arrow of Clairaudience
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+
+*Source: DRAGON Magazine #135*
+
+This arrow gives the archer the ability to hear sounds within range of the arrow's location. Like the arrow of clairvoyance, this arrow is activated by saying the command word ("Listen!") and shooting the arrow. The archer is then able to hear sounds from the arrow's location by covering his ears and concentrating. Sounds within a 15-foot radius around the arrow may be heard in this manner. This arrow can "hear" anything louder than regular breathing. The range is 240 yards, and its duration (once the arrow is fired) is six turns.
+
+## Arrow of Clairvoyance
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+
+*Source: DRAGON Magazine #135*
+
+This arrow gives its user the ability to see an area from the location of the arrow. The field of vision is equal to the archer's normal field, and activates by sounding the command word ("Vision!") and firing the arrow. The archer is then able to see the area in front of the arrowhead by closing his or her eyes and concentrating. Normal restrictions for distance of vision apply with this magical arrow. In addition to normal vision, the arrow grants infravision, limited to a 10-foot radius around the arrow's location. The range of the clairvoyance is 240 yards, and its duration (once the arrow is fired) is six turns.
+
+## Arrow of Climbing
+
+**XP Value:** 300 &emsp; **GP Value:** 500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This talent only functions if the missile is fired at an object. The missile securely fastens itself to any object it strikes and creates a magical 50-foot rope, issuing from the point of entry. The rope supports any weight of climbers and disappears one turn later or upon command of the user. The missile cannot be moved after it hits, and it disappears with the rope.
+
+## Arrow of Connection
+
+**XP Value:** 50 &emsp; **GP Value:** 300
+
+*Source: POLYHEDRON Newszine #82*
+
+When fired, this arrow creates a magically supported rope extending from whatever the arrow hit to the archer's location, up to a maximum of 300 feet. The rope appears to float in midair and can support up to 3,000 pounds at one time. The rope is indestructible and lasts for 24 hours unless the archer releases it earlier with a command. When the rope expires or is released, both it and the arrow disappear.
+
+## Arrow of Curing
+
+**XP Value:** 200 &emsp; **GP Value:** 500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This missile is blunt, and inscribed with a holy symbol. When it hits a living creature, it inflicts no damage. Instead, it cures 2d6 points of damage plus 2 extra points for each magical bonus of the missile. For example, if a 5 is rolled for a curing arrow +2, the total points of damage cured are 9.
+
+## Arrow of Darkness
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+
+*Source: The Complete Book of Elves*
+
+These are among the most permanent and commonly used of all the enspelled arrows. If a *continual darkness* spell is cast upon the shaft of an arrow, it can then be used to blind an enemy. These arrows are common among elf scouts, who carry them sheathed until there is a use for them.
+
+---
+
+<!-- page 89 -->
+
+## Arrow of Detonation
+
+**XP Value:** 200 &emsp; **GP Value:** 2,000
+*Source: POLYHEDRON Newszine #82*
+
+When fired, this arrow flies very slowly, moving only 5 feet per round. It travels up to 300 feet before falling to the ground. Each arrow has two command words, and any time during an arrow's course, the archer may speak one of the words, causing the arrow to either explode in a burst of light or to erupt into a ball of flame. The first effect is the same as a *continual light* spell except that it creates a globe of bright light that illuminates a 100-foot radius. The second effect is a *fireball* that causes 5d6 points of damage to all in a 50-foot radius, save vs. spell for half damage.
+
+## Arrow of Direction
+
+**XP Value:** 2,500 &emsp; **GP Value:** 17,500
+*Source: DUNGEON MASTER Guide*
+
+This typically appears to be a normal arrow. However, its magical properties make it function like a *locate object* spell, allowing the arrow to show the direction to the nearest stairway, passage, cave or another specific location.
+
+Once per day the device can be tossed into the air; it falls and points in the requested direction. This process can be repeated seven times during the next seven turns. The request must be for one of the following:
+
+- Stairway (up or down)
+- Sloping passage (up or down)
+- Dungeon exit or entrance
+- Cave or cavern
+
+Requests must be given by distance (nearest, farthest, highest, lowest) or by direction (north, south, east, west).
+
+## Arrow of Disarming
+
+**XP Value:** 400 &emsp; **GP Value:** 700
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This arrow only functions if the victim is holding a weapon or other item. The victim must make a saving throw vs. spell or drop the item. A dropped item may be normally recovered in 1 round (unless that is impossible).
+
+## Arrow of Disintegration
+
+**XP Value:** 60 &emsp; **GP Value:** 360
+*Source: DRAGON Magazine #135*
+
+This arrow is +1 to attack but has −4 on its saving throws. The arrow's effect is the same as the 6th-level magic-user spell *disintegrate*, except that it does not affect targets of a magical nature. The effects of the arrow also differ from the spell in that only nonliving material, up to 20 cubic feet in volume, may be obliterated. If the arrow misses its target, nothing is disintegrated and the arrow turns to dust. If a living victim is struck by this arrow, the victim takes normal damage (1d6 hit points) but can only be healed by magical spells, potions, or powers; normal healing is ineffective.
+
+The arrow of disintegration is made of a long shaft of oak with a lodestone arrowhead. The flights are usually made from the feathers of rare birds. Often, magical words are inscribed on the shaft; these must be repeated before the arrow is fired. Only one such arrow may be found at a time.
+
+## Arrow of Dispelling
+
+**XP Value:** 200 &emsp; **GP Value:** 400
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When a missile with this talent hits, it creates a *dispel magic* effect centered on the point of impact (a 20-foot-cube) as if cast by a 15th-level caster.
+
+## Arrow of Distance
+
+**XP Value:** 25 &emsp; **GP Value:** 150
+*Source: DRAGON Magazine #135*
+
+When loosed, this arrow has a range equal to twice that of a normal arrow, depending upon the type of bow used to fire the arrow. This extended range does not, however, affect distances of short and medium range, so all distances beyond normal are considered long range. The arrow has a +1 bonus on attack and damage rolls.
+
+## Arrow of Draconian Slaying
+
+**XP Value:** 250 &emsp; **GP Value:** 2,500
+*Source: Dwarven Kingdoms of Krynn*
+
+These arrows serve as normal arrows of slaying, but against all types of draconians.
+
+Note: These arrows only exist in the DRAGONLANCE® campaign world of Ansalon.
+
+## Arrow, Elven
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+*Source: The Elves of Alfheim*
+
+Elven arrows are made from the limbs of the tree of life; the stone points are tempered in the sap of the tree of life. Since both superfluous branches
+
+---
+
