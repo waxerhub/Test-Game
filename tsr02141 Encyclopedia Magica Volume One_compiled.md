@@ -22787,3 +22787,341 @@ A Tenser's tantalus will follow its owner if he or she falls into a pit, but bec
 
 ---
 
+<!-- page 411 -->
+
+(This page is a continuation of the **Tenser's Tantalus** entry, followed by **Dome of Shapes** and the beginning of the **Door** section.)
+
+---
+
+Because such an obvious display of treasures increases the possibility of theft, many Tenser's tantaluses are equipped with a permanent *alarm* spell with a volume loud enough to be heard from 50 feet away, but no farther. The alarm sounds when anything enters the field without speaking the command word that deactivates the alarm.
+
+Semi-solid manipulators, such as unseen servants, *telekinesis*, or Bigby's hand spells, air elementals, or gusts of wind are all too tenuous to reach into the field and take or destroy items, but all of these will activate the alarm.
+
+A thief could attempt to steal the entire disc away from its owner. This requires a Strength check on 4d6 to break the disc's attraction to its owner. If the thief takes the disc more than 50 feet from its owner (and remember, the alarm will sound unless the thief manages to touch only the bottom and rim of the disc), it is free to be commanded by another wizard.
+
+---
+
+## Dome of Shapes
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magic*
+
+This dome is transparent, and about 50 feet across. Dark lines, shadowy angles, and vague shapes drift in and out of each other inside the dome. With every movement of the observer, the shapes pulsate and appear to turn inside out.
+
+The dome acts as a sort of *hypnotic pattern*. Anyone staring at the dome must save vs. spell or continue gazing at it for 2d10 minutes. The enchantment is broken if the PC is physically pulled away from the dome by a companion who shields his or her eyes.
+
+---
+
+## Door
+
+*Source: DRAGON Magazine #41*
+
+Doors are usually made of wood with metal trimmings. Some doors have locks; most have hinges, doorknobs or hasps, and occasionally brackets for supporting a heavy wooden bar. Magical doors may do nearly anything; some do not even look like doors.
+
+As a general rule, doors are treated with indifference. You either bash them down, burn them, or spike them shut and then forget about them. However, doors have great possibilities for adding surprise and humor to your campaign. Use the table below to determine the type of door. Once the door type is learned, roll on the second table below to find the magical qualities (if any) of that door.
+
+| Roll  | Type of Door                                    |
+|-------|-------------------------------------------------|
+| 01–75 | Ordinary door.                                  |
+| 76–95 | Door has an ability from table below.           |
+| 96–00 | Door has 1d4+1 abilities from table below.      |
+
+| Roll  | Ability Table                                                                                                          |
+|-------|------------------------------------------------------------------------------------------------------------------------|
+| 01–09 | Intelligent door. Alignment is:                                                                                        |
+|       | 01–11 Lawful Good                                                                                                      |
+|       | 12–22 Lawful Neutral                                                                                                   |
+|       | 23–33 Lawful Evil                                                                                                      |
+|       | 34–44 Neutral Good                                                                                                     |
+|       | 45–56 Neutral                                                                                                          |
+|       | 57–67 Neutral Evil                                                                                                     |
+|       | 68–78 Chaotic Good                                                                                                     |
+|       | 79–89 Chaotic Neutral                                                                                                  |
+|       | 90–00 Chaotic Evil                                                                                                     |
+| 10–17 | Door is wizard locked.                                                                                                 |
+| 18–22 | There is a trap or trap trigger on or behind the door.                                                                 |
+| 23–26 | Door is an illusion.                                                                                                   |
+| 27–29 | Door is actually a polymorphed monster that reverts to normal form when conditions are met (someone grabs doorknob, etc.). |
+| 30–31 | As 27–29, but is a *phantasmal force*.                                                                                 |
+| 32–35 | Upon hitting, touching, or opening door it turns into mud, sand, mire, dung, etc.                                     |
+| 36–40 | A siren goes off if doorknob is touched (attracting and/or warning monsters).                                          |
+| 41–45 | Doorknob casts *fear* spell if touched.                                                                                |
+| 46–49 | Doorknob falls off if touched.                                                                                         |
+| 50–54 | Door is thief-proof.                                                                                                   |
+| 55–59 | The door itself contains treasure.                                                                                     |
+| 60–64 | Door is twice as hard to bash open, unlock, etc.                                                                       |
+| 65–68 | Door falls off hinges when opened.                                                                                     |
+| 69–71 | Door is rotten or poorly constructed: it splinters or falls apart when bashed.                                         |
+| 72–74 | Door has a knocker.                                                                                                    |
+| 75–76 | Trap door to pit under or behind door.                                                                                 |
+| 77–78 | Door has multiple locks.                                                                                               |
+| 79–80 | Doorjamb on other side of door.                                                                                        |
+| 81–82 | Open pit behind door.                                                                                                  |
+| 83–84 | There is a window set in the door: 30% chance that it gives a false image (no monsters, twice as many monsters, heap o' treasure, etc.) |
+| 85–86 | Stakes, caltrops, and/or set spears wait— *(continued)*                                                               |
+
+---
+
+<!-- page 412 -->
+
+(continuing from a previous page — these entries are part of the **Door** section)
+
+| d100 Roll | Result |
+|-----------|--------|
+| 87–88 | Stakes set in door so it can't be bashed open (10% chance that they are invisible). |
+| 89–90 | After being bashed open, the door swings back fast. |
+| 91–92 | Door swings open just before it is bashed. |
+| 93 | Has doorbell. |
+| 94 | Door is hinged on top. |
+| 95 | Door explodes if bashed. |
+| 96 | Save vs. spell or are paralyzed when touch door. |
+| 97 | Instant-setting contact glue on surface of door. |
+| 98 | Doorknob casts miscellaneous spell if touched. |
+| 99 | Doorknob gives disease if touched. |
+| 00 | Contact poison on doorknob. |
+
+## Door, Aruthir's Living
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: 1992 Fantasy Collector Card 38*
+
+The living door was created by the druid Aruthir as a gift for a band of wood elves who introduced him to the Great Druid. By producing a special magical combination of the *plant door* and *speak with plants* spells, he was able to create a thick overgrowth that recognizes the specific body odor of wood elves. Upon sensing wood elves, the door untangles and lets them pass. Aruthir placed the living door over the entrance to a cave that leads to a box canyon where the Great Druid resides. The cave entrance is now completely obscured by the living door, resembling a rock face with creeping vines growing over it and is 95% undetectable without magical means.
+
+## Door, Back
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+When opened, this door causes the creature opening it to immediately turn around facing away from it (no saving throw). The victim cannot face the door for three rounds but may move away from it.
+
+## Door, Black Crystal
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Gods, Demigods, & Heroes*
+
+Made of an interdimensional metal that does not break. This door is unaffected by magic and opens only with the proper, magical command word.
+
+## Door of Disappearance
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This locked door becomes invisible when touched by any object or creature, but it remains stoutly in place. Characters who can see invisible things cannot see through the door, but it is completely transparent to anyone else. A *knock* spell does not open its invisible lock unless the caster is able to see invisible things. Any attempt to open locks is penalized by −50% from normal chances, and the attempt automatically fails if the thief is of less than 9th level. The door reappears one hour after vanishing.
+
+## Door of Displacement
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+This door appears to be a black circle of cloth 2 inches in diameter. It does not function outdoors. If placed on a wall or floor, it may be manually lengthened, then widened and turned into a normal door. The user must immediately open the door and go through (no saving throw); others may follow. All passing through the door enter an otherdimensional space adjacent to the room or corridor in which the door was used.
+
+The user of the door, and only the user, can see
+
+---
+
+<!-- page 413 -->
+
+into the original room or corridor. The door, at the user's command, folds up into cloth form and reappears among the user's possessions. As the door is stowed, it creates a loud slamming noise.
+
+At any time up to one turn after creating and passing through the door, the user may reopen it from inside, and at any chosen place along a wall, ceiling, or floor of the original room or corridor. When opened, it is silent, and the user and his or her party gain a +1 bonus to surprise rolls against any creatures in the room or corridor. (The door can be used to escape a monster and then to quickly reenter the area behind it). If those using the door do not return to normal space within one turn after "slamming" it, they are all dumped back into the original area at randomly determined locations. The door may be used once per day.
+
+## Door, Front
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+When touched, the front door emits the sound of a welcome chime, attracting the attention of all creatures within 60 feet.
+
+## Door of Guarding
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: The Book of Marvelous Magic*
+
+This door is intelligent, but not actually alive. When touched, a large mouth appears on its surface; the mouth can appear on only one side of the door at any one time. The door is neutral and obeys whoever utters the proper command word. If more than one creature knows the proper word, the door changes allegiance as often as commanded.
+
+The door has excellent sight and hearing and is able to see invisible things and hear all noises within 60 feet. It speaks all languages and can obey even the most complex and detailed instructions. It can speak at any volume from a whisper to a loud scream, the latter audible within 120 feet. It cannot be unlocked, even with a *knock* spell, but may open itself, depending on its instructions. It cannot move except to swing on hinges. It cannot attack, but screams an alarm if it is, and there is a 50% chance it may do so if merely threatened with fire. The door is immune to all attacks except physical damage from magical weapons (treat as AC 0; hp 40).
+
+Unless otherwise commanded, the door's reactions to visitors are checked normally, but if given a good soaking with wine, it is usually friendly (+2 bonus to reaction rolls after that, lasting one turn per wineskin of wine used).
+
+## Door, Revolving
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: The Book of Marvelous Magic*
+
+This apparently normal door causes the user to step back into the original room or corridor, without actually going anywhere. It functions as a normal door if the proper command word is spoken as the door is used.
+
+## Door of Teleportation
+
+| Type    | XP Value | GP Value |
+|---------|----------|----------|
+| Greater | 4,500    | 22,500   |
+| Lesser  | 3,000    | 15,000   |
+
+*Source: The Book of Marvelous Magic*
+
+This item appears to be a normal door but when passed through by any living creature, it teleports the victim and all items carried to either a random or predetermined location. There is no chance of error, which differs from the magic-user spell. Nonliving items thrown through the door are not teleported. If removed from its supports, a door of teleportation normally loses all its enchant-
+
+---
+
+<!-- page 414 -->
+
+ment, although the area (and not the door) might be later discovered to be the actual teleportation device. Both lesser and greater doors of teleportation can be found.
+
+The lesser door may be managed by several creatures if they link hands or otherwise overlap in their passage through the door—all arrive at the same destination regardless of randomizing effects. Some lesser doors allow a saving throw vs. spell to resist the effect, but this is not common. If allowed, the saving throw must be made by each creature passing through the doorway. A successful saving throw may simply indicate that the teleportation does not affect that creature, or it may make the door nonmagical for one turn, one hour, or some other length of time. The greater door, which is even more rare, can easily detect and separate different creatures and may even cause items and (occasionally) body parts overlapped to arrive at separate locations. There is no saving throw.
+
+## Door of Terror
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This apparently normal door causes any creature approaching within 5 feet to be overcome with a nameless dread (no saving throw). The victim thereafter refuses to approach or pass through the door for one hour; after that, the effect wears off. Undead are not affected, nor is any other creature naturally immune to fear effects.
+
+## Door, Trick
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: 1992 Fantasy Collector Card 40*
+
+There are trick doors known to be installed in the thieves' guilds of Mulmaster, Hillsfar, Calaunt, and Tantras, but their creator remains unknown. The construction of the door is thought to be a variation of the *passwall* spell. Each door responds to a different knock code; when the proper sequence of taps is sounded on the door, the person seeking entrance may open it and pass within. Otherwise opening the door reveals nothing but more of the wall in which it rests. To further confuse intruders, some guilds have installed dummy doors along the same wall or alley that contains a trick door.
+
+## Dragonisle's Harbor Chains
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: Pirates of the Fallen Stars*
+
+These harbor chains are huge chains that can be raised from the bottom of the harbor to block the harbor mouth. When raised, the harbor chains prevent any ship from entering or leaving the harbor. The chains are raised primarily to keep out attackers, although in a few instances they have been used to trap unwary captains in the harbor during the periodic factional wars which sweep Immurk's Hold.
+
+## Drawer of Easy Retrieval
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine #73*
+
+A wooden drawer, about 12 by 18 by 9 inches high, which may be inserted into a suitable desk, wall, etc. When anyone who opens the drawer speaks the name of an object inside it, the object pops up at the front of the drawer, within easy reach. If several similar objects, such as sheets of paper, are placed in the drawer, the person placing them may speak a word which becomes the code word for one particular object in the group. The drawer's magic works only when it is in a proper receptacle of the correct size.
+
+## Dress
+
+Dresses are long, flowing pieces of fabric worn by women. They can be made from literally any type of cloth or animal skin. Dresses are usually worn only in nonarctic climes.
+
+## Dress of Amazement
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+*Source: Rogue's Gallery*
+
+The dress of amazement can take on any form, style, or color the owner desires, but always retains an opulent appearance. When worn, the dress of amazement sparkles and reflects light in a pleasant manner. Charisma is raised to racial maximum (or 18). Anyone who looks at the dress must successfully save vs. spell or be subject to hypnotism (as the 8th-level spell). If no light source is near, the dress cannot work. The spell *darkness* negates any effect from the dress. *Dispel magic* renders the special effects of the dress non-operational for 1d4 rounds. The touch of the blind also inhibits the dress from operation for one turn, although no one is quite sure why.
+
+---
+
+<!-- page 415 -->
+
+## Dress of Protection
+
+| Type | XP Value | GP Value |
+|------|----------|----------|
+| Cursed −1 | — | 1,800 |
+| +1 to saves | 1,000 | 7,500 |
+| +1 | 1,000 | 10,000 |
+| +2 | 2,000 | 20,000 |
+| +3 | 3,000 | 30,000 |
+| +4 | 4,000 | 40,000 |
+| +5 | 5,000 | 50,000 |
+
+*Source: Rogue's Gallery*
+
+This garment appears as a small, black dress or tunic, lined with a series of magical, linked rings. When the dress is donned, it automatically adjusts to fit the wearer. Additionally it provides the wearer the same benefits as a cloak of protection. Each plus of the dress of protection betters Armor Class by one and adds one to saving throw die rolls. Each dress of protection is slightly different in design. To determine how powerful any particular dress is, roll percentile dice and check the table below.
+
+| Roll | Power |
+|------|-------|
+| 01–10 | Cursed (−1 to AC and saves) |
+| 11–20 | Dress (+1 to saves but not AC) |
+| 21–50 | Dress +1 |
+| 51–70 | Dress +2 |
+| 71–86 | Dress +3 |
+| 87–94 | Dress +4 |
+| 95–00 | Dress +5 |
+
+**Optional:** The dress is vulnerable to blades that have more attack bonuses than the dress has of protection. If the dress is cut by a magical blade with more pluses — an equal or greater number — it ceases to function until magically repaired.
+
+## Dunhill's Spelljamming Apparatus of Kwalish
+
+**XP Value:** 10,000 &emsp; **GP Value:** 40,000
+*Source: 1992 Fantasy Collector Card 34*
+
+This very special machine has all of the features of a standard apparatus of Kwalish; it contains numerous handles that allow it to operate in 900 feet of water for 1d4+1 hours (AC 0, 200 hp per bulkhead). It has also been fitted with a minor spelljamming helm, allowing it to fly out of the water and into wildspace. The inclusion of the helm means that only one person may use it at a time. Dunhill's ship shares the basic statistics of a mosquito ship.
+
+---
+
+## Dust
+
+Magical dust is a dry, powdery substance. It is normally found in a metal, bone, or wooden tube, 2 to 6 inches long. The user blows into one end of the tube, aiming at an intended victim or area, and the cloud of dust forms a cone 30 feet long and 10 feet wide at the far end. The 30-foot range applies only when the dust is blown from a tube. If not found in a tube, dust may be in any container, magical or otherwise, and may be thrown 10 feet by hand, poured, or used in any convenient manner.
+
+## Dust of Absorption
+
+**XP Value:** 250 &emsp; **GP Value:** 750
+*Source: The Book of Marvelous Magic*
+
+This dust can absorb up to 100 cubic feet of water or acid and turn it to mud.
+
+## Dust of Adhering
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: The Book of Marvelous Magic*
+
+This dust adheres to any contact or surface poison, poisoned needles and darts, and other traps of this type in the area. It is useful to thieves, giving automatic success when attempting to find traps and a +30% bonus to the remove traps attempt. It does not neutralize the poison, but gives any victim a +4 bonus to any saving throw subsequently required.
+
+## Dust of Allergy
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: The Book of Marvelous Magic*
+
+There are many types of this dust, each made of the powdered bone of some creature, mixed with rare herbs, and then enchanted. The dust is invisible; each victim in the area of effect must make a saving throw vs. spell or become allergic to the specified creature. The allergy might not be noticeable immediately. When a victim comes within 50 feet of the creature specified, the symptoms begin — the eyes water, the nose clogs, and there is a 50% chance that sneezing may occur (checked per round of exposure). The nasal problems cause no penalties; watery eyes cause a −1 penalty to all attack rolls but a +1 bonus to all saving throws against gaze attacks; a sneezing victim may not attack or cast spells. The symptoms pass 1d6 rounds after the victim moves at least 50 feet away from the creature causing the
+
+---
+
+<!-- page 416 -->
+
+(continuing from previous page — this page begins mid-entry for Dust of Allergy)
+
+allergy. The allergy is permanent until *cure disease* is applied by a caster of 15th level or greater. Typical creatures used to make allergy dust are basilisks, dragons, giants, goblins, orcs, rats, trolls, DM's choice.
+
+## Dust of Appearance
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This fine powder appears like any other dust unless a careful examination is conducted. This reveals it to be a very fine, very light metallic dust. A single handful of this substance flung into the air coats all objects, making them visible even if they are invisible, out of phase, astral, or ethereal. Note that the dust also reveals mirror images and projected images for what they are, and likewise negates the effects of cloaks of displacement or elvenkind and robes of blending. The dust's effect lasts for 2d10 turns.
+
+Dust of appearance is typically stored in small silk packets or hollow bone blow tubes. A packet can be shaken out to cover an area in a radius of 10 feet from the user. A tube can be blown in a cone shape, 1-foot wide at the start, 15 feet at the end, and 20 feet long. As few as five or as many as 50 containers may be found in one place.
+
+## Dust of Blandness
+
+| | **XP Value** | **GP Value** |
+|---|---|---|
+| Blandness: | 20 | 100 |
+| Piquantness: | 20 | 100 |
+
+*Source: Prince of Lankhmar*
+
+This item is the proud creation of an evil man. Often in the pay of the Thieves' Guild, he creates and activates new and unusual spells and items to further the cause of chaos, evil, and pain. This is one such item that makes his job easier.
+
+Instead of worrying that the poisons that he concocts are tasteless and void of their olfactory elements, he sprinkles the dust of blandness upon them. The item efficiently deadens the olfactory and taste qualifications of the poisonous creation, rendering them completely bland. The poisons are thus detectable only through *detect poison* or other divination spells with similar effects.
+
+The dust of blandness may also be used to deter the taste and smell of rotted foods should someone wish to poison a character in that way. Then too, the taste of good food that has a distinctive odor and taste, such as eggplant or liver, can be counteracted with the use of this dust of blandness.
+
+This item is not usually found for sale, but when it is, the cost is 100 gp per vial. Each vial has enough dust for use on six standard plates of food; a standard plate being the food the average person can consume at one sitting.
+
+The dust of blandness has its opposite, which is the dust of piquantness. This item makes the flavor and odor of food unmistakable. It allows the aficionado of food and drink to fully enjoy the flavors and wafting odors of food. The dust also brings out the smell of poisons and causes the odors of burnt or ill-cooked food to be unmistakable.
+
+The dust of piquantness is sold for the same price as the dust of blandness: a mere 100 gp per vial. The dust of piquantness is much more readily available than its counterpart.
+
+## Dust of Blending
+
+**XP Value:** 1,250 &emsp; **GP Value:** 5,000
+*Source: DUNGEON Magazine #17*
+
+This magical dust is usually found in a small leather bag on which magical sigils in silver foil are drawn. Each of the 2d6 cakes of dust found in a bag resembles a crumbly chunk of yellow dirt about 3 inches in diameter.
+
+If thrown against a creature or inanimate object, a cake of dust of blending explodes in a harmless shower of yellow and red sparks and causes the immediate area to blend in with its surroundings so as to be 90% invisible, even to close inspection. Each cake can cover an area of 50 cubic feet. The magic from the dust of blending lasts for 1d6+6 turns.
+
+The dust can be washed off, thus revealing the object or creature it was meant to conceal. It may also be blown off by winds in excess of 40 MPH. If a creature moves while coated, there is a 10% chance per turn of movement that the dust will be shed. This dust was used by the elves to conceal their scouts and positions within the forest while they lay in ambush for the goblin patrols.
+
+---
+
