@@ -18345,3 +18345,240 @@ Confused and alarmed, Hoorku tried to wash his face, only to find that he was un
 
 ---
 
+<!-- page 321 -->
+
+## Bloodcoin
+
+his curse for betraying her.
+
+To this day, horror stories are told of a weeping beggar in blood-soaked clothes. He has wandered Borca and Dorvinia for years, trying to give away a silver coin. Legend has it that to take the coin is to assume the curse of the weeping beggar. In truth, Hoorku Mishkov died a broken man, clutching a silver coin. Gabrielle Aderre now distrusts and despises all men, partially due to Hoorku's betrayal.
+
+**Powers:** If examined with *detect magic*, the coin shows a faint aura of alteration. Anyone possessing this coin is able to cheat or swindle any living creature without getting caught. Creatures with magic resistance get to check for their resistance to the coin. The swindle can occur during any exchange of properties. The owner could convince a wealthy merchant that a bit of broken pottery is worth 10,000 gp. The purchaser is under no particular geas to buy, but is utterly convinced of the value of the item. In most cases, he or she goes ahead with the exchange unless there are other immediate and pressing needs for what would be lost.
+
+**The Curse:** For every gold piece of value that the owner swindles, he or she sheds tears of blood, weeping one round per silver piece swindled, or 10 rounds per gold piece. The victim cannot feel the tears running down his or her face, but they are plainly visible to everyone else. The blood stains anything it touches — clothes, bedding, even saddles. These are normal blood stains that can be washed out if caught quickly.
+
+Anyone seeing the owner's eyes dripping blood must roll a horror check. This is a relatively mild event and, therefore, a +2 bonus applies. The bonus does not apply if the owner's clothing, face, or gear is covered in blood. For example, a character who falls asleep weeps through the night, drenching everything in blood. Anyone seeing the character just before waking would truly be horrified at the sight of this person lying in a large pool of blood. Even the owner of the bloodcoin must roll a horror check (no bonus) at the first realization of what is happening. After that, the victims don't need to roll further horror checks. However, if the horror check fails, the effects are permanent until the coin is eliminated.
+
+| GP Swindled | Approx. Duration of Weeping |
+|-------------|------------------------------|
+| 10          | 1.5 hours                    |
+| 100         | 17 hours                     |
+| 150         | 1 day                        |
+| 1,000       | 1 week                       |
+
+If the owner of the bloodcoin is not currently weeping, a quick fortune may be made. Once the weeping begins, he or she is unlikely to be able to spend the money. A character could well go cold and hungry, sleeping in a damp alley on a pile of coins. Thieves might soon steal those ill-gotten gains, assuming that they were not frightened away by the victim's appearance.
+
+Anyone weeping blood can be automatically trailed and hunted by animals or creatures using the sense of smell. Rangers and the like get a +4 bonus to track the victim. Vampires can scent the blood at a distance of 100 feet per age category.
+
+Until the first time the owner attempts to swindle or cheat someone, the coin can be given or thrown away. It cannot be used for a purchase unless it is the last coin in the person's purse (otherwise, the coin automatically returns to the purse and is replaced by a coin of the same or higher value from the purse). Once its possessor tries to cheat someone, the coin becomes attached to its new owner and helps with the bargain. The power of the coin can be felt at work, and the victim is aware that it is responsible for any success. From that point on, the coin appears to be coated in dried blood that cannot be wiped away.
+
+Once it has found an owner, the coin is not easily discarded. If given away or used to make a purchase, it reappears in the owner's purse, and a coin of like or greater value from that purse replaces it. If thrown away, the same thing happens, with another coin taking the place of the lost bloodcoin. It remains out of its owner's pocket so long as he or she stays within 30 feet of it. It cannot be melted or destroyed by normal means.
+
+To be rid of it, the owner must give away all earthly possessions and wander the world as a beggar for a full year. The only possessions now permitted are rags for clothes and the bloodcoin itself. At the end of the year, the victim is able to give it to any person of his or her choice. Nothing can be purchased with the
+
+---
+
+<!-- page 322 -->
+
+## Equus Coin
+
+*(continued from previous page)*
+
+coin, nor can it be thrown away. The character must find someone willing to accept the coin. He or she does not have to explain the nature of the bloodcoin to whoever takes it; however, most folk are not likely to want to take a blood-encrusted coin.
+
+## Copper Coin (Five Coins for a Kingdom)
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+
+*Source: Five Coins for a Kingdom*
+
+This is a copper piece about an inch in diameter. One face shows an elderly, bearded man with a wise expression. On the reverse is the image of a castle.
+
+This coin allows the holder to locate, with great precision, the other four coins that arrived with this one (the silver, electrum, gold, and platinum coins). The user has an instinctive feeling about the direction they lie in, and sometimes senses instructions from the makers.
+
+The user is attuned to the rhythms of the entire plane, and prone to spiritual awareness — finding galaxies in grains of sand and eternity in an hour.
+
+## Cursed Copper Piece
+
+**XP Value:** — &emsp; **GP Value:** 150
+
+*Source: Treasure Maps*
+
+These coins are enchanted to look like platinum pieces. If checked, they radiate strong magic. The coins are cursed; anyone possessing an even number of them cannot advance in level until he or she gets rid of the coins and receives an atonement spell.
+
+## Eight Diagram Coin
+
+**XP Value:** 600 &emsp; **GP Value:** 1,800
+
+*Source: Oriental Adventures*
+
+These coins are actually copper discs, each engraved with a specific symbol. There are always eight coins in a set. When the coins are tossed and the command word is spoken, the caster intuitively learns of his, her, or another's fate (as a *fate* spell).
+
+## Electrum Coin (Five Coins for a Kingdom)
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: Five Coins for a Kingdom*
+
+This is a large electrum coin of excellent craftsmanship. On one side is a picture of an elderly woman. Her eyes are alert and her chin is held high. Her hair is tied back in a tight knot. The reverse shows the outline of a city.
+
+A user may cast mental illusions that appear real to all the senses of a viewer. No illusion may be larger than the user. A user can deceive any given individual once per day with one illusion. He or she can specify which person or monster in a group sees a specific illusion. For example, a bandit leader might see an approaching sheriff, but other bandits in the group could see something different — a fleeing cat, dusk, or a tuba. A user always sees and controls the illusions the victims witness.
+
+A user has no qualms about puncturing a rival's pretensions with a harmless prank. Affect an amused skepticism toward any overly serious endeavor. Basically, the holder turns into a gadfly: biting, annoying, provocative.
+
+## Equus Coin
+
+**XP Value:** 2,000 &emsp; **GP Value:** 8,000
+
+*Source: DUNGEON Magazine #22*
+
+An equus coin is a magical piece of coinage that, upon command, polymorphs into some form of a beast of burden. The word "equus" (plural "equi") comes from an ancient language and has no literal translation in the common tongue. The closest translation is "beast of burden" or "horse," but the word can be applied to anything that is used like a horse. Thus, an actual horse, mule, worg, camel, dog-sled team, nightmare, or any other creature that can be ridden, used to pull a load, or carry goods can be termed an equus. Equi come in many different varieties, with the most common listed below. While 80% of equi are either good or neutrally aligned, 20% polymorph into evil creatures such as nightmares, worgs, and giant spiders. It is said that the death knight Shan Nikkoleth once possessed an equus that polymorphed into gorgon form.
+
+This large silver or gold coin is always broader and thicker than a standard silver or gold piece. One face is stamped with the command word for the item and the other with the creature it becomes.
+
+### Creature List
+
+A DM may choose the form of the creature into which the equus polymorphs from the following table. The coin form polymorphs into one type of creature only. A DM who prefers to roll randomly should add the roll of 1d8 to that of 1d12 and consult the table below. The DM should use only a
+
+*(continued on next page)*
+
+---
+
+<!-- page 323 -->
+
+creature he or she feels comfortable with and is sure will not give the PC an unfair advantage in the campaign. Types of creatures can be added to or deleted from the list as the DM sees fit. Any of the following creatures that do not appear on Table 49 in the PHB should be considered equal to a heavy horse in movement rate and encumbrance.
+
+If the equus is slain (reduced to 0 hit points or less) in creature form, the creature immediately reverts to coin form and cannot change into creature form again. Damage to the creature form of the equus can be healed magically by cure wounds spells. If the creature is allowed food and rest, it heals naturally at the rate of 1 hit point per day. However, the equus can neither heal itself nor be healed while in coin form.
+
+| Roll | Creature |
+|-------|----------|
+| 02 | Unicorn: AC 2; MV 24; HD 4+4; hp 28; THAC0 15; #AT 3 (hooves and horn); Dmg 1d6/1d6/1d12; SA charge, +2 to hit when attacking with horn, −6 penalty to opponents' surprise rolls; SD teleport, immune to poison, charm, hold, and death spells; can sense approach of an enemy at 240 yards distant; makes all saving throws as 11th-level wizard; ML 14; AL CG. The unicorn's Intelligence is 8–10 (1d4+8). It can be ridden only by female characters; if a male character rolls the unicorn, use the ultraheavy war horse (#20) instead. |
+| 03 | Giant stag: AC 7; MV 21; HD 5; hp 30; THAC0 15; #AT 1 (antlers) or 2 (hooves); Dmg 4d4 or 1d4/1d4; ML 14; AL N. This creature's Intelligence is 4–7 (1d4+3). |
+| 04–05 | Bull: AC 7; MV 15; HD 4; hp 24; THAC0 15; #AT 2 (horns); Dmg 1d6/1d6; SA charge; ML 15; AL N. The bull has an Intelligence of 4–7 (1d4+3). |
+| 06–08 | Superheavy war horse: AC 6; MV 15; HD 4+4; hp 28; THAC0 15; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; SD 30' infravision, immunity to all hold and charm spells; ML 16; AL NG. Intelligence 7–12 (1d6+6). |
+| 09–13 | Heavy war horse: AC 7; MV 15; HD 4+4; hp 21; THAC0 17; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; ML 15; AL N. This horse has an Intelligence of 5–8 (1d4+4). |
+| 14–16 | Superheavy war horse (special): Same as above (roll of 6–8), though it has MV 18, a 40 lb. bonus on its carrying capacity load limits, and no infravision. |
+| 17–18 | Camel: AC 7; MV 21; HD 3; hp 18; THAC0 17; #AT 1 (bite); Dmg 1d4; SA spitting; ML 14; AL N. This camel is of a more mellow disposition than its meaner cousins and has an Intelligence of 4–7 (1d4+3). |
+| 19 | Water buffalo: AC 7; MV 15; HD 5; hp 30; THAC0 15; #AT 2 (horns); Dmg 1d8/1d8; ML 16; AL N. This water buffalo has an Intelligence of 4–7 (1d4+3). |
+| 20 | Ultraheavy war horse: AC 5; MV 24; HD 5+5; hp 35; THAC0 15; #AT 3 (hooves and bite); Dmg 1d8/1d8/1d4; SD 60' infravision, immunity to poison and all hold and charm spells; ML 18[?]; AL LG. This special horse can understand but not speak the common tongue and is able to use *animal friendship* and *pass without trace* spells three times per day each, *locate animals or plants* once per day, and *water walk* once per week. This horse has an Intelligence of 9–16 (1d8+8). |
+
+---
+
+## Gold Coin
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+
+*Source: Five Coins for a Kingdom*
+
+This gold coin is slightly marred, but well made. The portrait side shows a balding man with plump cheeks, heavily lidded eyes, and a gloomy expression. On the reverse is a stately building resembling a crypt.
+
+The user may create potions up to three times per day by touching the coin to or dropping it into a small quantity of liquid. The liquid is instantly transmuted into a potion of the user's choice. Just one dose of potion is created; larger quantities of liquid merely dilute the effects.
+
+---
+
+## Coin of Jisan the Bountiful
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Book of Artifacts*
+
+Prized by merchants and feared by caliphs, the coin of Jisan the Bountiful is a simple gold coin the size of a dinar, bearing the symbol of Jisan on both sides. It is found only in Zakhara, the Land of Fate.
+
+The coin of Jisan is as old as the goddess and
+
+---
+
+<!-- page 324 -->
+
+(This page continues the **Coin of Jisan** entry from the previous page, then begins the **Coin of Luck (Coin of Greed)** entry.)
+
+---
+
+has most frequently been found among her worshipers. It is said to be bestowed upon the worthy by Jisan or by Fate herself, giving them riches and wisdom, fertility and long life. The coin is a gift that is meant to be shared. Those who try to hold it longer than their appointed span suffer for their greed; no one is known to have held the coin of Jisan for more than seven years.
+
+Caliphs fear the coin's bounty because they cannot control it, and some owners of the coin have grown so popular that they have led revolts against oppressive caliphs. Wiser caliphs have married their daughters to those blessed by the coin, thus gaining its wealth.
+
+The coin of Jisan is sometimes given by Fate to those who act for noble purposes, and to this end it may come into the possession of the PCs, perhaps as a reward for a mission that produced or restored bounty—ending a magical drought, reopening a major trade route, or lifting repressive taxes. Although it can be used without fear by the good-hearted, it always attracts jealousy and greed in others. The dao, in particular, have long coveted the coin of Jisan, and they and others will seek to steal it at every opportunity. If the holy slayers of the Gilded Palm ever decide it belongs to someone more worthy (such as themselves), they will threaten, extort, or even kill to get it. Thus, mere possession of the coin creates a web of adventures for the PCs.
+
+**Constant Powers:** The owner gains the appraisal, haggling, and debate proficiencies, or a +4 bonus to already existent skills. None of the owner's businesses ever suffer misfortune, fields and palms always yield richly, and all livestock give birth to twins.
+
+**Invoked Powers:** The owner can use the *plant growth* and *suggestion* spells (both at will) and the *weather control* spell (1/month).
+
+**Random Powers:** Four from Artifact Table 1-12: Fate and Fortune, one from Artifact Table 1-21: Personal Enhancements.
+
+**Curse:** Those who use the coin to help others are unaffected by any curse, but help must be given without expectation of reward or gain. Those who use the coin to gain palaces, treasures, and power are stricken with unquenchable hunger that grows in proportion to their greed. Eventually the character must spend every waking hour devouring barrels of tea and coffee, bushels of grain, and whole oxen. To be rid of it, the coin must be given to a stranger.
+
+**Suggested Means of Destruction:**
+
+- The coin must be crushed under the heel of a tanar'ri lord in a land stricken by famine.
+- A thief who truly desires nothing must bite the coin in half.
+- The coin must be dissolved in the waters of the river Styx.
+
+---
+
+## Coin of Luck (Coin of Greed)
+
+**XP Value:** 15,000 &emsp; **GP Value:** 75,000
+*Source: Tales of the Lance*
+
+This innocent-looking copper coin has two faces. Both depict a fat, heavily jowled merchant. One side smiles ingratiatingly and the other side sneers in open-mouthed scorn.
+
+The coin grants luck indeed—good luck for Hiddukel and bad luck for any mortal who comes across it. One encounter with the coin of luck occurred when Balcombe, an initiate into the Order of the Red Robes, failed the Test of Sorcery and ended up a splintered and smoldering pulp outside the Tower of High Sorcery. The coin of luck appeared in his hand, and his ruined body was renewed to life. Then Hiddukel, speaking through the coin, offered a deal—Balcombe could remain alive and avenge himself on the wizards who slew him if he promised to
+
+---
+
+<!-- page 325 -->
+
+(This page continues a prior entry, then presents new entries.)
+
+---
+
+serve Hiddukel. Balcombe agreed, only then discovering that Hiddukel required him to trap the life forces of Krynn's folk in magic jars and feed them to the insatiable god. Hiddukel planned, at the next opportune stellar conjunction, to draw the life forces from the jars and feast upon them.
+
+As might be expected, Balcombe was killed in the commission of his duties, and the coin found its way into the pack of one Tasslehoff Burrfoot. It could be anywhere now.
+
+The coin of luck acts as a luckstone, occasionally adding a bonus of +2 to any die roll (roll 1d6: odd = +2, even = +0).
+
+Through the coin's opposite faces, Hiddukel can speak to the bearer. The grinning side speaks when Hiddukel is in a good mood and the sneering side speaks when he feels foul. The coin periodically flips sides in the bearer's hand when Hiddukel's mood changes. Hiddukel grants the coin of luck only to those with whom he knows he has a bargain that cannot be refused.
+
+Once the coin reveals itself as a tool of Hiddukel and the owner agrees to enter into a pact with Hiddukel, however, all the coin of luck's powers activate. Once per day, the bearer of the coin can cast *continual darkness* 15-foot radius. Once per turn the bearer can also cast *suggestion* on anyone. These suggestions are used to sow dissent and discord. The coin can create an *antimagic* area with a 20-foot radius at Hiddukel's will. Hiddukel summons this ability to place his minion at a disadvantage so that he must bargain further with the god of betrayal for his life. Once per day, the coin also casts *blight* and *bestow curse*, the reverse of *bless* and *remove curse*.
+
+Anyone invoking one of the greater powers of the coin must make a system shock roll each time or become terrified and lose 1 point of Charisma. The user of the coin becomes more corrupted, jealous, and greedy. Eventually the coin brings downfall to any using it.
+
+This coin of greed is part of a Triad of Betrayal, created and inhabited by Hiddukel. Although Reorx forged the coin, Hiddukel imbued it with magic to thwart the designs of the goddess of love, Mishakal. The coin of greed, like the other artifacts of the Betrayal Triad, pursues an artifact of the Circle of Love all around the face of Krynn. The coin of luck seeks to destroy the amulet of the healing spirit.
+
+---
+
+## Penny of Luck
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: The Book of Marvelous Magic*
+
+This magical copper piece is engraved with a horse's head on one side and a horse's tail on the other. The user may flip the coin at any time, but it has magical effect only once per day. If it lands heads up, the user gains a -4 bonus to Armor Class for one turn. If it lands tails up, the user suffers a +4 penalty to Armor Class for one turn.
+
+---
+
+## Platinum
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Five Coins for a Kingdom*
+
+This is a heavy platinum coin. It is obviously very valuable. The woman shown in profile on one side has a stately expression and looks like a queen or noblewoman. The woman appears to be in her mid-forties. On the reverse is what looks like a simple stone block — perhaps some kind of altar.
+
+The holder may control any one creature (up to 20 HD) per day, up to the following midnight. A victim gets a saving throw vs. spell to avoid control, but a user can keep trying once per round if the attempt fails. A holder must see a victim to control its actions. A controlled creature cannot be forced to kill itself. A holder can't fight or cast spells while controlling others, but can move up to half normal rate.
+
+A user has a streak of haughtiness — or more politely, a great deal of self-confidence. He or she should be ready to charge any foe, greet every noble as an equal, and disdain to take guff from anyone.
+
+---
+
+## Raistlin's Cursed Money
+
+**XP Value:** — &emsp; **GP Value:** 100
+*Source: Tales of the Lance*
+
+During the Dwarfgate Wars, Raistlin (or Fistandantilus) made a deal with the dark dwarves. They betrayed their king and left the gates of Pax Tharkas open when Raistlin's army attacked. A victorious Raistlin paid the dark dwarves 100,000 steel coins.
+
+The coins were cursed, however, to prevent the dark dwarves from double-crossing the wizard. If the owner of one of these coins goes back on his or her spoken word, the flesh of the owner's hands begins to turn black and rot away. This dread curse spreads slowly to the rest of the body until
+
+---
+
