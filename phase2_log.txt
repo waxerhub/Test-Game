@@ -22,4 +22,21 @@ Phase 2: Claude cleanup (340 pages, 3 parallel workers)…
 
 Merging:   0%|          | 0/340 [00:00<?, ?page/s]Merging:   0%|          | 1/340 [00:20<1:56:54, 20.69s/page]Merging:   1%|          | 2/340 [00:26<1:07:17, 11.94s/page]Merging:   1%|          | 3/340 [00:29<44:07,  7.86s/page]  Merging:   1%|          | 4/340 [00:47<1:05:49, 11.75s/page]Merging:   1%|▏         | 5/340 [00:55<58:07, 10.41s/page]  Merging:   2%|▏         | 6/340 [01:06<59:28, 10.68s/page]Merging:   2%|▏         | 7/340 [01:18<1:01:25, 11.07s/page]Merging:   2%|▏         | 8/340 [01:20<46:17,  8.36s/page]  Merging:   3%|▎         | 9/340 [01:36<58:26, 10.59s/page]Merging:   3%|▎         | 10/340 [01:48<1:01:16, 11.14s/page]Merging:   3%|▎         | 11/340 [01:56<54:33,  9.95s/page]  Merging:   4%|▎         | 12/340 [02:18<1:15:48, 13.87s/page]
   Rate limit page 90, retrying in 15s…
-Merging:   4%|▍         | 14/340 [02:39<1:06:48, 12.30s/page]Merging:   4%|▍         | 15/340 [02:57<1:13:17, 13.53s/page]Merging:   5%|▍         | 16/340 [03:02<1:01:45, 11.44s/page]
+Merging:   4%|▍         | 14/340 [02:39<1:06:48, 12.30s/page]Merging:   4%|▍         | 15/340 [02:57<1:13:17, 13.53s/page]Merging:   5%|▍         | 16/340 [03:02<1:01:45, 11.44s/page]Merging:   5%|▌         | 17/340 [03:14<1:02:45, 11.66s/page]Merging:   5%|▌         | 18/340 [03:16<48:12,  8.98s/page]  Merging:   6%|▌         | 19/340 [03:41<1:11:23, 13.34s/page]Merging:   6%|▌         | 20/340 [03:54<1:11:40, 13.44s/page]Merging:   6%|▌         | 21/340 [03:57<53:51, 10.13s/page]  Merging:   6%|▋         | 22/340 [03:57<39:18,  7.42s/page]
+  Rate limit page 98, retrying in 15s…
+Merging:   7%|▋         | 23/340 [04:18<59:17, 11.22s/page]Merging:   7%|▋         | 24/340 [04:28<58:02, 11.02s/page]Merging:   7%|▋         | 25/340 [04:42<1:02:43, 11.95s/page]
+  Rate limit page 98, retrying in 30s…
+Merging:   8%|▊         | 26/340 [04:47<50:19,  9.62s/page]  Merging:   8%|▊         | 27/340 [05:01<57:36, 11.04s/page]Merging:   8%|▊         | 28/340 [05:10<54:39, 10.51s/page]Merging:   9%|▊         | 29/340 [05:19<51:43,  9.98s/page]Merging:   9%|▉         | 30/340 [05:37<1:04:35, 12.50s/page]Merging:   9%|▉         | 31/340 [05:43<53:36, 10.41s/page]  Merging:   9%|▉         | 32/340 [06:03<1:08:16, 13.30s/page]Merging:  10%|▉         | 33/340 [06:08<55:20, 10.81s/page]  Merging:  10%|█         | 34/340 [06:28<1:09:50, 13.69s/page]Merging:  10%|█         | 35/340 [06:30<50:58, 10.03s/page]  Merging:  11%|█         | 36/340 [06:44<57:43, 11.39s/page]
+  Rate limit page 114, retrying in 15s…
+Merging:  11%|█         | 37/340 [06:49<47:18,  9.37s/page]Merging:  11%|█         | 38/340 [07:11<1:06:28, 13.21s/page]Merging:  11%|█▏        | 39/340 [07:16<53:43, 10.71s/page]  Merging:  12%|█▏        | 40/340 [07:30<57:42, 11.54s/page]Merging:  12%|█▏        | 41/340 [07:50<1:11:29, 14.35s/page]Merging:  12%|█▏        | 42/340 [07:54<55:46, 11.23s/page]  Merging:  13%|█▎        | 43/340 [08:14<1:08:22, 13.81s/page]Merging:  13%|█▎        | 44/340 [08:16<50:52, 10.31s/page]  Merging:  13%|█▎        | 45/340 [08:21<42:01,  8.55s/page]PDF:    tsr02141 Encyclopedia Magica Volume One.pdf
+Pages:  1–416  (416 pages)
+Output: tsr02141 Encyclopedia Magica Volume One_compiled.md
+DPI:    300
+
+  Cache: 416 pages already extracted.
+Phase 1: all pages already extracted (cached).
+
+Phase 2: Claude cleanup (296 pages, 3 parallel workers)…
+  Prompt caching active — cost drops significantly after page 1.
+
+Merging:   0%|          | 0/296 [00:00<?, ?page/s]Merging:   0%|          | 1/296 [00:05<28:27,  5.79s/page]

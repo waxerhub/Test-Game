@@ -6355,3 +6355,1528 @@ Elven arrows are made from the limbs of the tree of life; the stone points are t
 
 ---
 
+<!-- page 90 -->
+
+## Arrow of Enchantment
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+*Source: DRAGON Magazine #181*
+
+These magical arrows possess a dweomer that allows them to penetrate the magical defenses of creatures that can be struck only by enchanted weapons. No bonuses for attacks or damage occur; such a weapon has the same chance to hit a highly magical monster as an ordinary arrow has to hit a normal, flesh-and-blood creature, doing as much damage as a regular arrow.
+
+Missile weapons are a bit different. Actual missiles of enchantment (bolts, arrows, sling bullets, etc.) are the same as melee weapons. However, bows, crossbows, and slings of enchantment cast a magical aura on any mundane ammunition with which they are loaded (no extra bonus for using missiles and bows of enchantment together).
+
+For all weapons of enchantment, the XP cost is that of a regular +1 version of that weapon type, or whatever other official magical weapon exists of that type that is of low value. These weapons do not lose their abilities when taken to other planes, and the missile launchers can provide their owners with a virtually unlimited supply of "magical" missiles. Just remember that the damage done is the same as for ordinary weapons. The magic doesn't add to the weapon's attack capabilities; it negates a monster's defensive capabilities.
+
+## Arrow of Explosions
+
+**XP Value:** — &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #135*
+
+When nocked into a bow, this arrow explodes into a 6 HD fireball (as if cast by a 6th-level wizard). There is no saving throw against the effect, and the personal possessions the archer carries must save vs. magical fire at −4.
+
+## Arrow of Extended Range
+
+**XP Value:** 100 &emsp; **GP Value:** 600
+*Source: The Complete Book of Elves*
+
+There are three versions of this arrow, which allow the user to double, triple, or even quadruple the normal ranges for any type of bow. The first version allows for a double range; it is the one encountered about 60% of the time. The triple-range version is found about 30% of the time, and the quadruple-range arrow is met only 10% of the time.
+
+Although these arrows do not have an attack bonus, they are effective against creatures that are immune to all but magical weapons (up to +1). In addition, the arrows cancel out the normal range modifiers of the bow, using instead the modified, multiplied range for purposes of figuring modifiers. Arrows of extended range are usually found in groups of 2d10.
+
+## Arrow of Faerie Fire
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+*Source: DRAGON Magazine #135*
+
+This arrow covers any human-size or smaller creature it hits with faerie fire, as the 1st-level priest spell. The spell lasts 12 rounds. Normal damage is also done to the victim.
+
+## Arrow of Fire
+
+**XP Value:** 40 &emsp; **GP Value:** 240
+*Source: DRAGON Magazine #135*
+
+This arrow immediately bursts into flame after being fired. An arrow of fire does normal damage plus 1d6 hp fire damage to any creature it hits. Creatures native to the Plane of Elemental Fire are immune to the fire damage, but cold-dwelling creatures take +2 hp damage from this arrow. Any clothing worn by the victim must make a saving throw vs. normal fire or be destroyed.
+
+## Arrow of Fire Seed
+
+**XP Value:** 200 &emsp; **GP Value:** 500
+*Source: The Complete Book of Elves*
+
+Like the fire trap arrow, this one requires a special, hollow pottery tip, wherein the fire seeds are placed. When the arrow strikes the target, the seeds detonate, inflicting 2d8 points of damage to all within 10 feet of where the arrow falls.
+
+---
+
+<!-- page 91 -->
+
+## Arrow of Fire Trap
+
+**XP Value:** 300 &emsp; **GP Value:** 700
+*Source: The Complete Book of Elves*
+
+By casting a *fire trap* spell on a tiny and delicate box, then sealing this box inside a special, fragile arrowhead, an elf priest can create an effective flame arrow. In theory, when the arrow hits a firm enough target (anything harder than water), it triggers the spell, engulfing its target in a sudden blaze of flame. In game terms, the head and box must make a single saving throw against crushing blow (as pottery) in order for the fire trap to detonate. Otherwise, the arrow is a dud, though it could possibly be reused against the archer.
+
+The damage caused by this arrow is 1d4+1 plus the variable damage caused by the *fire trap*. Even if the arrow misses its target, it still creates a conflagration in the area if the head cracks open.
+
+*(Continued from previous page: when the arrow hits someone, the victim suffers 1d4 points of damage, as well as the 2d8 points from the fire seed; the victim doesn't even get a saving throw to take only half damage.)*
+
+## Arrow of Flaming
+
+**XP Value:** 20 &emsp; **GP Value:** 60
+*Source: POLYHEDRON Newszine #17*
+
+These magical arrows +2 are found in caches of 2d6. When fired, they burst into flame, doing an additional 1d6 points of damage to the target, and set fire to all flammables within 3 feet of the point of impact.
+
+## Arrow of Flying
+
+**XP Value:** 500 &emsp; **GP Value:** 750
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A missile with this talent can be fired at ranges five times greater than normal. If the missile weapon firing this arrow is also magical and has an additional range multiplier, the effect is cumulative; multiply each maximum range by five. If the missile weapon is not magical, use the maximum ranges.
+
+## Arrow of Force
+
+**XP Value:** 80 &emsp; **GP Value:** 480
+*Source: DRAGON Magazine #135*
+
+This arrow causes the struck creature to make a saving throw vs. spell at -3. If the save is unsuccessful, the creature is encased in a *forcecage* for three turns (see the 7th-level wizard spell for details). Due to its high degree of power, the arrow of force provides a -3 penalty on attack rolls. No damage is done to the victim.
+
+## Arrow of Harm
+
+**XP Value:** 80 &emsp; **GP Value:** 480
+*Source: DRAGON Magazine #135*
+
+This arrow does double normal damage to one specified type of creature. If used on any creature other than that specified for the arrow's use, normal damage is done to the target. The following table lists the most basic types of creatures for which arrows of harm are created. At the DM's discretion, other monsters and demihuman races may be added.
+
+| Roll | Creature Type                        |
+|------|--------------------------------------|
+| 1    | Aquatic creatures                    |
+| 2    | Tanar'ri, Yugoloth, and Baatezu      |
+| 3    | Demihumans                           |
+| 4    | Dragons                              |
+| 5    | Elementals                           |
+| 6    | Giants                               |
+| 7    | Lycanthropes                         |
+| 8    | Undead                               |
+
+## Arrow of Holding
+
+**XP Value:** 50 &emsp; **GP Value:** 300
+*Source: DRAGON Magazine #135*
+
+This mystical arrow is inscribed with strange runes. When it hits its target, the target must make a saving throw vs. spell or freeze as if affected by a *hold* spell. The effect lasts for 2d4 rounds. The victim takes no other damage.
+
+## Arrow of Holding II
+
+**XP Value:** 50 &emsp; **GP Value:** 100
+*Source: The Ruins of Undermountain*
+
+These finely made arrows are usually crafted by elves, but the secrets of their manufacture are known to a few craftsmen of all races. Such arrows count as magical weapons when determining what they can strike, but they provide no combat bonuses of any sort.
+
+The strike of an arrow of holding does only one point of damage, but these arrows pierce any armor. On striking, the arrow vanishes in a pulse of silvery radiance, and the target creature must save vs. spell at -4 or suffer the effects of a *hold person* spell for 5+1d4 rounds.
+
+All types of creatures can be affected, and an
+
+---
+
+<!-- page 92 -->
+
+(continuing the Arrow section — these entries follow Arrow of Holding on the previous page)
+
+## Arrow of Ice
+
+**XP Value:** 10 &emsp; **GP Value:** 50
+*Source: POLYHEDRON Newszine #47*
+
+Crafted of solid steel, these arrows radiate alteration magic and are cold to the touch. When fired, they transform themselves into 18-inch icicles that do an additional 1d6 damage to fire-using or fire-dwelling creatures. They have no magical bonus. They are found in catches of 1d8.
+
+## Arrow of Illumination
+
+**XP Value:** 30 &emsp; **GP Value:** 150
+*Source: POLYHEDRON Newszine #82*
+
+When fired, this arrow levitates to a point 3 feet above the archer's head. The arrow follows the archer as he or she travels, adjusting its height if the ceiling lowers. The arrow glows with the equivalent of a *light* spell and functions for 24 turns or until it is broken. Usually 2d4 of these arrows are found together.
+
+## Arrow, Illusory Missile
+
+**XP Value:** 10 &emsp; **GP Value:** 100
+*Source: DRAGON Magazine #181*
+
+There are illusory missiles of various types to complement illusory weapons and armor. Illusory sticks and stones are tiny things, totally useless in battle — normally. When the command word is spoken, however, a faintly visible magical field surrounds them, stretching them out to the proportions of regular javelins, arrows, or sling bullets. Although the field does no damage itself, it is substantial enough to enable the missile to be handled and used with a blowgun, bow, sling, or spear thrower. If the enemy sees one of these coming, the foe will probably assume the worst and take damage equivalent to that of an ordinary missile, but it's all show. These devices are usable only once.
+
+## Arrow of Justice
+
+**XP Value:** 200 &emsp; **GP Value:** 400
+*Source: The Five Shires*
+
+All shire sheriffs carry 1d8 arrows of justice in their boots or thrust through their belts. The arrows remain inactive in the hands of anyone but a halfling. When cast by a halfling at a visible target, an arrow of justice flashes unerringly to strike the creature as a *magic missile*, following it around obstructions and through changes in direction to any range, within one round.
+
+The touch of an arrow of justice may deal 2d6 points of damage (save vs. spell allows half damage), or merely root the subject to the spot (held for 1d4+1 rounds, with no save), as its hurler desires. It may be mentally commanded to cause both effects when it is released. If not commanded, it always deals damage. If the target is an illusion, the arrow simply falls from the caster's hand to the ground, unused and inactivated. Upon striking a target, an arrow of justice vanishes forever.
+
+A creature struck by an arrow of justice glows with a silvery radiance for 3d6 rounds. This effect foils attempts to hide in shadows, mingle with other creatures, or use invisibility, but *dispel magic* cancels the arrow's effect.
+
+Hin masters and keepers construct these items in secrecy under the guidance of certain human wizards, and sheriffs hide caches of replacements in handy places about the shires. No hin would dare to move or take a discovered arrow of justice, unless fellow hin are endangered and the arrow might aid them — the hin would then act and trust to the wisdom and mercy of the sheriffs to avoid any punishment.
+
+## Arrow of Law
+
+**XP Value:** 200 &emsp; **GP Value:** 400
+*Source: Gods, Demigods, & Heroes*
+
+This is found as a quiver of 20 arrows. The arrows always hit and kill chaotic creatures at normal long bow ranges.
+
+## Arrow of Light
+
+**XP Value:** 40 &emsp; **GP Value:** 120
+*Source: The Complete Book of Elves*
+
+These are among the most permanent and common of all the enspeiled arrows. If a *continual light* spell is cast upon the shaft of an arrow, it can then be used to either spotlight or blind an enemy. These arrows are common among elf scouts, who carry them sheathed until there is a need for them.
+
+---
+
+<!-- page 93 -->
+
+## Arrow of Lighting
+
+**XP Value:** 50 &emsp; **GP Value:** 100
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+The missile can create a *light* spell effect (30-foot-diameter), either upon command or when it hits a target. If a creature is hit, the victim must make a saving throw vs. spell or be blinded by the light (as if the spell had been cast at its eyes). The missile disintegrates when the light is created.
+
+## Arrow of Lightning
+
+**XP Value:** 100 &emsp; **GP Value:** 600
+*Source: DRAGON Magazine #135*
+
+This arrow has a +2 bonus on attack rolls and causes 1d6 hp damage, plus 20 hp electrical damage. When the arrow hits, it emits a large and bright flash of light for a split second (long enough to light up a dungeon corridor). Anyone touching the victim suffers 1d10 hp electrical damage. The arrow is consumed in the lightning charge. If the arrow misses its intended target, it discharges all of its electrical energy upon hitting the ground (or any other solid object, such as a dungeon wall).
+
+## Arrow of Lycanthrope Slaying
+
+**XP Value:** 200 &emsp; **GP Value:** 1,200
+*Source: DRAGON Magazine #135*
+
+This silver-tipped arrow not only gives a +3 bonus to attack and damage rolls, but also slays any lycanthrope it strikes, whether in beast or human form, unless the creature struck makes a saving throw vs. death magic. A successful saving throw causes the victim to take double damage from the arrow.
+
+## Arrow of Maglubiyet's Wounding
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: Dungeon Magazine #33*
+
+These arrows have been enchanted by Maglubiyet, a goblin deity. They can only be enspelled through diligent prayer and ceremony. They can be used only once and are +2 to attack and damage. A creature struck by an arrow of Maglubiyet's wounding loses half its Strength immediately, in addition to the arrow damage. If the arrow remains in the wound, the creature does not regain its Strength or magical abilities, and cannot heal its wounds — even at normal rates. Goblins normally use this arrow against monsters that have no hands, so the arrow cannot be removed.
+
+## Arrow of Misdirection
+
+**XP Value:** — &emsp; **GP Value:** 100
+*Source: DRAGON Magazine #135*
+
+This arrow is similar to an arrow of direction; the difference is that this cursed arrow reveals the wrong direction.
+
+## Missile Weapon of Accuracy
+
+**XP Value:** 50 &emsp; **GP Value:** 300
+*Source: Oriental Adventures*
+
+This magical missile weapon is +3 on both attack and damage. Furthermore, all ranges are considered to be short range (no range modifier applied).
+
+## Missile Weapon of Distance*
+
+**XP Value:** +50 &emsp; **GP Value:** +300
+*Source: Oriental Adventures*
+
+The weapon is able to fire to double all normal range categories for the weapon.
+
+## Arrow of Multiplicity
+
+**XP Value:** 100 &emsp; **GP Value:** 600
+*Source: DRAGON Magazine #135*
+
+For every 30 feet this arrow travels, another arrow appears in flight alongside the original arrow (up to a total of 10 arrows). Each arrow receives an individual attack roll with no bonus. For example, a fighter fires one of these arrows from a bow +3. The arrow travels a distance of 65 feet. Three arrows reach the target, each of them having normal attack chances (counting none from the magical bow).
+
+## Arrow of Nilbog
+
+**XP Value:** 100 &emsp; **GP Value:** 150
+*Source: POLYHEDRON Newszine #47*
+
+Nondescript in appearance, these arrows have an odd power. Due to their unusual enchantment, the target is cured of 1d6 hit points upon contact. As a final touch, the arrows create an illusion of damage upon the target (dents in armor, torn clothing, etc.). The illusion lasts one turn. Nilbog arrows are found in caches of 1d8.
+
+## Oberon's Arrow of Subduing
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+Oberon carries arrows used for hunting stags that are enchanted to inflict subduing damage only.
+
+---
+
+<!-- page 94 -->
+
+## Arrow of Slaying (Oberon's)
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+Oberon carries a quiver of arrows of slaying and is known to use these on bugbears, goblins, hobgoblins, and orcs (others at the DM's option). When they strike, the victim does not receive a saving throw.
+
+## Arrow of Paralyzation
+
+**XP Value:** 50 &emsp; **GP Value:** 120
+*Source: POLYHEDRON Newszine #47*
+
+These +1 arrows are found in caches of 1d6. In addition to the regular damage, a creature struck by an arrow must make a save vs. paralyzation or be paralyzed for 1d6 rounds.
+
+## Arrow of Penetrating
+
+**XP Value:** 50 &emsp; **GP Value:** 300
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A missile with this talent cannot be slowed by underbrush, webs (normal or magical), or other forms of cover. The victim's Armor Class is not modified by cover of any sort.
+
+## Arrow of Penetration
+
+**XP Value:** 50 &emsp; **GP Value:** 300
+*Source: DRAGON Magazine #135*
+
+This magical arrow has no attack or damage bonuses. Once fired from a bow, however, an arrow of penetration keeps going, phasing through any nonliving material in its path, until it reaches its maximum range or strikes a living object. Against this arrow, normal armor and shields are ignored in the determination of Armor Class. Magical armor and shields improve the Armor Class of the victim by one for each +1 of protection they provide, as do rings and cloaks of protection. Bracers of defense, however, are useless. Bonuses for cover and concealment are ignored unless the cover is made of living material. Creatures totally hidden from view are treated as invisible (−4 to hit them). Magical protections and Armor Class adjustments for high Dexterity still apply. The Armor Class of creatures with natural armor remains unaffected.
+
+## Arrow of Perseverance
+
+**XP Value:** 50 &emsp; **GP Value:** 300
+*Source: DRAGON Magazine #135*
+
+Once shot, this arrow goes after its target regardless of range, as long as the target is within view. The arrow, however, gains a cumulative −1 to attack for every 100 yards beyond its maximum range that it travels. Once the arrow gains a total of a −10 penalty to attack, it vanishes. The arrow has a +2 bonus to damage.
+
+## Arrow of Piercing
+
+**XP Value:** 50 &emsp; **GP Value:** 300
+*Source: DRAGON Magazine #135*
+
+The target of this missile must save vs. petrification or lose all protection provided by armor and hide. The subject has AC 10 with regards to this missile attack if the saving throw fails; the arrow then does maximum damage (6 hp, plus the Strength bonuses of the archer if applicable). The arrow does normal damage if the victim's saving throw is successful.
+
+## Arrow of Polymorphing
+
+| Type          | XP Value | GP Value |
+|---------------|----------|----------|
+| Glass         | 225      | 1,350    |
+| Ice           | 225      | 1,350    |
+| Monster       | 225      | 1,350    |
+| Paper         | 225      | 1,350    |
+| Small Animal  | 225      | 1,350    |
+| Stone         | 225      | 1,350    |
+
+*Source: DRAGON Magazine #135*
+
+An arrow of polymorphing is as rare as an arrow of slaying, and is thus infrequently encountered.
+
+---
+
+<!-- page 95 -->
+
+## Arrow of Polymorphing
+
+**XP Value:** — &emsp; **GP Value:** —
+
+This arrow is +3 to attack but not to damage. Besides taking normal damage after being hit, a creature struck by an arrow of polymorphing must save vs. polymorph. If successful, nothing further occurs. If the creature fails to save, it is polymorphed into another form. Only one arrow of this type may be found at a time.
+
+There are six different kinds of arrows of polymorphing; when found, a random roll is required to determine the arrow type. Note that the only creatures affected by arrows of polymorphing are those that are susceptible to the spell *polymorph other*. Arrows of polymorphing are classified according to the form into which they change the recipient. The six different arrow types are as follows:
+
+| Roll | Form Assumed |
+|------|--------------|
+| 1 | Stone |
+| 2 | Monster |
+| 3 | Ice |
+| 4 | Small animal |
+| 5 | Paper |
+| 6 | Glass |
+
+**Stone:** A creature hit by an arrow of this type becomes petrified as if struck by a cockatrice. The duration of the petrification is permanent, although spells such as *stone to flesh* or *limited wish* may be used to reverse the effects of the arrow.
+
+**Monster:** This arrow polymorphs the victim into a randomly determined monster. If the victim's personality is lost, the monster attacks all nearby creatures until it is killed or until there is nothing left for it to fight. The effects last until dispelled. The suggested monster types are as follows:
+
+| Roll | Monster |
+|------|-------------|
+| 1 | Werewolf |
+| 2 | Medusa |
+| 3 | Ogre |
+| 4 | Troll |
+| 5 | Owlbear |
+| 6 | Five-headed hydra |
+
+**Ice:** This is perhaps the most deadly of the various types of arrows of polymorphing. A creature hit by one of these arrows is instantly transformed into a statue of solid ice. Unless the statue is kept at a temperature below freezing, it melts away, completely destroying the polymorphed creature in the process. The ice statue lasts for as many rounds as the target creature has hit points. If the ice form is undone by a *dispel magic* spell (against 12th-level magic) or by other magical means, the victim is restored to life if a system shock roll is made; otherwise, the victim reappears, but is dead. For every round spent in the ice form, the victim loses 1 hp from the effects of melting—a fighter restored to life after 12 rounds in ice form has lost 12 hp.
+
+**Small animal:** An arrow of this sort transforms the creature it hits into a small, harmless animal such as a mouse (AC 8; MV 6; HD ¼; hp 1; #AT nil). This form lasts until dispelled.
+
+**Paper:** This type of arrow reduces any individual it hits to a two-dimensional paper replica of he, she, or it. This "paper doll" is life-size and is highly flammable. The duration of this effect is only 4d6 turns. After this time has expired and if the paper has not been destroyed, the individual returns to normal. These paper dolls may be folded and carried without injury to the polymorphed individual (unless the effect expires, which causes the individual to return to his normal size and shape).
+
+**Glass:** This final arrow type turns a creature it hits to solid glass. The effects of this arrow are permanent and may only be reversed with a *stone to flesh* or similar spell. A *glassteel* spell can preserve the victim from most harm until further aid can be rendered, but the spell must be removed before the victim is fully restored by other means.
+
+---
+
+## Arrow of Pursuit
+
+**XP Value:** 85 &emsp; **GP Value:** 500
+
+*Source: DRAGON Magazine #135*
+
+An arrow of pursuit is +3 to hit and damage. When shot from a bow, the arrow unerringly seeks out the living being with the greatest number of hit points within its range, then heads for that individual—no matter what the original target. In addition, if the arrow misses on its first pass, it returns on the following round, after a long curved flight, and attempts to hit the target a second time, now with a +2 bonus to attack and damage rolls. If the second pass misses, it tries one last time on the following round with a +1 bonus. If it fails then, it crashes into the earth and is destroyed. This arrow has a range of 3 miles, though it does not often need to follow its target that far.
+
+---
+
+<!-- page 96 -->
+
+An arrow of pursuit is very useful when a character wants to pick off a group leader who is moving about in an army, protected by troops. In this case, the arrow winds its way in and out of the troops until it hits its target. Only one such arrow may be found at a time.
+
+## Quarrel of Biting
+
+| Type    | XP Value | GP Value |
+|---------|----------|----------|
+| Acid    | 150      | 400      |
+| Normal  | 100      | 300      |
+| Poison  | 150      | 400      |
+
+*Source: The Ruins of Undermountain*
+
+This rare type of magical crossbow bolt does 1d6 damage when striking, turning into a small winged snake upon impact. The snake immediately hits and bites for an additional 1d4+1 points of damage. It then flies about for another two rounds, biting at the same target, before dissipating into a plume of harmless smoke. Quarrel snakes can damage creatures vulnerable to +1 weapons. Such snakes are unintelligent and uncontrollable by magical means. Their combat statistics are: AC 3; MV Fl 12 (B); HD 1+1; 9 hp; THAC0 19; #AT 1. Quarrels of biting are more common in eastern and southern lands of the Realms, but the costs listed above apply to their creation and sale prices in the North. Rumors persist across Faerûn of poisonous and even acid-spitting specimens of these weapons. Poisonous or not, most guilds, factions, and priesthoods do not consider the use of these weapons a good act (or, in the case of the priests and worshipers of Tempus, an "honorable" act). Quarrels of biting are usually found in bundles of 1d12.
+
+## Arrow, Red
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1    | 20       | 120      |
+| +2    | 50       | 300      |
+| +3    | 75       | 450      |
+| +4    | 100      | 600      |
+| +5    | 150      | 900      |
+| −1    | —        | 50       |
+
+*Source: Kingdom of Nithia*
+
+Red shafted arrows are not uncommon in Nithia. Some are made from red-colored reeds while others are dyed. The common belief is that a red arrow seeks blood, making it more likely to hit and cause damage. This belief is backed by the fact that truly magical red arrows do exist in Nithia. Their source is uncertain. Perhaps a nomadic archer, a sect of priests, or an elderly scribe created them. In any event, a true (magical) red arrow provides an equal bonus to attack and damage rolls. Bonuses are as follows:
+
+| Roll | Bonus      |
+|------|------------|
+| 1    | +1         |
+| 2    | +2         |
+| 3    | +3         |
+| 4    | +4         |
+| 5    | +5         |
+| 6    | cursed, −1 |
+
+## Arrow of Refilling
+
+**XP Value:** 100 &emsp; **GP Value:** 400
+
+*Source: Dungeons & Dragons Rules Cyclopedia*
+
+This item gives no special effects to a missile when fired. If left in a container with other missiles of the same type (that is, a refilling arrow with normal arrows or a refilling sling stone with normal sling stones), however, it magically creates 1d20 more missiles of the normal type each day.
+
+## Arrow of Returning
+
+**XP Value:** 40 &emsp; **GP Value:** 240
+
+*Source: DRAGON Magazine #135*
+
+Once fired, this arrow returns to the archer's quiver after an unsuccessful attempt to strike its target has been made. An arrow of returning is +1 to attack and damage rolls. It returns at the end of the round in which it was fired. For example, a ranger fires an arrow of returning at a dragon. Its attack roll is not high enough to damage the dragon, so the arrow returns to the ranger's quiver, where it can be used again on the ranger's very next shot.
+
+## Arrow of Rock Piercing
+
+**XP Value:** 50 &emsp; **GP Value:** 300
+
+*Source: DRAGON Magazine #135*
+
+This arrow is made of a special, magical metal. When used by an archer of at least 16 Strength, this missile automatically hits its intended target — which is a specific point of nonliving rock into which the arrow sinks, leaving around 6 inches of the rear of its shaft exposed. A small steel ring is set into the rear of the arrow, to which can be tied a thin line or cord. If an archer with an arrow of rock piercing encounters a deep chasm with no way across, he or she needs only to tie a rope to the end of the arrow and shoot the arrow at the
+
+---
+
+<!-- page 97 -->
+
+## Arrow of Piercing (continued)
+
+intended target. The arrow automatically hits its target dead center, and the archer can now cross the chasm. If a character of less than 16 Strength attempts to fire the arrow, it bounces off the rocky surface at which it was fired.
+
+The arrow of piercing is reusable; in order to retrieve the arrow, the archer simply grasps it with both hands and pulls it from the target. The arrow then slides out if an open doors roll is successful. If the roll fails, another attempt may be made one turn later.
+
+This arrow actually bounces off any fleshy creature at which it is fired (doing no damage), but it acts as an arrow +5 against any living or animated target composed of stone (stone golem, crystal warrior—others). Additionally, it slays instantly any creature that has been petrified (treat stone as AC 0), if a saving throw vs. death magic is failed; a successful save means only double damage.
+
+## Arrow of Roping
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+*Source: DRAGON Magazine #135*
+
+When used, this magical arrow leaves behind a smoky brown trail through the entire arc of its flight. The trail solidifies into a material brown rope when the arrow strikes its target, bonding to the bow that fired it. The arrow bonds to any type of wood it hits, and has a 70% chance of penetrating and bonding to stone or metal. Once bonded, the arrow never pulls free (unless excessive weight is applied), and only bends if a successful bend bars roll is made. The rope can support up to 500 pounds of weight at once before it breaks or the arrow pulls free (50% chance of either).
+
+## Arrow of Scent Detection
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+*Source: DRAGON Magazine #135*
+
+This arrow allows its user to smell odors from the location at which the arrow landed, similar to the arrows of Clairaudience and clairvoyance. This ability is activated by uttering the command word ("Scent!"), and shooting the arrow. The archer can then smell odors around the arrow's location by plugging his nose and inhaling. In so doing, the archer is able to breath normally, inhaling air from the arrow's location. One major drawback of the arrow's use is that poisonous or harmful gases may be inhaled in this manner, affecting the archer as if he or she were breathing the gases normally. If the arrow is entirely buried in water or mud, the arrow's user coughs and chokes for one round, being unable for that time to breathe, fight, or even move. This effect wears off immediately afterward, leaving the archer no worse for the experience. Odors within 30 feet of the arrow may be inhaled and sensed. Few archers use this arrow, but some rangers and scouts have detected monsters with especially strong scents.
+
+## Arrow of Screaming
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This arrow's effect occurs when the missile is fired, even if it misses the target. As it travels through the air, the missile produces a loud cry, causing all within 30 feet of its path to check morale. If the morale check fails, the victims retreat in fear for 1d8 rounds.
+
+## Arrow of Screaming II
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+*Source: DRAGON Magazine #135*
+
+When this missile is fired, it emits an ear-shattering scream that deafens all beings within 30 feet of its flight path for 1d4+2 rounds—including the archer, unless protected. In addition, those affected drop everything and cover their ears during the melee round in which the arrow is in flight. Any spellcasters lose their concentration, so all spells to be cast during this time are lost. There is a 15% chance that a set of ear plugs are found with these arrows, to protect the archer.
+
+## Arrow of Seeking
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This talent only functions when the missile is fired at an object; it is not usable against creatures. It automatically hits any one target object within range as long as the path of travel is clear. It may be used as a missile of disarming, if desired, or it can be used to sever a normal rope, pierce a sack, push a button, trigger a trap, etc. It automatically misses any creature at which it is aimed.
+
+---
+
+<!-- page 98 -->
+
+## Arrow of Seeking II
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: The Complete Book of Elves*
+
+This is a more powerful version of an arrow imbued with a seeking spell. Not only does it round corners in pursuit of its prey, it also gains a bonus of +2 damage. These arrows are usually found in groups of 1d10, although sometimes as many as 2d8 can be found.
+
+## Arrow of Set
+
+**XP Value:** 250 &emsp; **GP Value:** 1,500
+*Source: DRAGON Magazine #135*
+
+At first glance, this appears to be an ordinary arrow. Closer examination reveals the arrowhead to be made of bone and carved to resemble the head of a serpent. An arrow of Set is +1 to attack and damage. Anyone hit by one of these arrows must save vs. poison at -1 or die within 1d4 rounds. A character whose saving throw is successful takes 2d6 hit points damage from the venom in addition to the damage taken when hit. The arrow disintegrates on impact.
+
+Making an arrow of Set requires bone from a poisonous snake (for the arrowhead) plus the snake's venom (the arrowhead is steeped in it). A priest must cast *poison* on the arrowhead during the enchantment. Only one is found at a time.
+
+## Arrow of Signaling
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+*Source: DRAGON Magazine #135*
+
+This magical arrow has a brightly colored shaft, usually red, orange, or yellow in color. It sports a crystalline point. If used as a weapon, it does normal damage. However, if fired directly into the air, at least 100 yards over the head of the bowman, it leaves a trail of glittering sparks behind it from the 100-yard height up to a height of 500 yards, regardless of the type of bow from which it was fired. When the arrow is 500 yards above the archer, the arrowhead explodes in a sphere of light 100 yards across — of the same color as the arrow's shaft. The ball of light is visible for many miles and lasts for 2d4 melee rounds before fading. The arrow disintegrates upon bursting.
+
+## Arrow of Silence
+
+**XP Value:** 20 &emsp; **GP Value:** 120
+*Source: DRAGON Magazine #135*
+
+This magical arrow is very useful indeed — especially when PCs are seeking entry to some heavily guarded fortification. Not only does this arrow hide the "twang" of bow shots, it also silences any noise made by its target. Furthermore, any actions conducted within a 15-foot radius of the arrow are cloaked as if by a permanent version of the priestal spell, *silence 15' radius*.
+
+## Arrow of Sinking
+
+**XP Value:** 200 &emsp; **GP Value:** 400
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When fired at a water craft, an arrow of sinking inflicts 1d10+10 (11–20) points of hull damage when it hits. (The AC of the vessel is used, as if the shot were a ramming or catapult attack.)
+
+## Arrow of Slaying
+
+**XP Value:** 250 &emsp; **GP Value:** 2,500
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+If the die rolls for a missile indicate this ability, roll 1d100. The result indicates the missile's opponent. When an opponent is hit by this missile, the victim must make a saving throw vs. death magic or die.
+
+| Roll  | Opponent               | Roll  | Opponent              |
+|-------|------------------------|-------|-----------------------|
+| 01–06 | Bugs                   | 59–67 | Reptiles and dinosaurs |
+| 07–09 | Constructs             | 68–70 | Spell-immune monsters |
+| 10–15 | Dragonkind             | 71–76 | Spellcasters          |
+| 16–24 | Enchanted Monsters     | 77–88 | Undead                |
+| 25–36 | Giantkind              | 89–94 | Water breathing monsters |
+| 37–48 | Lycanthropes           | 95–00 | Weapon-using monsters |
+| 49–52 | Planar Beings          |       |                       |
+| 53–58 | Regenerating monsters  |       |                       |
+
+- Bugs include all normal and giant-sized forms of arachnids (spider, tick, scorpion, etc.), insects (ant, beetle, fly, etc.), and chilopods (centipedes, etc.).
+- Constructs include all created monsters such as living statues or golems. Gargoyles are also included in this category.
+- Dragonkind includes dragons of all colors and sizes plus draconian monsters such as the chimera, hydra (all types), salamander, and wyvern.
+- Enchanted monsters include those creatures that cannot be hit by normal or silver weapons.
+- Giantkind includes all giants and all giant-
+
+---
+
+<!-- page 99 -->
+
+I have no text content to process for this page — the Tesseract OCR output is empty, and no structured table data was provided.
+
+If you have an image of page 99 you'd like me to work from, please share it and I'll produce the clean markdown accordingly.
+
+---
+
+<!-- page 100 -->
+
+## Arrow of Slaying (Continued)
+
+type creatures such as ogres, cyclopes, and other humanoids that are larger than human-size (including characters who have consumed a potion of growth).
+
+- Lycanthropes include all werecreatures, whether in animal form or not, and all characters afflicted with lycanthropy.
+
+- Planar monsters include those creatures that come from the Elemental, Ethereal, Astral, or Outer Planes. All types are included, but Immortals do not count as planar monsters.
+
+- Regenerating monsters include all creatures that regain more than 1 hit point per day by rest or other means. This includes any creature wearing a ring of regeneration.
+
+- Reptiles and dinosaurs include all normal and giant-sized forms of lizards, snakes, turtles, crocodiles, and dinosaurs.
+
+- Spell-immune monsters include those creatures that are immune to 1 or more spell levels, as specified in the monster descriptions (such as drakes). This does not include creatures that are immune merely to certain specific spells (such as the undead immunity to sleep, charm, and hold).
+
+- Spellcasters include all priests, elves, wizards, and other creatures able to use spells.
+
+- Undead includes all types of undead creatures, both land and water, from skeleton to lich.
+
+- Water-breathing monsters include those creatures able to breathe water, including characters under the influence of a potion or ring of water breathing. Note that aquatic mammals breathe air and are not included in this category.
+
+- Weapon-using monsters include those creatures that have weapons in hand (not claws) at the time of a melee. For example, a wererat wielding a sword would be affected by this additional bonus, but the wererat would not be affected if it were attacking only with its bite.
+
+## Arrow of Slaying II
+
+**XP Value:** 250 &emsp; **GP Value:** 2,500
+
+*Source: DRAGON Magazine #35*
+
+Ineffective against "wild and crazy" comedians, even when struck in the head. In game terms, this arrow is −2 to attacks against bards.
+
+## Arrow of Slaying III
+
+**XP Value:** 250 &emsp; **GP Value:** 2,500
+
+*Source: DUNGEON MASTER Guide*
+
+This is an arrow +3 with unusual physical characteristics—a shaft of some special material, feathers of some rare creature, a head of some strange design, a rune carved on the nock, etc. These characteristics indicate the arrow is effective against some creature type. If the arrow is employed against the kind of creature it has been enchanted to slay, the missile kills it instantly, if it hits the target creature. The following list comprises only a portion of the possible kinds of these arrows:
+
+| Roll | Creature | Roll | Creature |
+|------|------------|------|-------------|
+| 1 | Arachnids | 11 | Illusionists |
+| 2 | Avians | 12 | Mages |
+| 3 | Bards | 13 | Mammals |
+| 4 | Priests | 14 | Paladins |
+| 5 | Dragons | 15 | Rangers |
+| 6 | Druids | 16 | Reptiles |
+| 7 | Elementals | 17 | Sea monsters |
+| 8 | Fighters | 18 | Thieves |
+| 9 | Giants | 19 | Titans |
+| 10 | Golems | 20 | Undead |
+
+Develop your own types and modify or limit the foregoing as fits your campaign.
+
+In a DRAGONLANCE Campaign: The arrow of dragon slaying does not exist on Ansalon. See Arrow of Draconian Slaying.
+
+## Arrow of Slaying IV
+
+**XP Value:** 250 &emsp; **GP Value:** 2,500
+
+*Source: Land of Fate*
+
+This arrow uses the following table in Zakhara:
+
+| Roll | Victim | Roll | Victim |
+|------|------------------|------|----------------------|
+| 1 | Arachnids | 11 | Hierarchy priest |
+| 2 | Bard | 12 | Mammal |
+| 3 | Bird | 13 | Paladin |
+| 4 | Elemental | 14 | Ranger |
+| 5 | Elemental wizard | 15 | Reptile |
+| 6 | Enlightened* being | 16 | Sea Creature |
+| 7 | Fighter | 17 | Sha'ir |
+| 8 | Free Priest | 18 | Sorcerer |
+| 9 | Genie | 19 | Unenlightened being |
+| 10 | Giant | 20 | Undead |
+
+*See Sword of the Believer for definitions of enlightened and unenlightened.
+
+---
+
+<!-- page 101 -->
+
+## Arrow of Sleighing
+
+**XP Value:** — &emsp; **GP Value:** 50
+
+*Source: DRAGON Magazine #35*
+
+When this powerful item is drawn in a bow, in a combat situation, it immediately expands and unfolds into a full-size, four-place toboggan.
+
+## Arrow (Snake)
+
+**XP Value:** 50 &emsp; **GP Value:** 100
+
+*Source: POLYHEDRON Newszine #47*
+
+When loosed, these arrows +1 transform themselves into pit vipers (AC 8; HD 4; hp 3; #AT 1; Dmg 1d4; SA poison). Their poison is weak, so all saving throws are at +1. They remain in snake form until killed (which also destroys the arrows). A *dispel magic* spell causes them to turn into nonmagical arrows.
+
+## Arrow of Speaking
+
+**XP Value:** 50 &emsp; **GP Value:** 150
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A missile with this talent misses any creature at which it is fired—it is used for communication purposes only. The user may give the missile any message of 20 words or less and then shoot it, either naming a place within 10 miles or aiming at a target. The missile automatically lands on the floor or ground in the target area, repeats its message aloud twice, and falls silent.
+
+## Stun Bolt
+
+**XP Value:** 200 &emsp; **GP Value:** 700
+
+*Source: Dwarves Deep*
+
+This special crossbow quarrel can be fired from any size crossbow from hand to heavy, and looks like a stone door knob on a short, thin shaft. When fired, a stun bolt behaves in all cases (range, ROF, etc.) as if fired from a hand crossbow. However, on impact it shatters into dust-sized motes, releasing a stunning magical shock of force that does 2d4 damage to any being struck. Victims of a stun bolt strike are unable to think or act coherently for the round following the hit (no saving throw). Only living things are affected—undead and objects suffer no shock effects. Such weapons are often used by dwarven guards.
+
+## Arrow of Stunning
+
+**XP Value:** 250 &emsp; **GP Value:** 750
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A victim hit by a missile with this talent must make a saving throw vs. spell or be stunned for 1d6 rounds.
+
+## Arrow of Stirge's Bite
+
+**XP Value:** 130 &emsp; **GP Value:** 780
+
+*Source: DRAGON Magazine #135*
+
+This arrow +5 has a steel shaft and is rather large in size. When the arrow hits, it drains one ounce of its target's blood, which is then stored in a hollow compartment in the shaft. The following round, the arrow detaches itself from its victim and may be recovered later by the archer. Due to the importance of blood as an ingredient in the fabrication of scroll inks and potions, this arrow is highly prized by wizards, priests, and alchemists.
+
+## Arrow of Teleporting
+
+**XP Value:** 400 &emsp; **GP Value:** 800
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A victim hit by a missile with this talent must make a saving throw vs. spell (at a +2 bonus to the roll) or be teleported to a point 1d100 miles away, with direction and distance determined randomly. The victim cannot arrive in the air or within a solid object.
+
+---
+
+<!-- page 102 -->
+
+## Arrow of Transporting
+
+**XP Value:** 400 &emsp; **GP Value:** 800
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A victim hit by this missile must make a saving throw vs. spell or be sent to a point up to 360 feet away, as determined by the missile user. This is identical to the wizard spell dimension door, and cannot cause the victim to appear within a solid object.
+
+## Arrow, Wooden
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: The Complete Book of Elves*
+
+This is a completely organic arrow. Made entirely from wood and carved with ornate runes, it appears to be nothing more than a novelty, or perhaps a woodcarver's doodle. In reality, this arrow is a very dangerous weapon, and it radiates strong enchantment magic.
+
+The arrow ignores all nonorganic armor. Thus, metal armor offers no protection against this missile, while leather, hide, and scale mail made from a creature's skin offer normal bonuses. Studded leather protects only as leather armor.
+
+Those wearing metal armor are considered to be AC 10 against this arrow. Magical protection still applies; thus, plate mail +4, although normally AC −1, would instead be AC 6 against the wooden arrow.
+
+These arrows are never found in bunches. If encountered, there is but a single shaft. Furthermore, the wooden arrow is an exception to elven arrows in that it is always destroyed when fired, regardless of whether or not it hits anything. The wood necessary to the enchantment is such that it can function no other way.
+
+## Arrow of Wounding
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When a missile with the wounding talent strikes a target creature, it inflicts normal damage. In addition, however, it causes the loss of 1 hit point per round thereafter until a magical cure is applied (a potion, cure spell of any type, etc.). However, no undead creature or construct (golem, living statue, etc.) can be wounded with this talent, and such creatures suffer only the initial damage.
+
+## Arrowhead of Marking
+
+**XP Value:** 25 &emsp; **GP Value:** 50
+
+*Source: The Ruins of Undermountain*
+
+These normal-looking stone arrowheads must be shaped by the being enchanting them. The common use of these devices is as dungeon and maze markers. If one is placed on a stone surface, and a command word (set during the enchantment of the item) spoken, the arrowhead sinks into the surface of the stone. There it fuses, leaving a clearly visible arrowhead mark, pointing in the direction it was set.
+
+These items may be used to point directions, or multiples can be placed to form code symbols or messages in the stone walls, floors, and ceilings of buildings, cave networks, or dungeons. Harpers often place them on stones in outdoor areas, to mark trails or burial sites. Typical treasure hoards contain 2d12 of these arrowheads.
+
+## Art
+
+Few magical pieces of artwork (paintings and portraits in particular) exist in the AD&D campaign worlds, but those that do show an amazing diversity of properties. Some can be used by non-mages simply through proper concentration; others can be used to their fullest extent only by wizards. Most radiate a magical aura. Unless otherwise specified, magical paintings are totally immune to normal fire and to normal crushing blows, or the effects of time. They gain a +4 saving throw bonus vs. other hazards (magical fire, electricity, and so on), reflecting the strength of their dweomers.
+
+## Blue on Bronze
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,500
+
+*Source: Dragon Magic*
+
+This painting is an abstract swirl of deep blues and violets. If anyone studies the painting for 2d10 minutes, a voice sounds in his or her head asking for a question. If the character rolls a successful Wisdom Check, the magical painting correctly answers any yes or no question. The painting answers one question per being per day.
+
+## Dragonnel-by-the-Cliff
+
+**XP Value:** — &emsp; **GP Value:** 9,000
+
+*Source: DRAGON Magazine #179*
+
+This is an unframed square painting, 3 feet to a side, and mounted on tightly stretched dragonnel
+
+---
+
+<!-- page 103 -->
+
+## Painting of the Dragonnel (continued)
+
+hide. Its powers are mostly unknown, and this fact alone makes the painting worth 5,000 gp. Unlike the other paintings described in this section, Dragonnel radiates no aura of magic. Only an *identify* spell can show that it is magical. This work was created two centuries ago by the half-drow wizard Liemuai (now rumored to have become the lich lord of an Underdark kingdom) and is thought to reside in the treasure repository of some drow noble. This painting originated from an undisclosed location in the Pomarj region of Greyhawk. It depicts a large dragonnel perched on a rocky cliff above a river valley.
+
+By concentrating and speaking the word of summoning, "fuga," the viewer can call forth the dragonnel, causing it to vanish from the painting and appear before the summoner. The dragonnel is totally obedient to the mental orders of the person who called it forth, willing to act as a mount to the limits of its strength or to fight to the death. Note that obedience is not transferrable, since the mental rapport necessary for control exists only between the dragonnel and its summoner.
+
+Dragonnel: (INT semi-; AL NE; AC 3; MV 12, Fl 18 (C, D if mounted); HD 8+4; hp 68; THAC0 11; #AT 3; Dmg 1d6/1d6/4d4; SA tail slap to the rear, with no other attack, for 2d6; ML 13.)
+
+If called during the day, the dragonnel remains in existence until the sun touches the horizon, disappearing instantly—with no warning (potentially embarrassing to its rider if in flight at the time). If called during the night, it disappears at the moment the sun first appears above the horizon. The dragonnel can be dispelled by its summoner at any time, returning it to the painting. If the beast is killed, the corpse remains until the sun next touches the horizon, then returns to the painting. The dragonnel can only be summoned once in any 24-hour period; even if it is slain, another dragonnel can not be called again for 24 hours.
+
+Alternatively, by concentrating on the painting for one round and speaking the word of changing, "mutare," the viewer can shape change (like the wizard spell) into a dragonnel. The duration of the effect is 20 turns, but it can be dispelled by the viewer at any time before it expires. This power can be used three times a day.
+
+---
+
+## The Gladiators
+
+**XP Value:** — &emsp; **GP Value:** 48,000
+*Source: DRAGON Magazine #179*
+
+The Gladiators is a large painting, 6 feet square, heavy and cumbersome. As its name implies, the painting depicts four heavily armed and armored gladiators facing each other in a sandy arena. It was painted by Arlena the Fair, to ward her country villa. Arlena herself vanished two decades ago and is believed to be dead. The painting disappeared around the same time, but rumors have since reported it in various locales. Because of the size of the painting, transporting and hiding it have undoubtedly proved to be serious problems.
+
+If a human, demihuman, or humanoid (except Arlena herself) walks within 10 feet of the painting without first saying a special password (this word is thought to be lost with Arlena), the victim and all clothing and equipment are immediately transported into the painting. This effect is similar to that of a *mirror of life trapping*, except that it does not require the victim to look at the painting. Once within the painting, the victim is immediately attacked by the four chain mail-clad gladiators.
+
+Gladiators (4): (INT average; AL N; AC 4; MV 12; F6; hp 48 each; THAC0 15; #AT 2; Dmg by weapon type; splint mail, two-handed sword.)
+
+---
+
+<!-- page 104 -->
+
+The gladiators are totally resistant to all enchantment/charm, fear, and other mind-affecting spells; to other spells, they have a 60% magic resistance. They are totally single-minded in their intent to kill the victim and cannot be reasoned with in any way.
+
+If the victim is slain, the body is immediately transported back outside the painting. If the gladiators are slain, the victim cannot escape from the painting unless someone outside speaks the word of release, "libertas," which may be learned by casting a *legend lore* spell. Any damage received from the gladiators is real and can be cured normally. None of the gladiators' weaponry or armor may be brought out of the painting.
+
+Up to eight creatures may be trapped by the painting at any one time. They are kept totally separate from each other, each with four gladiators to fight. When the word of release is spoken, the creature who has been trapped the longest is the first to be released (first in, first out). For each subsequent repetition of the word, another creature is released until all have been freed. If the painting is "full" and a ninth creature passes by, the ninth victim is trapped and the creature who has been within the painting the longest is freed. When a creature is trapped by the painting, his or her image—seemingly part of the painting—appears in the arena, but remains visible for only one round. After that time, the painting returns to normal.
+
+If someone outside the painting speaks the word of summoning, "aggredivi" (also lost with Arlena but recoverable with *legend lore*), the four gladiators vanish from the painting and appear standing before it. (Note that this has no effect on anyone within the painting; they still have their own four gladiators to deal with.) The gladiators immediately attack anyone designated by the person who spoke the word, and fight until either they or their opponents are dead. This is all they can do; if there is no one to fight, or if their summoner tries to give them other instructions, they immediately return to the painting. Once the combat is over, one way or the other, the gladiators or their corpses (and all equipment) vanish and the painting returns to normal. The gladiators can be summoned once per day. The word of summoning must be spoken within 50 feet of the painting.
+
+---
+
+## Glorindel's Gates
+
+**XP Value:** — &emsp; **GP Value:** 10,000
+
+*Source: DRAGON Magazine #179*
+
+During her sojourn across the lands of the Forgotten Realms, but before her return to the city of Waterdeep (and eventual disappearance), the wizard-bard Glorindel put much effort into creating a number of small, exquisitely crafted paintings depicting places she had visited on her extensive travels. As suited her peaceful nature at this time, they were typically uninhabited areas of great scenic beauty—sylvan glades, wilderness lakes, and forbidden plateaus. Some paintings, however, depicted some less scenic areas that were of importance to her, such as the Market in Waterdeep and the courtyard of her villa. These small paintings, her gates, were Glorindel's favored means of transport.
+
+Any human, demihuman, or humanoid with Intelligence not less than 13 and Wisdom not less than 12 may harness the power of one of these paintings. If the painting is stared at, uninterrupted, for two rounds, the viewer experiences the sensation of the image in the painting enlarging until it fills his or her entire field of vision, becoming ever more real as it enlarges. After a further round, the viewer is able to "step into" the
+
+---
+
+<!-- page 105 -->
+
+painting. The effect is identical to the spell *teleport without error*. To someone standing nearby, the viewer seems to simply vanish, along with all items carried. The painting does not teleport with the user (although if the viewer has another of Glorindel's gate paintings in his or her backpack, the second does teleport).
+
+Although Glorindel's home in Waterdeep was destroyed by undead foes, her body was never found. Some believe that she used one of her gates to effect her escape when it became apparent that all was lost. Whatever the case, Glorindel has not been seen since. No one knows how many of Glorindel's gates were created or may still exist. Only three are known for certain to have survived, all owned by the bard Diarmund of Waterdeep. All of Glorindel's gates are small paintings, usually less than 1-foot square. Unlike most other magical paintings, they have no innate resistance to harm; they can be damaged and destroyed like any normal painting.
+
+## Glorindel's Living Painting
+
+**XP Value:** — &emsp; **GP Value:** 36,000
+*Source: DRAGON Magazine #179*
+
+Further triumphs of Glorindel's art were her "living paintings." These are generally square, and up to 6 feet per side, usually depicting scenic panoramas. The magic involved in these works is more apparent than that of the gates as the scenes in these paintings actually move. In a seascape, the clouds may race, sea gulls fly, and waves wash over the rocky shore. In a forest scene, the sun may cast shifting beams of light through the gently moving branches. These paintings are, without exception, strikingly beautiful, and could—if it weren't for their frames—almost be mistaken for windows.
+
+Although their major purpose is to please the eye, each of these paintings has additional powers. When triggered by a command word "fascinum," each has the effect of the spell *hypnotic pattern*. This effect lasts until dispelled by another command word "en." In addition, the following spells may be cast upon creatures captivated by the painting, each spell triggered by its own word of command: *blindness*, "caecitas;" *suggestion*, "obsequium;" *geas*, "exite;" and *sleep*, "somnmus." These spells have no effect on anyone not previously captivated by the *hypnotic pattern* effect, and the spells do not count as being cast from the viewer's mind. Each is usable once per day.
+
+As with Glorindel's gates, no one is sure precisely how many living paintings Glorindel created or how many have survived. Due to their
+
+---
+
+<!-- page 106 -->
+
+## Igraine's Portrait
+
+**XP Value:** — &emsp; **GP Value:** 54,000
+
+*Source: DRAGON Magazine #179*
+
+In her dual roles as Court Wizard and Court Painter of the minor barony Freeman's Pass, Igraine created a number of remarkable portraits for her liege, Lord Balto.
+
+Although many of these paintings perished (as did Igraine herself) when Freeman's Pass was overrun by an army of were-creatures, some have survived the last century and a half to the present day.
+
+Each of these paintings depicts one person — a close friend, a trusted counsellor, close advisor, or family member — with whom Lord Balto would often have cause to consult. The purpose of these paintings was to make such consultation easy. Simply concentrating on the painting sets up a strong mental rapport between the viewer and the person depicted. The rapport takes one complete round to develop; after that time, it allows the two people to communicate fully as though through telepathy. There is no limit to the duration of the rapport or to the number of times it can be established. All that is required is for the viewer to look at the painting and concentrate on establishing the rapport. During rapport, both participants can engage in no other activity.
+
+As the rapport is being established, the person depicted becomes aware of a chilling cold and a sensation of presence. If the person is willing to enter communication, rapport is established after one round; if unwilling, a save vs. spell must be made to terminate contact. A successful save means that contact is broken and cannot be reattempted for a period of one hour. If the save fails, the person being contacted has one last chance to resist rapport. During the round that establishes rapport, contact may be resisted by the use of mind-shielding spells, devices, or psionics. Once established, rapport can only be broken by the viewer or through the death or loss of consciousness of one of the participants — there is no range limit.
+
+All of Igraine's portrait paintings still in existence, except for one to be discussed later, depict people who have died since the creation of the paintings. If anyone, through ignorance or design, tries to establish rapport through such a painting, there is a fixed 50% chance of establishing rapport with the spirit of the dead person. Treat the rapport as the spell *contact other plane*. To determine the chances of insanity, knowledge, and veracity, assume the spirit is nine planes removed from the viewer of the painting. The viewer can ask one question for each two levels of experience (only wizards receive benefit for Intelligence scores over 15). Since rapport with a dead person requires much more of the painting's power, this can only be attempted once per day.
+
+Rumors tell of one surviving painting that does not depict a dead confidant of Lord Balto. This is the painting that Igraine was working on at the time of her death. The background is complete, as is the body of the person depicted — only the face is missing. Perhaps because its dweomer was not finally bound by the completion of the painting, this famed "unfinished portrait" has an additional power over and above those possessed by Igraine's other works. By concentrating strongly on the painting for a period of two rounds, the viewer can make the likeness of anyone well known by the viewer to appear in the portrait. The painting can then be used to establish rapport with that
+
+---
+
+<!-- page 107 -->
+
+*(continuing from previous page — this page begins mid-entry)*
+
+person (in this case, a saving throw is automatic whether the person being contacted is willing or not). If rapport fails or is broken, the face vanishes from the portrait again. This power can be used once every two full days. Although no firm information is available, there is a persistent rumor that Igraine's unfinished portrait hangs in the halls of a dwarf king.
+
+## Norval's Timely Portrait
+
+**XP Value:** 750 &emsp; **GP Value:** 4,000
+*Source: POLYHEDRON Newszine 8*
+
+This small canvas, inset in a wooden frame, fits into the palm of one's hand. To use it, a command word is spoken and the canvas is held up to a living subject for 10 minutes. At the end of that time, an image of the subject appears on the canvas. During the life of the subject, the painted figure mimics the portrayed individual, showing age and well being. At the point when the subject passes from this world (even if just leaving the plane), the canvas is wiped clean and is ready to be used again.
+
+## Pigments of Longevity
+
+**XP Value:** 5,000 &emsp; **GP Value:** 50,000
+*Source: DUNGEON Magazine 10*
+
+This powerful but perilous magical item extends the life-span of the person whose features are portrayed on its canvas. The canvas must be subjected to *enchant an item*, *polymorph object*, *trap the soul*, and *wish* spells as a diamond of at least 50,000 gp value is crushed and sprinkled on its surface. The portrait must be painted by a living master painter, using pigments of longevity. As the last brush stroke is applied, the portrait must be dried using another *wish*. Then 1d100 is rolled against the following table.
+
+| Roll  | Effect                                                                               |
+|-------|--------------------------------------------------------------------------------------|
+| 01–20 | Subject's body shrivels, and his or her essence is trapped for eternity in the portrait. |
+| 21–35 | No effect; subject ages normally. Portrait may not be retouched.                     |
+| 36–60 | Subject's life-span is doubled.                                                      |
+| 61–80 | Subject's life-span is tripled.                                                      |
+| 81–95 | Subject's life-span is quadrupled.                                                   |
+| 96–99 | Subject's life-span is quintupled.                                                   |
+| 00    | Subject's aging capacity ceases. Immortality is achieved!                            |
+
+Only one portrait of longevity may be made of a person during his or her lifetime, but a portrait may be periodically retouched with pigments of longevity. Each time a portrait is retouched, the table above must be consulted to determine the potency of the restoration. Thus, a subject may be trapped forever or gain immortality the second time around, and must decide if the gamble is worthwhile. Even *wish* spells cannot alter a roll on this table.
+
+The formula for a portrait of longevity is inherently evil. There is a 1% cumulative chance per decade that an alignment shift toward chaotic evil (lawful to neutral to chaotic; good to neutral to evil; one axis at a time) affects the figure depicted by a portrait of longevity.
+
+If the portrait is destroyed, the following table should be consulted:
+
+| Roll  | Effect                                                                                             |
+|-------|----------------------------------------------------------------------------------------------------|
+| 01–20 | Subject turns to dust, forever dead.                                                               |
+| 21–65 | Subject reverts to true age. If that age is greater than venerable, the subject dies.              |
+| 66–99 | The subject ages normally from the current, apparent age.                                          |
+| 00    | Subject's aging capacity is destroyed with the portrait — Immortality is achieved!                 |
+
+Portraits of longevity are extremely rare. The only known location of the formula for creating them is the Astral Tome of Iidranadun, an artifact last known to exist in the astral stronghold of the Archmage Azurax.
+
+## Portraiture by Magic
+
+**XP Value:** 4,000 &emsp; **GP Value:** 40,000
+*Source: DRAGON Magazine 73*
+
+A canvas is stretched on an ordinary artist's frame; when a magical word is spoken, the canvas takes on the image of whatever faces it. The result is a very realistic painting.
+
+## The Watchers
+
+**XP Value:** — &emsp; **GP Value:** 12,000
+*Source: DRAGON Magazine 179*
+
+Created over three centuries ago by Tal Alanan, an evil elven wizard, The Watchers is a bulky painting, 4 feet wide by 3 feet high, on heavy canvas. When last reported, it was framed in dark oak. The work depicts a wooded area with heavy undergrowth. Barely discernible are the eyes of
+
+---
+
+<!-- page 108 -->
+
+## The Watchers
+
+several creatures watching through the bush (a viewer must consciously examine the picture to notice them). The dark-colored style has an oppressive, almost menacing, feel to it. Just passing the picture or seeing it in peripheral vision gives the viewer an overpowering impression of subtle movement; leaves seem to shift, and the bush seems to stir as creatures move behind cover. Looking directly at the painting removes this discomforting effect.
+
+Concentrated scrutiny for more than one round activates the powers of the painting. The viewer becomes disoriented, then feels that he or she is being drawn into the painting. If a saving throw vs. spell fails, the viewer's mind merges with the consciousness of a small, woodland animal, such as a fox or an owl, one actually existing in the wooded area nearest to the painting (and viewer) at the moment, within a range of 20 miles. If no such woodland area exists or if the viewer's saving throw is successful, no ill effects are suffered. If mental merging with an animal does occur, the viewer's sensory perspective moves as the animal does, and all senses become heightened and attuned to the forest and the creature.
+
+Unless the viewer is aware of the problem and concentrates on avoiding it during the moment of disorientation, the victim's mentality becomes one with the small animal as well, unable to withdraw. (Recognizing this problem requires a Wisdom check on 1d20 each time the painting is gazed at until the viewer makes the check. The check need not be made again.) Once this magical union is joined, it can be broken only by blocking the victim's view of the painting or an anti-magical field (not by *dispel magic*). During this union, the participant's body becomes rigid and unresponsive, while heart and breathing rates rise drastically, posing severe danger. For every 10 rounds the victim remains magically captured by the painting, a successful system shock roll must be made or take 3d6 hit points damage from physical exhaustion.
+
+When an unwitting mental union is broken, the victim's heart rate and breathing drop back to normal, but the animal mentality remains. For each round such a union exists, the animal mentality remains for one round after union is broken. Role-playing this event is left to the DM and player involved. After this period, the victim's mind returns to normal. This does not occur if the viewer passes the Wisdom check.
+
+If the viewer makes the Wisdom check and then voids the subsequent saving throw, he or she is in control of the merged animal when the union occurs, able to move anywhere at will, within the nearby woodland, with movement and speed appropriate to the animal (see the *Monstrous Manual* accessory under Mammal, Small, or the appropriate animal type; only normal, non-magical animals are contacted). In such a case, the viewer can break contact at will, returning to his or her own body immediately. However, the stress on the heart, requiring a system shock roll, still exists.
+
+In addition to controlling the animal, someone who knows the powers of the painting can even choose where the animal to be controlled is located. Before viewing the painting, the user must concentrate on the desired region. The only restriction is that the area must be wooded and within 50 miles. As with teleportation, the chance of successfully "reaching" the target area depends on familiarity; use the same probabilities for success as for the spell *teleport*, in the PHB. If the viewer fails the roll (comes in "low" or "high") or does not concentrate on a specific locale, the wooded area used is the one nearest to the painting within a 20-mile radius.
+
+If, during the union, the animal is wounded,
+
+---
+
+<!-- page 109 -->
+
+## Widow's Walk
+
+**XP Value:** — &emsp; **GP Value:** 40,000
+
+*Source: DRAGON Magazine #179*
+
+This painting shows the crowded dockside of a bustling port. Created by Balfas the Seafarer, famed for his love of ships and all things nautical, the painting was reportedly destroyed in the sack of his island manor, but reappeared in the collection of Ramoth, of Northport. This is often cited as evidence that Ramoth in fact funded the raid on the manor—in any case, there is serious doubt that Ramoth can tap, or is even aware of, the true powers of his prize.
+
+When someone viewing the painting looks closely at the crowd on the dockside, he or she immediately notices a representation of the person most on the viewer's mind during that day. While initially startling and intriguing, this is but a minor effect of the painting, an intimate alignment with the viewer's mind.
+
+The major power of the painting is to allow the viewer total protection from divination, detection, and scrying spells or powers. The viewer cannot be detected from afar by any means while concentrating on viewing the painting for 10 rounds. Psionics, scrying spells, devices such as crystal balls and magical mirrors—all are useless. If the viewer is a wizard of 6th level or above, this effect protects the character from detection by any creature up to the status of a demigod. The isolation effect lasts for up to eight hours or until the invoker consciously dispels it. During this time, he or she need not concentrate on maintaining the effect; nor is it necessary to continue viewing the painting. The effect can be invoked only once per day and can be granted to but one person at a time. This power does not confer any form of invisibility; the protection is restricted to magical and psionic forms of detection alone.
+
+---
+
+*[Note: This page also contains the continuation of a preceding painting entry (likely "Tal Alanan's painting"), which reads as follows:]*
+
+…the viewer immediately loses a proportion of hit points equal to the proportion lost by the animal (if a 4-hit point fox takes a wound doing 3 points damage, the viewer immediately takes damage equal to ¾ total hit points, not the character's current hit point value); fractions are rounded down; save vs. death magic for half of this damage. If the animal is killed, the viewer must save vs. death magic or die instantly. (Even if the saving throw is successful, hit points drop to one, and the victim falls unconscious for 4d4 rounds.)
+
+Any spellcaster who successfully avoids merging with an animal mind, then concentrates on the painting for 10 uninterrupted rounds, gains the power to cast one of the following spells, chosen at will: *entangle*, *call woodland beings*, *speak with animals*, *animal friendship*, *invisibility to animals*, *transport via plants*. This spell is in addition to the character's spell allotment for the day. In the case of nondruid spellcasters, the level of casting is 6th level; for druids, the level of casting is the druid's own level plus two, or 6th level, whichever is greater. Each spell gained can be used only once and must be cast within a 24-hour period of viewing the painting, or else the acquired spell fades from the caster's mind.
+
+It is said that Tal Alanan kept close, covert watch over his elven subjects using this painting, and he was greatly feared for his intimate knowledge of the occurrences within his minor kingdom. Until he was overthrown by a neighboring woodland kingdom, he successfully crushed every rebellion raised against him and controlled all aspects of life within his magical reach. After his death, his possessions (including the painting) were collected, but later stolen by rival wizards. The painting's whereabouts are currently unknown.
+
+---
+
+<!-- page 110 -->
+
+Any creature that can see the viewer directly can attack without interference from the picture.
+
+In addition to the isolation effect, the viewer of the painting can cast each of the following wizard spells once per day, at the 18th level, by staring at the painting for one uninterrupted hour: *control weather*, *part water*, *water breathing*, and *fog cloud*. These spells may be maintained indefinitely in the viewer's mind if uncast.
+
+The painting is relatively small, 2- by 2-foot square, and is lightly framed. Despite its fragile appearance, it is totally immune to damage from water or lightning. All other damage is saved against at +2.
+
+## Astrolabe
+
+The historical astrolabe was a device used to determine the position of the sun, the moon, and other celestial objects. Originally, the navigator of a sea-going vessel would locate a relatively stationary stellar object (the North Star, for instance) and find its position. From that reading, the navigator would be able to calculate the approximate latitude of the ship. Since most sea travel was done on an east-to-west axis from common ports, the navigator rarely needed to know the longitude. Simply knowing that the ship was three days out of home port, the navigator would know the approximate number of days left in the voyage. The navigator did need to know how far north or south he or she was from the destination.
+
+A magical astrolabe allows a navigator to know exactly where the ship is, both in longitude and latitude, without having to make exact measurements and precise calculations.
+
+## Astrolabe, Celestial
+
+**XP Value:** 2,000 &emsp; **GP Value:** 8,000
+*Source: War Captain's Companion*
+
+Celestial astrolabes are large, fixed devices. They are used to display the location of astronomical bodies of Class A and larger. These fixed astrolabes display a large, spherical projection, and must be used inside a crystal sphere, in a dark room, or during the night, when no lights can disturb the picture. The item creates a three-dimensional picture, exactly to scale. The astrolabe shows the orbital path and the current location of every large or major celestial body in the crystal sphere. The 3-D picture perfectly fits the room it is in, or a radius of 30 feet, whichever is smaller.
+
+The points of varying colors of light a fixed astrolabe creates show the motions and colors of all planets, moons, suns, asteroids, and comets (though some anomalies cannot be penetrated). A small point of white that blinks once every second shows the relative position of the astrolabe in the system. This is often used in navigation rooms to check course changes and verify headings.
+
+A celestial astrolabe always operates, and cannot be turned off. Merely bringing a light source into its room, however, is enough to nullify the faint picture it presents. Thus conferences and meetings can be held in a room with an astrolabe without the attendees realizing one is present.
+
+## Astrolabe of Henrik
+
+**XP Value:** — &emsp; **GP Value:** 8,000
+*Source: In the Phantom's Wake*
+
+The astrolabe of Henrik is a cursed item of great power. When activated, it sends the user and everything within 10 feet of the user to the nearest cursed location or to a place enchanted by evil. The astrolabe of Henrik usually sends people to the Hollandes, but the DM is free to send the characters anywhere. The device itself does not go with the transported party.
+
+## Astrolabe of Entrapment
+
+**XP Value:** 10,000 &emsp; **GP Value:** 100,000
+*Source: A Dozen and One Adventures*
+
+Only a handful of these powerful items exist. They appear to be metal, spherical astrolabes, inscribed with the locations of constellations and planets. Like all astrolabes, they are useful to wizards with the astrology proficiency, who can use the device to determine the hour, date, and location in terms of degrees latitude (each requiring a successful ability check). In addition, this item magically draws power from the motion of the stars and planets in the heavens and uses the energy to imprison genies.
+
+An astrolabe of entrapment contains 12 genie prisons arranged in an elaborate mechanism inside its metal sphere. As the constellations wind their paths across the night sky, the inner cycle of prisons slowly revolves. Only one genie prison in the device is active in any given month. During that time, the owner of the astrolabe may employ any or all of its three functions:
+
+- Summon the genie trapped within the active prison. Roll on the following table to determine each of the 12 prison contents:
+
+---
+
+<!-- page 111 -->
+
+| d100 Roll | Type of Genie |
+|-----------|---------------|
+| 01–20 | None. The trapped genie was released. |
+| 21–35 | Djinni. |
+| 36–55 | Dao. |
+| 56–75 | Efreeti. |
+| 76–90 | Marid. |
+| 91–96 | Tasked Genie (DM's choice). |
+| 97–00 | Noble Genie (DM's choice). |
+
+Once called, there is an 80% chance that the genie can be commanded to perform certain actions for the owner of the astrolabe, but there is a 20% chance that the trapped genie is so enraged that it attacks whoever is within reach for 2d12 rounds before the power of the astrolabe prevents further havoc. In these rare instances, the berserk genie may never harm the owner, though any nearby friends and family are fair game for the genie's retribution. A trapped (and obedient) genie can only be summoned from its prison once per day to perform a specific task for its master.
+
+- Free the genie trapped within the active prison. This might be risky, for once the genie is free, nothing can prevent it from seeking revenge on its previous master, the master's friends, and family. Usually, fear of further imprisonment within the astrolabe keeps the genie from immediate, direct vengeance.
+
+- Trap a genie within the active prison. This function can only be used on a single genie within 30 feet of the astrolabe. The victim is entitled to a save vs. spell at a –6 penalty. If it fails, the genie is imprisoned and any genie previously trapped in the active prison is automatically released, with the consequences described above. If a genie makes its save, it is immune to the effects of the astrolabe for a full calendar month and during that time seeks to destroy both the device and its owner.
+
+At the end of each month, the current prison deactivates for the next 11 months, trapping the genie inside with no chance for release until the clockwork prison mechanism inside the astrolabe has made another complete revolution. Most genies are aware of the 30 days of "parole" from their cyclical prison, and seek to convince the astrolabe's owner to release them during that time by swearing oaths and pleading with promises of good behavior.
+
+Although powerful divination spells might hint cryptically at an astrolabe's prisoners, the DM should never reveal what genies are trapped within an astrolabe when it is discovered.
+
+---
+
+## Awl
+
+An awl is a common leather working tool — a metal spike 3 inches or more in length with a wooden handle. Though normal awls are common, magical ones are not. Roll on the table below to determine what is found.
+
+| d100 Roll | Awl Type |
+|-----------|----------|
+| 01–70 | Awl of the Above |
+| 71–00 | Ice Pick |
+
+## Awl of the Above
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: POLYHEDRON Newszine #23*
+
+If this item is held and the command word spoken, it attracts the attention of an Immortal or a deity (a powerful being from the Outer Planes, immune to all character attacks and spells, with very great powers). This being's actions are determined by rolling 1d6, using the chart below after applying the following adjustments. If the user is magically cursed when the awl is used (however minor the curse), or is carrying a cursed item, a –1 penalty applies to the roll. If a wish is cast before the awl is used, wishing for good fortune, a +1 bonus applies. After the awl is used, there is no way to alter what occurs. The awl may be used once a year. The 1d6 table below is adjusted for the modifiers.
+
+| Roll | Immortal Reaction |
+|------|-------------------|
+| 0 | Appear and then depart with both the character and the awl. (The character can only be retrieved by others, who must first regain the immortal's attention and then please the creature with a great service or sacrifice.) |
+| 1 | Appear, slay the character (no saving throw), and depart, leaving the awl. |
+| 2 | Ignore the summons (nothing happens). |
+| 3 | Appear, take the awl, and depart. |
+| 4 | Answer any three questions for the user, take the awl, and depart. |
+| 5 | Raise any one ability score by three points (to a maximum of 18), as desired by the user; the immortal takes the awl and departs. |
+| 6 | Grant one wish to the holder and depart, leaving the awl. |
+| 7 | Replace the user's wish (usable any time thereafter), grant one other wish (made at that time), and depart, taking the awl. |
+
+---
+
+<!-- page 112 -->
+
+## Awl of Filling (Full)
+
+**XP Value:** 3,000 &emsp; **GP Value:** 12,000
+*Source: The Book of Marvelous Magic*
+
+When this awl is inserted into a skin containing one or more drops of water, wine, or oil and the command word is spoken, it causes the container to fill completely with the same liquid. Only non-magical liquids can be affected by the full awl.
+
+## Awl of Hole Punching
+
+**XP Value:** 300 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This awl can be used to create a hole large enough to see through (¼-inch across and up to 5 feet deep) in any nonliving material — including mage wall spells and solid steel. It does not affect creatures of any kind and, if used on a magical weapon, it does not change or destroy the enchantments upon it. The awl of hole punching may be used as often as desired.
+
+## Awl Inn
+
+**XP Value:** 1,000 &emsp; **GP Value:** 8,000
+*Source: POLYHEDRON Newszine #23*
+
+This item creates an apparently normal door out of thin air, on command. The door may be opened easily, and remains open for one turn. Anyone passing through the door arrives in a safe, friendly inn, where food, drink, and a good night's rest may be had (though at 10 times normal prices). The inn contains one manager, one chef, one barkeep, 50 furnished rooms, and 1d20 other visitors of various races (NPCs and monsters alike). At least one of each category also possesses an awl. It is magically impossible for any visitor to disobey the Manager or to attack or steal from the inn or from any other resident. There is only a gray mist outside of the inn, and the mist cannot be entered. All visitors leave the inn after breakfast (no saving throw). The awl inn may be used only once per week.
+
+## Awl Mess
+
+**XP Value:** 250 &emsp; **GP Value:** 1,000
+*Source: The Book of Marvelous Magic*
+
+This item has no intrinsic value. When a magical dinner plate is tapped by the awl, it produces five times the given amount of food, 15 meals per day instead of three — but just for that day. However, each diner must make a saving throw vs. spell while eating; failure indicates that the food spills out, staining the diner's garments permanently unless washed with soap of washing. The mess awl may be used as often as desired.
+
+## Awl Out
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: POLYHEDRON Newszine #23*
+
+When touched, this item forces the victim to immediately leave the dungeon in which the awl is found, by the fastest available route. No saving throw applies, and the victim attempts to avoid all encounters until he or she is outside again. The victim may fight normally if cornered, but cannot stop to pick up any treasure. The awl out may be kept by the victim, and functions as a normal awl thereafter, as long as it is physically touching the victim. Note that if the awl leaves the victim's hand or skin at any time, its original power returns.
+
+---
+
+# Axe
+
+Axes are woodcutting instruments with sharpened metal or stone heads and wooden handles. Axes are also used as weapons of war. War axes come in all sizes, from small hatchets and throwing axes to two-handed great axes. Many magically enchanted versions exist, particularly among the dwarves.
+
+After determining the magical properties of the axe the character found, purchased, or traded for, roll on the following table to determine the type of axe found.
+
+| Roll  | Axe Type               |
+|-------|------------------------|
+| 01–08 | Battle Axe             |
+| 09–15 | Carikkal               |
+| 16–23 | Bhuj                   |
+| 24–31 | Eye-axe                |
+| 32–38 | Forearm Axe            |
+| 39–46 | Hand                   |
+| 47–54 | Hatchet                |
+| 55–59 | Mace-axe               |
+| 60–64 | Pick                   |
+| 65–69 | Pickaxe                |
+| 70–77 | Shoka                  |
+| 78–85 | Throwing               |
+| 86–92 | Tungi                  |
+| 93–00 | Two-handed Battle Axe  |
+
+## Agni's Red Axe
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Legends & Lore*
+
+Anyone hit by Agni's glowing, red axe must save vs. paralyzation or burst into flames. Those fail-
+
+---
+
+<!-- page 113 -->
+
+ing the save suffer an additional 1d10 points of damage each round and cannot cast spells, fight, or do anything but roll on the ground until the flames are put out. The flames can only be quenched through magical means; ordinary water, even holy water, has no effect on them.
+
+## Ama-Tsu-Mara's Vorpal
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Legends & Lore*
+
+The avatar carries a huge vorpal axe +5 (AL any lawful) that functions like a vorpal sword.
+
+## Arumdina
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+Garl Glittergold, the father of the gnomish race, wields an intelligent battle axe named Arumdina. This axe cleaves through stone as easily as air, and slices through metal armor as if it didn't exist.
+
+## Azuredge, Slayer of the Netherborn
+
+**XP Value:** 7,000 &emsp; **GP Value:** 35,000
+*Source: New Item*
+
+Azuredge is a medium-sized battle axe forged of silver, electrum, and steel alloys, its handle cast from solid steel and wrapped at the haft in blue dragon skin. There is a star sapphire set into the pommel. It is as effective as a pure silver weapon and is magically enchanted with a number of powers, the least of which cause the edges of the axehead to shimmer a deep blue at all times. The axe has six runes carved into it, one along each edge on either side of the axe and one rune at the center of each side of the axe. At various times, the runes flash with blue radiance (apparently when their powers are active). Smaller runes are also carved into the handle, but these are only noticeable under close scrutiny. Though the wide, double-edged axe appears quite heavy and unwieldy, it is light and well-balanced in the hands of its chosen wielder.
+
+Azuredge's origins are even more tightly tied to the City of Splendors than some suspect. A little over 300 years ago, Aghairon was marshalling his power as the premier wizard of Waterdeep under the just, though violent, rule of Lady Lauroun, Warlord of Waterdeep. Aghairon saw the last honorable Warlord of Waterdeep fall in battle, her body pierced by a score of orcish arrows. Teleporting her from the field, he performed her last request, "to ensure that she would always be able to aid the defense of the City of Splendors." Having been preparing a magical axe to present to her, Aghairon's magic bound a piece of Lauroun's
+
+---
+
+<!-- page 114 -->
+
+fleeting spirit to the weapon, making her forever an intelligent, soulful presence in an item capable of fulfilling her last request. Though its memory is not fully Lauroun's, Azuredge remembers her creation and history as a weapon.
+
+Though powerful and eager to be used in the city's defense, Azuredge waited six long years before her initial use. Upon Aghairon's establishment of the Masked Lords' Rule, the blue axe was given to Kherris—a warrior, Lord of Waterdeep, and great-grandfather of Baeron—to dispatch the heinous otherplanar creatures that emerged outside the city. Coming from the ruins of Halaster's tower, these were the first dangers visited on Waterdeep from Undermountain. Legends tell of a battle late one night, when a flood of ghastly creatures spilled out of Undermountain, intent on the City herself. Aghairon's magic slowed them but did not stop them all; many reached the city walls only to meet a tall, cloaked Lord holding the glistening, blue axe. Azuredge sent all the fiends back to their makers, its glowing blue radiance keeping the evils from Waterdeep.
+
+The axe was not seen again by Waterdhavians until the time of Baeron, the next open Lord of Waterdeep over 200 years later. After Baeron's passing (many swore they saw the axe disappear
+
+## Azuredge, Slayer of the Netherborn
+
+from his belt on the funeral pyre), the axe is not mentioned in any history of the City until Berrygon, a warrior/blacksmith from South Ward, wielded it against Bane's forces during their invasion of Waterdeep at the Time of Troubles. With Berrygon's fall, his final companion, the wizardess Caryn, risked a spell to teleport the axe to safety, sending it to Blackstaff Tower. Khelben kept watch over Azuredge, and added enchantments that allow him to watch over the wielder of the axe as well as to provide the magical effects for her reappearance. Khelben and Piergeiron do not interfere with Azuredge and her protection of the City, but they plan on keeping tabs on the axe and her chosen companions, making sure they do not stray from the Lords' path, whether for Waterdeep's good or not.
+
+Enchanted as it was ("to be as worthy a weapon as its wielder"), Azuredge's powers wax and wane with each new wielder. The blue axe's full powers and abilities are listed and activated as follows:
+
+- The blue axe does not have any combat bonuses for attack or damage, but its magical construction allows it to hit creatures only affected by silver or magical weapons (even those only affected by +3 weapons). Its damage cannot be regenerated save by normal rest, making it an effective weapon against trolls.
+
+---
+
+<!-- page 115 -->
+
+## Azuredge (continued)
+
+- Immediately upon gaining the use of her, the wielder can command Azuredge to generate light (as the 1st-level spell).
+
+- After reaching 4th level (or wielding her for a year), Azuredge can be thrown at targets a number of times per day equal to the level of the fighter wielding her (a 6th-level paladin = 6 throws per day). Other than that and the lack of combat bonuses, this power is identical to an axe of hurling (double damage when thrown).
+
+- At 8th level and above, the wielder can use Azuredge against undead and creatures from the lower planes as if she were a mace of disruption. This power is coupled with Azuredge's ability to detect evil planar beings and undead, those creatures she was forged to slay; whenever in the presence of undead or evil beings from outside the Prime Material Plane, Azuredge glows brightly (whether her wielder wishes her to or not) with cold azure flames enveloping the axehead (illuminating a 40-foot-radius).
+
+- Azuredge is an intelligent weapon (Intelligence 14, Ego 12) with a female identity, hence the references to the weapon as "she." With sentience, she is the one who chooses her wielder (magically sticking to surfaces like sovereign glue until she is touched by one she deems worthy); she also has a limited detect alignment ability she uses on her wielders, which aids her in her choice (she chooses only good, most often chaotic, heroes). She chooses a wielder only after the passing of her previous wielder. She can communicate by speech or telepathy, though she rarely communicates until the wielder is at least 12th level (any communication before this is more apt to be heard as whispers or words in a dream). She can also resist identification magic at will, relinquishing only the information she wishes.
+
+---
+
+## Brihaspati's Axe
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Legends & Lore*
+
+While carrying his axe, Brihaspati cannot be hit by any creature with a Wisdom of less than 16.
+
+---
+
+## Axe of Brotherhood
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Tales of the Lance*
+
+During the Dwarfgate Wars, Caramon proposed a contest to bring the two quarreling factions of hill dwarves and plainsmen together. Caramon raised a tall wooden post in a sea of mud, placing the axe of brotherhood and the sword of friendship at the top. Whoever climbed the post could claim the prizes. There was a catch, though. Not only was the post greased, but Caramon had the contest rigged so that dwarves and men had to work together to reach the prizes. The axe of brotherhood has a +2 bonus on attack and damage rolls.
+
+---
+
+## Callarduran Smoothhands's Axe
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+The avatar's axe +3 kills drow outright on an attack roll of 17+ (no save).
+
+---
+
+## Cursed Battle Axe
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: The Hidden Shrine of Tamoachan*
+
+This battle axe has a blade of bronze and its hilt is wound with snake skin wrappings. The axe casts an ominous shadow—what appears to be a withered arm. Those who approach within reach of it feel cold chills running up and down their spines.
+
+The battle axe detects as magical. The axe is a +2 weapon, -2 vs. chaotic evil creatures. The weapon acts like a cursed sword—once handled by a character, he or she may never be rid of it; it always teleports into the possessor's hand and welds itself there during encounters. The axe also chooses to appear in touchy encounters with lawful good creatures. Beneath the handle wrappings, a permanent scroll is concealed. The scroll contains the following spells: *passwall*, *burning hands*, and *push* at 9th level. This scroll provides the axe with additional powers when the wielder pronounces the correct words of power, up to a maximum of three times a day per spell. The words of power are engraved on the axe blade in Olman. The axe may not be used to attack at the same time that it is being used to cast a spell. If the scroll is removed from the axe, the axe loses its abilities forever and the scroll loses its permanence and becomes an ordinary scroll.
+
+---
+
+<!-- page 116 -->
+
+## Axe of Cutting
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+This axe +2 has the sword's sharpness ability.
+
+## Axe Deathstriker
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: Dragon's Rest*
+
+This double-edged axe (damage 1d10) can discharge a bolt of lightning, either forked or straight like the wizard spell *lightning bolt*, to cause 6d6 points of damage; saving throw is applicable. The weapon has an initiative modifier of +2. Each use consumes one charge; the axe has 2d10+10 charges when found.
+
+## Axe of the Dwarf Lords
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Book of Artifacts*
+
+This is a short-handled axe backed with a clawed hammer head; the blade is pierced with intricate runes etched and plated in gold. The axe head seems extraordinarily flimsy until tested, when the cunning work of the carving and the temper of the steel show the weapon's true strength. The hammer is made to look like an erupting volcano with the flames forming the head's jagged prongs.
+
+Legend says that the Axe of the Dwarf Lords is the last of the Five Great Tools forged by the First King, after the brutal pick, the Earthheart forge, the anvil of songs, and the shaping hammer. With these, Silvervein Moradinson crafted the fierce axe, the finest of the five.
+
+Silvervein passed the axe on to the Second King, and so it went through the generations, until it became known as the Axe of the Dwarf Lords, symbol of the One Clan.
+
+The One Clan was shattered and the age of the High Kings broken when Brassbeard slew his uncle, King Irontooth of Moradinson, out of greed for the axe. The dwarves fell into the chaos of civil war, and when all had ended, the Axe of the Dwarf Lords was lost forever.
+
+The axe's power lies as much in what it symbolizes as in its magic, for over the centuries a legend has sprung up that the return of the axe heralds the return of the High Kings and a new Dwarven Age.
+
+Adventures involving the axe can have the player characters finding the weapon. Only dwarven PCs should have any idea of the weapon's importance; to others it is merely a powerful weapon. From here the PCs can be plunged into an adventure of dwarven intrigue and greed as rivals attempt to take possession of the axe. The duergar may even attempt to steal it for their own.
+
+The axe should not resurface without cause, so during all of the intrigue the PCs should discover a great threat to the dwarves. The clans might need to be united or the shade of Silvervein summoned to lead a last battle against the foe.
+
+**Constant Powers:** The axe is a +3 weapon, functioning both as a sword of sharpness and as a hammer +3 dwarven thrower. It grants dwarven detection and vision abilities at double the normal chance or range.
+
+**Invoked Powers:** The axe can summon one 16 HD earth elemental (1/week).
+
+**Random Powers:** Three from Artifact Table 1–10: Elemental Earth.
+
+**Curse:** Nondwarf characters permanently lose 1 point of Charisma when first they touch the axe. There is a 20% chance that any magical item possessed or touched by the owner is permanently negated. Finally, artifact transformation changes the owner into a dwarf, losing all abilities not allowed that race.
+
+**Suggested Means of Destruction:**
+- The axe must be melted down within the flames of the Earthheart forge.
+- It must be freely given to the deities of the orcs.
+- Moradin, the dwarf deity, must be wounded by it.
+
+## Axe of the Dwarvish Lords
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Eldritch Wizardry*
+
+This axe was forged from the heart of a volcano by a king of the dwarves long forgotten. It passed from father to son until it disappeared in battle over a thousand years ago. Since then it has been rumored to have appeared in various places around the world. The axe has all of the fighting qualities of a sword of sharpness. In addition, it confers on its user the natural abilities of dwarves—infravision, the ability to detect sloping passages, traps, and construction.
+
+After prolonged use, it tends to make its user resemble a dwarf; the user becomes shorter, stockier, and grows a profuse beard. It also has the following abilities and penalties:
+
+- Teleport twice per day.
+
+---
+
+<!-- page 117 -->
+
+## Axe of the Emperors
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Book of Artifacts*
+
+The axe of the emperors is a double-edged, two-handed war axe. The head is of the brightest adamantite, forged so that it looks like a rising phoenix, the talons wrapping around the socket to clutch a sizeable ruby. The bird's wing feathers form the serrated edges of the blades. The haft is a rod of black crystal wrapped in bands of silver. The crystal enlarges at its base into a carving of a coiled dragon, a great sapphire clutched in the creature's mouth. The item is originally from Taladas on the world of Krynn.
+
+It was in the Age of Dreams, when the ogres first warred among themselves, that the seditious Irix called upon the dark gods to give him a weapon to subdue his fellow Irda. His vile supplications were heard and the dark gods granted unto him the means to make the axe of the emperors.
+
+Aided by the axe, Irix plunged his people into civil war, splitting the good from the evil. The axe led him to many bloodthirsty victories, but in the end the combined might of Irda brought him down. Fearful of the axe, the greatest sorcerers and sages among the ogres saw to its destruction. At the end of their mystical workings the axe vanished, apparently destroyed.
+
+In truth, the axe still existed, magically cast away from the ogres to the lands of Ansalon. There it was found by Ymrald, a green dragon, who added the treasure to her hoard. Wise enough to know it was a magical device, Ymrald spent decades trying to puzzle out its powers before giving up in frustration. When she died, it passed to her children. Thus the axe languished for thousands of years, a beautiful curiosity of dragonkind.
+
+Such a situation could not last forever, and it ended when the treasure hoard was ransacked by a minotaur of spirit and skill, Ambeoutin, from whom the later emperors take their name. His raid was no accident, for a sorcerer among his people had guided the minotaur hero to the dragon's lair. Ymrald's offspring strove to stop the thief's escape but they were no match for the minotaur, now equipped with the axe.
+
+It is said that upon returning to his camp, the minotaur and his sorcerous mentor spent the night performing sinister rituals over the magical blade. Some contend that these gave the axe even greater powers than it held before; others believe it only allowed Ambeoutin to master the secrets that were already there. All agree that with the dawn the axe glowed with a greater fire than before. In Ambeoutin's hands it was an object of power and might. Minotaurs and ogres kneeled to his cause, all others fell before the blade's deadly thirst.
+
+Like Irix before him, Ambeoutin became unstoppable and through bloody war quickly carved a kingdom for his people. Unlike Irix, the minotaur ruled his people harshly but justly. As his time to die approached, Ambeoutin, once more advised by his mentor, took up his axe and disappeared, setting sail for his ancestral homeland in the east.
+
+The axe of the emperors is a powerful artifact, but because of its strictures it is not one the player characters are likely to use. Instead, they are far more likely to encounter this item either as part of a long-lost treasure hoard or newly discovered in the hands of someone else. The axe is an evil item and should be presented to the characters as something that must be stopped or destroyed.
+
+One possibility for an adventure is that the axe has appeared in a relatively quiet backwater village and has quickly dominated the local lord, a weak-willed NPC. Utilizing the axe, he or she is starting a reign of terror and conquest, though on a small scale. For the good of the oppressed farmers the player characters must stop this overpowered petty tyrant, even if the tyrant never becomes a world threat.
+
+For a more dramatic adventure, the player characters can discover a minotaur kingdom in a lost valley, a kingdom ruled by the original Ambeoutin or by a monstrous, deathless parody of what he once was. The axe has finally seized the mind of the great minotaur hero. The arrival of the characters rekindles the urge to conquer and now this ancient minotaur civilization is preparing to burst forth in a wave of conquest. Naturally, it's up to the PCs to stop things here and now.
+
+**Relic Powers:**
+
+- User sustains double damage when attacked while using this relic.
+- Each day that the owner of the relic wishes to make use of its powers, a human being must be sacrificed to it (possibly a PC). The relic then functions normally for 24 hours. After that another sacrifice must be made or the relic ceases to perform.
+- User granted one wish per week.
+
+---
+
+<!-- page 118 -->
+
+Once the adventure is over, the axe should not be left in the control of the player characters unless, of course, their only desire is to destroy it or hide it away forever. Irda may appear to stop their attempt to destroy it. The minotaurs just might seek to enshrine it as a powerful relic of their history, although they are more likely to use it.
+
+**Constant Powers:** The axe has all of the properties of a vorpal sword (+3 bonus to attack and damage rolls, possibility of severing limbs). Against ogres and ogre-kin, the bonus to attack and damage rolls increases to +5.
+
+**Invoked Powers:** The axe is a powerful symbol of rulership and might. As such, it has powers equal to a ring of human influence and is particularly effective against ogres and ogre-kin (–2 penalty to all saving throw rolls). This power can be commanded at will. The axe can also produce the effects of a cause fear spell to all within 120 feet (3/day).
+
+**Random Powers:** Two from Artifact Table 1-02: Combat, one from Artifact Table 1-17: Movement.
+
+**Curse:** Created both for and against the ogre races, the axe cannot be fully used by anyone without some ogre blood in their veins. Non-ogre characters using the weapon cannot call upon the axe's command or fear powers. Furthermore, they are struck with a degenerative disease that drains 1 point of Constitution per week until the ability reaches 0 and they die. Once contracted, the disease runs its course even if ownership of the axe should change. Mere handling of the axe does not trigger this effect; the weapon must be used for some purpose (such as combat). The disease can be halted by cure disease, but the character cannot recover any Constitution until a remove curse spell is also cast. Constitution points are regained at 1 point per week.
+
+With its hate-filled creation and bloody background, it is not surprising that the axe of the emperors is imbued with a spirit of intense evil (Int 18, Ego 17). The spirit attempts artifact possession, and once this occurs, the character gradually becomes a triple-strength (12+3 HD) ogre of lawful evil alignment. Once the transformation is completed, the character becomes a permanent NPC. The spirit of the axe seeks nothing but to kill ogres and their kin. If not quenched in ogre blood at least once a month, the axe refuses to use its invoked powers.
+
+**Suggested Means of Destruction:**
+
+- The axe must be sunk into the center of the Burning Sea.
+- The tinker gnomes must examine it for 100 years, during which time they find a way to dissemble it.
+- Every ogre and ogre-kin with royal blood must be slain by the axe.
+
+---
+
+## Axe of Enchantment
+
+**XP Value:** 300 &emsp; **GP Value:** 1,750
+
+*Source: DRAGON Magazine #181*
+
+Magical weapons possess a dweomer that allows them to penetrate the magical defenses of creatures that can be struck only by enchanted weapons. No bonuses for attacks or damage occur; such an axe, for example, has the same chance to hit a highly magical monster as an ordinary weapon has to hit a plain, flesh-and-blood creature, doing as much damage as a plain weapon would.
+
+For all weapons of enchantment, the XP cost is that of a regular +1 version of that weapon type, or whatever other official magical weapon exists of that type and is of low value. These weapons do not lose their abilities when taken to other planes. Just remember that the damage done is the same as for ordinary weapons. Magic doesn't add to the weapon's attack capabilities, rather, it negates the monster's defensive capabilities.
+
+---
+
+## Frostreaver
+
+**XP Value:** 900 &emsp; **GP Value:** 4,500
+
+*Source: Tales of the Lance*
+
+A frostreaver is a heavy battle axe made of ice gathered from a secret location on Icewall Glacier. The ice at the glacier is unusually dense, the result of tremendous pressure exerted for centuries. The knowledge needed to create a frostreaver is known only to the Revered Priests of the Ice Folk, the barbarian tribes that struggle for control of Icewall Glacier. The blades are formed by using the oil from slain thanoi and other ingredients in a mystical process that hones and flattens the sheet of ice. The priest must work for an entire month to create the weapon, and even then, there is only a 33% chance that the weapon is satisfactory.
+
+A frostreaver functions as a battle axe +4. Because of the weight and size of the weapon, the wielder must have a Strength of 13 or greater to wield it. The weakness of the weapon is its mater-
+
+---
+
+<!-- page 119 -->
+
+*(Note: This page is a continuation of the "Axe" section of the Encyclopedia Magica. The top of the page continues the "Frostreaver" entry, then proceeds with named axes.)*
+
+---
+
+ial. Temperatures above freezing cause the ice to melt — one full day of above freezing causes a frostreaver to become useless as a weapon. In a warm (50°+) environment, the axe becomes worthless in 1d6 hours.
+
+## Garl Glittergold's Battle Axe
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+The avatar of Garl carries a mithral-steel battle axe +4, fashioned after Arumdina, the weapon used by the god himself. The axe can heal the avatar (and only the avatar) once per day.
+
+## Gnarldan's Battle Axe
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+Gnarldan's avatar uses a battle axe +5 flametongue, of purest adamantite, which slays trolls outright on a successful strike (save vs. spell applicable).
+
+## Hastseltsi's Hand Axe
+
+**XP Value:** 2,000 &emsp; **GP Value:** 20,000
+*Source: Deities & Demigods Cyclopedia*
+
+This hand axe inflicts 2d6 points of damage on a hit and is a +3 weapon.
+
+## Hastsezini's Hand Axe
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: Deities & Demigods Cyclopedia*
+
+His hand axe does 2d10 points of damage and he often throws it at the strongest enemy he faces.
+
+## Axe of Hurling
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1    | 1,500    | 15,000   |
+| +2    | 3,000    | 30,000   |
+| +3    | 4,500    | 45,000   |
+| +4    | 6,000    | 60,000   |
+| +5    | 7,500    | 75,000   |
+
+*Source: Dungeon Master Guide*
+
+This appears to be a normal hand axe. With familiarity and practice, however, the possessor eventually discovers that the axe can be hurled up to 180 feet, and it returns to the thrower in the same round, whether or not it scores a hit. Damage inflicted by the magical throwing attack is twice normal (2d6 vs. S or M, 2d4 vs. L), with the weapon's magical bonus added thereafter. (For example, an axe of hurling +3 inflicts 2d6+3 points of damage vs. S- or M-sized creatures and 2d4+3 points of damage vs. creatures of size L if it hits the target.) The axe causes only normal damage (plus magical bonuses) when used as a handheld weapon.
+
+After each week of using the weapon, the possessor has a 1-in-8 chance of discovering the full properties of the weapon. In any event, the magical properties of the weapon are fully known to the possessor after eight full weeks of familiarization.
+
+The magical bonus of an axe of hurling is determined by referring to the table below.
+
+| Roll  | Bonus |
+|-------|-------|
+| 01–05 | +1    |
+| 06–10 | +2    |
+| 11–15 | +3    |
+| 16–19 | +4    |
+| 20    | +5    |
+
+## Lortz's Battle Axe
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+*Source: Adventures in Blackmoor*
+
+If used by a dwarf, this weapon is a battle axe +2/+3 vs. orcs and goblins and has the power to detect magic and see invisible (like a magic sword). When used by a dwarf in melee, it raises the morale of the dwarves by 1 and lowers the morale of any orcs or goblins by 2.
+
+## Maglubiyet's Axe
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+Maglubiyet's avatar employs a huge, bloodied coal-black axe +4 that has the properties of a sword of sharpness.
+
+## Axe of the Might of Heroes
+
+**XP Value:** 1,500 &emsp; **GP Value:** 12,000
+*Source: DRAGON Magazine #16*
+
+This axe is +3 on attack rolls and does 2d8 points of damage.
+
+## Molydeus's Axe
+
+**XP Value:** 6,400 &emsp; **GP Value:** 40,000
+*Source: Outer Planes Monstrous Compendium Appendix*
+
+The guardian tanar'ri, the molydeus, prefer a great axe in combat. Their great axes are highly enchanted. Each one inflicts a devastating 2d10 points of damage per hit and is fully +5 to attack and damage rolls. Each is a vorpal weapon and has all the powers of a dancing sword.
+
+---
+
+<!-- page 120 -->
+
+## Motopua
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: DRAGON QUEST Game*
+
+This black battle axe was forged from metal rained from the heart of an ancient volcano. Its name means "fire steel" in a forgotten tongue. Anyone who uses Motopua in combat can add a +1 bonus to his or her attack and damage rolls. This is a large weapon and may only be used by fighters. (Size Large, Damage 1d8+1)
+
+## Nanna Sin's Black Axe
+
+**XP Value:** 1,500 &emsp; **GP Value:** 12,000
+*Source: DEITIES & DEMIGODS Cyclopedia*
+
+Nanna Sin uses a jet black axe +3 in battle that strikes for 30 points of damage per hit; it also acts as a sword of sharpness.
+
+## Nomog-Geaya's Hand Axe
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+The avatar's hand axe +2 has the same effects as a symbol of pain when it hits (normal saving throw vs. spell to negate).
+
+## Pickaxe of Piercing
+
+**XP Value:** 2,000 &emsp; **GP Value:** 20,000
+*Source: Dwarves Deep*
+
+This rare item is simply an enchanted, adamantite pickaxe, used in mining. It does 1d6+2 damage (2d6 against larger than human-sized creatures), and has a special property—it can pierce magical defenses.
+
+A creature with a high (20% or more), natural resistance to magic (such as a dragon of advanced age) suffers a temporary 10% loss of personal magic resistance, lasting for one full turn, after suffering a blow from a pickaxe of piercing. Such losses are cumulative—three blows of a pickaxe of piercing robs a creature of 30% magic resistance. This loss is always temporary, even if the creature's resistance drops to zero. (A pickaxe of piercing does not cause negative magic resistance.)
+
+Besides shattering dragonscales, armor, or solid rock, and sundering magic resistance, the pointed, double-ended head of a pickaxe of piercing is also effective against magical barriers of all sorts—walls, shells, spheres and mantles. Each contact between the head of the pickaxe and a barrier has a 10% chance (not cumulative) of causing the magical field to instantly collapse, dispelled. If the field survives, it is unharmed, and has normal effects. A single field can only be tested once per round by a single pickaxe of piercing, but multiple blows force multiple checks.
+
+## Rocksplitter
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: The Official RPGA Tournament Handbook*
+
+Rocksplitter is a +3 dwarven thrower with a special ability. When struck against stone, it generates a huge crack that travels 100 feet in the direction of the blow, splitting the rock neatly in two or shearing off large sections of a rock wall. Thus, it can be used to seal passages in a mine, cause an avalanche, or locate new veins of ore. This special ability functions only when it is wielded by a dwarf.
+
+## Sampsa's Golden Axe
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+Sampsa's axe is made of gold with a copper haft. When Sampsa carries this axe, all evil animals (those with evil intent, etc.) flee before him. Also, any trees, briars, or bushes that were placed to either block or ambush living things are dispelled on contact with this axe.
+
+## Shag's Battle Axe
+
+**XP Value:** 300 &emsp; **GP Value:** 3,000
+*Source: 1993 Collector Card 462*
+
+Shag's magical battle axe +1 bestows the appropriate combat bonus to Shag during melee, but the axe is also somewhat sentient and is generally in a very foul mood. Although the axe cannot communicate with anyone directly, Shag can pick up bits and pieces of the axe's emotions, which have a definite influence on his own. This is probably why Shag Foultongue is usually in such a bad mood himself (despite being a dwarf).
+
+## Sulward's Axe
+
+**XP Value:** 400 &emsp; **GP Value:** 2,250
+*Source: Greyhawk Adventures*
+
+Magically sharpened to aid woodsmen in cutting rare woods to be exported from the Lordship of the Isles, this axe can also serve as a valuable weapon. Though it causes damage as a battle axe +1, its +2 bonus is gained only against wooden objects and plants. On a roll 4 higher than the required attack roll, the axe destroys an opponent's wooden shield.
+
+---
+
