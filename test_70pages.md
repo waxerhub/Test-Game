@@ -1528,3 +1528,349 @@ If you can provide the raw OCR text or a description of the page content, I will
 
 ---
 
+<!-- page 32 -->
+
+## Amulet of Far Reaching
+
+*(entry continues from previous page)*
+
+| Roll | Protection From |
+|------|-----------------|
+| 3    | Cold-based attacks |
+| 4    | Petrification |
+| 5    | Edged Weapons |
+| 6    | Blunt Weapons |
+
+## Draskilion's Amulet of Life
+
+**XP Value:** 5,000 &emsp; **GP Value:** 50,000
+
+*Source: DUNGEON Magazine #28*
+
+Though only one of these devices is known to exist, it stands to reason that others may be created if its secrets are discovered.
+
+Originally an amulet of life protection, this powerful item functions as follows: After the construction of the amulet is completed, the first living creature with an essence who touches the item is then attuned to it. When that being's body is destroyed, its essence is immediately absorbed into the amulet. The being whose essence is contained by it is fully cognizant of what is going on in his, her, or its environment. The occupant must then wait for the amulet to be placed about the neck of another creature. At that time, the occupant may attempt to dominate the new body.
+
+There is a base 25% chance of a successful domination. For every point of Intelligence above or below that of the intended host, 10% is added to or subtracted from the odds. For every point of Wisdom above or below that of the intended host, 8% is added to or subtracted from the chance. For example, if the occupant's statistics are Intelligence 17 and Wisdom 16 and the victim's are Int 13 and Wis 15, the chance for successful possession is 73% (base chance of 25% plus 40% for superior Intelligence plus 8% for superior Wisdom = 73%). The struggle for control is totally internal and has no visible sign, nor is the victim alerted. After an unsuccessful domination attempt, the victim feels suddenly fatigued. Attempts can be made to possess the body every six turns.
+
+As soon as domination is successful, the invader is in full control of the body and possesses all of the host's abilities (spells, combat skills, and all other skills). The host's essence is transferred into the amulet. Strength, Dexterity, Constitution, and Charisma are that of the victim, but Intelligence, Wisdom, and personality are that of the possessor. If an invader continues to wear the amulet, the victim may try to regain possession with a base 25% chance plus or minus modifiers for Intelligence and Wisdom.
+
+This particular amulet is enchanted with a powerful *suggestion* spell. Anyone touching it must save vs. spell at -5 to keep from putting the device about his or her neck. A save is required for every round a person is in contact with it.
+
+## Amulet of Elemental Command
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+
+*Source: POLYHEDRON Newszine #23*
+
+See Talisman, Greater Talisman of Elemental Travel.
+
+## Amulet of Emotions
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: The Revenge of Rusak*
+
+This amulet is identical to any other magical amulet. When worn or carried, the user does not notice any effect. However, the amulet magically alters a person's appearance to match his or her emotions of the moment, but greatly exaggerates them. Thus, rage and anger make the person appear horrific and hideous, fear makes the wearer appear weak and sniveling with mousy features, and milquetoast eyes. Once the amulet is put on it can only be removed by a *remove curse* spell.
+
+## Amulet of Extension
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+
+*Source: Tome of Magic*
+
+When desired by the caster, this amulet can be used to increase the duration of 1st- and 2nd-level spells by 50%, and the duration of 3rd- and 4th-level spells by 25%. Fractions of ½ and above are rounded up (for example, a spell with duration of 1 round extended to 1½ rounds is rounded to 2 rounds). Fractions less than ½ are rounded down (a spell with 1 round duration extended to 1¼ rounds is rounded down to one round and thus gains no benefit from the amulet).
+
+The amulet has no effect on spells with instantaneous or permanent durations. A maximum of 1d10+4 spell levels can be affected by the amulet each day. Each amulet has its own individual limit, secretly determined when it is found. If this limit is exceeded on any given day, the amulet shatters and is destroyed permanently.
+
+## Amulet of Far Reaching
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: Tome of Magic*
+
+When willed by a caster, this amulet increases the range of 1st-level spells by 30%, 2nd-level spells
+
+---
+
+<!-- page 33 -->
+
+by 20%, and 3rd- and 4th-level spells by 10%. Fractions of 4 and greater are rounded up—all others rounded down.
+
+The amulet affects only range and does not alter a spell's area of effect. The amulet cannot affect spells with ranges of 0 or touch.
+
+A maximum of 1d10+4 spell levels can be affected by the amulet each day. Each amulet has an individual limit—secretly determined when found.
+
+## Fiend Amulet
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Fiend Folio Tome*
+
+Fiend lords and princes maintain their vital essences in small containers, so they are at once protected and yet vulnerable if some enterprising character should gain the amulet. Fiends with amulets are able to magic jar once per day. Fiend amulets cannot be detected as such by any magical means, and they do not otherwise appear unusual in any way. The device need not be with the most powerful princes, although the lesser fiends typically need to carry them on or near their person.
+
+Possession of an amulet gives the possessor power over the fiend to whom it "belongs" for the span of, for example, one adventure, and never more than a day (24 hours). The amulet must then be returned to the fiend—or it can be destroyed, condemning the prince to the Abyss for one year (it may return after that only if summoned). The use of these amulets is very, very dangerous. Possession of one doubles the chance of calling the attention of another fiend, and any fiend not controlled by the device immediately attacks the person possessing such an amulet. If the amulet leaves the hand of the one commanding the fiend to whom it belongs, that fiend attacks in its most effective fashion, immediately, trying to slay the former possessor. If successful, it carries all that remains to its own domain, and the character is lost and gone forever. On the positive side, however, if the wielder of the amulet carefully repays the fiend for aid rendered, then adds a considerable sum for having the temerity to dare to command the fiend in the first place, and carefully restores the amulet to the fiend, the prince might not bear a grudge forever afterward—nor seek to hunt its former master whenever possible.
+
+## Amulet of Finding
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: Temple of Death*
+
+These amulets work in pairs. Anyone wearing one may see through the amulet of a person wearing another. Each user sees whatever is in range of the other's amulet.
+
+## Amulet of Furyondy's
+
+**XP Value:** 1,400 &emsp; **GP Value:** 7,000
+*Source: Greyhawk Adventures*
+
+The first of these amulets was enchanted to protect the good natives of Furyondy, though they have since been used by characters of many lands and alignments. Hung around the neck from a silver chain, the amulet bestows a remove curse upon any wearer who is cursed. The amulet glows, expending one charge, and any curse subject to the spell remove curse is broken. For example, it immediately allows a character to be rid of a cursed item, such as a helm of alignment change, although it does not cure lycanthropy. The amulet has 1d6+1 charges and cannot be recharged.
+
+## Amulet of the Golden Collar
+
+**XP Value:** 1,500 &emsp; **GP Value:** 12,000
+*Source: IMAGINE Magazine #16*
+
+This amulet was designed to help a mummy free itself from its bandages on the long journey to the afterlife. A living user, however, can use the amulet to break any magical or nonmagical bonds. This includes the rope of entanglement, web spells, dexterously knotted ropes, and other forms of confinement. It takes one full round for the amulet to break the character free. It can be used twice per day.
+
+## Greenstone Amulet
+
+**XP Value:** 5,000 &emsp; **GP Value:** 30,000
+*Source: DRAGON Magazine #39*
+
+These rare, highly prized devices are fist-sized green stones made by some forgotten magical process. They glow when in operation and are quite brittle. Worn next to the skin, they confer upon the wearer the protection (spell immunities) of a mind blank spell, as well as immunity to: chaos, forget, geas, hold person, hypnotism (but not hypnotic pattern or fire charm); mass charm, quest, scare, and sleep. The wearer also gains +4 on saving throws against: fumble, ray of enfeeblement, and trip, and is allowed a sav-
+
+---
+
+<!-- page 34 -->
+
+ing throw against both Otto's irresistible dance and maze spells. (If successful, the duration of effect of any spell is reduced by half, rounding up.)
+
+These amulets may be worn by any class of character. The protection they give is involuntary. (The wearer cannot actually communicate telepathically, even if he or she so desires.) Protection only extends to 11–44 (1d4×11) spell levels before the amulet is exhausted. (For this purpose, protection against a psionic power drains the levels of the equivalent spell.) Note that the amulet only counters the listed spells, and is in no way affected by other spells (for instance lightning bolt). Exhaustion is mentally evident to the wearer, and visually evident to others; the amulet blazes brightly for 30 seconds before slowly fading to darkness. The amulet recharges at the rate of one spell level per turn, but it does not counter spells for which it lacks sufficient power to negate—that is, it does not provide partial protection.
+
+## Hands of the Healing Spirit
+
+**XP Value:** 5,500 &emsp; **GP Value:** 10,000
+*Source: Tales of the Lance*
+
+This elegant amulet is made of white gold. The amulet is a circle formed by three crooked arms, with three hands clasped together at its center.
+
+The amulet was crafted during the Age of Dreams by Sirrion and given to Mishakal so that she would intercede with Shinare for him. In time, the amulet came into the possession of Trae Jerrold, who gave it to Mirri Witikell upon their betrothal. The wicked schemes of Hiddukel betrayed the young lovers, entrapping Mirri's life force in the amulet itself. According to a mystic prophecy, "Mirri shall one day find rest with the spirits of her lover and his brother."
+
+Eventually, the hands of the healing spirit fell into the possession of Huma of the Lance, given to him by his uncle. When Huma at last admitted his love for the elf maid Gwynneth (the silver dragon El'liolle or "Silver Heart") he gave her this amulet as a pledge. Gwynneth wisely gave the amulet to her younger sister Dargent before she followed Huma through death's doorway. Dargent honored Gwynneth by taking the name of Silvara when she moved among mortals as a wild elf.
+
+Centuries passed before the amulet again changed hands. This time it was given to a wild ogre of unexpected wit and compassion, who tried to lead his people away from darkness and into harmony. After the Cataclysm, the amulet was held by a mad gnome named Fractore Gearslip, the dark wizard Dalamar, and the kender Glendoll Allseer. At last, it returned to the dragon Dargent. Fate has decreed that the amulet must one day be given to another mortal who captures Dargent's heart.
+
+The amulet detects only minor magic, for its might comes from the spirit of Mirri trapped within. It adds a +3 bonus to saves against all poisons and diseases and adds a +3 bonus to the wearer's Wisdom, allowing spell bonuses to priests. It continuously radiates an aura equal to a *protection from evil* 10-foot radius spell.
+
+Once per day, the wearer can cast one of every healing spell: *cure blindness or deafness*; *cure critical wounds*, *cure disease*, *cure light wounds*, *cure serious wounds*, *heal*, and *neutralize poison*. It can evoke *continual light* as well. However, each time an effect is invoked, the user must make a system shock roll or become exhausted for 1d6 turns.
+
+The hands of the healing spirit promotes harmony and cooperation, and grants a +3 to all reaction rolls made by the wearer. Further, the wearer slowly begins to shift alignment toward neutral good, and is repeatedly drawn to provide
+
+---
+
+<!-- page 35 -->
+
+## Amulet of the Hands of the Healing Spirit (continued)
+
+succor for the oppressed and aid for the injured. This artifact doubles the healing rate of the wearer and protects against the infirmities of time and age, keeping the body healthy and vibrant. The wearer is undying.
+
+The hands of the healing spirit is one of the three artifacts in the Circle of Love, created by Mishakal to end the war between two noble families. The spirit of Mirri's love is in the amulet. Trae and his brother Heris are trapped in the other two artifacts: the ring of nature's healing and the armband of Trueheart's warding. The hands of the healing spirit oppose the coin of greed in the Triad of Betrayal, artifacts created by Hiddukel.
+
+---
+
+## Amulet, Hardwater
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: Otherlands*
+
+This beautiful, starburst amulet is made of clear crystal and is practically invisible on the wearer. Activated by the wielder's will, it can harden water to a granite-like consistency. The user can create walls or hurl bolts of hard water at enemies. The volume of hardened water is equal to 30,000 square feet. This can be a single large mass or several small ones. The user can shape it into any desired form. The bolts cause 4d8 points of damage (half with a successful saving throw vs. breath weapon) and can be used five times a day. It requires no command word, but the wielder does incur a +3 initiative penalty when using the hardwater amulet.
+
+---
+
+## Amulet of Health
+
+| | **XP Value** | **GP Value** |
+|-----------|-------------|-------------|
+| Cursed: | — | 2,000 |
+| Standard: | 2,000 | 10,000 |
+
+*Source: Kara-Tur*
+
+A common Northern belief is that illness is a form of possession, the influence of evil spirits that have taken control of the afflicted person's spirit. A fever, for example, stems from the spirit's subjection to flames inflicted by evil spirits. For this reason, many health amulets also protect from possession, or even have powers of exorcism. Health amulets come in countless varieties. The moiganis, for example, is supposed to protect against diseases of the lungs. It is left to the DM to devise individual health amulets and empower them.
+
+For example: One powerful moiganis may keep the bearer from contracting any lung ailments and may in addition provide a bonus of +4 on saving throws against inhaled spore attacks (yellow mold, basidirond—others).
+
+Cursed health amulets increase the chance of contracting diseases, or reduce the bearer's chance to save successfully against appropriate attack forms.
+
+---
+
+## Amulet of the Hero
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: POLYHEDRON Introductory Issue*
+
+This amulet generates three heroes, one at a time, who are 8th-level fighters, have 80 hit points, and an AC of 2. When the command words are spoken, the hero appears, ready to do the bidding of the amulet's owner. Once a hero is called, a new hero cannot be generated until the old one dies. However, the hero cannot hit anything, nor successfully accomplish any task—he or she always fails. The hero cannot leave until slain by an enemy, nor can the hero take his or her own life. All damage to the hero is permanent and cannot be healed by any means short of a *wish*. The hero always remains within 300 yards of the owner of the amulet. In addition, the hero must always walk; riding a mount is impossible.
+
+---
+
+## Amulet of Holy Turning
+
+| | **XP Value** | **GP Value** |
+|------------|-------------|-------------|
+| 5th level: | 1,000 | 5,000 |
+| 6th level: | 1,200 | 6,000 |
+| 7th level: | 1,400 | 7,000 |
+| 8th level: | 1,600 | 8,000 |
+| 9th level: | 1,800 | 9,000 |
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This prized emblem is an especially blessed symbol that enables the wearer to turn undead like a priest. The amulet seems ordinary, but glows brightly when strongly presented (as if it were a holy symbol) in the presence of undead. The success of the attempt to turn is determined by the power of the amulet—the strength of each amulet varies, and when one is discovered, its type is ascertained by rolling on the following table:
+
+| Dice Roll | Effective Priestal Level of Amulet |
+|-----------|-----------------------------------|
+| 01–30 | 5th level |
+| 31–55 | 6th level |
+| 56–75 | 7th level |
+| 76–90 | 8th level |
+| 91–00 | 9th level |
+
+---
+
+<!-- page 36 -->
+
+## Amulet of Leadership
+
+It must be worn at all times to remain effective. When not worn, it becomes inert, remaining inactive for the first 7 days it is again worn.
+
+**In Ravenloft:** Undead are more difficult to control than in other realms. Amulets against the undead, like the amulet of holy turning, work one level below their usual capacity while in the demiplane.
+
+## Amulet of Hunting
+
+| Type | XP Value | GP Value |
+|------|----------|----------|
+| Standard +1 | 600 | 3,000 |
+| Standard +2 | 900 | 4,500 |
+| Standard +3 | 1,200 | 6,000 |
+| Standard +4 | 1,500 | 7,500 |
+| Standard +5 | 1,800 | 9,000 |
+| Cursed −1 | — | 1,000 |
+| Cursed −2 | — | 1,200 |
+| Cursed −3 | — | 1,400 |
+
+*Source: Kara-Tur*
+
+These items increase the bearer's chance of hunting successfully. In game terms, the character gains up to +5 on all hunting skill rolls. If the character does not possess the hunting skill, this amulet bestows it.
+
+Cursed hunting amulets exist as well; when borne, the carrier has reduced chances of hunting success (up to −5 percent).
+
+## Amulet of Immunity to Charm
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: Top Ballista*
+
+These rare amulets are identical to amulets of charm resistance but offer total immunity to all forms of magical charm unless produced by a *limited wish* or *wish*.
+
+## Amulet of Inescapable Location
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: Dungeon Master Guide, 1st Edition*
+
+This device is typically worn on a chain or as a brooch. It appears to be an amulet that prevents location, scrying (crystal ball viewing and the like), or detection or influence by ESP or telepathy. Actually, the amulet doubles the likelihood and range of these location and detection modes. Normal item identification attempts, including *detect magic*, do not reveal their true nature.
+
+## Amulet of Insect Repellency
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: DRAGON Magazine #73*
+
+This is a piece of jade carved in the shape of an insect 1-inch long and suspended from a light chain. The amulet keeps fleas and other insects of similar size from approaching within 3 feet of the wearer. It does not force them out of an area or location, so it could not be used, for example, to clear a bed of fleas.
+
+## Kaleen's Undead Stone
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+*Source: 1992 Fantasy Collector Card 243*
+
+Kaleen's magical amulet is a particularly potent version of a typical amulet vs. undead, allowing Kaleen to turn undead as if a 12th-level priest. The amulet also holds at bay forms of undead that are normally immune to the effects of turning unless those creatures roll a successful saving throw vs. spell. Failure means that the undead creature must remain at least 5 feet from the holder of the amulet.
+
+## Amulet of Lathander
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+*Source: POLYHEDRON Newszine #82*
+
+This hammered platinum amulet was fashioned by the high-level, specialty priests of Lathander, the god of Dawn on Abeir-Toril, the world of the FORGOTTEN REALMS campaign setting. If the wearer of the amulet falls during combat (reduced to 0 hit points or less), the amulet heals 1d6 points of damage. This function of the amulet operates up to three times a day.
+
+If the amulet is worn by a priest of Lathander, and that priest falls during combat, the amulet casts a *heal* spell upon the priest. This function operates up to three times a day.
+
+The amulet can only be worn by individuals of good alignment. Others trying to don this amulet suffer 3d6 points of damage per round until it is removed.
+
+## Amulet of Leadership
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: Tome of Magic*
+
+This amulet bestows a character of any level the ability of a 9th-level fighter to attract men-at-arms. The amulet does not attract additional men-at-arms to a fighter who has already gained followers.
+
+---
+
+<!-- page 37 -->
+
+## Amulet of Life Protection (continued)
+
+A fighter normally gains troops at 9th level because the warrior's name is so well known that he or she attracts the loyalty of other warriors. The amulet works in much the same way. When a stranger meets a character wearing the amulet, the stranger perceives the character to be a leader who is destined for greatness, regardless of the character's class. Just as the reputation of a 9th-level fighter spreads, so the reputation of the person wearing the amulet spreads. Roll 1d100 to determine followers:
+
+| Roll  | Followers (all 0 level)                                                                                                                                                              |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01–50 | 20 cavalry with ring mail, shield, 3 javelins, long sword, hand axe; 100 infantry with scale mail, polearm (player selects type), and club.                                         |
+| 51–75 | 20 infantry with splint mail, morning star, hand axe; 60 infantry with leather armor, pike, and short sword.                                                                         |
+| 76–90 | 40 infantry with chain mail, heavy crossbow, light crossbow, and military fork.                                                                                                      |
+| 91–99 | 10 cavalry with banded mail, shield, lance, bastard sword, and mace; 20 cavalry with scale mail, shield, lance, long sword, and mace; 30 cavalry with studded leather armor, shield, lance, and long sword. |
+| 00    | DM's option — Barbarians, headhunters, armed peasants, extra-heavy cavalry, etc.                                                                                                     |
+
+If the amulet is lost or destroyed, the followers immediately lose faith in their leader. They gradually depart or desert. Once this occurs, the character's reputation is sullied such that he or she can never gain the benefit of the amulet again. The fighter can, of course, gain followers normally upon reaching the 9th level.
+
+## Amulet of Life Protection
+
+**XP Value:** 5,000 &emsp; **GP Value:** 20,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This amulet serves as protection for the psyche. The wearer is protected from *magic jar* and similar mental attacks that usurp control of the wearer's body. If the wearer is slain, the psyche enters the amulet and is protected for seven full days. After that, it departs to the plane of its alignment. If the amulet is destroyed during the seven days, the psyche is utterly and irrevocably annihilated.
+
+**In Ravenloft:** As long as the amulet of life protection is in Ravenloft, a captured psyche cannot leave the demiplane. If the amulet is removed from Ravenloft, the psyche can depart.
+
+## Amulet of Magic Resistance
+
+| Magic Resistance | XP Value | GP Value |
+|-----------------|----------|----------|
+| 5%              | 5,000    | 25,000   |
+| 10%             | 6,000    | 30,000   |
+| 15%             | 7,000    | 35,000   |
+| 20%             | 8,000    | 40,000   |
+| 25%             | 9,000    | 45,000   |
+| 30%             | 10,000   | 50,000   |
+
+*Source: Tome of Magic*
+
+This powerful amulet grants the wearer a degree of magic resistance ranging from 5% to 30%. The level of magic resistance is determined when the amulet is found by rolling 1d6 and multiplying the result by 5. Any time the amulet is worn and a spell is cast at the wearer, the wearer is allowed a percentile roll to avoid the full effects of the spell.
+
+Only 50% of these amulets confer magic resistance against all spells. The remaining 50% extend magic resistance only to spells of 1st through 6th levels. These amulets have no effect on more powerful spells. The DM should secretly determine this when the item is discovered.
+
+All such amulets, regardless of the degree of resistance conferred, are delicate, magical structures. If the wearer rolls for magic resistance and the roll is 95–00, this fragile item shatters into useless scrap.
+
+| Roll  | Magic Resistance                                                                              |
+|-------|-----------------------------------------------------------------------------------------------|
+| 01–14 | 5% for spell levels 1 through 6                                                               |
+| 15–26 | 10% for spell levels 1 through 6                                                              |
+| 27–35 | 15% for spell levels 1 through 6                                                              |
+| 36–42 | 20% for spell levels 1 through 6                                                              |
+| 43–47 | 25% for spell levels 1 through 6                                                              |
+| 48–50 | 30% for spell levels 1 through 6                                                              |
+| 51–00 | Resistance to spell levels 1 through 9 instead of just 1 through 6. Roll again, ignoring results of 51–00. |
+
+## Amulet of Metaspell Influence
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: Tome of Magic*
+
+This amulet does not appear to have any magical function (although it radiates magic if detection is used) until it is worn by someone using one of
+
+---
+
