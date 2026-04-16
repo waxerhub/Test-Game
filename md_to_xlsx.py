@@ -415,7 +415,7 @@ COLUMNS = [
     "name", "xp_value", "value_gp", "source",
     "classes_usable", "slot", "description",
     "stat_str", "stat_dex", "stat_con", "stat_int", "stat_wis", "stat_cha",
-    "ac_bonus", "thac0_bonus", "save_bonus", "hp_bonus", "movement_bonus",
+    "ac_bonus", "ac_set", "thac0_bonus", "save_bonus", "hp_bonus", "movement_bonus",
     "granted_spells", "granted_abilities", "conditions",
     "charges", "notes", "needs_review",
 ]
@@ -425,7 +425,7 @@ COL_WIDTHS = {
     "classes_usable": 20, "slot": 12, "description": 80,
     "stat_str": 8, "stat_dex": 8, "stat_con": 8,
     "stat_int": 8, "stat_wis": 8, "stat_cha": 8,
-    "ac_bonus": 10, "thac0_bonus": 12, "save_bonus": 11,
+    "ac_bonus": 10, "ac_set": 8, "thac0_bonus": 12, "save_bonus": 11,
     "hp_bonus": 10, "movement_bonus": 14,
     "granted_spells": 40, "granted_abilities": 40, "conditions": 40,
     "charges": 9, "notes": 50, "needs_review": 13,

@@ -45,7 +45,11 @@ JSON schema (all fields required):
   "stat_int":          <int, net Intelligence bonus/penalty, 0 if none>,
   "stat_wis":          <int, net Wisdom bonus/penalty, 0 if none>,
   "stat_cha":          <int, net Charisma bonus/penalty, 0 if none>,
-  "ac_bonus":          <int, AC improvement (positive = better AC), 0 if none>,
+  "ac_bonus":          <int, RELATIVE AC improvement added to existing AC (positive = better, \
+e.g. a +2 AC item makes AC 10 → AC 8, so this is 2), 0 if none>,
+  "ac_set":            <int, ABSOLUTE AC value the item sets base AC to, overriding armor \
+(e.g. Bracers of Defense AC 0 → use 0, Bracers AC 6 → use 6), -1 if not applicable. \
+IMPORTANT: only use this when the item explicitly sets a base AC value, not when it adds a bonus>,
   "thac0_bonus":       <int, THAC0 improvement (positive = lower THAC0), 0 if none>,
   "save_bonus":        <int, saving throw bonus/penalty, 0 if none>,
   "hp_bonus":          <int, hit point bonus, 0 if none>,
@@ -119,7 +123,7 @@ def _empty_effects(needs_review=False) -> dict:
     return {
         "stat_str": 0, "stat_dex": 0, "stat_con": 0,
         "stat_int": 0, "stat_wis": 0, "stat_cha": 0,
-        "ac_bonus": 0, "thac0_bonus": 0, "save_bonus": 0,
+        "ac_bonus": 0, "ac_set": -1, "thac0_bonus": 0, "save_bonus": 0,
         "hp_bonus": 0, "movement_bonus": 0,
         "granted_spells": "", "granted_abilities": "",
         "conditions": "", "charges": 0, "notes": "",
@@ -129,7 +133,7 @@ def _empty_effects(needs_review=False) -> dict:
 
 EFFECT_COLS = [
     "stat_str", "stat_dex", "stat_con", "stat_int", "stat_wis", "stat_cha",
-    "ac_bonus", "thac0_bonus", "save_bonus", "hp_bonus", "movement_bonus",
+    "ac_bonus", "ac_set", "thac0_bonus", "save_bonus", "hp_bonus", "movement_bonus",
     "granted_spells", "granted_abilities", "conditions",
     "charges", "notes", "needs_review",
 ]
