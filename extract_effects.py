@@ -172,7 +172,9 @@ def main():
                     help="Only process first N data rows (0 = all)")
     ap.add_argument("--resume",  action="store_true",
                     help="Skip rows where granted_spells is already filled")
-    ap.add_argument("--workers", type=int, default=WORKERS)
+    ap.add_argument("--workers",   type=int, default=WORKERS)
+    ap.add_argument("--checkpoint", type=int, default=50,
+                    help="Save XLSX every N completed items (0 = disable)")
     args = ap.parse_args()
 
     api_key = os.environ.get("ANTHROPIC_API_KEY")
@@ -259,6 +261,10 @@ def main():
                 pct = done[0] * 100 // total
                 print(f"\r  {done[0]}/{total} ({pct}%)  latest: {futures[fut][1][:40]}",
                       end="", flush=True)
+
+                if args.checkpoint and done[0] % args.checkpoint == 0:
+                    wb.save(args.output)
+                    print(f"\n  [checkpoint] saved at {done[0]}/{total}", flush=True)
 
     print(f"\n\nSaving {args.output} …")
     wb.save(args.output)
