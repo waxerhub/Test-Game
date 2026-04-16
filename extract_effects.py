@@ -39,12 +39,20 @@ Return ONLY valid JSON, no prose, no markdown code fences.
 
 JSON schema (all fields required):
 {
-  "stat_str":          <int, net Strength bonus/penalty, 0 if none>,
-  "stat_dex":          <int, net Dexterity bonus/penalty, 0 if none>,
-  "stat_con":          <int, net Constitution bonus/penalty, 0 if none>,
-  "stat_int":          <int, net Intelligence bonus/penalty, 0 if none>,
-  "stat_wis":          <int, net Wisdom bonus/penalty, 0 if none>,
-  "stat_cha":          <int, net Charisma bonus/penalty, 0 if none>,
+  "stat_str":          <int, net Strength BONUS or PENALTY granted TO the user by the item \
+(e.g. "raises Strength by 3" → 3, "sets Strength to 18/00" is complex → note in notes). \
+IMPORTANT: minimum required Strength to USE the item is NOT a bonus — put it in conditions instead \
+(e.g. "requires Strength 13+" → stat_str=0, conditions="Requires minimum Strength 13+">, 0 if none>,
+  "stat_dex":          <int, net Dexterity BONUS or PENALTY granted TO the user. \
+Minimum Dex requirements go in conditions, not here. 0 if none>,
+  "stat_con":          <int, net Constitution BONUS or PENALTY granted TO the user. \
+Minimum Con requirements go in conditions, not here. 0 if none>,
+  "stat_int":          <int, net Intelligence BONUS or PENALTY granted TO the user. \
+Minimum Int requirements go in conditions, not here. 0 if none>,
+  "stat_wis":          <int, net Wisdom BONUS or PENALTY granted TO the user. \
+Minimum Wis requirements go in conditions, not here. 0 if none>,
+  "stat_cha":          <int, net Charisma BONUS or PENALTY granted TO the user. \
+Minimum Cha requirements go in conditions, not here. 0 if none>,
   "ac_bonus":          <int, RELATIVE AC improvement to the WEARER'S own AC (positive = better, \
 e.g. a +2 AC item makes wearer AC 10 → AC 8, so this is 2). \
 IMPORTANT: if an item forces a TARGET/ENEMY to AC 10 or bypasses a target's armor, that is an \
