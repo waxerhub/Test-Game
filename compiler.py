@@ -21,6 +21,8 @@ import json
 import os
 import re
 import sys
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 try:
@@ -52,6 +54,8 @@ def parse_args():
                    help="Resume a previous run (skip already-processed pages)")
     p.add_argument("--ocr-only", action="store_true",
                    help="Run Phase 1 only — extract and cache OCR, no Claude calls")
+    p.add_argument("--workers",  type=int, default=5,
+                   help="Parallel Claude workers for Phase 2 (default 5)")
     return p.parse_args()
 
 
@@ -130,10 +134,27 @@ def run_phase1(pdf_path: str, page_indices: list[int], dpi: int,
 
 # ── Phase 2: Claude merge ──────────────────────────────────────────────────
 
-def run_phase2(cache: dict[int, dict], page_indices: list[int],
-               output_path: Path, pdf_stem: str, resume: bool):
+def _merge_one(page_idx: int, cache: dict[int, dict]) -> tuple[int, str, dict]:
+    """Worker: call Claude for one page. Returns (page_num, markdown, usage)."""
     from merger import merge_page
+    page_num = page_idx + 1
+    entry    = cache.get(page_num, {})
+    text     = entry.get("text",   "")
+    tables   = entry.get("tables", [])
+    try:
+        merged, usage = merge_page(page_num, text, tables)
+    except Exception as exc:
+        print(f"\n  WARNING page {page_num}: {exc}", flush=True)
+        merged = text
+        usage  = dict(input_tokens=0, output_tokens=0,
+                      cache_read_input_tokens=0,
+                      cache_creation_input_tokens=0)
+    return page_num, merged, usage
 
+
+def run_phase2(cache: dict[int, dict], page_indices: list[int],
+               output_path: Path, pdf_stem: str, resume: bool,
+               workers: int = 5):
     done = already_merged_pages(output_path) if resume else set()
     todo = [i for i in page_indices if (i + 1) not in done]
 
@@ -141,11 +162,25 @@ def run_phase2(cache: dict[int, dict], page_indices: list[int],
         print("Phase 2: all pages already merged.\n")
         return
 
-    print(f"Phase 2: Claude cleanup ({len(todo)} pages)…")
+    print(f"Phase 2: Claude cleanup ({len(todo)} pages, {workers} parallel workers)…")
     print("  Prompt caching active — cost drops significantly after page 1.\n")
 
-    totals = dict(input=0, output=0, cache_read=0, cache_write=0)
+    totals     = dict(input=0, output=0, cache_read=0, cache_write=0)
+    results    = {}          # page_num → (merged, usage)
+    write_lock = threading.Lock()
+    progress   = [0]
 
+    # Collect all results in parallel, then write in strict page order
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(_merge_one, idx, cache): idx for idx in todo}
+        for fut in tqdm(as_completed(futures), total=len(todo),
+                        desc="Merging", unit="page"):
+            page_num, merged, usage = fut.result()
+            with write_lock:
+                results[page_num] = (merged, usage)
+                progress[0] += 1
+
+    # Write output in sorted page order
     mode = "a" if (resume and output_path.exists()) else "w"
     with open(output_path, mode, encoding="utf-8") as out:
         if mode == "w":
@@ -153,20 +188,9 @@ def run_phase2(cache: dict[int, dict], page_indices: list[int],
             out.write(f"> Compiled from `{pdf_stem}.pdf` — {len(page_indices)} pages\n\n")
             out.write("---\n\n")
 
-        for page_idx in tqdm(todo, desc="Merging", unit="page"):
+        for page_idx in sorted(todo):
             page_num = page_idx + 1
-            entry    = cache.get(page_num, {})
-            text     = entry.get("text",   "")
-            tables   = entry.get("tables", [])
-
-            try:
-                merged, usage = merge_page(page_num, text, tables)
-            except Exception as exc:
-                print(f"\n  WARNING page {page_num}: {exc}")
-                merged = text   # fall back to raw OCR
-                usage  = dict(input_tokens=0, output_tokens=0,
-                              cache_read_input_tokens=0,
-                              cache_creation_input_tokens=0)
+            merged, usage = results[page_num]
 
             totals["input"]       += usage["input_tokens"]
             totals["output"]      += usage["output_tokens"]
@@ -175,7 +199,6 @@ def run_phase2(cache: dict[int, dict], page_indices: list[int],
 
             out.write(f"<!-- page {page_num} -->\n\n")
             out.write(merged.strip() + "\n\n---\n\n")
-            out.flush()
 
     print(f"\n{'─'*48}")
     print(f"Output → {output_path}")
@@ -221,7 +244,8 @@ def main():
         return
 
     # ── Phase 2 ──
-    run_phase2(cache, page_indices, output_path, pdf_stem, args.resume)
+    run_phase2(cache, page_indices, output_path, pdf_stem, args.resume,
+               workers=args.workers)
 
 
 if __name__ == "__main__":
