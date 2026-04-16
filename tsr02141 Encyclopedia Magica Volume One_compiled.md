@@ -17737,3 +17737,611 @@ This cloak (many have been made) confers a limited spell immunity upon any one l
 
 ---
 
+<!-- page 309 -->
+
+(continuing from previous page — this page continues the entry for a Cloak of Reflection or similar item, then presents Rhun's Horned Cloak and Shadowcloak)
+
+saving throw); the *forget* spell is lost, and neither caster nor cloak wearer forgets anything.
+
+- **Irritation:** Reflected back at caster, who is affected unless save is made (negates effect).
+- **Ray of enfeeblement:** Reflected back at caster, who is affected normally unless a saving throw is successful (negates effect).
+- **Hold person/animal/monster** (if cast at cloak wearer): Distorted by the cloak and reflected back at caster, who must save vs. spell (at par) or be slowed for two rounds.
+- **Tasha's uncontrollable hideous laughter:** Reflected back at caster, who is affected normally unless save is made (but the caster's saving throw is always at par, never at a minus due to Intelligence).
+- **Polymorph other:** Reflected back at caster, who must save at +2 or be affected normally (system shock roll must be made, form received is as caster intended).
+- **Feeblemind:** Reflected back at caster, who must save vs. spell at +2 or be affected normally.
+- **Color spray:** Reflected back at caster, who must save vs. spell or be struck unconscious for 1d2 rounds.
+- **Entangle:** Cloak wearer is unaffected by *entangle*, but the spell has normal effect on other creatures within area of effect; magic is not reflected back on the caster.
+
+## Rhun's Horned Cloak
+
+| Component | XP Value | GP Value |
+|-----------|----------|----------|
+| Horns     | 2,000    | 7,000    |
+| Visor     | 2,200    | 7,500    |
+| Tail      | 2,500    | 10,000   |
+
+*Source: The Magister*
+
+This dark brown or russet-colored garment acts as a cloak of protection +2. A wearer of this horned cloak is able to *pass without trace* at will.
+
+The cloak is hooded, and on the hood are mounted two long horns resembling those of a bull. The cloak allows a wearer to take the form of a bull (shape change) up to 6 times a day (24-hour period) and change back again at will. But, for every round spent in bull form, there is a 10% (not cumulative) chance that the cloak vanishes forever, trapping a wearer in bull form. This condition may be healed by *dispel magic*, *shape change* (which leaves a cloak wearer in original form when it expires), or wish-related spells.
+
+Only M-sized creatures may wear these cloaks and employ their powers. Some cloaks have a visored face mask that allows the wearer infravision (corresponding to his or her normal range of sight), and 20% of the cloaks have a prehensile tail mounted on the back, between the wearer's shoulders.
+
+This tail is under the mental control of a wearer, and can wield a weapon, item, or shield simultaneously in normal two-handed combat, at no Dexterity penalty. Actions requiring fingers (picking locks, drawing bows, and so on) are not possible with the tail.
+
+## Shadowcloak
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+
+*Source: The Complete Thief's Handbook*
+
+This large, cowled cloak is made from pure black velvet. When worn by a thief, it improves hide in shadows chances by 25% and makes a thief 50% likely to be invisible in near darkness (even to infravision). It can also be used to cast *darkness*, *darkness 15' radius*, and *continual darkness* once each per day (at 12th level of magic use). Finally, once per day a wearer can actually transform into a shadow for up to 12 turns, becoming a shadow in all respects save for mental ones (thus, a wearer cannot be damaged by nonmagical weap-
+
+---
+
+<!-- page 310 -->
+
+ons; and undead take the wearer for a shadow and ignore him or her). Saves against light-based attacks (for example, a *light* spell cast into the eyes) are always made at -2 by a wearer of a shadowcloak.
+
+If a priest successfully makes a turning attempt against the wearer in shadow form, the cloak wearer is permitted a saving throw (this is at -4 if the priest is actually able to destroy shadows). If the save fails, a wearer suffers 1d6 points of damage per level of the priest and the shadowcloak is destroyed. If the save is made, a character takes half damage and must flee in fear at maximum rate for one turn.
+
+## Cloak, Shaman's Mantle
+
+**XP Value:** 9,000 &emsp; **GP Value:** 69,500
+
+*Source: Twilight Calling*
+
+The shaman's mantle lowers a wearer's Armor Class base to 4, granting the powers of invulnerability (as the potion) and spell turning (as the ring), each usable twice a day.
+
+## Cloak of the Shield
+
+**XP Value:** 1,500 &emsp; **GP Value:** 10,000
+
+*Source: The Magister*
+
+A wearer of this cloak can project a shielding field of invisible force once every two turns, maintaining and moving the force field by conscious mental control. The field lasts up to three rounds, in the form of a square 10 by 10 inches across and 4 inches thick. Any wearer can employ the field without strain within 40 feet as a shield, for self-protection, or to protect another single being, so that it acts as a wall of force (as the wizard spell), a weapon (striking as an invisible ramming force, doing 1d10 points of damage per blow, one blow per round, no saving throw), as a bridge or a barrier (like a door), or as a floating disk (like Tenser's spell). A wearer can shift the force field to fulfill any or all of these functions in any order, but it may serve only in one capacity per round.
+
+If not maintained by constant mental control (a wearer cannot be struck unconscious, stunned, charmed, confused, feebleminded, or psionically attacked, and cannot cast spells), it ceases to exist immediately. Attacks upon the field of force do not affect the cloak. Elminster reports that some of these cloaks have lost their powers when used often — and therefore advances the hypothesis that such cloaks have a limited number of magical charges or uses before they are exhausted. The truth of this, it must be stressed, is presently unknown (DM's option).
+
+## Cloak of Stars
+
+| Type | XP Value | GP Value |
+|------|----------|----------|
+| Type I | 1,200 | 7,500 |
+| Type II | 1,200 | 7,500 |
+| Type III | 1,200 | 7,500 |
+
+*Source: DRAGON Magazine #112*
+
+The inside of this cloak contains four stars around the neck and front hems, six-pointed shapes of silver cloth. These are enspelled and radiate magic. If a star is touched and the name of its maker spoken (Thalanta the Fair made most of these cloaks), the star vanishes and the spell stored within is activated. The knowledge of the making of such stars is lost, and thus they cannot be replaced. Moreover, there is nothing to identify what spell is linked to which star, although a few sages know the secrets of the patterns the stars were placed in, and can deduce the spell each star will trigger. Only one star may be activated per round; it will cause a spell to be cast as though by a cloak wearer (regardless of that being's class or level), and the spell will take effect as if cast by a wizard of 20th level, for that was Thalanta's level.
+
+The usual spells stored in a cloak of stars vary according to which of three types of cloaks is found:
+
+- **Type I:** Teleport, enchant an item, spiritwrack, and limited wish.
+- **Type II:** Anti-magic shell, repulsion, reverse gravity, and imprisonment.
+- **Type III:** Death spell, legend lore, statue, and shape change.
+
+Such cloaks are very rare, as the steady attrition of used stars reduces the numbers without replenishment, and this is especially true of Type III. The patterns in which the stars were placed inside the cloaks vary as well. The three known variations (which do not necessarily correspond to the three types of cloaks as noted above) are:
+
+- **Style I:** A triangle of three stars inside the right front throat hem, one star in the center of the triangle.
+- **Style II:** Four stars in a square on the left front throat hem.
+- **Style III:** Two stars down the right front hem and two stars down the left front hem.
+
+---
+
+<!-- page 311 -->
+
+Some speak of a fourth combination—four stars in a diagonal row by the right front throat hem—but what spells any of these patterns correspond to, only a few sages know or are able to discover (DM's option). They can, of course, be activated without knowing what spell is contained; knowledge of the spell power will fill an activator's mind in time for the spell to be directed at an area or specific target (but not negated or saved for later).
+
+## Cloak of Strength
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: POLYHEDRON Newszine #82*
+
+These exquisitely tailored cloaks are made of dark green velvet and are decorated with a red gem that rests above the wearer's heart. When the wearer touches the gem, a permanent +1 bonus is added to the character's Strength (or a +10 to exceptional Strength to a maximum of 18/00), then the cloak and gem disappear.
+
+## Sumpko's Mantle
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: Kara-Tur*
+
+If the legends are to be believed, then Sumpko must certainly be considered the greatest tusu of the korobokuru race. She (most stories refer to Sumpko as female) wandered far and wide, even through the strange lands of the south and into the netherworld, and much korobokuru folklore consists of tales of her adventures and the extraordinary things she encountered.
+
+This ancient relic was endowed with magical power. It supplemented her ability so that she was a greater wielder of magic than is possible for normal korobokuru, and it also allowed her to see into the spirit worlds.
+
+If a wearer is a spellcaster, spells take effect as if cast by a character three levels higher, regardless of racial maximums (Sumpko could have cast spells as a 10th-level wu jen, though korobokuru cannot rise above 7th level in that class). The mantle does not allow characters to learn spells as if of the higher level, only to cast the ones permitted by their actual level with greater efficiency.
+
+The second power of the mantle is to view the Astral and Ethereal Planes. By concentrating, a wearer may see into either of those planes (provided that the plane intersects the Prime Material Plane at the wearer's location). A wearer need not be a spellcaster for this power to operate.
+
+The one side-effect of the mantle is that when the wearer is under great stress (as determined by the DM, but which happens only rarely), he or she must save vs. spell at −4 or sight becomes involuntarily focused on the Astral or Ethereal Plane (equal chances of each) for 3d4 rounds. This makes a character effectively blind on the Prime Material Plane.
+
+The mantle is sized to fit a korobokuru, although it is believed that it resizes itself to fit any wearer. It is made of the wools of various northern animals, brightly dyed and woven in attractive patterns. Tiger fur lines the edges.
+
+Sumpko is believed to have created the mantle with the assistance of several powerful spirits. She passed it on to her successor, and so, for more than a century, it remained in the village; then it was taken in an attack by hobgoblins and ogres. It has since appeared in the hands of various shamans in every corner of the Ama Basin. Some are known to have met gruesome deaths. The mantle is suspected to be controlled by evil spirits whose attentions were won by eavesdropping on other planes.
+
+## Cloak of Survival
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+*Source: DRAGON Magazine #112*
+
+Any being wearing this cloak gains a +2 bonus on all saving throws vs. poison and has a −3% penalty to the chances of contracting any disease or parasitic infestation. In addition, the cloak maintains a supply of pure, breathable air, enough for the wearer to breathe for one turn, and it replenishes the supply constantly whenever the surrounding air is pure. It automatically envelops a wearer's head whenever breathable air is not present (if a cloak wearer is enveloped in choking smoke or plunged into water, he or she can see, breathe, and act normally for up to one turn).
+
+Incidentally, a wearer of this cloak is immune to nausea and its effects, and to the cantrips belch, cough, sneeze, and yawn. Note that protection from poisonous vapors lasts one full turn, and only after that does a cloak wearer save (at +2) to avoid any effects.
+
+---
+
+<!-- page 312 -->
+
+## Cloak of Symbiotic Protection
+
+**XP Value:** 3,000 &emsp; **GP Value:** 20,000
+*Source: DRAGON Magazine #112*
+
+This type of cloak is very rare. It is impregnated with an immobile, nonintelligent living substance of unknown origin and nature that cannot be isolated by alchemists and naturalists for study. The symbiote drains 1 hit point of vitality from the wearer every other time it is put on (or, if worn continuously, once every two days), and makes the wearer color blind while the cloak is worn.
+
+In return, the cloak confers immunity to the effects of green slime, olive slime, obliviax, violet fungi, yellow musk creeper, yellow mold, and russet mold (but not brown mold). In addition the cloak gives a bonus of +4 to saving throws against spore attacks of all other sorts (including those of the myconid, ascomoid, basidirond, and similar creatures). The symbiotic life form in the cloak seems to feed upon and neutralize spores and microscopic, airborne life of all sorts; in many cases, this ability gives the wearer a −6% penalty to chances of contracting diseases.
+
+## Tiger Cloak of Chalyik
+
+**XP Value:** 1,500 &emsp; **GP Value:** 12,500
+*Source: GREYHAWK Adventures*
+
+Fashioned from the complete hide of an adult tiger, the cloak includes the head, skin, and claws, dangling at the sides. It was the favorite magical item of the Tiger Lord and the lesser khans, until it disappeared.
+
+The cloak gives the wearer a +20% reaction from Tiger Nomads, but a −50% reaction from Wolf Nomads and tribes of the Burneal Forest. In melee, the wearer of the cloak enters a berserk rage and gains a +3 Strength (+50% for fighters with exceptional 18/00 Strength) to racial minimums, but loses any Dexterity bonus to Armor Class. If he or she wishes to cease fighting while live enemies are in sight, the character must save vs. spell or continue to attack.
+
+## Theodolus's Cloak of Arachnida
+
+**XP Value:** 3,500 &emsp; **GP Value:** 30,000
+*Source: 1992 Fantasy Collector Card #150*
+
+The druid Theodolus is especially proud of this cloak, because he is especially fond of insects. Like other cloaks of arachnida, this one allows him to climb as if a *spider climb* spell had been cast upon him, it renders him immune to entrapment by webs of any sort (so he can visit his friends without disrupting their homes), it enables him to actually cast a double-sized web (a talent he loves to rub in the nose of wizards), and it gives him a +2 bonus to all saving throws vs. poison. Unlike similar cloaks, this one allows Theodolus to summon insects (arachnids) twice a day.
+
+## Cloak of Warmth
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,500
+*Source: DRAGON Dawn*
+
+The cloak appears to be an ordinary garment of gray wool, hanging full and voluminously. When worn in flight (whether the rider is upon a dragon's back or upon another flying mount), the lengthy folds of the cloak wrap themselves around a wearer's body in a magically warm and insulating embrace. The cloak does not hinder motion, and maintains a comfortable temperature regardless of the weather, the knight's other garments, or how high an altitude is reached.
+
+## Cloak of Weather
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: POLYHEDRON Newszine #82*
+
+This hooded cloak automatically changes thickness, texture, and style to adapt to almost any natural weather condition. It keeps its wearer dry in the rain, warm in a blizzard, and pleasantly cool in a blazing desert.
+
+## Wings of the Rakers
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,500
+*Source: GREYHAWK Adventures*
+
+This white cloak was enchanted by a wizard who found a welcome home among the Griff Mountains and the Rakers. He especially enjoyed his time among the aarakocra bird people, and so he created this item to enhance his encounters with them. When he neared his natural death and returned to his home in Theocracy of the Pale, he passed the cloak on to a trusted friend, and it has gone from person to person since.
+
+The cloak acts as *wings of flying*, except that wings of the rakers take the appearance of white seagull wings. The cloak also gives its wearer the ability to speak and understand the language of the aarakocra, and to mimic their diving attack.
+
+---
+
+<!-- page 313 -->
+
+## White Cloak of Charming
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: POLYHEDRON Newszine #21*
+
+This unusually white cloak increases the magical effectiveness of several types of spells. It modifies saving throws by -2 on all illusionist spells, and by -3 on all hold, charm, suggestion, and confusion spells of a wizard. These spells are further modified by a factor of -1 when worn by a female.
+
+## Wolf Cloak of Wegwiur
+
+**XP Value:** 2,000 &emsp; **GP Value:** 15,000
+*Source: GREYHAWK Adventures*
+
+This magical cloak was made from the hide of a winter wolf, and includes a wolf's head, pelt, claws, and tail. It was enchanted by a priest of the Wolf Nomads, and since then has served as a tool for those who seek the swift, sleek power of wolves.
+
+The cloak gives the wearer a +20% reaction from the wolves of the prairies, but a -50% reaction from Tiger Nomads. In melee, a wearer gains three Wisdom and four Dexterity points (to racial maximums). If a character wears this cloak at night, in the light of the moon, he or she can turn into a winter wolf (with average statistics) 1d4+3 hours.
+
+## Zinzerena's Cloak
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: Monster Mythology*
+
+Zinzerena wears a magical cloak that acts as a cloak of protection. But this cloak has an AC bonus of from +1 to +5 that changes at random, giving her a fluctuating Armor Class.
+
+## Cloak Clasp of Holding
+
+**XP Value:** 60 &emsp; **GP Value:** 600
+*Source: DRAGON Magazine #30*
+
+The cloak clasp of holding is a small silver clasp that holds or releases upon the command of the owner. It can hold up to 50 pounds of pressure and opens to clip to any object ¼-inch thick or less.
+
+## Cloth
+
+Cloth — fabric formed by weaving or felting — is a commodity for those who prefer the luxuries of life, or have delicate skin. Shirts, pants, vests, socks, and just about any other article of clothing can be made from cloth. Magical cloth can be sewn or otherwise formed into clothing having the same magical traits as the original bolt of cloth (unless otherwise stated).
+
+## Cloth of Cleanliness
+
+**XP Value:** 1,000 &emsp; **GP Value:** 4,500
+*Source: DRAGON Magazine #73*
+
+Any article of clothing made from this material never needs washing — because it sheds dirt when left in a dark place overnight.
+
+## Merchant's Cloth
+
+**XP Value:** 700 &emsp; **GP Value:** 7,000
+*Source: POLYHEDRON Newszine #58*
+
+This cloth is made of fine, silvery thread and is often covered with splotches of oil and grime. If *detect magic* is cast on it, the cloth radiates strong alteration magic. This cloth is favored by merchants because it increases the apparent value of their goods. If the cloth is brushed over a nonmagical item that weighs 25 pounds or less, it improves the appearance, but not the value, of the object.
+
+The first brush with the cloth removes all heavy soil and dirt, the second removes all fine dust, the third adds luster to the object, and the fourth adds a mirror brightness. After the fourth pass the object
+
+---
+
+<!-- page 314 -->
+
+## Cloth of Perfect Fit
+
+**XP Value:** 500 &emsp; **GP Value:** 1,500
+
+*Source: DRAGON Magazine #73*
+
+Any item of clothing (but not armor) may be of perfect fit; it magically fits any person who tries it on. It wears out through normal use.
+
+## Cloth of Polishing
+
+**XP Value:** 500 &emsp; **GP Value:** 2,000
+
+*Source: DRAGON Magazine #30*
+
+To make cleaning the family silver easier, Orlow created a magical cloth of polishing for Fran. This 1-foot-square cloth, when rubbed lightly over any metal surface, removes all grime, rust, and tarnish, returning the surface to its original luster.
+
+## Cloth of Polishing II
+
+**XP Value:** 500 &emsp; **GP Value:** 1,500
+
+*Source: DRAGON Magazine #73*
+
+This is a soft chamois cloth, 1-foot-square. The cloth magically polishes any object immediately, provided that it is possible to polish the object. Human faces, for example, cannot be polished.
+
+## Shekinester's Cloth
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: Monster Mythology*
+
+Shekinester's avatar can cast a *web* spell three times per day. If the strands of the web are collected and spun into cloth (using a spell such as *mending* or a carefully deployed *major creation* with the web as a material component), a spinner must wear the cloth for one hour and gain the ability to commune with the goddess once per week for 2d4 weeks. Only one being can gain this benefit and then only if female.
+
+## Cloth, Steel
+
+**XP Value:** 750 &emsp; **GP Value:** 5,500
+
+*Source: DRAGON Magazine #126*
+
+When the bearer of this 8-foot-long cloth utters the command word (usually found on the cloth), the enchanted fabric straightens out as if wielded by someone who knows the martial arts maneuver "steel cloth." Unlike the regular cloth used in the maneuver, this cloth remains straight, even when not in motion, and rigid until a second command word is spoken to return the cloth to its normal condition. In the rigid state, the cloth may be hurled; if thrust or thrown, it strikes as a spear +2. When rigid, the cloth is so hard that it may be used as a crowbar or as a long spike for stopping sliding walls.
+
+---
+
+# Club
+
+A club is a heavy stick that is usually thicker at one end than the other. When grasped by the thinner end, the club can be used as a bludgeoning weapon. Clubs are generally wooden, though metal ones do exist. Wooden clubs often have spikes inserted into the weapon's fat end to increase the damage a club can deliver by 1d2. (See also Cane and Mace.) Roll on the table below to determine the type of bludgeon found.
+
+| Roll  | Club Type        |
+|-------|------------------|
+| 01–04 | Bastinado        |
+| 05–08 | Bat              |
+| 09–12 | Baton            |
+| 13–15 | Belaying Pin     |
+| 16–19 | Billy Club       |
+| 20–23 | Blackjack        |
+| 24–27 | Bludgeon         |
+| 28–31 | Boomerang        |
+| 32–35 | Cane             |
+| 36–38 | Club             |
+| 39–42 | Cudgel           |
+| 43–46 | Datchi Club      |
+| 47–50 | Dwarven War Club |
+| 51–54 | Gada             |
+| 55–57 | Kiseru           |
+| 58–59 | Knobkerrie       |
+| 60–61 | Kusari-gama      |
+| 62–63 | Maca             |
+| 64–65 | Mace             |
+| 66–68 | Maul             |
+| 69    | Metal*           |
+| 70–73 | Sap              |
+| 74–76 | Shillelagh       |
+| 77    | Spiked*          |
+| 78–81 | Stick            |
+| 82–85 | Tonfa            |
+| 86–88 | Trombash         |
+| 89–92 | Trudgeon         |
+| 93–95 | Tui-fa           |
+| 96    | Wooden*          |
+| 97–00 | Yawara           |
+
+---
+
+<!-- page 315 -->
+
+## Aegir's Club
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Legends & Lore*
+
+Anyone hit by the avatar's club must save vs. death magic or fall unconscious for 1d10 hours.
+
+## Bronzewood Cudgel
+
+**XP Value:** 1,000 &emsp; **GP Value:** 8,000
+*Source: The Temple of Elemental Evil*
+
+This bronzewood cudgel is actually a +3 weapon equal to a morning star. Any human touched by the cudgel in combat must make a saving throw vs. spell or be beguiled for 5d4 turns in addition to suffering the damage caused by the weapon.
+
+## Daghdha's Club
+
+**XP Value:** 15,000 &emsp; **GP Value:** 75,000
+*Source: Legends & Lore*
+
+Daghdha's avatar wields a club of a highly magical nature. If he so chooses, any blow from its heavy end automatically slays a living being (no saving throw). However, if he reverses the club and touches a dead being, it grants life (as a *raise dead* spell). Daghdha's avatar also has the ability to charm any woman, mortal or otherwise, and bend her to his will.
+
+## Druid's Cudgel
+
+**XP Value:** 750 &emsp; **GP Value:** 7,500
+*Source: Moonshae*
+
+A druid can fashion this club from the limb of a freshly dead oak tree. The tree must have been killed in a natural calamity (as opposed to the actions of man)—by lightning, drought, blight, or flood—that did not weaken the wood.
+
+The cudgel must be whittled smooth on the day preceding a full moon, and then be immersed in the waters of a Moonwell, from sunset to sunrise, through the night of a full moon. When removed in the morning, it is enchanted.
+
+A druid's cudgel is a +1 magical weapon that inflicts 1d6+1 points of damage to small and medium-sized creatures, and 1d4+1 points to larger victims. It can be enhanced with a *shillelagh* spell, which adds an additional +1 to attack and damage.
+
+## Fire's Club
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Legends & Lore*
+
+Wind's avatar carries a large club that causes 1d10 points of damage. If a mortal touches the weapon, he or she suffers 1d10 points of fire damage per round—even if magically protected from fire.
+
+## Great Stone Club
+
+**XP Value:** 3,000 &emsp; **GP Value:** 24,000
+*Source: Kara-Tur*
+
+The ruby warrior, detailed under Crystal Warrior, carries a great stone club +4. This massive weapon causes double the damage of a normal club. Human-sized creatures and smaller always lose initiative when using this huge weapon.
+
+## Grolantor's Club
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,000
+*Source: Monster Mythology*
+
+The avatar's club +1 inflicts double damage on dwarves (4d12+2+9).
+
+## Coal of Warmth
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine 30*
+
+A coal of warmth is approximately 2 inches square and an inch thick. It stays at a constant temperature of 96° Fahrenheit regardless of its surroundings. It was thought to have been used as a hand-warmer during winter trips.
+
+## Coat
+
+A coat is an outer garment with sleeves. It encircles its wearer and is secured with ties, hooks, or buttons. Coats often have hoods for extra warmth. Coats are familiar apparel, often made from animal hides, plant fiber, or cloth. (For additional coat types, refer to the random chart under Cloak.)
+
+## Fare's Coat of Protection
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: 1992 Fantasy Collector Card 241*
+
+Fare's magical +1 coat is a heavy, lined jacket with several pockets both inside and out. It is very similar to a *cloak of protection* +1, but two of its pockets function as miniature bags of holding, able to contain up to 3 cubic feet of material each.
+
+## Invulnerable Coat of Arn
+
+**XP Value:** 13,500 &emsp; **GP Value:** 87,500
+*Source: Eldritch Wizardry*
+
+This relic of a bygone age is a shining coat of chainmail. It covers the chest and abdomen and
+
+---
+
+<!-- page 316 -->
+
+## Coat of the Seas (continued from previous page)
+
+fits any humanoid regardless of size. It renders the areas protected completely invulnerable to physical attacks, protects the wearer from spells as if it were +5 armor, from fire like a ring of fire resistance, and from the effects of acid, cold, and disease totally. It also has the following abilities and penalties:
+
+- Invisibility
+- Move at double speed
+- User becomes 2 inches shorter each time it is used
+- User has a poison touch. Anyone he or she touches must make a saving throw vs. poison.
+
+## Invulnerable Coat of Arnd
+
+**XP Value:** 10,000 &emsp; **GP Value:** 65,000
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+The High Priest Arnd of Tdon is said to have been the original owner of this relic. The coat is a bright and shimmering shirt of fine and almost weightless chain links. It covers the upper arms, torso, and groin of any human-shaped wearer of from 3 feet to 8 feet in height, and makes the wearer wholly invulnerable to physical attacks with respect to covered areas, and gives AC 5 protection to all other areas. In addition, the coat adds +5 to saving throws as if it were +5 magic armor, protects its wearer from fire as if it were a ring of fire resistance, and acid, cold, and electrical attacks also have no effect.
+
+## Invulnerable Coat of Arnd II
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Book of Artifacts*
+
+The invulnerable coat of Arnd is a shimmering coat of fine chain mail, links of pure silver that cover a wearer's upper arms, torso, and groin.
+
+Only scant details remain of the people of the tiny, ancient nation oppressed and impoverished by the wizard Virtos. All of the champions sent by the people to free them from Virtos's yoke failed. With no one else to take up their cause, the priests and great craftsmen combined forces to create a mail coat. This artifact would endow its wearer with the courage and strength to defeat Virtos. When the coat was completed, the priests prayed for a champion.
+
+One week later, Arnd, a humble priest from the south, entered the city. Arnd's order strongly believed in aiding impoverished folk at every opportunity, and Arnd himself was a most dedicated follower. Upon learning of the people's plight, Arnd agreed to don the coat and lead the masses into battle. The victory was a sound one, and Virtos was utterly overthrown. After the victory, Arnd disappeared, taking the coat as a gift.
+
+The invulnerable coat of Arnd is perfect for any classic, good vs. evil, epic adventure. The PCs could either find it themselves and use it to swing the tide in a great war, or perhaps they must prevent another from claiming it for the other side. It will not unbalance a campaign, for once the quest is fulfilled, the coat disappears, seeking a new wearer.
+
+**Constant Powers:** The coat grows or shrinks to fit any humanoid character from 3 to 8 feet tall. The wearer is impervious to any physical attacks made on a roll of less than a natural 20, and gains a +5 bonus to all saving throws. The armor protects against fire attacks as a ring of fire resistance and is immune to acid, cold, and electrical attacks.
+
+**Invoked Powers:** A priest wearing the armor and uttering a special prayer gains three experience levels for four days (once a month). The priest gains all hit points, spells, attacks, and saving throws associated with the new level.
+
+**Curse:** The spirit of Arnd still inhabits the armor and attempts to aid the poor whenever possible. While in the presence of impoverished or suffering people, there is a 70% chance that the spirit of Arnd will take possession of the wearer in order to aid unfortunates. The wearer spends 2d4+1 hours roaming the area, seeking out the poor and helping them as a 14th-level priest (even if the character is not a priest). When the spirit of Arnd releases the character, no memory of what has happened remains.
+
+**Suggested Means of Destruction:**
+
+- It must be unraveled by one without conscience.
+- It must be fed to the father of rust monsters.
+- A deity of avarice must be forced to wear the coat, whereupon the magic is released violently (roll once on Artifact Table 1-01: Cataclysm).
+
+## Coat of the Seas
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: War Captain's Companion*
+
+This leathery coat comes with an attached hood. It keeps its owner dry, even during typhoons and hurricanes. If the wearer ever is thrown over-
+
+---
+
+<!-- page 317 -->
+
+I have no text content to process for this page — the Tesseract OCR output is empty and no structured table data was provided.
+
+If you have an image of this page or additional data, please provide it and I will produce the clean markdown.
+
+---
+
+<!-- page 318 -->
+
+## Coffin
+
+Coffins are wooden or metal boxes measuring between 3 and 9 feet long, and 1 to 6 feet wide. They are designed to hold corpses when the dead are burned and return to the soil, to their final resting place. Most nonmagical coffins are intended to last for only a few years, and they do not protect the body from the elements or from scavengers.
+
+## Casket of Furyondy
+
+**XP Value:** 2,500 &emsp; **GP Value:** 27,500
+*Source: Greyhawk Adventures*
+
+Priests of Furyondy first enchanted this finely engraved, wooden coffin to preserve the bodies of the honorably deceased. Any lawful good priest can activate its powers by placing into the casket the body of a human or demihuman not more than nine days dead, then casting a *bless* spell upon the body. The casket preserves the body from decay indefinitely. A deceased character can be returned to life by a *resurrection* spell after any length of time. For purposes of resurrection system shock, the subject's Constitution is considered to be three points above the current ability score (no maximum). He or she also receives the benefits of *heal* once the resurrection is complete.
+
+## Coffin of Creation
+
+**XP Value:** 10,000 &emsp; **GP Value:** 50,000
+*Source: DUNGEON Magazine #21*
+
+Each of these stone devices is attuned to a different type of undead. When a humanoid body is placed in a coffin of creation, the magic of the device takes 48 hours to create the specific type of undead for which the coffin was enchanted.
+
+The resulting undead creature is unusually intelligent for its type. In addition to its undead abilities, it retains many of the powers (including spellcasting) it had when alive. As long as its body lies in the coffin, the undead creature is mystically linked to its former shell and can be controlled by threatening to destroy its remains.
+
+The ruling wizards of a long-dead civilization created these coffins and used them to great advantage in their effort to conquer all of known space. They would use the coffins to create powerful undead creatures, then remain safely at home while these monsters were sent to attack their enemies.
+
+| Roll  | Type of Undead        |
+|-------|-----------------------|
+| 01–04 | Banshee               |
+| 05–07 | Beholder Death Tyrant |
+| 08–11 | Crypt Thing           |
+| 12–15 | Death Knight          |
+| 16–19 | Ghost                 |
+| 20–22 | Ghoul                 |
+| 23–26 | Haunt                 |
+| 27–30 | Heucuva               |
+| 31–33 | Mummy                 |
+| 34–37 | Mummy, Greater        |
+| 38–41 | Phantom               |
+| 42–44 | Poltergeist           |
+| 45–48 | Revenant              |
+| 49–52 | Shadow                |
+| 53–56 | Skeleton              |
+| 57–59 | Skeleton, Giant       |
+| 60–63 | Skeleton, Warrior     |
+| 64–67 | Spectre               |
+| 68–70 | Vampire               |
+| 71–74 | Vampire, Eastern      |
+| 75–78 | Wight                 |
+| 79–81 | Wraith                |
+| 82–85 | Zombie, Common        |
+| 86–89 | Zombie, Ju-ju         |
+| 90–93 | Zombie, Monster       |
+| 94–96 | Zombie, Lord          |
+| 97–00 | Zombie, Sea           |
+
+## Crystal Coffin
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: DUNGEON Magazine #42*
+
+The crystal coffin is 7 feet long, 3 feet wide, and 2 feet deep. The sides and top are constructed of etched crystal, and the bottom consists of a hammered brass plate. The fittings and hinges are also brass. While the materials themselves are worth at least 1,000 gp, the coffin weighs 200 lbs. and is bulky enough to require four bearers.
+
+Under the scrutiny of a *detect magic* spell, the coffin radiates moderate enchantment magic. In fact, this item was created by a 12th-level Dockalf ar necromancer and is more durable than it appears (it makes all saves as crystal with a +6 bonus).
+
+---
+
+<!-- page 319 -->
+
+Any creature lying inside the closed coffin falls under the influence of a powerful *feign death* spell. In addition to the spell effects, the coffin halts aging. The spell ends when the lid is raised by some external force; the sleeper cannot wake until then.
+
+---
+
+## Coin
+
+Coins are pieces of metal, stamped or engraved with an official insignia and usually a value, which certifies the metal piece is genuine and acceptable in trade for goods and services. Coins are often stamped with intricate patterns to make counterfeiting difficult. (Each country has its own coins and its own laws regarding counterfeiters.) If necessary, the DM can roll on the table below to determine the generic type of coin found.
+
+| Roll  | Coin Type       |
+|-------|-----------------|
+| 01–07 | Bit¹            |
+| 08–13 | Bronze Piece²   |
+| 14–20 | Ceramic Piece¹  |
+| 21–27 | Ch'ao³          |
+| 28–33 | Ch'ien³         |
+| 34–40 | Copper Piece    |
+| 41–47 | Electrum Piece  |
+| 48–53 | Fen³            |
+| 54–60 | Gold Piece      |
+| 61–67 | Iron Piece³     |
+| 68–73 | Iron Piece²     |
+| 74–80 | Platinum Piece  |
+| 81–87 | Silver Piece    |
+| 88–93 | Tael³           |
+| 94–00 | Yuan³           |
+
+¹*Dark Sun* campaigns
+²*Dragonlance* campaigns
+³*Kara-Tur*
+
+---
+
+## Coin of Almor
+
+**XP Value:** — &emsp; **GP Value:** 500
+*Source: GREYHAWK Adventures*
+
+This cursed item was created not to harm its owner, but to benefit those in need. It is a seemingly normal platinum coin that affects any character who intends to keep it, and not to share it with others. That character must save vs. spell or be overwhelmed by noble, philanthropic emotions. No matter what a character's alignment, he or she wants to give wealth to the poor and needy. A character cannot keep more than 50 gp at any one time, and instead holds extra money only until a suitable NPC (preferably a beggar or a peasant) accepts the money as a gift. Such generosity does not extend to a character's magical items, which are generally useless to laborers and farmers. Uncontrollable generosity can be ended only by *remove curse*.
+
+---
+
+## Bloodcoin
+
+**XP Value:** — &emsp; **GP Value:** 50
+*Source: Forbidden Lore*
+
+For many, the sin of avarice has been so tempting that all other considerations are set aside. This small token is a symbol of that seductive evil. As is often the case, its simple and pleasing appearance belies the great malevolence that lingers within its metal body.
+
+**Description:** This coin resembles a normal silver piece. The engravings on the face and back always appear to be just what the owner expects. If it is found in a strange land, the owner likely expects it to be a coin of that realm. Otherwise he or she is most likely to see it as one stamped with the markings of the possessor's homeland. Since the markings of coins are of little interest to most adventurers, it can be passed from person to person and no one can see anything strange. In fact, if one person takes the coin and pronounces out loud the stamp upon it, anyone in earshot who is given the coin expects to see the stamp, and of course, they do. The only distinguishing mark on the coin is a small red smudge that cannot be wiped off. Casual handling does not reveal the red stain.
+
+**History:** Hoorku Mishkov was a young merchant in Borca. Charm, avarice, and deception were his hallmarks. Most Borcan merchants stayed within the borders of Borca and Dorvinia, plying their goods along those well-known, safe routes. Their profit margin was narrow, but enough to live comfortably. Hoorku was convinced that he could make a larger profit by setting off for new lands. His aspirations for greater wealth led him to consider exploring a route down the south road, a road rarely used. With a small caravan of goods, he set off to find rich new trade routes.
+
+The road south led to Gundarak. In that foul land he lost his entire caravan. Lord Gundar's son took the whole thing as "tribute." He allowed the young merchant to keep one item of his choice. Rather than taking a horse so that he could return quickly to Borca, the foolish merchant kept an enchanted gem. The enchantment of the stone
+
+---
+
+<!-- page 320 -->
+
+merely allowed it to glow when it touched true silver.
+
+Rather than heading for home, the intrepid Hoorku journeyed downstream into the misty land of Invidia. There he met a Vistani woman in a colorful wagon by the water. She was young, only 20 years of age, but her heart was bitter. Unknown to Hoorku, this was Gabrielle Aderre, at that time a new dark lord of Ravenloft. Her bitterness stemmed from her mother's warning to never bear children, lest she bring monstrous evil into the world.
+
+Hoorku saw an opportunity for profit in Gabrielle. He wooed her ardently, intending to steal what he could of her money. She was flattered, but she spurned him with the tale of her mother's dire prediction. In a flash of inspiration, Hoorku produced the magical gem and claimed it would allow a woman to birth a normal, healthy, good-natured child, no matter the race or disposition of either parent. Gabrielle's desire to break the bonds of her curse overrode her prudence and she let Hoorku seduce her. Of course, he made her pay him for the gem, extracting every coin in her possession.
+
+Later, while Hoorku lay sleeping, Gabrielle used her magic to determine the workings of the gem. She immediately discovered its true worth. In her fury, she almost slew her young suitor in his sleep. Then the snake of an evil idea began to coil about her mind. With her magic, she caused Hoorku to sleep for many days. During that time she fashioned the bloodcoin. Gabrielle found that creating such a cursed item was something that she could now do easily as the Lord of Invidia.
+
+Before letting the knavish merchant awaken, Gabrielle placed the bloodcoin in his purse. Unaware of how long he had lain sleeping, Hoorku set off for the village of Karina. He promised to return by nightfall, although he really intended to buy a horse and return to Borca. In the village, he could not resist shortchanging the stable master. Blood ran from his eyes, frightening the poor man to death.
+
+Confused and alarmed, Hoorku tried to wash his face, only to find that he was unable to stem the flow of red. The foul magic of the coin let him know immediately that it was responsible for his plight. He stole a horse and fled the village. That night he dreamed of Gabrielle. In the dreams, she told him what she had done, and that the coin was
+
+---
+
