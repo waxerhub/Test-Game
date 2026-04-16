@@ -18582,3 +18582,1285 @@ The coins were cursed, however, to prevent the dark dwarves from double-crossing
 
 ---
 
+<!-- page 326 -->
+
+the victim dies.
+
+The legendary effect of this money occurs only when the money is actually part of a promise. (If an NPC pays a PC in Raistlin's cursed money to stand guard, and the PC flees with the money, the curse will claim the character.) A person under the curse suffers 1d4 points of damage from rotting each day until he or she either makes good on the promise, receives a *remove curse*, or dies.
+
+## Returning Penny
+
+**XP Value:** 50 &emsp; **GP Value:** 250
+*Source: DRAGON Magazine #30*
+
+The returning penny may be the source of a well-known cliché. When cast away from the bearer, this piece will teleport to the user's hand from as far as 30 feet away. It will avoid all obstacles on its return flight.
+
+## Silver
+
+**XP Value:** 400 &emsp; **GP Value:** 2,000
+*Source: Five Coins for a Kingdom*
+
+This is a small, finely crafted silver piece. On one side is the profile of a young man with a high forehead, a noble nose and chin, a full head of hair, and a faint smile. On the reverse is a dragon whose proportions make it look very young, almost babylike.
+
+The holder can polymorph (as the wizard spell) three times a day for up to an hour each time. The shape assumed can be smaller or lighter, but no larger or heavier than the user. A user cannot acquire any of the special abilities of the new shape except natural ones. For instance, if a user becomes a crow, flight is possible, but if a user becomes a gorgon, he or she cannot turn anyone to stone.
+
+A user feels high-spirited, boastful, and ready to challenge any who question his or her abilities.
+
+---
+
+## Collar
+
+Although the piece of jewelry known as a collar is usually an ornate, gem-studded leather or metal band, magical collars are quite different. Many appear as simple rags, often dirty but never tattered. To gain a collar's magical effects, the owner must wear it around his or her neck.
+
+## Collar of Change
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: Falcon's Revenge*
+
+The collar that the Falcon uses to perform shapechanging is a rare, possibly unique, magical item. It was created as a ring by an unknown wizard and stolen by the Falcon before its enchantment was complete. Whether another one was created (the Falcon had it enlarged to fit her neck) is unknown.
+
+The collar allows the Falcon to change shape three times per day. She may choose any living form: humanoid or monstrous, or a form she creates herself. She is able to combine any elements to create new appearances at will, including bizarre creatures such as feathered frogs or giant, furry earthworms.
+
+The complete transformation requires one round and the Falcon may not perform any action while the transformation is in progress. Once the transformation is complete, the Falcon receives all the natural abilities of the creature she resembles, but none of the magical abilities. For example, in the form of a dragon, she would receive the claw and bite attacks of a dragon as well as flight, but she would not have spell ability nor a breath weapon.
+
+If the Falcon is rendered unconscious or is killed while in an alternate form, she immediately reverts to her natural, spirit naga form. The collar may be used only by members of the wizard and priest classes.
+
+## Collar of Charisma
+
+**XP Value:** 250 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This collar activates itself when a wearer bargains or otherwise tries to convince another of a desired result. At that time, the collar gives its wearer a Charisma of 18 with all bonuses. The effect occurs only once per day, but lasts for a full hour.
+
+## Collar of Disguise
+
+**XP Value:** 250 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This collar enables a wearer to imitate any voice as long as a wearer has actually heard the voice at some time. It functions once per day at most and only for one hour per use.
+
+---
+
+<!-- page 327 -->
+
+## Collar of Protection
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1    | 1,000    | 10,000   |
+| +2    | 2,000    | 20,000   |
+| +3    | 3,000    | 30,000   |
+| +4    | 4,000    | 40,000   |
+| +5    | 5,000    | 50,000   |
+
+*Source: POLYHEDRON Newszine #82*
+
+These collars range from plain strips of leather to ornate, jeweled bands of fur and chain. The collars were originally made by a Ravens Bluff wizard who was worried about his pets' safety. He designed them to function only on small- and medium-sized creatures of animal intelligence or less. Some collars are more powerful than others, having from +1 to +5 protection bonuses.
+
+## Collar of Stiffness
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+
+*Source: The Book of Marvelous Magic*
+
+This collar protects the wearer from the slicing and slashing action of edged weapons. No saving throw need be made, and no extra damage can be inflicted.
+
+## Collar of Strangling
+
+**XP Value:** — &emsp; **GP Value:** 1,200
+
+*Source: The Book of Marvelous Magic*
+
+This collar is identical to a collar of disguise. However, it starts to strangle its wearer as soon as it is worn. A wearer dies in one turn unless *remove curse* is applied within that time. With this remedy, the collar bursts into flames that destroy it and inflict 3d6 points of severe fire damage to a wearer (no saving throw). The burns can be cured only by ointment of soothing or a *heal* spell. Any victim strangled for three rounds or more is unable to talk for 1d4 days or until a *heal* spell is applied.
+
+## Collar of Tusmit
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: GREYHAWK Adventures*
+
+This adamantite neck shield was enchanted by a wizard who held an unnatural fear of decapitation. He wore it until his death, though the collar gave no protection against the magical spells that killed him. The collar offers no Armor Class bonus, but provides immunity from decapitation, especially from vorpal weapons. Full damage is still received, but a wearer still has his or her head attached.
+
+## Wolf Collar
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+
+*Source: New Item*
+
+This spiked, black leather collar fits around the neck of nearly any fairly ordinary humanoid, and it can be adjusted for size. The wearer need only speak the command word, "Fenris," to be transformed into a dire wolf wearing a spiked collar.
+
+Dire Wolf: AC 6; MV 18; HD 4+4; hp 36; THAC0 15; #AT 1; Dmg 2–8; SZ L.
+
+A character retains all memories and skills, but has otherwise completely adopted the form of the wolf. He or she instinctively knows the skills and abilities of the wolf, suffering no penalties on any actions attempted while in wolf form. To revert to ordinary form, a character need only growl the command word again. Any damage taken in the wolf form is ignored by a character, but the collar takes the damage inflicted on the wolf form. Once the collar has taken 36 hit points, it is forever destroyed. It can heal damage as an ordinary wolf, and it can take healing spells to revitalize it.
+
+Other wolves sense the magic of the collar, and shun a wearer for that reason. Other dire wolves fear and hate the wolf created by the collar, and will attack the wearer if they are not immediately cowed by a show of strength.
+
+## Comb of the Korrigans
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: DUNGEONS & DRAGONS Master Set*
+
+A group of nine powerful elves took a rare woodland creature (the korrigan) as their symbol. Successful as a mortal group, they resumed their close friendship after all reached immortality. Together they created this item to assist mortal elves reach immortality, only aiding those mortals who strive toward representing the best of elvenkind. The korrigans became nearly legendary in mortal life, commonly using shapechanging and haste in their travels and combats, and this device presumably bestows similar powers.
+
+This is a hair comb, 5 inches long, made of a pink, bonelike substance, with fine teeth. The comb is not active when acquired. If it is left within a burning fire for one full turn, it is activated, but will not reveal powers. After that, whenever the user befriends an elf (lending
+
+---
+
+<!-- page 328 -->
+
+(continuing from previous entry — this page begins mid-entry for the Comb of Power artifact, then starts the Cone of Communication entry)
+
+money, curing, aiding in battle), one power is revealed telepathically (maximum of one per day), in order of power.
+
+A power is invoked when a certain combination of the comb's teeth are plucked, producing a nearly inaudible musical tone.
+
+**Suggested Powers:** (All abilities are cast at 20th level.)
+
+- Poison breath (Effect 30×10 feet; damage is equal to the user's current hit points with saving throw applicable.)
+- Haste (Range 240 feet; duration three turns; affects 24 creatures in 60-foot-radius.)
+- Produce fire
+- Cure disease
+- Cure wounds, critical
+- Polymorph self
+
+**Suggested Handicaps:** When the first power is used, the user starts turning into an elf; the process takes three months to complete. The user becomes aware of minor changes (animosity toward dwarves, among other things) in two weeks. The change stops completely as soon as the artifact is no longer owned, but the change back to normal takes three months.
+
+- Energy drain: User loses three levels of experience when poison breath is first used.
+
+**Suggested Penalties:** (1st appears 1–4 on 1d6, others each 1 in 6);
+
+- Slow spell effect centered on user.
+- Polymorph other spell effect upon user, to turn into an eagle.
+- Memory penalty. User cannot memorize any spells of the highest spell level he or she can normally study. Effect is cumulative if not removed.
+
+---
+
+## Cone of Communication
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+*Source: Greyspace*
+
+Each cone is a simple, solid cone of an unknown white material, as cold and hard as stone, but much lighter. Each is 4 inches in diameter at the base, and 6 inches high. Each weighs less than one pound.
+
+Cones of communication are purchased and used only in pairs. Each cone is matched with a single other cone, and does not work with any other. If someone speaks into the base of one cone, the voice sounds clearly, and at the same volume, from the base of the matched cone. In fact, the cones communicate not only voices, but any sound that originates from a point no more than 12 inches from the base of one of the cones.
+
+A pair of cones has a maximum range of 1d12 thousand miles. (The range is apparently characteristic of the particular pair, and unchangeable by any means.) Within that range, two people, each possessing one of the pair, can speak to each other normally, with no decrease in volume and no measurable time delay. As soon as the range is exceeded, both cones become totally inert and nonmagical until they come back within operating range again. When the two cones are in range of each other, both radiate an aura of evocation. When they are out of range, they appear totally nonmagical to all forms of analyses. Apart from moving out of range or placing both halves of the pair in soundproof containers, there is no way to shut them off.
+
+Obviously, cones of communication are very useful to spelljamming captains who have to coordinate the actions of multiple vessels. Since sound does not cross the vacuum of wildspace between two distant vessels, captains have to resort to flags, pennants, or other devices to communicate. With a pair of cones, the captains of two vessels can discuss their options and coordinate plans as if they were both on the same bridge. Some military analysts claim that the greatest elven fleet victories in
+
+---
+
+<!-- page 329 -->
+
+the first Unhuman War were achieved because the fleet commander had one pair of cones for each of his important vessels. He gave one of each pair to each subordinate captain, and kept the other cone on his own bridge. By selecting the right cones he could issue changes in orders to any captain, or receive reports. (Obviously, in such a case it is important to mark the cones in some noticeable way to tell them apart).
+
+The first pair of cones was used in Greyspace several centuries ago. A spelljamming wizard named Naxtys claimed that she had created them, and used that claim to bolster her reputation. It was not long before other wizards decided that Naxtys was simply not competent enough to come up with something so original. When pressed by her magical colleagues, she finally admitted that she had found the first pair, stored in a protective case of obsidian, floating in wildspace somewhere in the Grinder. Almost immediately, other wizards who were more competent than Naxtys could ever hope to be created more pairs of cones. To this day, nobody knows who created the first cones. Certain wild-eyed fantasists claim they were created by an ancient race of powerful wizards who lived on the planet that was eventually shattered to become the Grinder, and that Naxtys found them floating there. Most people consider this absolute garbage, of course. As with so many magical items, the price for a pair of cones of communication is whatever the market will bear. The lowest recorded price paid for a pair was 11,000 gp, and each year the highest price paid reaches more rarified heights.
+
+## Container
+
+A container is a scroll tube, box, or case designed to protect its contents from water, air, or fire. Watertight containers also tend to be buoyant, so they will not sink and be lost if accidentally dropped into the water. Roll on the table below to determine the type of container found. In order to increase the possibilities, a DM may choose to roll on the random charts available in many of the entries listed on the table.
+
+| Roll  | Container Type |
+|-------|----------------|
+| 01–10 | Barrel         |
+| 11–20 | Bottle         |
+| 21–30 | Box            |
+| 31–40 | Can            |
+| 41–50 | Case           |
+| 51–60 | Chest          |
+| 61–70 | Jug            |
+| 71–80 | Scroll tube    |
+| 81–90 | Urn            |
+| 91–00 | Vial           |
+
+## Fireproof Container
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*New Item*
+
+The first of these items was manufactured by a wizard who enjoyed wandering through the Elemental Plane of Fire. This pyrophile was tired of losing his gear to the intense heat intrinsic to that plane. He magically enchanted the containers that held his gear, trying to protect the contents from the heat. Unfortunately, he found that when a container was opened, the gear was exposed to the intense heat, and all his labor was for naught. Needless to say, he soon abandoned the enchanted gear, opting instead for normal protections. Still, fireproof containers are handy for average adventurers or homeowners to have, as they indeed protect the contents from all nonmagical fire. They also grant a 45% magic resistance and a +5 to all saving throws vs. magical fire.
+
+---
+
+<!-- page 330 -->
+
+## Cord of Binding
+
+*(section heading — see entry below)*
+
+---
+
+## Containers, Watertight
+
+**XP Value:** 20 &emsp; **GP Value:** 100
+
+*Source: Port of Raven's Bluff*
+
+Manufactured by tritons and mermen, these are made of wood and treated with a magical, antirotting process known only to undersea races. They have the additional benefit of high buoyancy, so they will float unless weighed down.
+
+---
+
+## Continual Light Reflector
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+
+*Source: The Northern Reaches*
+
+Shaped like a flashlight, this reflector focuses continual light in a 120-foot cone, with the lit circle expanding to 10 feet in diameter before the light becomes too dim to see farther.
+
+---
+
+## Contracts of Nepthas
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: Tome of Magic*
+
+These magical contracts are written in black ink on golden brown vellum. They are usually found in ivory tubes, each tube containing 1d6 contracts. The contracts are blank, to be filled in by the user.
+
+The contracts radiate magic if that is detected for, but carry no overt signs of their special nature. A contract of Nepthas automatically places an enchantment upon all who sign it, in order to insure that both parties hold to the agreement. Anyone who has signed a contract of Nepthas and breaks the contract is struck deaf, blind, and dumb. The effects of the punishment last until they are removed with a *remove curse* spell.
+
+A person who is both deaf and blind suffers a −8 penalty on attack rolls, while opponents gain a +8 bonus. A character loses all bonuses for Dexterity and suffers a −2 penalty to saving throws vs. spell, petrification, polymorph, and rod, staff, or wand.
+
+A contract involves two parties and an agreed set of conditions. The conditions are usually very specific, but if they are not, they might be perverted in the same way that a *wish* spell might be misinterpreted. If a group of adventurers signs a contract with a king stating that they will slay a dragon in the Northern Hills by the eve of the new moon, slaying any dragon fulfills the contract, even if the king had a specific dragon in mind. If the king agreed to pay the adventurers upon the completion of their task, he had better have the money when the party returns.
+
+Contracts signed by those under the influence of *charm* and similar spells are null and void. A forged contract is also void. If any person signs a contract and dies before its completion, the obligation is ended for both parties. If a group of adventurers signs a contract and one of their members dies, the survivors are still bound to the contract. A deadline for both parties' responsibilities must be stated in the contract in order for it to be activated.
+
+---
+
+## Control Doll
+
+**XP Value:** 1,800 &emsp; **GP Value:** 9,000
+
+*Source: DRAGON Magazine #43*
+
+Dolls are made to fit general categories — a man or a woman, a troll, a dragon. To work, an organic sample of the specific target (some nail clippings, locks of hair, bits of outer skin, or scales) must be made part of the doll. Once the organic material is added, the doll acquires a focus. The doll now must be shown to the intended victim. If the victim fails to save vs. spell, the victim is charmed (like a *charm person* spell). The charm lasts as long as the doll is intact and in the charmer's possession. If the controller loses the doll or the doll is destroyed or damaged, the charm is broken.
+
+---
+
+## Cord
+
+A cord is made of several braided and woven strands of fiber twisted together into one long, tough thread. Basically nothing more than thick string or strong yarn, cord is used much the same as rope, but is generally weaker and used in less demanding circumstances. (See Rope.)
+
+---
+
+## Cord of Binding
+
+**XP Value:** 1,500 &emsp; **GP Value:** 12,000
+
+*Source: DRAGON Dawn*
+
+A cord of binding is made of spider silk, enchanted to obey a command word to tie a person fast. When tossed to the ground within 3 feet of its target, the line coils itself around a victim, securing limbs to body with knots. This action counts as an attack, and succeeds on an attack roll of 5 or better. The target receives no benefits due to Armor Class, but Dexterity adjustments can make it more difficult for the cord to hit. No attack roll is needed to restrain unconscious or unresisting targets.
+
+---
+
+<!-- page 331 -->
+
+## Cord of Binding
+
+The 10-foot-long cord is sufficient to restrain one large humanoid, two human-sized creatures (if bound together), or three smaller ones, such as kender. It uncoils and drops to the ground when the command word is spoken backward. Usually only the maker or owner of a cord of binding knows the magical command, which is not inscribed on the line in any fashion.
+
+A cord can only be cut with difficulty. It withstands 10 points of damage before being severed, and is allowed a save vs. crushing blow to see if any damage is inflicted by a given attack. It is impossible to snap the strands if less than 30 Strength points are applied. A broken or severed cord of binding loses its enchantment and becomes ordinary rope.
+
+## Cord of Ekbir
+
+**XP Value:** 450 &emsp; **GP Value:** 4,500
+
+*Source: GREYHAWK Adventures*
+
+Since strangulation is the favorite attack method of assassins and thieves in the civilized northwest, a magical garrote was destined to appear in the hands of Ekbiran murderers. This black cord strikes with a +1 attack modifier and forces the victim to save vs. spell or be stunned and unable to resist the attack.
+
+## Cord, Faithful Knot
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DRAGON Magazine #30*
+
+The faithful knot is actually a foot-long cord that, once tied in a knot, cannot be untied by anyone else. This cord can be cut by a sword stroke or similar action.
+
+## Cord, Kybal's
+
+**XP Value:** 750/knot &emsp; **GP Value:** 1,000/knot
+
+*Source: The Magister*
+
+These lines are only found in crypts, treasure vaults, ruins, and other places that have long been undisturbed. Made of a now-lost fiber that neither rots nor frays, these cords can be cut only by magical or silver weapons. Typically 2 to 4 feet in length, such cords usually have a number of enspelled knots tied in them. Untying the knot unleashes its magical effects. Much research and experimentation must be undertaken to learn the process of enspelling these knots (which are only effective when tied in a cord of this type), but the knots are easily tied, recognized, and untied.
+
+Enspelled and ordinary knots are identical in appearance, and many cords have ordinary knots with enspelled ones as safeguards or to deceive buyers. Feared wizards such as Sespetar and Turgohn the Two-Fingered are known to wear such cords as belts when they travel. Powers of some of the known knots follow. Untying one type calls up a strong, steady wind lasting 3d12 turns, which blows in the direction at which the person untying the knot points the free end of the cord. Such winds have been used to aid navigation at sea, cause storms, and drive vessels onto rocks.
+
+Another knot calls down a flamestrike upon anyone within 200 feet that the unbinder points at with the free end of the cord. Yet another dispels *web* or *entangle* spells. One negates *polymorph* spells; another breaches walls of force. One knot, when it is undone, binds all creatures that exist on two or more planes and are within 60 feet of the knot, to the Prime Material Plane for one turn (undead are not destroyed by this temporary restriction, but lose any energy-draining attacks they normally possess for the duration). One causes all nonmagical ropes within a 20-foot radius to silently untie themselves. One negates an antimagic ray within a 40-foot radius around the cord, moving with it and remaining effective for nine rounds. One very rare knot frees summoned creatures (such as elementals, efreeti, and invisible stalkers) from control by their conjurer. Another rare knot may be retied around a rechargeable magical item, and restores 1d12 charges to the item. This process involves draining and destroying the cord, regardless of how many knots remain—all crumble into dust.
+
+## Dryad Cordial
+
+**XP Value:** 100 &emsp; **GP Value:** 1,000
+
+*Source: POLYHEDRON Magazine #19*
+
+A clear liquid with an emerald or amber tint, a rich, sweet taste, and a distinctive scent (as that of a forest after a summer rain). It is made from the distilled essence of a dryad's tree. This process is known only to certain druids. When consumed by a dryad, the cordial enables the creature to survive comfortably for 24 hours while away from her tree at distances greater than the usual 360-foot limit (almost always to accompany and serve a druid). Special note: potion miscibility does not apply to this item.
+
+---
+
+<!-- page 332 -->
+
+If consumed by any other creature, the cordial's effects are based on the user's sex, as follows.
+
+**Female:** No effect occurs for three rounds. In the fourth round, the user falls asleep. This "beauty sleep" lasts for 1d4+1 hours, during which time all imperfections and blemishes disappear. The character gains one point of Charisma and becomes magically attractive to males of the same race (only), sometimes to the point of causing arguments.
+
+*Optional:* Also gain four points of comeliness.
+
+With practice, the user can control this as a limited charm person effect (+2 bonus to victim's saving throw; note that the effect still applies only to males of the same race). The effects last for 1d4 weeks, after which all ability scores return to normal except for the permanent gain of the point of Charisma.
+
+*Optional:* plus two points of comeliness.
+
+**Male:** No effect occurs for three rounds. In the fourth round, the user becomes weak and light-headed, then falls asleep. This "transition sleep" lasts for 3d4 hours, during which time the victim becomes a female and loses two points of Strength. No special powers are gained. The change lasts for 1d4+1 weeks, after that the character returns to normal in all respects except for the permanent loss of one point of Strength.
+
+**Multiple use:** The second cordial consumed by any one person has double the given duration; the third has double that duration, and so forth. Additional effects are as follows:
+
+**Female:** The user may actually become a dryad—10% chance for the second cordial, 25% for the third, 50% for the fourth, and 100% for the fifth. If this change occurs, she is immediately bound to the nearest suitable tree.
+
+**Male:** The effects may be permanent and unremovable—20% chance for the second cordial, 50% for the third, and 100% for the fourth.
+
+---
+
+When rolled up and put away, cots look like a set of poles wrapped in a tough canvas or hide sheet. When unrolled and unfolded, the canvas spans the poles and forms a suspended bed. Not exactly comfortable by any means, the cot does, however, suspend the user above the cold ground, the biting fleas, and the threats of rats.
+
+## Cot of Entrapment
+
+**XP Value:** — &emsp; **GP Value:** 1,200
+*Source: The Book of Marvelous Magic*
+
+This cot appears and functions as a cot of suspension in all respects. However, anyone lying upon it has a 50% chance of being suddenly wrapped up by the cot two to five turns later. The victim smothers in five rounds, taking damage each round equal to ½ of current hit points, unless a *remove curse* is applied. The remedy makes the cot nonmagical.
+
+## Cot of Restlessness
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: The Book of Marvelous Magic*
+
+This cot appears to be and functions like a cot of suspension. It gives little rest, however; the victim tosses and turns all night and suffers a penalty of −1 to initiative rolls, attack rolls, and saving throws for the following day. However, the victim does not think to blame the cot for these ill effects and continues to use it whenever applicable until a *remove curse* is applied by a caster of at least 26th level—it then becomes a cot of suspension.
+
+## Cot of Suspension
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+*Source: The Book of Marvelous Magic*
+
+This cot looks like a 10-foot pole. Upon command, a duplicate pole appears beside it and, if the two are pulled apart, a canvas can be seen connecting them like a stretcher. The canvas may be up to 5 feet wide and 10 feet long. If the poles and canvas are held horizontally and a second command word given, the legless cot floats in the air. A third command word causes it to levitate to a maximum height of 30 feet. A fourth command word causes it to lower, a fifth word to "rewind" the canvas, and a sixth to make the extra pole disappear.
+
+## Cowl of Warding
+
+**XP Value:** 9,000 &emsp; **GP Value:** 50,000
+*Source: The Ruins of Undermountain*
+
+A cowl of warding is actually a headpiece, usually of fine black cloth, which covers the wearer's upper face with an attached half-mask. The cowl can be worn and used in combination with magical eye-cusps or lenses, but not with visors or other masks. It also covers the wearer's neck with a shoulder-length mantle.
+
+The cowl confers protection of AC 1 to the
+
+---
+
+<!-- page 333 -->
+
+## Crown
+
+Crowns are symbolic headgear worn by the highest nobility in a country (such as the king, queen, emperor, or pharaoh). A crown is usually made of the most expensive metal available in the land and adorned with the largest and finest gems and jewels. Unauthorized beings found wearing or possessing a kingdom's crown are killed on sight.
+
+## Black Crown of Aerdy
+
+**XP Value:** — &emsp; **GP Value:** 2,000
+*Source: GREYHAWK Adventures*
+
+This evil headgear was worn by one of the original overkings of the House of Naelex in the ancient Great Kingdom. Whether the crown was enchanted by an evil wizard, or whether it merely became a receptacle for the overking's cruel spirit is not known. The powers of the crown exist only to recreate the greatness and wickedness of the fallen empire.
+
+Once donned, the crown cannot be voluntarily given up. It raises Intelligence by +2 and Wisdom by +3 (to racial maximums) and confers one level of magical ability. Characters who aren't wizards or priests can select one level of ability—player's choice, priest or wizard.
+
+When the crown is put on, and each month thereafter, the character must save vs. spell or become lawful evil, and then must save again vs. spell or be overcome with megalomania. Once both of these are in effect, the character must make a saving throw vs. spell each month or lose a point of Constitution. Any character totally drained by the crown becomes a spectre guarding it.
+
+The crown can be removed only by use of a *wish* or equivalent. While this removes the benefits of the item, only then can the alignment change be reversed by *remove curse* and *atonement* spells, while the character's personality is restored only with a *heal* spell.
+
+## Crown of Blackmoor
+
+**XP Value:** — &emsp; **GP Value:** 80,000
+*Source: GREYHAWK Adventures*
+
+This black, iron headpiece bears a large fire opal. It was created by a powerful lich who used it to spread evil and destruction through the world, and now only the most wicked (or foolish) characters seek its powers.
+
+When the crown is placed on the head of a deceased, evil character who had reached at least 18th level as a wizard, it animates the character as a lich. A system shock roll is necessary, modified by −1% per five years after the wizard's death, or the wizard's body disintegrates to dust and can never be brought back to life again. The lich's intelligence score starts at 0, but increases by one per day until supra-genius intelligence is reached. At that time the lich gains the full powers and abilities of its kind. The character placing the crown has no control over the lich, so a reaction check is necessary, with the following cumulative modifiers:
+
+| Summoner | Modifier |
+|---|---|
+| Priest | +10% |
+| Evil-aligned | +10% |
+| Fighter | −20% |
+| Good-aligned | −30% |
+| Wizard | +20% |
+| Offers treasure (per 600 gp value) | +1% |
+| Paladin | −20% |
+| Thief | −20% |
+| 0-level character | −50% |
+| 1st to 5th level | −30% |
+| 6th to 11th level | −20% |
+| 12th to 18th level | −10% |
+| Over 21st level | +10% |
+
+A deceased PC who is brought back as a lich becomes an NPC under the DM's control. The lich may have been a friend and companion of the PCs, but tends to leave their company to pursue its own path.
+
+## Crown of Corruption
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: The Shadow Elves*
+
+This malefic, gold crown is set with four huge rubies, which can be treated as soul crystals (two of 6th, two of 7th level, with 5d10 essences in each). No radiance spells can be cast from it,
+
+---
+
+<!-- page 334 -->
+
+## Crown, Hooded (continued)
+
+however. Rather, the wearer of the crown gains the following benefits—a natural base AC of -4; complete immunity to all charm, hold, sleep, paralysis, death magic (including disintegration), and gaseous attacks; and the ability to radiate both fear and curse (reverse of *bless*) within 20 feet (separate saving throws needed). The wearer can also cast *animate dead* three times per day. The wearer of the crown at once becomes a chaotic evil undead, subservient to the crown, but retaining all class-based abilities.
+
+## Crown, Dark
+
+**XP Value:** 2,000 &emsp; **GP Value:** 20,000
+*Source: Lords of Darkness*
+
+This magical circlet of metal is set with teeth and bones of various creatures. It alters in size to fit any wearer, and may be freely removed. Despite its name, the dark crown is not Evil. It is a protective item conferring immunity to natural and magical fear, paralyzation, and petrification. The wearer cannot be magically aged as by a ghost, or harmed by chilling attacks such as the touch of a lich. The wearer of a dark crown receives a +4 bonus against all undead attacks for which saving throws are allowed.
+
+Once every nine turns the wearer of a dark crown can disrupt undead as with a mace of disruption (see Mace), by touch and act of will. A successful attack roll is required (a maximum of one undead creature can be affected), and the wearer of the crown is subject to any side effects of the contact. If the attack misses or fails, the power of the crown that was called is wasted, and that power is ineffective until nine more turns have passed. The wearer of a dark crown can see with 90-foot infravision, and always knows undead normally visible (not concealed behind barriers or within closed coffins) for what they are. A crown wearer looking at a skeleton lying in a casket can tell in an instant whether it is undead or just a normal skeleton.
+
+## Crown, Emperor's
+
+**XP Value:** 16,500 &emsp; **GP Value:** 127,500
+*Source: Legends & Lore*
+
+This magical crown is decorated with a cluster of perfect gemstones sent to earth by Amaterasu with her grandson. When worn, it acts as a helm of telepathy, teleportation, and comprehending languages. The wearer automatically knows when someone in his or her presence is lying. The crown bestows an AC of 0 and allows the wearer to ask one question per week of Amaterasu (she responds honestly and kindly only to true descendants of the imperial family). Although the crown continues to function if worn by someone other than the rightful emperor, Amaterasu is sure to punish a thief by sending her avatar after the miscreant.
+
+## Crown, Hooded
+
+**XP Value:** 5,000 &emsp; **GP Value:** 30,000
+*Source: The Ruins of Myth Drannor*
+
+This is a rare, and possibly unique item. It is a gem-encrusted crown or diadem with bejeweled "skirts," or hood of cloth, that surrounds the back and sides of the wearer's head. The crown's jewels wink and sparkle constantly, but this is an illusion; it is actually a plain adamantite circlet, devoid of skirts and gems. It has two sorts of powers: those that always function, and those that operate only while the crown is within, or in contact with, the mythal (the crown can direct its powers up to 90 feet outside of the mythal).
+
+The first powers are: a wearer has immunity to all petrification, polymorph, and electrical or lightning attacks and effects; can *levitate* or *feather fall* at will; and can cast the following spells (as a 9th-level wizard): *color spray*, *magic missile*, *unseen servant*, *detect invisibility*, *ESP*, *know alignment*, *locate object*, *minute meteor* (like a *Melf's minute meteors* spell, but creates only one meteor per use, counting as the crown's spellcasting for the round), *nondetection*, *tongues*, *water breathing*, *minor creation*, *remove curse*, *wall of iron*.
+
+The crown can cast only one spell per round (and once any spell is used, it can't be called on again until three turns have elapsed), but the levitation and feather falling powers, and the immunities can be used at the same time as a spell. Use of crown powers in a round prevents a wearer from casting any spells of his or her own (if a spellcaster), but not from unleashing magical item discharges or combat.
+
+The second set of crown powers operate in the mythal, and consist of the following: a wearer can fly at will, can cast (as a 14th-level wizard) *repulsion*, *delayed blast fireball*, and *teleport without error* once a day, and use all crown powers, personal spells, and wielded magical item powers entirely free of the mythal's wild effects (all have normal effects).
+
+---
+
+<!-- page 335 -->
+
+## Crown of Imperium (continued)
+
+If a wearer is brought to six or fewer hit points, his or her hooded crown dimension doors by itself, in a random direction and distance (up to a limit of 700 feet), to halt levitating roughly 6 feet above any surface. It reflects 100% of all magic cast at it back at the source, and defies all psionics, until touched again by a living being. Otherwise, its powers only work when it is on the head of a living being.
+
+## Crown of Imperium
+
+**XP Value:** 750 &emsp; **GP Value:** 45,000
+*Source: IMAGINE Magazine #12*
+
+This is a magical item generally constructed by the court magicians of vainglorious rulers. The crown itself is constructed by a master jeweler from the finest possible materials available and should cost at least 25,000 gp. Optionally, for militaristic rulers or those whose cultures emphasize strength, this crown may be made of black iron or a similar ebony metal.
+
+Once constructed, the crown is given to a wizard who washes it in a potion of delusion, casts enchant an item on it, and leaves it soaking in another potion of delusion for one month. During the third week, a philter of persuasiveness is poured over the crown as it soaks. During all these processes, the wizard must be careful not to touch the crown except while casting the enchant an item spell.
+
+On the day the crown is recovered from the potion, the wizard must cooperate with an illusionist who casts change self while the wizard casts charm person or charm monster. The wizard burns the heart of a doppleganger in a brazier and passes the crown through the smoke, following this with a permanency spell. The end product is a crown of imperium that makes its wearer seem more imposing, up to 15% taller, wiser, and more noble, to members of the same race or species, as well as allowing the wearer to cast the appropriate charm spell once per day.
+
+## Iron Crown of the Bandit Kingdom
+
+**XP Value:** 3,000 &emsp; **GP Value:** 35,000
+*Source: Greyhawk Adventures*
+
+Fashioned in the land of warriors, this metal headgear completely removes the chance for the following spell-like powers to work on the wearer: fear, charm person, magic jar, suggestion, and hold person. A fighter gains one level and a priest or wizard loses one level while wearing the device.
+
+## Crown of Leadership
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This piece of regal jewelry is adorned by 10 gems, each worth 100 gp. If any are removed, the crown becomes nonmagical. The user's Charisma is 18 while the intact crown is worn. In addition, any fear (magical or otherwise) can be dispelled by a single command word, effective within 60 feet. A wearer may also produce an effect similar to a priest's bless spell by talking to others within 60 feet for one turn; the recipients' morale then rises to 11 (if applicable), and a +1 bonus is added to attack and damage rolls. The effect lasts for six turns and may be produced as often as desired. The wearer's morale is unaffected. This "pep talk" can have effect for as long as six rounds even if interrupted once, as long as the full turn of talking is then completed.
+
+## Crown of the Naga
+
+| Type        | XP Value | GP Value |
+|-------------|----------|----------|
+| Normal      | 6,000    | 45,000   |
+| Altering    | 7,000    | 50,000   |
+| Teleporting | 8,000    | 55,000   |
+
+*Source: The Ruins of Undermountain*
+
+These triple-spired, silvery metal circlets adjust to perfectly fit any head they are placed upon. Although developed by the naga long ago (and, Realmslore hints, on another plane), naga crowns are usable by all intelligent creatures able to wear them.
+
+The powers of the crown are exercised by a wearer's will. Learning what these powers are and how to wield them initially takes one turn per power. A wearer of a naga crown gains the following powers:
+
+- Detect invisibility up to 90 feet.
+- Repulsion as if cast by a 12th-level wizard once every day.
+- A limited form of spell turning. A wearer rolls 1d8 and multiplies the result by 10 to determine the percentage amount of spell turning. In all other ways, its limitations are identical to those of the ring.
+- Double spell casting ability (number of spells that can be memorized) of any wearer possessing spell casting ability, regardless of class, level, or race.
+- Reptilian command once a day; this power is automatic, reptiles gain no saving throw.
+
+---
+
+<!-- page 336 -->
+
+I have no text content to process for this page — the Tesseract OCR output is empty and no structured table data was provided.
+
+If you can provide the raw OCR text or an image of page 336, I can produce the clean markdown for it.
+
+---
+
+<!-- page 337 -->
+
+against this power, and it cannot be dispelled once cast. Its effects last for 1d4+1 turns, and the power affects all unintelligent, scaled reptilian creatures in the air, water, or land within a 500 yard radius. Once established, this power of the crown cannot be wrested away or usurped by another being with the same ability until the reptilian command expires. Intelligent reptilians get a saving throw against this controlling power; the save does not prevent the other effects of the crown.
+
+- **Immunity to reptile attacks.** Unintelligent reptilians will never willingly attack the wearer of a naga crown, regardless of the use of the reptilian command power. Intelligent reptilian creatures attack a crown wearer who is using reptilian command as though slowed, and at a penalty of −3 to hit. Only reptilian creatures with a 15 or greater Intelligence gain a saving throw vs. spell against these combat effects, and have a penalty of −2 against the power of the naga crown. Dragons are immune to all negative effects of naga crowns.
+
+These rare and powerful items are often cursed. Ten percent of them may permanently grant the wearer reptilian features and skin whenever reptilian command is activated. Another 20% of the crowns have a 10% chance of teleporting a wearer a random distance (up to 6 miles) away from the place where the crown's abilities are used. All naga crowns have a 5% chance of simply vanishing whenever any of the nonautomatic powers are called upon (rumors say the crowns return to the plane of their creation).
+
+---
+
+## Crown of Rulership
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This piece of royal regalia is surmounted by 10 gems, each worth 100 gp. If any are removed, the crown becomes nonmagical. The wearer of the intact crown may cast spells from it, as a 25th-level wizard. Each spell has a different command word, and each may be used once per day. The crown has 5d10 charges when first found, and each spell used drains one charge. The crown can produce *charm person*, *web*, *hold person*, *charm monster*, and *hold monster*.
+
+The crown may also produce a domination effect at a cost of two charges, usable once per day; the range is 15 feet. If the wearer has more Hit Dice or levels of experience than the victim, the domination allows no saving throw. (Check levels first in all cases, if applicable.) If the victim's Hit Dice equal or exceed those of the wearer of the crown, the victim may make a saving throw vs. spell to resist the effect, but with a −8 penalty to the roll. If the victim has at least twice as many Hit Dice as the wearer, the penalty is only −4. Victims with more than three times as many Hit Dice as the wearer have no penalty at all on their saving rolls. Any victim immune to 5th- or higher-level spells cannot be affected by domination. Using domination, a wearer of the crown may command a victim to do one of the following — depart, kneel, or stop. A victim obeys as best it can; the effect lasts for one turn at most, or until the crown's wearer releases the victim, which expends no charges. If ordered to depart, the victim walks until out of the sight of the wearer and then runs away for the remainder of the turn. If ordered to stop, the victim cannot do anything except stand, respond to the wearer's questions, and breathe. If the wearer harms the victim or orders or suggests any harm, the effect ends immediately.
+
+If the proper command word is known, the crown may be locked to the user's head; another command word unlocks it. The crown can be worn only once by any one creature; if it is
+
+---
+
+<!-- page 338 -->
+
+## Crown of Scorpion
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Rary the Traitor*
+
+An artifact of enormous evil power, the scorpion crown is currently in the ruins of Shattados's Palace. Physically, it resembles a large scorpion crafted of heavy, cold, black iron in the shape of a crown, with the legs encircling the head, and the stinger curling up over the head. It radiates a high degree of both magic and evil.
+
+While the crown is clearly very powerful, it has no real practical use; instead it bears a terrible curse. Anyone unfortunate enough to place it on his or her head will experience its curse firsthand. The wearer is agonizingly transformed into a master scorpion, with no saving throw possible. Any individual who owes the wearer allegiance in any form must then successfully save vs. spell at -5 or be transformed into a manscorpion. It is Rary's hope that he can circumvent the negative aspects of the crown and bend the manscorpions of the desert to his will.
+
+The crown's area of effect is limited to the Bright Desert and Abbor Alz. If it is taken from there, the original curse will still be active, but the crown will not, for example, cause Iuz to turn into a master scorpion and his barbarian allies to turn into manscorpions. Rary is unaware of this aspect of the crown's powers, which will make it useless to him even if he manages to avoid the curse.
+
+The Bright Desert can still be saved from the scourge of Sulm's descendants. If the crown is eliminated, all manscorpions and monarch scorpions are immediately destroyed, and the Bright Desert will slowly begin to revert to a reasonably fertile, if somewhat arid, region. These changes take place over a century or more, and do not affect ongoing campaigns.
+
+Of course, destroying the crown is no easy matter. As described in the Book of Artifacts, artifacts are vastly powerful items, and can only be destroyed by extraordinary means. The exact means of destroying the crown is up to the DM. Suggestions include dropping it into one of the active volcanoes in the furnaces of Baator, melting it in the breath of a lawful good great wyrm, taking it to an Outer Plane (such as the Negative Material Plane) where it cannot exist, or carrying it to a place beyond Oerth via spelljamming ship, to be destroyed by a focoid, rogue moon, sentient star, or other exotic space creature.
+
+---
+
+*(Continued from previous page:)*
+
+If removed for any reason and then replaced, it slays the user (no saving throw). Replacing it must be voluntary; there is no effect if it is placed on the head by another.
+
+## Silver Crown of Veluna
+
+**XP Value:** 2,000 &emsp; **GP Value:** 22,500
+
+*Source: Greyhawk Adventures*
+
+Encrusted with small green gems, this item recently appeared among the ruling priests of Veluna. The Canon himself has often worn it, though he may sometimes loan it to trusted agents of Veluna when they embark on important, holy missions.
+
+The crown radiates protection from evil when worn by a lawful character. A lawful good or neutral good character receives +4 Wisdom (to racial maximum) while the crown is worn. A lawful evil character who wears the crown temporarily has a -4 Wisdom penalty, while a neutral evil character has a -2 penalty. A chaotic evil character cannot use the crown at all.
+
+## Sorona
+
+**XP Value:** 12,000 &emsp; **GP Value:** 120,000
+
+*Source: Crown of Ancient Glory*
+
+This priceless crown of ancient glory is the lawful circlet of the High Kings of Vestland. Apart from its specific uses by the king of that realm, the crown may function in the following manner for a temporary owner (lawful good only). If worn upon the head the Sorona may:
+
+- Afford the wearer an ESP ability once per day (as per the spell).
+- Answer one question once per day (as per the *legend lore* spell).
+
+An oval circlet of gold, studded with rubies, the Sorona Crown is dominated at the forehead by a brilliant, red star gem. Note: The functions of the Sorona when worn by the lawful good King of Vestland are shrouded in mystery. The crown will reveal only a small part of itself to a common PC.
+
+## Crown of Souls
+
+**XP Value:** 20,200 &emsp; **GP Value:** 84,000
+
+*Source: Feast of Goblyns*
+
+The crown of souls is a dark and evil object that bestows upon its owner the following powers:
+
+- The crown of souls can be used to transform…
+
+---
+
+<!-- page 339 -->
+
+## Crown of Souls II (continued)
+
+normal men (though not other humanoids or demihumans) into goblyns. To do this, the owner of the crown merely holds it on the head of the victim with both hands, and speaks an ancient incantation. As the transformation occurs, the victim screams out in anguish and terror as the mind is lost and the will is filled with evil.
+
+Upon the brow of an evil being, the crown bestows the following special powers: −2 AC adjustment, +2 on all attack and damage rolls, +2 on saving throws, +20 hit points, and all class abilities (not hit points) function as if the wearer were two levels higher.
+
+Anyone wearing the crown must make a saving throw vs. death magic each day. Failure means that a Wisdom check must succeed or the character suffers a slight alignment alteration. Dungeon Masters are encouraged to adjust the check based on the character's past adherence to his or her chosen alignment, with a maximum bonus or penalty of 4. A wearer's alignment slowly changes to neutral evil. First, the lawful/chaotic aspect changes to neutral. Next, the good/evil aspect becomes one step closer to evil (good becoming neutral, and neutral becoming evil). Once this transformation is complete (for those already neutral evil, they still must fail the Wisdom check once), the crown is in complete control of them. The spirit of the necromancer Daglan will drive them to kill Radaga without the crown.
+
+The crown can also protect itself from harm. This can only be done if it is physically attacked or threatened (attempts to smash it, throw it off a cliff, melt it in a fire, etc.). In such a case, it can perform the following abilities once per round as often as needed: affect normal fires, blink, levitate, gust of wind, spectral hand, and chill touch. These are performed at the 13th level of proficiency.
+
+Only one who is pure of heart (that is, lawful good) may take the crown of souls out of the domain in which it lies.
+
+---
+
+## Crown of Souls II
+
+**XP Value:** 20,200 &emsp; **GP Value:** 84,000
+*Source: 1992 Collector Card 410*
+
+The crown of souls was created by the necromancer Daglan, after which his soul became entrapped in it. As each member of Daglan's family died, their souls were also entrapped, bolstering the power Daglan needed to escape. However, the crown found its way into Ravenloft and the demiplane further trapped Daglan by rendering his last descendant immortal—a wight. Now Daglan eternally hopes that someone will destroy the wight so that he might finally have his freedom. In the meanwhile the crown is possessed of some potent magical powers.
+
+---
+
+## Crown of Stars
+
+**XP Value:** 9,000 &emsp; **GP Value:** 36,000
+*Source: The Ruins of Myth Drannor*
+
+This rare, possibly unique magical item is a circle of floating, apparently unattached gems: palm-sized emeralds, rubies, sapphires, and diamonds of at least 14,000 gp value each. They glow with faint, twinkling magical radiances that can't be magically masked or dimmed (and show even through magical darkness). From afar, they are often mistaken for luminous stones.
+
+Invisible fields of magic bind the gems together in a ring that can't be broken by any known physical attack or magical means short of a successful *limited wish* or *disintegrate* spell (the crown saves vs. spell as if it was a 20th-level wizard).
+
+Crown powers can only be used by a being wearing it. In a day (24-hour or 144-turn period), it can unleash the following powers…
+
+---
+
+<!-- page 340 -->
+
+(continuing from the previous entry about Crown of the Stars/etc. — this page begins mid-entry)
+
+nine times each (range and effects as if cast by a Wizard of 20th-level, except as noted): *dispel magic*, *lightning bolt* (9d6 points of damage, 90-foot range), *unseen servant*, *Evard's black tentacles*, *wizard eye* (a variant; a user's spectral eye appears as a wraith-like, intangible head, encircled by the twinkling lights of the crown; a user can't be attacked through this wizard eye, but can be identified). It can also unleash a *death spell* and a *meteor swarm* once per day, but using either of these greater powers permanently reduces a randomly chosen attribute of a wearer by one point, and there is a three in 10 chance that it vanishes, shifting to another plane (without the wearer), immediately after the power takes effect.
+
+## Crown of the Stars
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: SPELLJAMMER® Campaign Set*
+
+This magical item distills the abilities of a minor helm (see Helm) into a portable item that can be worn, allowing the helmsman to move normally in addition to commanding the ship. Despite its name, a crown of the stars is not necessarily a crown; it may be a torque, or a necklace, or a girdle, or any other item which can be worn. It cannot be a ring, however. The only known crowns of the stars are significantly larger than rings, and all contain at least some silver.
+
+If the crown is used to power a ship for one week or more, it becomes bonded to that ship. It cannot be used to power a different ship unless it has been away from its bonded ship for at least one week, thereby severing the bond.
+
+The crown of the stars is effective up to one mile away from the ship it is bonded to, so a helmsman can operate the vessel even if he or she is not on board.
+
+A crown of the stars does not affect a ship with an active helm (or equivalent) on board. It can provide spelljamming ability to ships that would otherwise lack it (such as a viking longship). Often a crown is discovered on the ground where it befuddles the local sages, who do not know of the worlds spinning above their heads.
+
+## Crown of Summation
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: Van Richten's Guide to the Lich*
+
+This ruby-studded crown is similar in function to the tore of craftsmanship. Instead of capturing skills, however, the crown absorbs the wearer's memories. If the item is placed upon the head of a character within one hour of his death, all of the character's thoughts from the previous 1d6 days are transferred into the gems. The crown may then be placed upon another head, and all recorded events are played out in detail for the wearer.
+
+Should a living person put on the crown, 1d4 levels of experience are drained into the rubies. They may be regained by removing the crown and putting it on again, but the levels are otherwise lost and cannot be regained by any means short of a wish. If another creature puts on the crown after levels have been drained into it, the new wearer merely experiences the memories of a previous wearer as described above; lost levels of experience are not regained. Note that those absorbed levels also are lost if another person wears the crown — the drained character cannot regain lost levels if another creature puts on the crown before he or she does so again.
+
+The second wearer experiences the memories of the first as if actually living them. The crown transfers senses and emotions to the wearer. Physical occurrences are experienced, but their effects are not translated into actual effects on the wearer. However, psychological experiences are lasting. For example, if the memory contains a failed horror check, the wearer experiences the effects of it even after removing the crown. All actions are displayed at the rate of one day's memories per round. The crown functions only once, and then it becomes a piece of common jewelry worth 1,000 gp. It cannot be recharged.
+
+A lich might typically use such a device to determine how an infiltrator came to find its lair, who its comrades are, and by what means it arrived. The crown may also be used to become familiar enough with a person to effect a successful impersonation.
+
+## Crown of the Unicorns
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine #139*
+
+The crown of the unicorns gives its user the power to communicate with all unicorns. The crown cannot be taken from the user's head unless she removes it herself or is killed. This crown can only be used by females.
+
+---
+
+<!-- page 341 -->
+
+## Crown of Velvet
+
+**XP Value:** 2,500 &emsp; **GP Value:** 10,000
+*Source: The Ruins of Undermountain*
+
+These rare, highly-prized items appear as cloth circlets or garters of worn, dark velvet. When worn about wrists, ankles, or thighs, or simply carried upon one's person, they do not function magically, and barely exhibit any dweomer (even under *detect magic*).
+
+When worn about the head of an intelligent being, however, a velvet crown has the following properties: *feather fall* automatically; *silence* 15' radius upon mental command, lasting up to one hour at a time and usable once every three hours; *darkness* 15' radius, lasting up to 6 rounds at a time and usable once every hour; and *freedom*, usable once per day.
+
+This last power enables the wearer to escape from locks, bonds, manacles, and *hold*, *charm*, *slow*, and *web* spells. The wearer can also open held, locked, and wizard locked portals (but not spiked or barred ones) and pass through, all in silence. Velvet crowns are usable by all classes, allegedly devised by the wizard Thingarlus, the Master of the Thieves' Guild of Airspur some 400 years ago. Elminster the Sage is known to have used one recently—it is still in his possession.
+
+## Crown of the Void
+
+**XP Value:** 4,000 &emsp; **GP Value:** 40,000
+*Source: Lost Ships*
+
+This plain metal circlet functions continuously and automatically, and need not be worn or displayed openly. It magically creates a continually regenerating, breathable atmosphere about itself, identical to the air about the maker at the time the crown was enchanted.
+
+The extent of the atmosphere created by a crown of the void varies from a 10-foot-radius to a 90-foot-radius area centered on the crown. In space, this item can be used to keep a drifting individual alive indefinitely, or to continually renew the atmosphere of a ship. The air created by the crown drives out fouled or poisonous gases in its area of effect in 12 rounds. Note that ships using such crowns can be much smaller or far more crowded than ships retaining atmosphere by normal gravitational means.
+
+The size of a crown's air envelope is mentally controlled by the being wearing the crown, who must be sane, conscious, and not engaged in spellcasting to change it. The air envelope cannot be turned off or extended beyond a 90-foot-radius, and when being willfully changed, changes in area by a 10-foot-radius per round. The atmosphere of a crown of the void cannot be 'stolen' by a larger body in space, but is magically maintained about the crown. If the crown is destroyed, the atmosphere is destroyed instantly. If an operating crown of the void is placed in an operating furnace and used to power a ship, it ceases to function instantly. A crown of the void should not be confused with a crown of the stars.
+
+These items are very difficult to make. The few wizards who know how to make such crowns usually lack some very rare ingredients necessary for the crafting.
+
+## Crown of Yarus
+
+**XP Value:** 9,000 &emsp; **GP Value:** 45,000
+*Source: Dragons of War*
+
+The crown of Yarus is an artifact that dates to the time of the Cataclysm. Broken when Yarus was struck by a falling pillar, the three pieces of the crown were scattered about the tower. Some came under guard, others fell into forgotten rooms and places.
+
+This was unfortunate, for it is only through the power of the crown that Yarus could reenter the world and finish the game that bound so many souls to the tower.
+
+The crown is made of intricately laced polished steel, fitted with diamonds (10,000 gp). Anyone who puts on the crown must make a save vs. magic. If the save fails, the person hears voices and suffers the effects of a *fear* spell. The person has the urgent need to remove the crown. If the save succeeds, then the PC hears the distant voice of Yarus calling saying "Come, noble one, come to me and fit me with my rightful crown. Journey (directions)." The directions given are toward the Khas room in terms such as "up," "down," "left," "right," "forward," etc. The directions are for the shortest possible route. These directions continue for one turn before the character must make another save as above. As long as the PC continues to save, the directional messages continue.
+
+If the crown is placed on the skull of Yarus, it slowly floats off the floor, followed by Yarus's scattered bones. All settle with great serenity into the form of a skeleton seated again at a Khas board (see Chess Game). A moment later finds the ghostly blue form of Yarus surrounding his bones.
+
+---
+
+<!-- page 342 -->
+
+## Crucible of Melting
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: Tome of Magic*
+
+A crucible is a small bowl, usually made of fired clay or porcelain, used for heating substances to extreme temperatures. The bowl is usually placed on a furnace. The crucible of melting, however, requires no furnace. It melts any metals within it when the command word is spoken. It takes one turn to bring the crucible to sufficient temperature to melt metals placed inside. It has no effect on substances other than metals.
+
+The average crucible of melting can hold up to 1 cubic foot of material. Note that magical items are allowed an item saving throw vs. magical fire to avoid destruction. Crucibles of melting are most often found (when found at all) in the laboratories of wizards, particularly enchanters who specialize in the construction of magical devices.
+
+Whenever a crucible of melting is used, there is a 5% chance of a mishap resulting in an explosion that inflicts 3d10 points of damage to all creatures within 10 feet. A save vs. rod, staff, or wand is allowed, with success indicating half damage. The crucible is allowed an item saving throw vs. disintegration. If it fails, it is destroyed; otherwise, it is unharmed and may be used again.
+
+Half of all these crucibles remain hot for three turns. The rest remain hot until a command word is spoken that cancels the heat.
+
+## Crutch of Lightning
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+
+*Source: Infinity Sphere*
+
+The crutch of lightning is a large, magical device (almost 20 feet long) that works similarly to a wand of lightning. They are attached to the underwing of Gemey's destroyer class spelljammer ships and cause 8d6 points of damage when attacking an individual, and 2d6 points of hull damage. They are able to attack once per round; each crutch has a total of 20 shots apiece.
+
+## Crystal
+
+A crystal is a clear, transparent chunk of mineral or glass. Crystals can be any color, but soft, transparent colors are the most common types. Non-magical crystals are believed to enhance a person's life by focusing personal energies. Magical crystals, though, often serve to focus the magic of wizards and priests.
+
+## Crystal Abelaat
+
+| | XP Value | GP Value |
+|---------|----------|----------|
+| Normal: | 20 | 100 |
+| Special: | 40 | 200 |
+
+*Source: Escape from Thunder Rift*
+
+These amber crystals form when the rust-colored, poisonous saliva of a monster known as an abelaat comes into contact with blood. Abelaats are large, bony humanoids with very dangerous claws and hollow fangs that hold the burning poison.
+
+When warmed by flame, a crystal allows a holder to view any person or place that the holder concentrates upon, and communicate with any person in that scene. Ten percent of these crystals also allow the user to communicate with a dead person or view a scene in the past, but to do so the user must immerse the crystal in ice-cold water rather than flame. Crystals last 1d6 rounds before shattering.
+
+## Crystal of Awareness
+
+**XP Value:** 2,500 &emsp; **GP Value:** 20,000
+
+*Source: DRAGON Magazine #132*
+
+A rock-crystal shard of this nature enables the user to perform the following dreamer skills — awareness sleep, detect mind, detect lie, empathic sleep, penetrate disguise, read alignment, and sleep control. These powers may each be used once per day, except awareness and empathic sleep, which may be used once per week.
+
+## Crystal of Death Scrying
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: The Endless Stair*
+
+This cursed item always appears as a crystal ball, but regardless of how many times it is used (it functions three times per day), all that can be seen within it are the violent deaths of intelligent creatures, occurring somewhere on the Prime Material Plane at that moment. If particular individuals are concentrated upon, their deaths may be seen — but only if they happen to occur as the crystal is being used (an extremely unlikely event, unless the scryer knows of an impending execution or other demise). The crystal does not show past or future events. The surroundings and cause of death can be clearly seen, and anyone seeing such a death must save vs. spell or flee from the room in which the crystal is located in horror and revulsion. Each time the crystal is used, there is a 33% chance
+
+---
+
+<!-- page 343 -->
+
+## Crystal of the Ebon Flame
+
+**XP Value:** 14,000 &emsp; **GP Value:** 72,500
+*Source: Eldritch Wizardry*
+
+This relic is a crystalline object, slightly smaller than a human skull. It constantly emits rays of brilliant light. Any viewer who sees the light (except those who touch the crystal) must make a saving throw vs. fear — even friends of the user. If the saving throw is made, another check need not be made for 15 rounds. The crystal has, at its center, a small, darting, ebon flame. If the user gazes into the black flame, the powers of the crystal may be used. The Crystal of the Ebon Flame has the following abilities and penalties:
+
+- Detect invisible objects.
+- User protected against attacks as if wearing +1 armor.
+- Cold ray of 10 dice effect three times a day.
+- Each time artifact is used, user has a 25% chance to lose one point on a random ability permanently, and the ability may never increase.
+- User cannot touch or be touched by any type of metal; it simply passes through his or her body with no effect.
+- Time stop once per day.
+
+---
+
+*Note: The preceding entry also mentions that blood will begin to seep from it and flow down the sides. The blood is not real, and vanishes within 1d3 rounds, but whatever it touches is permanently stained.*
+
+## Crystal of the Ebon Flame II
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Book of Artifacts*
+
+The crystal of the ebon flame is a flawless, diamond-like stone the size of a woman's hand, cut into a faceted spire that suggests a flickering candle flame. When touched, white and black rays leap within the stone's heart, giving the illusion of real fire deep within the gem.
+
+Like so many artifacts, the origins of the crystal of the ebon flame are lost in the shrouds of the mysterious past. Dwarves swear that the stone is like no other found beneath the earth, although they vainly contend that only a dwarven jeweller of the greatest skill could have cut the stone so perfectly. Several scholars suggest that the stone may have a stellar origin, possibly mined from the very heart of a burned-out star.
+
+Because of its scintillating beauty and magical powers, the crystal became the powerful holy relic of an obscure cult of fire worshippers. Once the cult was powerful and influential, but so vile were its practices that popular outrage led to a persecution of its followers. The few devout that escaped continued to practice in great secrecy. With time, knowledge of the cult transmuted into myth and legend, until truth and fiction are completely blurred.
+
+The obscure background of the crystal of the ebon flame's cult allows a DM broad latitude in creating an adventure around this artifact. While in a strange city, the characters may tangle with the cult, eventually raiding a secret temple where the flame is held. Alternatively, the PCs may discover the flame in the ancient ruins of a cult temple (held by monsters or degenerate cultists). Naturally, the cultists want their crystal back. Eventually the PCs can expose the cult and the threat it poses to the city, kingdom, or empire. The artifact can then be placed under the protection of local officials (and it can return another day).
+
+**Invoked Powers:** An owner can summon shades (2/day). This and all powers are activated by gazing intently into its heart for 1d4 rounds.
+
+**Random Powers:** Four from Artifact Table 1-16: Minor Powers, one from Artifact Table 1-15: Major Powers.
+
+**Curse:** All within 30 feet of the activated crystal (including the owner) must roll a successful saving throw vs. spell or be affected by a fire charm spell. Charmed characters are also subject to a permanent suggestion spell (a second saving throw is allowed) attempting to convince them to become devoted followers of the flame's cult. The stone's sinister intelligence is determined to increase its power by adding more worshippers and slaying the followers of other gods. Fearing exposure, it uses stealth to carry out its goals.
+
+**Suggested Means of Destruction:**
+
+- It must be melted in the core of the earth
+- It must be shattered on the Paraelemental Plane of Ice
+- It must be crushed beneath Thor's hammer
+
+---
+
+<!-- page 344 -->
+
+## Shard of Light
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: The Official RPGA Tournament Handbook*
+
+Ages past, the deep gnomes found this powerful relic in a cavern far beneath the earth. There, it "shone like a crystal star in the earth's deep night," according to an ancient song. The gnomes released the crystal from its rocky bed and it remained a part of their collection of gems until it was stolen by a legendary thief.
+
+One of the greatest priests of Sarkai held the crystal personally for several decades, and at the time of his death he was so obsessed with it that he decreed it should be buried with him. The crystal remained in his crypt, all but forgotten, until it was "found" by its present holder, The Prophet.
+
+The holder of the crystal has the power to dispel darkness of any sort within 120 feet of it, with the command word "Altan." No darkness, save that created by deities or by other artifacts and relics, can stand against the light of the crystal.
+
+Minor benign powers: Bless (by touch), light (1/week), hypnotic pattern (when moved, 3/day).
+
+Major benign powers: Sunray (3/week, as the 7th-level priest spell), sunburst (1/day, as a wand of illumination).
+
+Minor malevolent effects: Possessor's hair turns white; yearning for crystal causes a possessor never to be away from it for more than one day if at all possible.
+
+## Crystal of Phasing
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Infinity Sphere*
+
+This magical item, generally found only on spelljamming Mariner ships, allows a ship of 10 tons or less to phase into the Ethereal Plane. There, they are able to move about without being attacked by enemy ships. Unfortunately, they are often besieged by ethereal creatures who desire the flesh of the crew. The crystal allows a ship to phase into the ethereal for up to one hour's time. This is generally enough time to escape the prowl of larger, more powerful ships.
+
+## Shard of Sakkrad
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: DUNGEONS & DRAGONS Master Set*
+
+According to very old legends, the original home of mankind was in the middle of a vast mountain, so huge that the sun was said to rise from one of its peaks and set on the opposite. The entire base of this mountain is the fabled emerald Sakkrad; its reflection gives the azure tint to the sky. One small piece of that emerald, this very shard, was stolen by a djinni, who subsequently vanished from existence; the shard has never reappeared. It is said to hold unimaginable power; some say that mortal man was not meant to have it, and cannot possibly control it. Others dismiss it as pure legend. Yet despite the tales, many adventurers of great fame and power have gone in search of it; none are known to have returned.
+
+The shard is a 3-foot-long, imperfect hexagonal crystal of azure tone, with sharp edges and pointed ends. It is active when found, and anyone who touches it immediately and magically knows all the names, details, and command words to all of its powers. However, all this knowledge vanishes immediately when physical contact ceases.
+
+A power is granted to the user when the proper command word is spoken. It remains until used or until the user stops touching the item.
+
+Suggested Powers: (All abilities are cast at 20th level.) Disintegrate, mass charm, polymorph any object, detect magic, planar travel (treat as a well of many worlds); telekinesis, create any monster (treat as a monster summoning VI spell); automatic healing (treat as the heal spell); shapechange (treat as a polymorph self spell); luck (duration one turn; allows user to choose the result of one die roll).
+
+Suggested Handicaps: (1 appears when the item is first used; others appear in sequence whenever the user draws on one of the last four powers.)
+
+- **Magic error:** A 25% chance of error occurs whenever a user casts a spell or utters any command words, except those used on the shard.
+
+- **Operating Costs:** A user loses 10% of all treasure owned.
+
+- **Greed:** Anyone seeing a user produce any visible effect of the shard's powers must make a saving throw vs. spells, with a −4 penalty to the roll, or immediately attack the user with intention to possess the shard.
+
+- **Doom:** The next time a user employs one of the last four powers, there is a 5% chance that an Immortal will arrive. This chance increases by 2% each time a 100-point power is used again. If the Immortal arrives, all within sight
+
+---
+
+<!-- page 345 -->
+
+(This page is a continuation of an artifact entry — the Shard of the Mage or similar — followed by the Signaling Crystal and Crystal Ball entries.)
+
+---
+
+range have the choice of watching or looking away. Each of those watching must make a saving throw vs. death magic, with a –10 penalty to the roll, or die.
+
+Each of those looking away may make a saving throw vs. spell; if successful, no further effect occurs, but if failed, each must make a saving throw vs. death magic. The Immortal departs within one round, taking the user and all of his or her nonliving valuables (wherever they may be). The shard is not taken, but is teleported to a random location within 10,000 miles.
+
+**Suggested Penalties:** (20% chance of appearance when any power is used; equal chance for each.)
+
+- Delayed blast fireball within 10 feet of user, set to detonate in 1d4 rounds; normal saving throw applies to all victims.
+- User takes 40 points of damage.
+- Healing error: When the automatic healing power is next triggered, it cures only 10 points of damage, or fails utterly to cure any other effect (poison, disease, etc.)
+- The user is struck with paranoia.
+- Memory lapse: User suddenly and forgets how to cast spells (if a spellcaster) or how to use weapons for 2d10 days; no saving throw.
+- User is struck by withdrawal; saving throw vs. spells applies, but with a –5 penalty.
+- Antimagic 100%, 10-foot-radius emanating from the artifact. The antimagic will remain until wished away, or until the user washes it in the water at either the north pole or the south pole.
+- Saving throw penalty: A –8 penalty applies to the user's saving throws vs. fire-type attacks.
+
+---
+
+## Signaling Crystal
+
+**XP Value:** 10 &emsp; **GP Value:** 50
+
+*Source: The Astromundi Cluster*
+
+Signaling crystals are flat, reflective crystals mounted on a swivel. They (and a special coded language) were designed by the Antilans to facilitate intership communication.
+
+Ships within Clusterspace still use the original Antilan coded language between ships. Characters can take the code as a normal language, or as a nonweapon proficiency. Signaling crystals can be seen out to 10 miles in the depths of space, half that in an asteroid field or nebula. Larger versions visible out to 50 miles have been seen aboard Antilan crystal ships, but no other race uses them.
+
+---
+
+## Crystal Ball
+
+| Type | XP Value | GP Value |
+|---|---|---|
+| Clairaudial | 2,000 | 10,000 |
+| Crystal Ball | 1,000 | 5,000 |
+| Extraperceptive | 2,000 | 10,000 |
+| Telepathic | 2,000 | 10,000 |
+
+*Source: DUNGEON MASTER Guide*
+
+This is the most common form of scrying device: a crystal sphere about 6 inches in diameter. A wizard can use the device to see over virtually any distance or into other planes of existence. The user of a crystal ball must know the subject to be viewed. Knowledge can be from personal acquaintance, possession of personal belongings, a likeness of the object, or accumulated information. Knowledge, rather than distance, is the key to success at location.
+
+| Subject is | Chance of Locating* |
+|---|---|
+| Personally well known | 100% |
+| Personally known slightly | 85% |
+| Pictured | 50% |
+| In partial possession | 50% |
+| Garment in possession | 25% |
+| Well informed about | 25% |
+| Slightly informed about | 20% |
+| On another plane | –25% |
+
+*\*Unless masked by magic*
+
+The chance of locating also dictates how long and how frequently a wizard is able to view the subject:
+
+| Locating* | Period | Frequency |
+|---|---|---|
+| 100% or more | 1 hour | 3 times/day |
+| 99% to 90% | 30 minutes | 3 times/day |
+| 89% to 75% | 30 minutes | 2 times/day |
+| 74% to 50% | 30 minutes | 1 time/day |
+| 49% to 25% | 15 minutes | 1 time/day |
+| 24% or less | 10 minutes | 1 time/day |
+
+*\*Unless masked by magic.*
+
+Viewing beyond the periods or frequencies noted force the wizard to roll a saving throw vs. spell each round. A failed saving throw permanently lowers the character's Intelligence by one point and drives the wizard insane until healed.
+
+Certain spells cast upon the user of the crystal
+
+---
+
+<!-- page 346 -->
+
+I have no text content to process for page 346 — the Tesseract OCR output is empty and no structured table data was provided.
+
+If you have an alternative scan, image, or additional data for this page, please share it and I will produce the clean markdown.
+
+---
+
+<!-- page 347 -->
+
+## Crystal Ball III
+
+*(continuation of Crystal Ball entry)*
+
+ball can improve the chances of using the device successfully. These are *comprehend languages*, *read magic*, *infravision*, and *tongues*. Two spells — *detect magic* and *detect evil/good* — can be cast through a crystal ball. The chance of success is 5% per level of experience of the wizard.
+
+Certain crystal balls have additional powers. These spell functions operate at 10th level. To determine whether a crystal ball has extra powers, roll percentile dice and consult the following table:
+
+| Roll  | Additional Power                                    |
+|-------|-----------------------------------------------------|
+| 01–50 | crystal ball                                        |
+| 51–75 | crystal ball with Clairaudience                     |
+| 76–90 | crystal ball with ESP                               |
+| 91–00 | crystal ball with telepathy (communication only)    |
+
+Only creatures with Intelligence of 12 or better have a chance of noticing that they are the subjects of scrying. The base chance is determined by class.
+
+| Class      | Chance |
+|------------|--------|
+| Fighter    | 2%     |
+| Paladin    | 6%     |
+| Ranger     | 4%     |
+| Bard       | 3%     |
+| Thief      | 6%     |
+| Spell-User | 8%     |
+
+For each point of Intelligence above 12 the creature has an additional arithmetically ascending cumulative chance beginning at 1% (1% at Intelligence 13, 3% at 14, 6% at 15, 10% at 16, 15% at 17, 21% at 18 Intelligence, and so on). These creatures also have a cumulative chance of 1% per level of experience or Hit Dice of detecting scrying. Treat monsters as the group as which they make saving throws. Check each round of scrying, and if the percentage or less is rolled, the subject becomes aware of being watched.
+
+*Dispel magic* causes a crystal ball to cease functioning for one day. The various protections against crystal ball viewing simply leave the device hazy and nonfunctioning.
+
+The DM may allow other scrying devices for priests and druids — water basins and mirrors are suggested. Have them function as normal crystal balls.
+
+**In Ravenloft:** Ravenloft's domain lords are so integral a part of the demiplane that a crystal ball cannot distinguish them from the fabric of the land itself. Other changes to the crystal ball are covered under the *clairvoyance* spell description and the entries for other imitative spells.
+
+---
+
+## Crystal Ball II
+
+**XP Value:** varies &emsp; **GP Value:** varies
+
+| Type          | XP Value | GP Value |
+|---------------|----------|----------|
+| Clairaudial   | 2,000    | 10,000   |
+| Extra-sensory | 2,000    | 20,000   |
+| Normal        | 1,000    | 50,000   |
+| Sending       | 2,000    | 10,000   |
+
+*Source: The Book of Marvelous Magic*
+
+This ball can be used only by a wizard. The user may look into the ball, concentrate on any place or object, and cause the image of the place or object to appear. A crystal ball may be used three times per day, for up to one turn per use. The more familiar the object or area, the clearer the image. To determine the type of crystal ball found, roll 1d8:
+
+| Roll | Ball Type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1–4  | **Normal:** A normal crystal ball is as described above.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 5    | **Clairaudial:** For explanations of clairaudial balls, see the *Clairaudience* spell description.                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 6    | **Extra-sensory:** For explanations of extra-sensory balls, see the *ESP* spell description.                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 7–8  | **Sending:** A crystal ball of sending can be used to send one item weighing up to 1,000 pounds to a location viewed in the ball. Sending can be done only while the image appears in the ball; the object must then be touched and a command word spoken. An object can be sent only to an unoccupied location and always arrives on a floor or firm surface, never in midair or within a liquid. Magical effects, such as a *magic missile*, cannot be sent through the ball of sending. |
+
+---
+
+## Crystal Ball III (Infinity Sphere)
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+Crystal balls used in the Chronos Crystal Sphere generally serve a different function than elsewhere in the Prime Material Plane. They are used for long-distance communications or to see into the Prime Material Plane
+
+---
+
+<!-- page 348 -->
+
+from the Ethereal (as the Mariner ships). Crystal balls owned by the "other side" are highly valued items, as they allow spies to scry into the affairs of the enemy.
+
+## Crystal Ball (Type IV)
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+
+*Source: DRAGON QUEST Game*
+
+This clear, crystal ball is mounted on a pedestal. Any attempt to force it from its stand makes it shatter, causing 1d6 points of damage to everyone in the room. The first time each hero looks into it, roll 1d6:
+
+| Roll | Effect |
+|------|--------|
+| 1 | The hero's Intelligence score permanently lowers by 1. |
+| 2 | The hero's Wisdom score permanently lowers by 1. |
+| 3 | The hero's Constitution score permanently lowers by 1. |
+| 4 | The hero's Constitution score permanently rises by 1. (18 max.) |
+| 5 | The hero's Wisdom score permanently rises by 1. (18 max.) |
+| 6 | The hero's Intelligence score permanently rises by 1. (18 max.) |
+
+## Crystal Ball with Clairaudience
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: DUNGEONS & DRAGONS Expert Rules Set*
+
+This works like a standard crystal ball and may only be used by a wizard. The item also allows the user to listen to any noise (including speech) at the place viewed.
+
+## Crystal Hypnosis Ball
+
+**XP Value:** — &emsp; **GP Value:** 3,000
+
+*Source: DUNGEON MASTER Guide*
+
+This cursed item is indistinguishable from a normal crystal ball and it radiates magic, but not evil, if detection for evil is performed. Any wizard attempting to use it becomes hypnotized, and a telepathic suggestion is implanted in the victim's mind. The user of the device believes that the desired object was viewed, but actually, he or she came partially under the influence of a powerful wizard, lich, or some other power or being from another plane. Each further use brings the crystal ball gazer more under the influence of the creature—either as a servant or a tool. The DM decides whether to make this a gradual or sudden affair according to the circumstances peculiar to finding the crystal hypnosis ball and the party that locates it.
+
+## Eye of the Gods
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Under the Dark Fist*
+
+The gods and all other great supernatural beings in the Vodoni sphere had only two choices when the supernova became inevitable. Their first choice was to stay and risk destruction. The fact that no power could divine the future past the time of the nova frightened the majestic beings terribly. The second choice was to leave the sphere with the rest of the exodus. Unfortunately, the gods were incapable of leaving their own sphere while retaining their power. The future seemed hopeless.
+
+Under the guidance of the Crystal King, however, a vessel was created capable of carrying all of the gods, if they agreed to be bound. As the deadline approached, more and more powers joined the crystal ark called the eye of the gods.
+
+To prevent any one force from gaining control of all, the key to releasing the gods again was entrusted to a neutral mortal. The Crystal King had faith in Vulkaran, as the young emperor had shown strength and resolve in dealing with the epic crisis before his people. The elemental lords, however, had equal faith in the adage that "absolute power corrupts absolutely" and that the forces of the inner planes would triumph in the end.
+
+What neither side counted on was Vulkaran's determination to keep both sides imprisoned. "Surely," they felt, "a mortal would call on the powers of the gods to increase his own power." But Vulkaran never did. The emperor used his own cunning and will to shape his people and forge his war machine, and the longer the immortals remained imprisoned, the greater Vulkaran's own deification seemed to be assured.
+
+Vulkaran didn't need the gods a fraction as much as they need him.
+
+The eye of the gods has no direct powers of its own, it is merely a vessel, a prison. Its power lies in the fact that the owner of the artifact can free any divinity imprisoned within if the key words are known. Naturally, the shadiest of gods will promise anything to gain their freedom, tempting a possessor with great wealth and power. A power-
+
+---
+
+<!-- page 349 -->
+
+## Moredlin's Crystal Ball
+
+*(continued from previous page)*
+
+ful wizard can use its residual energy to power specially-created spells, wards, and magical devices (that is what Vulkarus has done).
+
+Only Vulkaran knows the key words and this is how it should remain during the entire adventure. If the PCs start summoning up gods to do their bidding, campaign balance is going to be destroyed.
+
+The eye of the gods looks like a normal crystal ball.
+
+## Moredlin's Crystal Ball
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: 1992 Collector Card 247*
+
+Moredlin's crystal ball is a typical version of the normal scrying device, except that sound is transmitted normally between the crystal ball and the individuals that are being viewed. This has one obvious drawback: Moredlin must be very quiet while conducting his scrying. On the other hand, he may choose to communicate verbally with anyone he has chosen to view through his magical sphere.
+
+## Crystal Parrot
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: Tome of Magic*
+
+This is a 12-inch high statue of a parrot made of clear crystal that is useful in the detection of trespassers. The crystal parrot is typically placed high on a bookcase, shelf, or a similar location that gives the parrot an unobstructed view of the area it is to oversee.
+
+To activate the parrot, the user speaks the command word, causing a soft red glow to appear behind the parrot's eyes. Unless the crystal parrot is destroyed, it remains active for 30 days. The user may also choose to deactivate it with a second command word, at which time the red glow in its eyes disappears. Once deactivated, it cannot be activated again until another 30 days have passed.
+
+The active crystal parrot "sees" everything in a 180° arc in front of it, to a distance of 50 feet. The crystal parrot can see no better than a normal parrot; that is, its vision can be obscured by normal or magical darkness, or by physical barriers. The user must instruct the parrot as to what types of intruders it is to observe. The user may be specific ("Watch for a 7-foot, bald human male with a red coat") or general ("Watch for all humanoid and animal intruders").
+
+At the time an intruder enters the parrot's field of vision, the user hears a telepathic report about all intruders matching the description. The telepathic reports are general in nature, seldom more than brief phrases ("man with red coat enters" or "two rats enter"). If the user was not specific as to what types of intruders to watch for, the crystal parrot reports only the number and type of intruders (such as "one woman enters" or "a dozen orcs enter"). The crystal parrot does not report the actions of intruders, merely their presence; it tells the user when the intruders enter and leave, but nothing else.
+
+The telepathic reports can be transmitted over an unlimited distance, but cannot be communicated into other planes of existence. The telepathy is one-way; the user cannot communicate with the crystal parrot.
+
+The crystal parrot has AC 3. It shatters and becomes permanently useless if it suffers 12 points of damage. The user is instantly aware of the parrot's destruction.
+
+## Crystal Warrior
+
+| Type      | XP Value | GP Value |
+|-----------|----------|----------|
+| Diamond   | 14,000   | 70,000   |
+| Glass     | 10,000   | 50,000   |
+| Jade      | 10,000   | 50,000   |
+| Porcelain | 10,000   | 50,000   |
+| Ruby      | 10,000   | 50,000   |
+
+*Source: Kara-Tur*
+
+Deep in a hidden, mountain sepulcher lie the five crystalline warriors awaiting the call to defend Tabot against monstrous odds. They are:
+
+- The glass warrior, who turns water to ice and carries a bow +3 and never-empty quiver.
+
+- The porcelain warrior, who makes water boil and wields a copper lance and a shield that shines like the sun (each +2, save vs. blindness).
+
+- The ruby warrior, who turns water to steam, sets fire to wood and cloth, and wields a great stone club +4, whispers to the owner, grants true sight and scry to possessor).
+
+- The jade warrior, who can change water into plants, herd trees, and carries a bamboo scimitar of sharpness +5 that casts wood rot on command.
+
+- The diamond or rainbow warrior, who controls the weather and the elements of earth and water (can cast any wu jen earth or water spell), and carries the famous scythe of pain +5 that immobilizes its target for 1d3 turns
+
+---
+
+<!-- page 350 -->
+
+with wracking pain unless a saving throw vs. spell is made.
+
+All the warriors can be raised by a lama of strong faith (or by those tampering with their rest). They will come to the aid of Tabot if an invasion is destroying the country—they have ignored honest pleas of lesser magnitude.
+
+Crystalline Warriors: AC -4; HD 15; hp 95; MV 9; Dmg by weapon type +8; SA +3 to hit, fly, invisibility, jump (all at will), individual powers are usable at will and have a range of 300 feet; SD immune to poison, petrification, charm, hold, sleep, and death spells.
+
+## Cube of Abilities
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+When this cube is touched, it disappears and one of the touching character's ability scores changes, as determined in the following manner. The player chooses any one score and then rolls 4d6. The lowest roll is discarded; the total of the other three dice determine the new score for the ability chosen. The procedure should be explained to the player before the ability score affected is chosen; the choice and the roll should be made by the player. The new score remains until a *remove curse* is applied by a caster of at least the 26th level. The spell restores the original ability score and has no other effect, regardless of intentions otherwise.
+
+## Cube of Bullion
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: The Book of Marvelous Magic*
+
+This cube, when touched to any small lead item (up to 100 pounds weight), transmutes the lead to gold. The cube can be used once per week at most.
+
+## Cube of Calling
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine #73*
+
+A 1-inch obsidian cube and a metal tuning fork 4 inches long. When the fork is struck, the sound is reproduced from the cube as well as from the fork, provided the cube is no more than 3 miles away.
+
+## Cubic Foot
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This small cube is a magical container more powerful than a bag of holding in some respects. When commanded and touched to any item or liquid, the cube absorbs and stores the item (or up to one cubic foot of a liquid), if it fits within the one cubic foot magical storage space. Several items may be stored, up to the storage limit; for example, up to 500 coins will fit in the space. The cube does not affect living or undead creatures nor any items carried. The cube has 2d10 charges when found. It can absorb and store part of any magical wall, simply by touching it; this costs 1 charge. The duration (if any) of the piece of the magical wall is suspended while it is stored and resumes when it is retrieved. Stored material is retrieved with a second command word, and all the contents reappear next to the cube.
+
+## Cubic Gate
+
+**XP Value:** 5,000 &emsp; **GP Value:** 17,500
+*Source: DUNGEON MASTER Guide*
+
+Another small, cubic device, this item is fashioned from carnelian. The six sides of the cube are each keyed to a plane, one of which is always the Prime Material Plane. The other five sides/planes can be determined by the DM in any manner. If a side of a cubic gate is pressed once, it opens a nexus to the appropriate plane. There is a 10% chance per turn that something will come through it looking for food, fun, or trouble.
+
+If a side is pressed twice, the creature so doing, along with all creatures in a 5-foot radius are drawn through the nexus to the other plane. It is impossible to open more than one nexus at a time.
+
+## Cubic Yard
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+*Source: The Book of Marvelous Magic*
+
+This cube functions exactly as a cubic foot but can hold 27 cubic feet of material in its magical storage space. For example, it could hold 13,500 coins.
+
+---
+
+<!-- page 351 -->
+
+## Daern's Instant Fortress
+
+**XP Value:** 7,000 &emsp; **GP Value:** 27,500
+*Source: DUNGEON MASTER Guide*
+
+This metal cube is small, but when activated it grows to form a tower 20 feet square and 30 feet high with arrow slits on all sides and a machicolated battlement atop it. The metal walls extend 10 feet into the ground. The fortress has a small door that opens only at the command of the owner of the fortress—even *knock* spells can't open the door.
+
+The adamantite walls of Daern's Instant Fortress are unaffected by normal weapons other than catapults. The tower can absorb 200 points of damage before collapsing. Damage sustained is cumulative, and the fortress cannot be repaired (although a *wish* restores 10 points of damage sustained).
+
+The fortress springs up in just one round, with the door facing the device's owner. The door opens and closes instantly at his or her command. People and creatures (except the owner) must be careful not to be caught by the fortress's sudden growth. Anyone who is caught sustains 10d10 points of damage.
+
+In a DRAGONLANCE campaign: Daern's Instant Fortress does not exist on Ansalon.
+
+## Cube of Disabilities
+
+**XP Value:** — &emsp; **GP Value:** 700
+*Source: The Book of Marvelous Magic*
+
+This cube is identical to a cube of abilities, and players should be offered the same explanation as given in that description (see above). However, after the player rolls 4d6, the two dice with the lowest numbers are discarded. The result (2d6) is the new score for the ability chosen. Just as the toucher's ability score changes, the cube disappears. The new score remains until a *remove curse* spell is applied by a caster of the 26th level or higher. The spell restores the original ability score and has no other effect regardless of intentions otherwise.
+
+## Cube of Farce
+
+**XP Value:** — &emsp; **GP Value:** 700
+*Source: DRAGON Magazine #35*
+
+Upon pressing this cube, a field of force will spring up just as in the cube of force, but on the interior of the cubic field the operator is subjected to 6 different "comedies" at the same time, and must save vs. spell or go insane for 1d10 rounds. The comedies are contemporary "sit-coms" such as Gilligan's Island and The White House Press Conference.
+
+## Cube of Force
+
+**XP Value:** 3,000 &emsp; **GP Value:** 20,000
+*Source: GREYHAWK*
+
+The device that projects this force cube is a small, carnelian cube, about 1 inch per side. Three times per day the cube may be pressed so as to cause it to emanate the force field about its possessor. It will enclose an area of 64 cubic feet, and moves at a maximum rate of 6 per round. Nothing can pass through the force cube, though a user may lower the force field at any time. Only the following can bring one down:
+
+- Flaming oil or fire in mass
+- Fireballs
+- Lightning
+- Phase Door
+- Disintegrate
+- Pass Wall
+- Time Stop
+
+## Cube of Force II
+
+**XP Value:** 3,000 &emsp; **GP Value:** 20,000
+*Source: DUNGEON MASTER Guide*
+
+This device can be made of ivory, bone, or any hard mineral. It is about the size of a large die—perhaps ¾ of an inch across—and enables its possessor to put up a wall of force 10 feet per side around his or her person. This cubic screen is impervious to the attack forms shown on the table below. The cube has 36 charges, and this energy is restored each day. The holder presses one face of the cube to activate or deactivate the field. Attacks cost extra charges from the cube in order to maintain the integrity of the screen.
+
+### Charge Cost
+
+| Face | Per Turn / Cube Movement Rate | Effect                        |
+|------|-------------------------------|-------------------------------|
+| 1    | 1/1                           | Keeps out gas, wind, etc.     |
+| 2    | 2/8                           | Keeps out nonliving matter.   |
+| 3    | 3/6                           | Keeps out living matter.      |
+| 4    | 4/4                           | Keeps out magic.              |
+| 5    | 6/3                           | Keeps out all things.         |
+| 6    | 0/normal                      | Deactivates.                  |
+
+---
+
