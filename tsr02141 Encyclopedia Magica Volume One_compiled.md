@@ -12482,3 +12482,528 @@ Upon casual examination, the iron bow of Gesen appears to be an ordinary short b
 
 ---
 
+<!-- page 209 -->
+
+with a shimmering cord. Closer examination reveals that the bow is of iron, cunningly wrought to appear like wood, while the string is a golden wire. The bow is light and can be drawn back with ease, bending more than iron should allow.
+
+The bow is one of the two great weapons of Gesen Khan, a legendary chieftain among the horse nomads. (The other weapon is the hammer of Gesen.) Gesen was supposedly the first to unite all the warring tribes.
+
+One of Gesen's treasures was the iron bow, supposedly the first bow ever made. No ordinary person, it is said, could bend it, and none could withstand the fearsome arrows loosed from its string. A single shaft from it could sunder a tree or shatter stone. Furthermore, since it was the first bow, it was the greatest and wisest of all bows. No one who touched it shot poorly after that.
+
+Eventually Gesen died and was buried somewhere on the steppes. It is said that the bow was interred with him, but since that time, many claim to have seen or used it. The iron bow is an excellent artifact for use by a warrior, especially if the adventure pits the party against some tremendous foe. Because of its seemingly normal appearance, characters will have to be wary of fraudulent copies.
+
+Other warriors covet the artifact, and the group will be besieged by claimants based on ancestry, great need, and fitness. Most try to take the bow by force. The characters will find themselves in situations not unlike the notorious gunslingers who had always to face new challengers.
+
+**Constant Powers:** Any arrow shot from the bow is temporarily transformed into an arrow +5, providing attack and damage bonuses. Arrows leap from the quiver to the string of their own accord, allowing up to four shots per round. The bow has twice the range of a normal short bow.
+
+**Invoked Powers:** Three times per day, the owner can fire an arrow as a *lightning bolt* or *flame arrow* spell (cast at 20th level). Once per day the owner can use any arrow of slaying.
+
+**Curse:** Users of the bow risk artifact transformation. Should this occur, the character gradually changes in features and knowledge into a wild horseman of the steppes. The character may forget how to read or sail, instead becoming an expert rider. The transformation does not affect class abilities. Once it is complete, the character is subject to artifact possession, unable to resist any adventure or good cause.
+
+### Suggested Means of Destruction
+
+- It must be returned to the vengeful shade of Gesen, who is wandering the steppes.
+- It must be flattened with 1,000 blows from the hammer of Gesen.
+
+## Joukahainen's Crossbow
+
+**XP Value:** 3,750 &emsp; **GP Value:** 24,250
+*Source: Gods, Demigods, & Heroes*
+
+This weapon combines a +3 chance on attack rolls with that of a crossbow of speed. It fires nonmagical, poisoned bolts.
+
+## Last Shot
+
+**XP Value:** 1,200 &emsp; **GP Value:** 8,000
+*Source: DRAGON Magazine #127*
+
+This bow appears to be a normal magical bow of +1 enchantment; however, in the hands of an elf, the full powers of this weapon are evoked. Whenever an elf uses this weapon, it becomes a magical weapon +3 with ranges 50% greater than normal. The rate of fire is also increased by one arrow per round; this last arrow is fired after all other attacks have been completed for the round.
+
+## Bow of Levitation
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,000
+*Source: DRAGON Magazine #127*
+
+This is a magical bow that gives its user the ability to levitate as per the spell. While using the bow of levitation, the owner's feet are not in contact with the ground; at the least, the bow's owner remains 1 foot above the surface. Additionally, the only other weapon the bow owner may hold in hand is a dagger or knife. If a *levitate* spell is used on the possessor, the bow loses all of its power for 2d6 rounds. This bow has a +1 bonus on attack rolls, but offers no bonuses to damage done by the missiles. The user of this bow gains forward movement at a rate of 5 feet while levitated, but he or she may be towed by flying creatures.
+
+## Bow of Lir
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine #127*
+
+This bow has an attack bonus of +3. It may be fired underwater at the ranges of a normal bow on land, giving underwater adventurers a missile capability. The bows are named after Manannan MacLir, the Celtic god of the sea.
+
+---
+
+<!-- page 210 -->
+
+## Bow of Marksmanship
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: DRAGON Magazine 127*
+
+This magical bow gives a +2 bonus to the attack rolls of the user in combat. However, a bow of marksmanship also gives the user a +5 bonus on all attacks against nonliving targets (including golems and undead). This bonus is also gained when attempting trick shots, as long as the shots are not intended to directly harm another character or creature. In other words, the +5 bonus applies to an attempt to shoot an apple off another character's head, hitting an opponent's weapon, or any similar shot.
+
+## Bow of Neverending Arrows
+
+**XP Value:** 400 &emsp; **GP Value:** 3,000
+*Source: POLYHEDRON Newszine 82*
+
+These polished long bows of cherry wood have tiny enchanted sapphires set at each end. When the bow string is drawn, the sapphires create an arrow that must be fired within the next three rounds or vanish. The magic of the bow is lost if the sapphires are removed.
+
+## Oberon's Bow
+
+**XP Value:** 2,750 &emsp; **GP Value:** 18,000
+*Source: Monster Mythology*
+
+The avatar's long bow +3 has triple normal ranges, and it can enchant up to 20 arrows per day as arrows +3 by touch.
+
+## Odin's Bow
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: Gods, Demigods, & Heroes*
+
+Treat as a composite recurve +3 as far as range and additional accuracy is concerned. This weapon fires a total of 10 arrows +3 each turn that never miss.
+
+## Phantom Bow
+
+**XP Value:** 1,500 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine 127*
+
+This appears to be a transparent bow with a sparkling string. When the string is drawn back, a shimmering arrow appears. Two such arrows can be fired per round, as with a normal bow. The glowing arrows are +2 on attack and damage rolls; the arrows vanish with no effect if they miss their intended target. The phantom bow fires 1d20+40 of these arrows, after which point the bow vanishes.
+
+The bow makes saving throws as hard metal with a +2 modifier. Magical arrows can also be fired from this weapon, but gain no additional attack bonus. Normal arrows fired from the phantom bow gain a +1 bonus on attack and damage in addition to all other bonuses. Furthermore, these arrows can be fired without detracting from the bow's longevity (the bow's magic is not decreased by firing normal arrows).
+
+## Rudra's Bow
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+*Source: Legends & Lore*
+
+Rudra's avatar carries a bow that fires arrows forcing any being struck to save vs. disease or contract a rotting disease that permanently reduces the victim's Charisma and Constitution by 1d4 points per round. A *cure disease* halts the disease, but cannot restore lost Charisma or Constitution.
+
+## Sarnge
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Gods, Demigods, & Heroes*
+
+This bow shoots a *curse* spell (reverse of *bless*), with saving throw applicable, for a distance of 200 yards. It has no limit on the number of curses.
+
+## Shichi's Daikyu
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: New Item*
+
+Shichi's daikyu is a daikyu +2 with the ability to strike unerringly twice per day, causing maximum possible damage. Shichi's daikyu is designed with her Strength taken into consideration, allowing the user to add his or her Strength bonus to attack and damage rolls when using the bow. Due to the bow's strength advantage, only those with Strength greater than 18/90 can use the bow without penalty. Refer to the table below for those under 18/91 Strength.
+
+| Strength  | Use Ability  | Required Rest            |
+|-----------|--------------|--------------------------|
+| 18/76–90  | 1/round      | One round after use      |
+| 18/51–75  | 1/2 round    | Two rounds after use     |
+| 18/01–50  | 2/5 rounds   | Three rounds after 2nd use |
+| 17        | 1/turn       | Five rounds after use    |
+| 16        | 1/hour       | One full turn            |
+| 01–15     | —            | Cannot use this bow      |
+
+---
+
+<!-- page 211 -->
+
+## Bow of Solonor Thelandira's
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Monster Mythology*
+
+The avatar uses a long bow +5 with quadruple normal ranges, and can create two arrows of slaying each day (any type).
+
+## Bow of Speed
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,000
+*Source: DRAGON Magazine #127*
+
+This weapon is +1 on attack and damage rolls. If there are undamaged and nonmagical arrows within 10 feet of the bow, those arrows are teleported, nocked, and ready to fire, as soon as the archer pulls back the string. This allows the normal rate of fire for the archer to be doubled. Some 10% of these bows are able to teleport any arrow within 10 feet, magical or not, to the bow for firing. The archer can only distinguish one arrow from another if the arrows are distinctive. If the arrows are basically identical, they are chosen at random.
+
+## Underwater Crossbow
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: Port of Raven's Bluff*
+
+These function as regular weapons on the surface, but they also work underwater with the same ranges as their surface counterparts. They do not require special bolts.
+
+## Bow of the Unicorn
+
+**XP Value:** 2,750 &emsp; **GP Value:** 18,000
+*Source: DRAGON Magazine #139*
+
+The bow of the unicorn performs normally as a long bow +3 unless the archer (who must be of chaotic good alignment) commands otherwise. If the user chooses, an arrow shot from the bow becomes an arrow of slaying that affects anyone who has harmed or slain a unicorn. The archer can also command the arrows fired from the bow to cause a living target to fall asleep when hit (as the wizard spell *sleep*, doing no damage) or to stop the target (as the wizard spell *hold person*, again doing no damage) for 20 rounds. The bow itself causes the effects, and any arrows fired from it are briefly enchanted.
+
+## Valis's Bow
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: Gods, Demigods, & Heroes*
+
+Valis's avatar's short bow +4 fires a number of different arrows, as listed:
+
+- Arrow of lightning. (As javelin of lightning except with a 150-foot range).
+- Arrow of monster slaying.
+- Arrow of giant slaying.
+- Arrow of flight. (+3 with 300-foot range).
+
+## Bow of Vampire Slaying
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine #127*
+
+Ten percent of the bows of heartseeking are enchanted to be useful against vampires. These bows can fire wooden arrows into a vampire's heart and slay it on the spot. Any score of 20 or better, including all bonuses, means that the bow of vampire slaying has killed its vampiric target. No other beings are so affected by this bow.
+
+## Bow of Warning
+
+**XP Value:** — / 500 &emsp; **GP Value:** 1,500 / 10,500
+
+*(With Curse: XP Value —, GP Value 1,500; Without Curse: XP Value 500, GP Value 10,500)*
+*Source: DRAGON Magazine #127*
+
+At first, this bow appears to be a bow +3, but when an arrow is fired at living targets of evil alignment, it always misses. Furthermore, the arrow's flight always alerts an evil victim and instantly directs his or her attention to the location of the user of the bow, negating all further surprise advantages. If the nature of this bow is discovered, the curse can be removed by magical means, such as *dispel magic*, *wish*, or *limited wish* spells, or by priestly means, such as a *remove curse* spell. The curse is considered to be 12th-level magic. Once the curse is removed, the bow becomes a bow +3.
+
+---
+
+Bowls are used to hold soups and stews. They can be crafted from wood, metal, ceramic, or even a soft stone such as pumice. Magical bowls are generally used to summon or command water elementals, or they are used to control, create, or divine through a magical fluid in the bowl's depths.
+
+## Bowl of Blood
+
+**XP Value:** 500 &emsp; **GP Value:** 1,000
+*Source: The Magister*
+
+This bowl resembles any other magical bowl save that it fills with blood either once per day (24 hours), upon command, or of its own volition once every four rounds after being activated. While in the bowl, blood will not congeal, and
+
+---
+
+<!-- page 212 -->
+
+## Calabash of Plenty
+
+**XP Value:** 300 &emsp; **GP Value:** 900
+
+*Source: DRAGON Magazine #189*
+
+This bowl is a favorite item of nobles and chiefs. On command, the bowl fills with whatever normal food and drink the owner desires, twice per day.
+
+---
+
+*(The following entry continues from the previous page.)*
+
+can be used as a material component, writing ink, medical supply (it will be compatible with all to whom it is given), stirge lure, or hurled at opponents to blind them temporarily in a fight, et cetera. Eighty percent of these bowls contain human blood. Others contain elvish, gnome, and even (most rare) dragons' blood. Such bowls fill 9d10 times, and then vanish.
+
+## Bowl of Commanding Water Elementals
+
+**XP Value:** 4,000 &emsp; **GP Value:** 25,000
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This large container is usually fashioned from blue or green semiprecious stone (malachite or lapis lazuli, for example, sometimes jade). It is about 1-foot in diameter, half that deep, and relatively fragile. When the bowl is filled with fresh or salt water and certain words are spoken, a water elemental of 12 Hit Dice appears. The summoning words require one round to speak.
+
+Note that if salt water is used, the elemental is stronger (+2 per Hit Die, maximum 8 hp per die, however). Information about water elementals can be found in the MONSTROUS MANUAL accessory. (See also Bowl of Watery Death.)
+
+**In Ravenloft:** An elemental cannot return to its native plane unless it finds a normal escape route from Ravenloft. If an elemental is freed somehow from control, it attacks the character who summoned it.
+
+## Bowl of Delicacies
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+
+*Source: DRAGON Magazine #73*
+
+A small, covered, dark-crystal bowl, rather like a sugar bowl. When the user places both hands on the covered vessel, and speaks the name of a delicacy (for example, "caviar"), the bowl fills with one ounce of the named delicacy. The magic may be used 10 times a week, for the same or different items. Only delicacies "implanted" in the bowl may be produced. Such bowls usually are implanted with 1d6 delicacies; a particular one might produce caviar, frog's legs, fried ants, gooseberry jam, and port salut cheese.
+
+## Bowl of Ship Sinking
+
+**XP Value:** 4,000 &emsp; **GP Value:** 25,000
+
+*Source: IMAGINE Magazine #19*
+
+This bowl, when filled with crystal clear water, allows the owner to command the most powerful kind of 16 HD water elemental (unlike the standard bowl of commanding water elementals). It was created by a mighty wizard for a city-port beset by pirates, and given to the ruler. However, the elemental princess Olhydra was instrumental in causing a geas to be placed on the bowl, she being anxious to preserve the status quo. Anyone commanding an elemental to his or her service would unleash it onto the first three ships sighted, before any free choice could be made. The geas was revealed (in most tragic circumstances) when the bowl was first used.
+
+The manufacture of this bowl of ship sinking requires the casting of *enchant an item*, *conjure elemental*, and *permanency*. The geas in this case was placed on the item during the fabricating process by another, something that can easily happen unless precautions are taken.
+
+Each time the bowl is used, the ship being inflicted with the bowl's effect must roll a saving throw vs. lightning or sink (refer to item saving throws given in the DMG). If the saving throw is successful, the crew is able to react quickly enough to position the ship in such a way that it does not capsize.
+
+## Bowl of Watery Death
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This device looks exactly like a bowl of commanding water elementals, right down to the color, design, magical radiation, and other details. However, when it is filled with water, the wizard must successfully save vs. spell or shrink to the size of a small ant and be plunged into the center of the bowl. If salt water is poured into the bowl, the saving throw suffers a −2 penalty.
+
+The victim drowns in 1d6+2 rounds unless magic is used to save the character. The wizard cannot be physically removed from the bowl of watery death except by magical means — *animal growth*, *enlarge*, or *wish* are the only spells that will free the victim and restore normal size. A potion of growth poured into the water has the same effect; a sweet water potion grants the victim another saving throw (a chance that the curse magic of the bowl works only briefly). If the victim drowns, death is permanent, no resurrection is possible, and even a *wish* cannot save the victim.
+
+---
+
+<!-- page 213 -->
+
+# Boxes
+
+Boxes can be constructed of solid wood, metal, wooden slats, paper-board, paper, and, on occasion, mysterious substances that resemble stone or rock. Magical boxes can be used to entrap creatures both vile and good. Overall, however, boxes have a multitude of possible functions making them fairly safe items to find.
+
+## Bringer of Doom
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Outer Planes MC Appendix*
+
+So long in the past is the Age of Doom that it cannot even be conceived of by mortals. This was a time of great lamenting, for the society that lived in that age was destroyed in the twinkling of an eye. Their own powerful magic and exalted sciences became too great for them, and their passions overcame their senses. In a great wave of power, the race destroyed itself, leaving but one remnant.
+
+Perhaps it would have been better had they left nothing behind, but the artifact known as the bringer of doom somehow survived that great holocaust. The bringer of doom is a small box with a strange, circular red gem set upon its top. If the gem is touched and depressed, the box itself explodes in a blinding flash of power and destruction. So great is the force of the blast that everything within 100 feet of the item (including the user and the box) is utterly destroyed.
+
+The explosion opens a temporary, one-way rift to the Gray Waste, from which 10 to 1,000 hordlings pour forth and rain destruction down upon everything they encounter. There is a 10% chance that some other, greater fiend will come through the rift, as well.
+
+The bringer of doom always reforms, after destruction, and manages to be discovered at a later time, by the unknowing.
+
+## Box of Burglar Detection
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: DRAGON Magazine #73*
+
+A nondescript small box. For approximately eight hours after a button on the side is pushed, this item is set to make a cacophony of noises similar to the approach of a large group of people when, and only when, a person comes within 5 feet of it. It is commonly used to scare off burglars.
+
+## Dead Box
+
+**XP Value:** 300 &emsp; **GP Value:** 3,000
+*Source: Lost Ships*
+
+This term refers to a stone box constructed of atharstone, a rock found in many asteroids and a few mountain ranges on some planets. The sides of the dead box are made of solid slabs of the stone, sealed with natural rubber mixed with gorgon's blood.
+
+A properly constructed dead box completely and utterly foils any means (magical or natural) of detecting the presence of any magic, residual dweomer, alignment aura, or heat differential within the box, when such detection is attempted from outside the box. Dead boxes may be of any size (from small rooms to tiny coffers), but all are very heavy — atharstone is heavier and more durable than lead.
+
+To work, a dead box must be "airtight." It is rumored that the name of the box comes not only from the magically dead properties of such boxes, but from the fate of a wizard or other fool who tried to hide in one to escape detection.
+
+## Box of Delightful Transports
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+*Source: The Complete Thief's Handbook*
+
+These wooden boxes are 6-inch cubes, and come in identical pairs (often decorated with great attention to detail). When a nonliving object of suitable size is placed inside, the lid closed and a command word spoken, the object disappears, only to reappear (effectively teleported) in the matching box. This function operates up to three times per day.
+
+While boxes of delightful transports are obviously very useful, they have certain limitations. It is not possible for the object teleported to cross any planar barriers. And, while the distance between the boxes has no affect on the teleportation range, there is always a 5% chance that the object dispatched does not reach its destination, instead appearing at some random location 10d10 miles away. Thus, transmission of valuables is not recommended. The boxes are more often used to send messages, which can always be sent in duplicate (this method results in a high probability for at least one successful dispatch).
+
+The major limitation on use of these boxes, though, is that no enchanted object can be teleported using them. Even the placing of a simple Nystul's magic aura spell on an object prevents its
+
+---
+
+<!-- page 214 -->
+
+## Flatbox
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: Tome of Magic*
+
+A practical example of hypergeometry and hypermathematics, the flatbox appears to be a wooden box about 3 feet long, 2 feet wide, and 2 inches deep. It weighs eight pounds. The top of the box is a hinged lid.
+
+When the lid is opened, the interior of the box is filled with impenetrable darkness. The darkness cannot be dispelled by any form of magic; it is a characteristic of the hypergeometrical topography of the box.
+
+Viewed from the outside, the flatbox appears to be only 2 inches deep, it actually has the internal volume of a box 6 feet deep. (Thus, it has a volume of 36 cubic feet.) The maximum weight that can be loaded into a flatbox is 500 pounds. No matter how much of its volume is filled, the flatbox still weighs only eight pounds.
+
+Since the inside of the box is completely dark, the only way to retrieve a specific item is to feel around within the box. Finding an object this way takes 1d4 rounds.
+
+There is a significant danger associated with being teleported using these boxes. Therefore, magical items such as rings, potions, amulets, and other such things, small enough to fit into one of these boxes, cannot be teleported to distant locations.
+
+## Dido's Flatbox
+
+**XP Value:** 5,500 &emsp; **GP Value:** 22,500
+*Source: 1992 Fantasy Collector Card 510*
+
+Dido's flatbox is set with an obsidian chip on its lid that is very hard to see. The chip has been imbued with an antimagic shell with a radius of 5 feet. Because of the chip, Dido can carry his flatbox in a bag of holding or magically teleport without it exploding. However, the box is not protected against psionic extradimensional travel. Since most of Dido's rivals are psionicists, he feels fairly safe with his storage container. Externally, the flatbox is 3 feet by 2 feet by 2 feet, but its interior is about 6 feet deep.
+
+## Face of Xenous
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Treasures of GREYHAWK*
+
+From the outside, this exquisitely carved, rosewood box with copper trim is a thing of beauty — inside is a thing of terror; the living face of the evil, mad Archmage Xenous Zenpor. Unwilling to die or become undead, she made a deal with the evil god, Nerull, the Reaper. Using two separate wishes, Zenpor wished — to be able to live long enough to see the enslavement of Oerth and, that her face would always remain beautiful.
+
+The wicked Nerull granted her requests. The god ripped away Zenpor's face and placed it in a specially created box. She has slowly gone mad over the years following the granting of her wishes.
+
+Although she has lost her spell abilities, Xenous is still a formidable opponent. When the lid of the box is opened, she can use any of the arcane abilities granted to her by Nerull. A nonevil creature that touches the box takes 4d6 points of damage and ages 14 years. Xenous can open the box using telekinesis, but cannot telekinetically move herself.
+
+**Primary Power:** Summon one of each type of elemental. 16 HD, no control needed, once a week.
+
+**Major Benign Powers:** Cone of cold (10 dice, twice per day), flesh to stone (once per day), and telekinetic gaze (1,000 pounds, twice a day).
+
+**Minor Benign Powers:** Color spray (three times per day), comprehend languages (when held), darkness 15' radius (thrice per day), and web (once per day).
+
+**Major Malevolent Effect:** Owner suffers a capricious alignment change each time the prime power is used (this affects Xenous if she is using her powers).
+
+**Minor Malevolent Effect:** Small fires are extinguished in a 60-foot, radial area when a major power is used.
+
+**Side Effects:** Whenever a major or prime power is used, temperature within a 60-foot-radius is lowered 5d6 (×5) degrees for 2d6 turns. The cold moves with the artifact.
+
+| Roll  | Explosion Effect                                                                 |
+|-------|----------------------------------------------------------------------------------|
+| 01–04 | Permanently blinded.                                                             |
+| 05–08 | Sword arm lost in blast (½ total original hit points damage from loss of limb).  |
+| 09–12 | Shield arm lost in blast (½ total original hit points damage from loss of limb). |
+| 13–16 | Leg lost in blast (½ total original hit points damage from loss of limb).        |
+| 17–20 | Half of remaining hit points lost (permanent).                                   |
+
+---
+
+<!-- page 215 -->
+
+(continuing from previous page — the flatbox entry concludes here)
+
+If it is taken into an extradimensional space (such as a portable hole), if it is teleported, gated, or transported via dimensional folding or any analogous method, or if it ever suffers 15 points of damage, the flatbox explodes violently. The explosion destroys all contents of the box and inflicts 4d10 points of damage on any creature within 20 feet (save vs. spell for half damage).
+
+## Goerl's Tackle Box and Portable Canoe
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+*Source: 1992 Fantasy Collector Card 387*
+
+Goerl retired from the adventuring life many years back. Among the treasures that he accrued and kept for his twilight years is his own special tackle box and portable canoe. Not only does this 6- by 6- by 1-inch packet store a complete set of fishing poles and a tackle box filled with lures and other fishing accessories, but it unfolds into a canoe and paddles for two. Goerl's canoe even stores live bait for up to three months.
+
+## Box of Heating
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+*Source: DRAGON Magazine #73*
+
+This is a box of gears and cogs, with a crank handle protruding from one side. When the crank is turned, heat emanates from the top of the box, more heat as the crank is turned faster. Through magical means, the energy of motion of the crank is magnified and turned into heat sufficient (with steady cranking) to heat a medium-sized room in winter.
+
+## Box of Ice
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: The Complete Ranger's Handbook*
+
+This is an airtight box 1-foot-square, made of black metal with a single hinged panel. Opening the panel reveals the hollow interior. Centered on the outside of the panel is a white metal pointer resembling a small arrow. The pointer can be rotated in any direction to regulate the temperature inside the box. If pointed straight up (toward the hinges), the temperature remains at 70°F. For every complete clockwise rotation of the arrow, the temperature inside the box drops one degree. Therefore, if the arrow is rotated 30 times, the temperature drops to 40°F. Rotating the arrow counterclockwise raises the temperature 1 degree per rotation. The temperature can't be lowered below 0° or elevated beyond 70°. The box is useful for making ice and preventing food spoilage.
+
+## Box of Many Holdings
+
+| Size | XP Value | GP Value |
+|------|----------|----------|
+| 1'×1'×1' | 2,000 | 8,000 |
+| 2'×2'×2' | 4,000 | 16,000 |
+| 3'×3'×3' | 13,500 | 54,000 |
+| 4'×4'×4' | 32,000 | 128,000 |
+| 5'×5'×5' | 62,500 | 250,000 |
+
+*Source: DRAGON Magazine #45*
+
+A box of many holdings is a cubical, oaken chest. Each face of the chest may be decorated with ornate carvings of a similar nature (75%) or without any artwork at all (25%). There does not appear to be any obvious lid to the chest. A *detect magic* spell will reveal that magic is emanating from the direction of the chest. Each side of the box of many holdings can be treated as a "lid" to the chest; each side may be opened to display a compartment the size of the chest itself. (Note that while one side of the chest is opened, the remaining five become locked and no amount of prying or "thieving" abilities can open any of them.) Each side is opened by the same method — a small hole on each side holds a small peg or rod that must be provided by the character. This trips a latch allowing the side to swing back on hinges, much the same as a normal chest lid.
+
+Each compartment thus revealed is capable of holding its own contents, not to exceed the volume of the box itself. This enables the owner of the chest to store six times the volume that would normally be expected from a chest of similar size (in a box of many holdings with the dimensions of 2 cubic feet, 48 cubic feet of material could be stored instead of just the expected 8). The weight of a fully loaded chest is equal to the weight of the chest itself plus the weight of the contents of the heaviest compartment.
+
+As with many magical treasures, 15% of the extant boxes of many holdings are not without their drawbacks. One side of the chest, chosen randomly by the Dungeon Master, issues a random curse when opened. Treasure may be stored in this space with no ill effect on the treasure itself, but each time the side is opened, a new curse, randomly chosen by the DM, takes effect on the opener. (Among magical scholars, it is not known whether the curse is inherent in the creation of the box or if it was purposely placed there by the ancient wizard who created these boxes.) A *remove curse* removes the curse upon the next opening only, but not subsequent openings.
+
+---
+
+<!-- page 216 -->
+
+## Box of Message Sending
+
+**XP Value:** 500 &emsp; **GP Value:** 5,000
+*Source: POLYHEDRON Newszine #43*
+
+Two to five (1d4+1) of these 17- by 5-inch boxes can be found at a time, each with a red handle and a small swinging door. Every box is marked with a simple but unique symbol, found only on that specific box. Boxes may be placed in a stationary location anywhere in the world with a small package or message inserted through the swinging door. When the handle is pulled and concentration is centered on the symbol of another box, the message or package disappears from the original box. It then reappears in the box selected within 1d4 days. The red handle on the outside of the box moves to the downward position and locks there whenever a message or package is received, until the item is removed.
+
+## Box of Money Changing
+
+**XP Value:** 1,000 &emsp; **GP Value:** 3,000
+*Source: POLYHEDRON Newszine #90*
+
+Roughly three dozen of these items are believed to exist, and all of them look the same—a warm-to-the-touch box made of dull gray metal that is 3 inches wide, 3 inches high, and 12 inches long. There is one slot on the top of the box, and one on the bottom; each is large enough to manage a sizable coin. Anyone who looks into a slot sees only a blob of moving, molten metal.
+
+Near the slot on the top are buttons made of different metals—copper, silver, bronze, electrum, gold, and platinum.
+
+The box is used to convert coins to different currencies of the same value. For example, if a gold coin is put in the slot and the silver button is pressed, 10 silver pieces are released. Pressing the copper button releases 200 copper pieces. Pressing the gold button releases a gold coin of a different minting—a gold danter might become a gold bicenta.
+
+The box cannot be used to create coins of greater value. Only exact conversions are made.
+
+## Box, Mystical Brown Coating
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #30*
+
+The mystical brown coating box is often used with the eternal peanut. Up to 12 grape-sized objects, like raisins, placed in this box per day are given a sweet and delicious brown coating. The coating does not melt in the hand if the coated objects are held, but does dissolve in saliva or water.
+
+## Ohm's Black Box
+
+**XP Value:** 1,250 &emsp; **GP Value:** 12,500
+*Source: POLYHEDRON Newszine #82*
+
+Created by the famed wizard-naturalist Ohm, the box is a perfect 12-inch cube with a dull black finish. It weighs only one pound, and its surface is smooth with no apparent openings.
+
+The box was designed to carry creatures as large as 10 feet tall, as heavy as 2,000 pounds. The box is aware of the creature's needs and provides a habitable environment for up to five days. For example, the box provides a soft bed and a lounge (complete with a seven course meal) for a pampered halfling, or a salt water pool with fresh fish for a kuo-toa. A creature left in the box for longer than five days is automatically released. Only one creature can be kept in the box at any one time.
+
+The box's inhabitant is oblivious to the outside world; dropping or rapping on the box is unnoticed by those inside. However, destroying the box will dispel the magic and release the occupant. Creatures inside the box can escape only by means of a *wish*, or *limited wish*. All forms of teleportation and interplanar travel are nullified inside the box. However, magic resistant creatures can check their magical resistance once each time the box is used against them. If the roll fails, the creature can be trapped for five days, just as any other creature. Creatures trapped in the box cannot be detected by any form of scrying or divination except for *contact other plane* or *commune* spells, which work normally with respect to the trapped creature. Trapped creatures cannot communicate with the outside world via telepathy or other psionic abilities.
+
+To trap a creature in the box, the owner must place the box within 10 feet of it and speak the command word. The creature is transported into the box in a blinding flash. If more than one creature, including the box's owner, is within 10 feet of the box when the command word is spoken, the box selects its target randomly from among those present.
+
+If the box is destroyed (saving throw applicable as for hardwood with magical bonuses), it will do one point of damage for each inch along one of its sides to all within a radius of 10 feet (if the box is 2 feet on all sides, it will do 24 points of damage to those within 10 feet of it). There is no saving throw for this damage. In addition, all objects or creatures inside it disappear upon the chest's destruction.
+
+---
+
+<!-- page 217 -->
+
+## Box of Preservation
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DRAGON Magazine #73*
+
+A metal box the size of a breadbox. Anything put in the box is magically preserved from the effects of time. For example, food is as fresh, when removed, as the day it went in.
+
+## Box of Preservation II
+
+**XP Value:** 2,200 &emsp; **GP Value:** 11,000
+
+*Source: War Captain's Companion*
+
+These large boxes measure 8 feet long, 4 feet wide, and 3 feet deep. A hinged lid on the box's top allows easy access to the material it contains. This box magically preserves whatever it contains indefinitely. Items placed in the box permanently maintain current temperature, texture, and ripeness, for as long as they are in the box. The box of preservation is unlimited as to the amount of weight it can hold. Its only limitation is its size. All items placed in the box must be inanimate or dead. If a living creature is placed in the box, the creature is in a state of suspended animation until removed. When removed, the creature must roll a system shock roll. If the roll fails, the creature dies.
+
+## Rudra's Box of Cloning
+
+**XP Value:** 2,100 &emsp; **GP Value:** 10,500
+
+*Source: Gods, Demigods, & Heroes*
+
+This large box automatically clones any piece of flesh or bone, recreating an exact duplicate of the creature it came from. The device works only 50 times.
+
+## Strongbox of Immobility
+
+**XP Value:** 300 &emsp; **GP Value:** 3,000
+
+*Source: DRAGON Magazine #73*
+
+A strongly constructed metal box (size can vary) with a key. When the user utters the word of command ("heel"), the box stays exactly where it is presently located, even if the user lets go. It is anchored to the ether, and any force strong enough to move it inevitably destroys it in the process.
+
+## Tamate-Bako
+
+**XP Value:** 16,000 &emsp; **GP Value:** 50,000
+
+*Source: DRAGON Magazine #40*
+
+A small box, often with a jeweled hand carved on the lid. Each time it is opened, all within a 12-foot radius must roll a saving throw vs. spell. Each creature that fails receives the effect of four simultaneous charges from a staff of withering; each creature that succeeds receives two charges. Dragons are unaffected by the box. After 1d20 times being opened, the box disintegrates.
+
+---
+
+*(The following text at the top of the page is the continuation of a previous entry — Box of Trapping or similar — whose heading appeared on the preceding page:)*
+
+…the box, all potential captives are allowed a saving throw vs. spell. Any creature that fails its saving throw is trapped. If more than one fails to save, the one closest to the box is trapped. A second command releases the captive from the box. The box's owner must be outside the box to issue the command. Each command can be stated once a day.
+
+---
+
+# Bracelet
+
+Bracelets are ornamental chains or straps that are worn on the wrist. Made of almost any conceivable material, bracelets can be adorned with etchings, gems or other precious stones, or metallic inlays. Like rings and other enchanted jewelry, magical bracelets have no limitations on what kind of magic they can hold. Only one magical bracelet can be worn on any one arm, to a maximum of two bracelets (for creatures with more than two arms). If more than two are worn by the same creature, all magical bracelets cease to function.
+
+## Bracelet of Charms
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: The Complete Fighter's Handbook*
+
+This appears to be a nicely crafted bracelet of sturdy gold links. It looks like any other bracelet to which small charms and mementos are attached. But when a warrior (only a warrior, multiclass warrior, or dualclass warrior) slides the bracelet around the blade or haft of a weapon, and speaks the command word engraved on the bracelet's clasp, the weapon disappears, and a gold charm matching the weapon appears on the bracelet.
+
+Thereafter, when the warrior speaks the command word and the name of the weapon, the weapon magically appears in the hand on whose wrist the bracelet rested, and the bracelet disappears.
+
+The bracelet can hold up to four weapon charms this way. They can be normal or magical. Shields and miscellaneous equipment cannot be held on the bracelet — only weapons. Siege weapons cannot be held.
+
+The change from bracelet to weapon takes no time at all, but this can only be done once per
+
+---
+
