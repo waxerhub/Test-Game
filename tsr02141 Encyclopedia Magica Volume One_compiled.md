@@ -11261,3 +11261,1224 @@ It is rumored that only the Pharaoh, or the Pharaoh's high priest, is able to re
 
 ---
 
+<!-- page 186 -->
+
+(continuing from previous page — this page begins mid-entry for the Book of the Five Truths / Nithian artifact, then continues with Book of Binding Souls, then Disks of Mishakal)
+
+---
+
+anyone else tries, they must save vs. spell or go mad (Intelligence permanently drops to 1). Those who keep their sanity see only blank pages.
+
+According to legend, each page bears the name of an ancient Nithian colony, far away from the Known World. If the Pharaoh wishes to visit one of these places, he or she need simply open the book, and read the name written there. The book then becomes a gate to that particular place, and the Pharaoh may travel freely to it. However, due to the spell of preservation, no gates can be opened to the surface; and if more than an hour elapses, the user is automatically returned to Nithia. Since this is a Nithian artifact, the book itself is constrained to stay within the country's borders, and therefore teleports itself back to its resting place if taken out of the country.
+
+## Book of Binding Souls
+
+**XP Value:** — &emsp; **GP Value:** 60,000
+
+*Source: DUNGEON Magazine #27*
+
+Bound in the hide of a fiend, this is a small, thick book roughly 9 inches high, 6 wide, and 1½ inches thick. It strongly radiates a pulsing aura of evil, noticeable even without magical detection. Its worn pages of thin flesh are covered with strange sigils and glyphs. Merely looking at the book's evil script causes any nonchaotic evil being to take 3d6 hp electrical damage (no save allowed) and make a saving throw vs. spell or go insane. The form that the insanity takes is left for the DM to decide, but requires the casting of a *heal* spell by a priest of at least 18th level to dispel. Any nonchaotic, evil being who retains possession of the book for more than three days suffers from a vile rotting disease, similar to mummy rot, with no save allowed. Curing this effect requires casting a *cure disease* spell, also by a priest of at least 18th level.
+
+The book is a relic that contains the knowledge and power to ensnare the essence of a deceased being and bind it to one's will. The captured essence manifests itself in a form similar to that of a ghost, except that its Hit Dice are equal to that which it possessed in life. The ghost is completely under the power of the book's user.
+
+The book is written in an archaic, evil language and can be fully understood only by a chaotic evil priest of at least 10th level.
+
+The casting of an incantation requires that the spell be cast over the remains of the essence's former body, and that the caster know the spirit's name. Success of the incantation begins at a base 1% chance, rolled once every 12 hours of the incantation. This chance is modified by the following — for every level of the spirit, subtract 2%. For every level of the caster (and those of any assistants chanting at the same), add 1%. Lastly, add 1% for each 12 hour period in which the incantation has been in progress.
+
+Should the incantation be interrupted or halted at any time, all progress made up to that point is lost, and any new attempts to ensnare the essence begins at the base 1% chance again. Also, should a 99% or greater (unmodified) chance be rolled in any ensnaring attempt, the essence eludes the pursuers (hell hounds from the Abyss) and breaks the spell's hold. This has the same effect as breaking off the incantation.
+
+Once ensnared, however, there is little hope for the spirit, as the power of the book quickly binds it to a material form. Escape occurs only when the new material form is destroyed or when the caster loses control of the book. This doesn't mean that the caster must sleep with book clutched to breast, but it does require that the book always be in a place of the caster's choosing and readily accessible.
+
+Should the caster lose control of the book, the spirit becomes free to direct all of its energies to the death of its captor, attacking until it is destroyed or the caster is killed, at which point the spirit is allowed to return to its final plane of existence.
+
+The book is immune to normal and most magical destruction. It must be destroyed by some special means, such as throwing it into a particular volcano, perhaps on the Elemental Plane of Fire, or by immersion in the acidic blood of some huge, ancient black dragon. The particular means of the book's destruction are left to the DM and could provide an exciting and dangerous quest.
+
+## Disks of Mishakal
+
+**XP Value:** 100,000 &emsp; **GP Value:** 500,000
+
+*Source: Dragons of Despair*
+
+These are platinum disks, 18 inches in diameter. Each disk is ⅛-inch thick. There are 160 plates in all. A bolt passes through one side of the plates, allowing each to swivel out and be viewed while keeping the stack together. Each of the plates is engraved on both sides.
+
+Anyone of Lawful or Neutral Good alignment may examine the plates. Others take 4d6 points of electrical damage each time they try to touch or
+
+---
+
+<!-- page 187 -->
+
+I have no text to work with — the Tesseract OCR output for page 187 is empty, and no structured table data was provided.
+
+If you can supply the raw OCR text or an image of this page, I will produce the clean markdown immediately.
+
+---
+
+<!-- page 188 -->
+
+## Book of the Enlightened Gods
+
+*Source: Land of Fate*
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+
+This mystical text is dedicated to one of the major enlightened gods of the Land of Fate. Roll 1d8 for the god to which it is dedicated:
+
+| Roll | Deity Name |
+|------|------------|
+| 1    | Kor        |
+| 2    | Hajama     |
+| 3    | Najm       |
+| 4    | Selan      |
+| 5    | Haku       |
+| 6    | Hakiyah    |
+| 7    | Jisan      |
+| 8    | Zann       |
+
+Priests (including both hierarchical and free priests) who venerate that god and spend a week studying the book's revelations receive one point of Wisdom and sufficient experience points to advance halfway into the next level of experience. The book then vanishes to find another priest. An individual may only gain enlightenment from a book of the Enlightened Gods once.
+
+Priests who read this book gain knowledge about the ancient gods of good — Paladine (rulership), Majere (meditation and control), Kiri-Jolith (war and battle), Mishakal (healing), Habakuk (seas and animals), and Branchala (elves, forests, and music). Any priest who worships these gods may receive spells as per standard AD&D game rules. The book tells how to worship them and gain true priestal abilities.
+
+---
+
+## Disks of Mishakal II
+
+**XP Value:** 100,000 &emsp; **GP Value:** 500,000
+
+*Source: Tales of the Lance*
+
+The once-lost Disks of Mishakal are steeped in legend. These disks, crafted during the Age of Might, provide a treatise on the rituals and worship of the gods of Krynn. Each of the 160 disks is made of hammered platinum, thin as a quith-pa wafer and three hand-spans wide. A rod of steel pierces one edge of each disk, binding the disks together. Arcane glyphs engraved on both sides of the disk tell the secrets of the gods. As with any sacred text, the disks answer a multitude of questions, but raise many more.
+
+The disks are said to have been commissioned by Karthay Pah, though the actual work was completed at the hands of Eriel Caladon nae Tempus and a triumvirate of Silvanesti scholars. When the kingpriests arose, the elves feared for the loss of this divinely inspired work. Therefore, they sent it secretly across the land to their brethren in Qualinesti. Barbarians from New Sea massacred the caravan and the disks were lost.
+
+In 255 PC, the disks were rediscovered in Zhakar — the ogres wanted to melt the disks and forge them into coins. The disks somehow escaped melting (perhaps by divine intervention or a unique magical property). Later, a gray dwarf named Forlorn Ironbeard summoned the gods to aid his folk, the Zhakar, in repelling Khurian raiders. The ungrateful Zhakar abandoned Forlorn to his doom in the final siege of Ransom's Gate. The gods sent the mold plague to punish the unfaithful dwarves.
+
+Word of the lost disks reached the kingpriest and a royal bounty was set for their recovery. In addition to the glory and power the disks would provide, the kingpriest knew that quests for the disks would preoccupy the Knights of Solamnia. Many valiant knights sought the holy disks, but none ever found them. At last, the brash plainsman Clearbrook set out upon the quest. His travels took him to world's end and beyond, into the mists of the Abyss. When Clearbrook returned to Xak Tsaroth, he bore the disks in a robe of bison skin. He delivered the relic to the priests of Mishakal, and then led his pursuers (spies of the kingpriest) into the Darken Woods — none ever returned.
+
+In Xak Tsaroth, the disks lay hidden. After the Cataclysm, the barbarian priestess Goldmoon recovered the disks from the ruins. At war's end the fabulous disks were ensconced in the temple of Mishakal at Palanthus for the most devout and pure souls to study and learn the teachings of the gods of good.
+
+Anyone with good alignment may touch the disks, and those with a proficiency in ancient languages may read them. Those of Neutral or Evil alignment who attempt to touch or read the disks are struck by a lightning bolt that arcs from the disks, doing 3d10 points of damage. Although priests of Paladine strongly warn petitioners that "they must be at peace with Mishakal and Paladine to read the disks safely," one or two unworthy readers die every year. To the worthy, however, patient and penitent study of the disks can unfold the mysteries of death, creation, and life.
+
+---
+
+<!-- page 189 -->
+
+## Book of Exalted Deeds
+
+**XP Value:** 8,000 &emsp; **GP Value:** 40,000
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This holy book is sacred to priests of good alignment. Study of the work requires one full week, but upon completion the good priest gains one point of Wisdom and enough experience points to raise the character halfway into the next level of experience. Priests neither good nor evil lose 2d4(×10,000) experience points perusing this work (a negative XP total is possible, requiring restoration but not lowering level below the 1st). Evil priests lose one full experience level, dropping to the lowest number of experience points possible and still hold the level; furthermore, atonement must be made by magical means or by offering up 50% of everything they gain for 1d4+1 adventures.
+
+Fighters who handle or read the book are unaffected, though a paladin may sense that it is good. Wizards who read it lose one point of Intelligence unless they save vs. spell. If they fail to save, they lose 2d20(×1,000) experience points. A thief who handles or reads the work sustains 5d6 points of damage and must successfully save vs. spell or lose one point of Dexterity. A thief also has a 10d6% chance of giving up his or her profession to become a good priest if Wisdom is 15 or higher. Bards are treated as neutral priests.
+
+Except as indicated above, the writing in a Book of Exalted Deeds can't be distinguished from any other magical book, libram, tome, or manual—it must be studied. Once studied, the book vanishes, and the character can never benefit from reading a similar tome a second time.
+
+---
+
+*The following text applies to the Book of the Enlightened Gods entry continued from the previous page:*
+
+Priests who do not worship that particular god, but do worship some enlightened god, recognize the book for what it is but gain no benefit and take no damage. This includes priests of the Pantheon and the Temple of Ten Thousand Gods.
+
+Nonpriests who handle the book take 4d6 points of damage when opening it. This includes paladins, farisan, and holy slayers who may be devoted to that same god. The book does not disappear if handled by nonpriests or priests of enlightened gods. Priests of savage gods who merely touch the book lose one level of experience. The book disappears at this point as well.
+
+---
+
+## Book of Golems
+
+| Golem Type     | XP Value | GP Value |
+|----------------|----------|----------|
+| Clay           | 3,000    | 30,000   |
+| Doll           | 3,000    | 30,000   |
+| Gargoyle       | 3,000    | 30,000   |
+| Glass          | 3,000    | 30,000   |
+| Ice            | 3,000    | 30,000   |
+| Necrophidius   | 3,000    | 30,000   |
+| Scarecrow      | 3,000    | 30,000   |
+| Slime          | 3,000    | 30,000   |
+| Wood           | 3,000    | 30,000   |
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This compilation is a treatise on the construction and animation of golems. It contains all information and incantations needed to make one of the nine sorts of golems.
+
+The construction and animation of a golem takes a considerable amount of time and costs quite a bit as well. During the construction and animation process, a single wizard or priest must have the manual at hand to study, and must not be interrupted. The type of manual found is determined by rolling 1d20 and consulting the table below:
+
+| Roll  | Type of Golem | Creator¹ | Time     | GP Cost |
+|-------|---------------|----------|----------|---------|
+| 01–11 | Clay          | P17      | 1 month  | 65,000  |
+| 12–22 | Doll          | P15      | 2 months | 20,000  |
+| 23–33 | Gargoyle      | P16      | 4 months | 100,000 |
+| 34–44 | Glass         | P14      | 6 months | 125,000 |
+| 45–55 | Ice           | P12      | 4 months | 25,000  |
+| 56–66 | Necrophidius  | P9       | 10 days  | 8,000   |
+| 67–77 | Scarecrow     | P9       | 21 days  | 100     |
+| 78–88 | Slime         | P17      | 2 months | 45,000  |
+| 89–00 | Wood          | D15      | 21 days  | 1,000   |
+
+¹D—Druid, P—Priest
+
+Once the golem is finished, the writing fades and the book is consumed by flames. When the ashes of the manual are sprinkled on the golem, the figure becomes fully animated. It is assumed that the user of the manual is of at least the 10th level. For every level of experience under 10th, there is a cumulative 10% chance that the golem falls to pieces within one turn of completion, due to the maker's imperfect understanding.
+
+A priest who reads a work intended for wizards loses 1d6(×10,000) experience points. A wizard reading a priestly work loses one level of experience. The DM must decide in advance for whom the book is intended. Any other class suffers 6d6 points of damage for opening the work.
+
+---
+
+<!-- page 190 -->
+
+## Book of Mystical Equations
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+*Source: Tome of Magic*
+
+This book is indistinguishable from other magical tomes. It contains charts and equations relating to several of the spells belonging to the Sphere of Numbers. It can be used as the material component for the spells *personal reading*, *telethaumaturgy*, and *addition*. If it is used in this manner, the casting time for the spell is halved, and any saving throw that the subject of a spell may be entitled to suffers a –2 penalty.
+
+> **In Kara-Tur:** This magical book is not found in Oriental lands. This result should be rerolled.
+
+## Book of the Planes
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Tales of the Outer Planes*
+
+As with all magical writings of this nature, the metalbound Book of the Planes appears to be an arcane, rare, but nonmagical book. It will radiate a magical aura if a *detect magic* spell is cast on it. Any single wizard or priest can read one chapter at a time (taking 1d12 months to assimilate the information), in total isolation, to gain knowledge about a particular plane. After the character has read a chapter as described above, he or she gains the ability to travel freely to and from that plane. Once a chapter has been read, there is a 5% chance the book disappears. This chance is cumulative, so that after three chapters have been studied, the chance of the book disappearing is 15%. Any nonmages or nonpriests attempting to read the manual must save vs. spell or go insane.
+
+## Ravenloft Golem Books
+
+**XP Value:** — &emsp; **GP Value:** —
+
+| Type       | XP Value | GP Value |
+|------------|----------|----------|
+| Clay       | —        | —        |
+| Doll       | —        | —        |
+| Gargoyle   | —        | —        |
+| Glass      | —        | —        |
+| Mechanical | —        | —        |
+
+*Source: Ravenloft Monstrous Compendium Appendix*
+
+According to rumor, there are magical volumes that detail the procedures used in the creation of Ravenloft golems. Like the traditional golem manuals found in other realms, each of these books describes how to fashion and animate one type of golem. In addition, the dark powers of Ravenloft favor the creation of these golems over their more mundane cousins, so that any manual of golems brought into Ravenloft has a 75% chance of transforming into a Book of Ravenloft Golems when it enters the demiplane. Such books do not revert to normal when removed from the demiplane, but the creation of the golems they describe is not possible outside of that domain, making these tomes all but worthless in other lands.
+
+When a Book of Golems is found in Ravenloft, roll percentile dice on the following table to determine the type of golem it can create:
+
+| Roll  | Type of Golem | Creator¹ | Time      | GP Cost |
+|-------|---------------|----------|-----------|---------|
+| 01–20 | Clay          | P17      | 1 month   | 65,000  |
+| 21–40 | Doll          | P15      | 2 months  | 20,000  |
+| 41–60 | Gargoyle      | P16      | 4 months  | 100,000 |
+| 61–80 | Glass         | P14      | 6 months  | 125,000 |
+| 81–00 | Mechanical    | Any      | 18 months | 125,000 |
+
+¹Under creator, the following nomenclature is used: P—Priest
+
+The creation of any kind of Ravenloft golem is a dark and dangerous process for the creator. The creature must be created with loving care and special magical spells woven over the body to bring it to life.
+
+Like traditional golems, those fashioned with the aid of the dark powers of Ravenloft have a great hatred for all living things. They are kept in check only by the will of their creators, who face death at their hands if they ever escape and become free-willed creatures. While the spells used to create a golem usually enslave it so that it cannot refuse to obey its creator, there is a 10% chance that any Ravenloft golem will break free of that control. After that, it devotes all of its time and energy to the destruction of its creator. Once a golem is created, it is entitled to a saving throw vs. spell once per month, on the full moon. Failure indicates that it must serve for another month, while success indicates that it has become free-willed.
+
+The rituals to animate the body (once it has been built) require one full month (from full moon to full moon) and cannot be interrupted in any way or the entire enchantment process must start anew. In all cases, the spells used may come from any source (including devices or scrolls). If a spell is cast on behalf of the golem's creator by a second individual, that spell must contain special alterations to make it sympathetic to the creator.
+
+---
+
+<!-- page 191 -->
+
+This page is a continuation of a descriptive entry for golems from the *Ravenloft Golem Books* source. There are no item headings with XP/GP values — it is narrative descriptive text continuing from a previous page. Below is the cleaned markdown.
+
+---
+
+ture's would-be master. There is no additional cost for these alterations.
+
+**Doll Golem:** Only a priest of at least 15th level can create a doll golem. These creatures resemble a child's toy—often a baby doll or stuffed animal. Doll golems can serve as either the guardians of children or as murdering creations too foul to contemplate. Construction of the doll's body takes only two weeks, but the cost of components and enchanted elements of the golem reaches 15,000 gp. The spells needed to complete the animation are *imbue with spell ability*, *Tasha's uncontrollable hideous laughter*, *(un)holy word*, *bless*, and *prayer*. The first known examples of this type of golem turned up in the land of Sanguinia, in the hands of a traveling priest. While his name has been lost to memory, it is believed that he researched and built the doll to protect his wife and daughter as they traveled around this dark land. History does not record the final fate of that pilgrimage. It is rumored that the doll survived and still haunts the domains of Ravenloft today, but there is no solid evidence that this is the case.
+
+**Gargoyle Golem:** This creature is fashioned in the image of a real gargoyle and is often placed as a warden atop buildings, cathedrals, or tombs. It is most similar to the stone golem, save that it can be built only by priests of at least 16th level. The body must be carved from a single slab of granite (weighing 3,000 pounds and taking two months to complete) and prepared with components costing 75,000 gp. Of this money, 15,000 gp is used to create vestments that can be reused, so a second golem could be created for only 60,000 gp. The spells required to complete the process are *bless*, *exaction*, *(un)holy word*, *stone shape*, *conjure earth elemental*, and *prayer*. The first gargoyle golem was fashioned at the command of Vlad Drakov, Lord of Falkovnia, as a means of defending his castle. Eventually, the secret of their construction leaked out and others began to build them. It is rumored that none of these creatures can attack Drakov, and even that they may all secretly serve him—this may or may not be true. Although none can report ever having seen Drakov challenged by such a creature, it does seem unlikely.
+
+**Glass Golem:** Fashioned by either priests or wizards of at least 14th level, the glass golem is composed entirely of stained glass. Perhaps the most artistic of all known Ravenloft golems, its creation takes three months and requires an outlay of 100,000 gp. In addition to the materials required, the following spells must be used: *glassteel*, *animate object*, *prismatic spray*, *rainbow*, and *wish*. Because of the mixture of spells, this type of golem is usually built by multi- or dual-classed characters or with the aid of a powerful assistant. While the origins of some types of Ravenloft golems are firmly established, the first appearance of glass golems is not recorded with certainty in any known record. It is believed that they were created by a spell caster who fancied himself an artist (hence their eerie beauty), but the identity of that sorry man cannot be guessed. Some say it was the lord of a small domain (one of the so-called Islands of Terror) who died at the hands of a brave band of adventurers.
+
+**Mechanical Golem:** A nightmare of technology and magic, the mechanical golem is an intricate device that depends on both magic and machinery to operate. It is the only known manner of golem that can be built by any class of character, even those without spell casting abilities, if they meet the requirements listed below. Construction of the body requires a full year of work (with no more than two interruptions, each no longer than 30 days, permitted) and an outlay of 125,000 gp. Almost half of that money (60,000 gp) is spent on the creation of a properly equipped laboratory, and additional golems may be built for only 65,000 gp using this existing equipment. The person building the body must have an Intelligence score of not less than 16 and either experience with fine craftsmanship (trained as a watchmaker) or a Dexterity score of not less than 17. The animation of the golem requires the following spells: *animate object*, *fabricate*, *grease*, *chain lightning*, and either *major creation* or *wish*. The first of these horrors was created at the order of Easan the Mad, Lord of Vechor. A twisted man who has always been fascinated by technological devices, Easan is said to have foreseen the elements of this creature in a study of a falling star. While most doubt that this is anything but more proof of Easan's dementia, few can challenge the obvious conclusion that these evil creatures are a mix of magic and technology that must surely have come from the mind of a lunatic.
+
+---
+
+<!-- page 192 -->
+
+I'm unable to produce content for this page — the Tesseract OCR output is empty and no structured table data was provided, meaning there is no source text to clean, correct, or reformat.
+
+If you can supply the raw OCR text or an image of page 192, I will process it immediately.
+
+---
+
+<!-- page 193 -->
+
+## Thuba's Book of Vile Darkness
+
+**XP Value:** 8,000 &emsp; **GP Value:** —
+*Source: 1993 Collector Card 466*
+
+Thuba acquired this book from an evil priest who came to visit him long ago, with the intention of overthrowing and destroying him. Thuba was not impressed and had the priest taken to the dungeons. Thuba now uses the book in an experimental way by forcing captured foes, who have been particularly interesting opponents, to read it. He likes to see what results from such punishments and he learns more of the book in this way.
+
+## Book of Twelve Seals
+
+**XP Value:** 2,200 &emsp; **GP Value:** 22,000
+*Source: The Savage Frontier*
+
+This thick book, its cover made of red dragon underbelly hide, contains 12 pages of thick, black leather. Each page contains a single rune-inscribed metal disk, like a seal of some kind. Seven of the seals are gold and shiny, five are of dull, charred, and tarnished lead.
+
+The runes on the seals are command words that activate the magic of the seal. When activated, the scroll summons a magical entity that the wielder may command for 3d6 turns. Each of the seven (gold) remaining seals summons a different being (the proper element need not be available for elemental beings).
+
+| Page     | Being                  |
+|----------|------------------------|
+| Page one | 16 HD air elemental    |
+| Page two | 8 HD fire elemental    |
+| Page four | 12 HD earth elemental |
+| Page five | Dragon horse          |
+| Page eight | Gibbering mouther   |
+| Page nine | Fann                 |
+| Page ten | Marid                  |
+
+Activating a seal causes it to become lead in a blinding flash.
+
+## Book of Vile Darkness
+
+**XP Value:** 8,000 &emsp; **GP Value:** 40,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This is a work of ineffable evil—meat and drink to priests of that alignment. To fully consume the contents requires one week of study, but once this has been accomplished, the evil priest gains one point of Wisdom and enough experience points to place the character halfway into the next level of experience.
+
+Priests neither good nor evil who read this book either lose 3d4(× 10,000) experience points or become evil without benefit from the book; there is a 50% chance for either. Good priests perusing the pages of this unspeakable book, the Book of Vile Darkness, must successfully save vs. poison or die; and if they do not die, they must successfully save vs. spell or become permanently insane. In the latter event, even if the save is successful, the priest loses 250,000 experience points, less 10,000 for each point of Wisdom.
+
+Other characters of good alignment suffer 5d6 points of damage from handling the tome, and if they look inside, there is an 80% chance a night hag attacks the character that night. Nonevil neutral characters suffer 5d4 points of damage from handling the book, and reading its pages causes them to succeed on a save vs. poison or become evil, immediately seeking out an evil priest to confirm their new alignment (see the Book of Exalted Deeds for details).
+
+In Ravenloft: Reading this book requires a Ravenloft powers check. When the week-long reading is complete, the evil priest gains just enough XPs to rise two levels—not the paltry half-level increase granted in other realms. The priest still gains one point of Wisdom, and characters of good alignment suffer a curse if a save vs. spell succeeds. In Ravenloft, curses can be excruciatingly deadly.
+
+---
+
+# Boot
+
+Boots are normally hand-made by cobblers. Common boots are made by using a form, but good boots are designed for the foot of an individual. Magical boots, however, enlarge or shrink to fit any humanoid foot, from that of a pixie to a giant. Roll on the following table to find the type of boot found.
+
+| Roll  | Boot Type                       |
+|-------|---------------------------------|
+| 01–08 | Blade Boots*                    |
+| 09–17 | Hollow-compartment Boots*       |
+| 18–25 | Kick-slashers*                  |
+| 26–33 | Riding Boots                    |
+| 34–42 | Sandals                         |
+| 43–50 | Shipwalkers                     |
+| 51–58 | Shoes                           |
+| 59–67 | Slippers                        |
+| 68–75 | Snowshoes                       |
+| 76–83 | Soft Boots                      |
+| 84–92 | Tabi                            |
+| 93–00 | Water Shoes                     |
+
+---
+
+<!-- page 194 -->
+
+## Boots of Attraction
+
+**XP Value:** 1,000 &emsp; **GP Value:** 3,500
+*Source: The Book of Marvelous Magic*
+
+These boots appear and function as boots of tracks but have a 50% chance of attracting 1d4 monsters of the type imitated. This chance is checked once for each hour or part of an hour that the boots are used to create deceptive tracks.
+
+## Boots of Balance
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: The Complete Thief's Handbook*
+
+The wearer of these soft, low-heeled supple leather boots is endowed with a magically enhanced sense of balance. This has the following important effects:
+
+- A thief wearing the boots gains a +10% bonus to all move silently and climb walls die rolls.
+- The Dexterity of any character wearing the boots is increased by one point for all purposes where the hands are not involved. Thus, a thief cannot claim a bonus to skills such as open locks, but a bonus to Armor Class may apply, and likewise a bonus applies to Dexterity checks in certain situations (to avoid a fall).
+- The wearer gains the tightrope walking proficiency; if this is already possessed, a +4 bonus modifier applies to all proficiency check die rolls when wearing the boots.
+
+A wearer of boots of balance cannot claim a further bonus for moving silently from mundane aids (such as the use of leather strapping to cross creaky floorboards). Too, the bonuses gained from boots of balance cannot be added to the bonus gained if the wearer also uses gauntlets of dexterity.
+
+## Boots of Carrying
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+These boots enable the wearer to carry an additional 50 pounds of weight without encumbrance. Thus, the wearer may carry up to 90 pounds at 120 feet per round, 91 to 130 pounds at 90 feet per round, and so on.
+
+## Boots of Cleanliness
+
+**XP Value:** 50 &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #73*
+
+These leather, calf-high dress boots can be brought to a brilliant shine by a single swipe of a cloth. Events violent enough to break through the leather destroys the shine permanently.
+
+## Boots of Cloudwalking
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: The Book of Marvelous Magic*
+
+This footwear allows the user to run at the rate of 300 feet per turn. If a storm or other dense cloud cover is available, the wearer may walk on the top of the clouds and may run across them at 480 feet per turn for up to three hours.
+
+## Boots of Comfort
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #30*
+
+Boots of comfort fit the feet of any humanoid of any size. They feel like house slippers (which they are) but are as durable as hard leather.
+
+## Boots of Concealing
+
+**XP Value:** 2,000 &emsp; **GP Value:** 15,000
+*Source: POLYHEDRON Newszine #43*
+
+These knee-high boots are capable of completely concealing up to five objects in each boot, each object being no more than 3 inches wide and 12 inches long. For example, each boot could conceal a dagger, a pouched set of thieves' tools, a scroll, a vial, and a short wand, and no one who searches the individual wearing the boots could feel, see, or otherwise distinguish the hidden objects as long as the boots are being worn. In 30% of the cases, the boots have heels with hidden compartments capable of concealing a few coins or gems or a small bit of jewelry, with the same concealment abilities.
+
+---
+
+<!-- page 195 -->
+
+## Cyria's Winged Boots
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: 1992 Fantasy Collector Card 192*
+
+Cyria's version of winged boots has the best possible combination of flying abilities—a flying speed of 24 and a maneuverability class of A. In addition, the boots require only four hours of uninterrupted rest to recharge for one hour's worth of flight. However, there is a 5% chance these boots immediately assume self control and whisk Cyria off to the nearest griffon's lair (distance is no factor) each time she uses them. The boots cannot be removed during this time, and then cease to function for one week afterwards.
+
+## Boots of Dancing
+
+**XP Value:** — &emsp; **GP Value:** 5,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+These magical boots expand or contract to fit any foot size, from halfling to giant. They radiate slight magic if detection is used. They are indistinguishable from any other magical boots, and, until actual melee combat is begun, they function like one of the other types of useful boots listed here—DM's choice.
+
+When the wearer is in melee combat, the boots of dancing impede movement, begin to tap and shuffle, heel and toe, or "shuffle off to Buffalo," making the wearer behave like a recipient of Otto's irresistible dance spell (−4 penalty to Armor Class rating, saving throws at −6, and no attacks possible). Only a remove curse spell enables the boots to be removed once their true nature is revealed.
+
+Boots of dancing have no effect upon a jester (a bard kit).
+
+## Deceptor's Boots
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Twilight Calling*
+
+Deceptor's boots allow the wearer to turn ethereal (as the potion) twice a day; grant the powers of invisibility (as the ring), and climbing (as the potion), each usable three times daily.
+
+## Boots Elven
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DUNGEONS & DRAGONS Basic Rules Set*
+
+The wearer of these boots moves with nearly complete silence (roll 1d10; only heard on a 1).
+
+*In Kara-Tur:* Elven boots are not commonly available in Oriental lands. Reroll this result.
+
+## Boots Elven (Variant)
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Elves of Alfheim*
+
+The upper portions of these boots are made of finely crafted leather, but the soles are made of the specially-treated bark of the tree of life. For a normal person or elf, it takes a roll of 1 on 1d10 for the wearer to be heard; for anyone successfully using the hide skill, it takes a roll of 1 on 1d20.
+
+*In Kara-Tur:* Elven boots are not commonly available in Oriental lands. Reroll this result.
+
+## Boots of Elvenkind
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+These soft boots enable the wearer to move without sound of footfall in virtually any surroundings. Thus the wearer can walk across a patch of dry leaves or over a creaky wooden floor and make only a whisper of noise—95% chance of silence in the worst of conditions, 100% in the best.
+
+*In Kara-Tur:* Boots of elvenkind are not commonly available in Oriental lands. Reroll this result.
+
+---
+
+<!-- page 196 -->
+
+## Boots of Feather Falling
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: Mordenkainen's Fantastic Adventure*
+
+Treat these boots as an unlimited duration *featherfall* spell.
+
+## Boots Featherweight
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: The Book of Marvelous Magic*
+
+These boots have no effect until the wearer steps on a trap or other device triggered by weight. At that time, the boots instantly reduce the wearer's weight to nearly zero, negating the device. The wearer is not aware of any change in weight unless the area is windy; if so, the wearer is blown about, light as a feather, for one round.
+
+## Boots of Gentle Thievery
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+*Source: POLYHEDRON Newszine 56*
+
+These boots allow the wearer to engage in fancy footwork, so as to appear to be dancing. This adds −2 to Armor Class. Alternately, the wearer may do a flip over the head of a small- or medium-sized opponent while engaged in melee. This function adds −4 to AC and is performed in lieu of any attack for that round.
+
+## Boots of Gentle Thievery II
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+*Source: IMAGINE Magazine 19*
+
+These boots are like standard boots of elvenkind in effect, but the wearer is under a geas not to use violence in the course of stealing, nor allow accomplices to do so. Hence, to obey the geas, if the wearer is attacked in the middle of a robbery, the thief must either flee, abandon the stolen goods (which cannot be recovered later), or spend the first few rounds getting out of the boots. Such an item might be the perfect gift for a wizard to give to a thief of dubious morality.
+
+The boots are created by casting *enchant an item* on a pair of finely-worked leather boots, preferably of elven manufacture, followed by the casting of *silence 15' radius* by a priest, *permanency* and *geas*. With the enchantment complete, the silence applies only to the footsteps of the wearer of the boots.
+
+## Boots of Jogging
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+*Source: DRAGON Magazine 72*
+
+This special footgear allows a jock to jog at a steady pace for six hours without needing to rest. These boots are also referred to as "sneakers," probably because they allow jocks to add +1 to all surprise rolls.
+
+## Boots of Levitation
+
+**XP Value:** 2,000 &emsp; **GP Value:** 15,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+Like other magical boots, these soft boots expand or contract to fit any feet from giant to halfling in size. Boots of levitation enable the wearer to ascend or descend vertically, at will. The speed of ascent or descent is 20 feet per round, with no limitation on duration. The amount of weight the boots can levitate is randomly determined in 14-pound increments by rolling 1d20 and adding the result to a base of 280 pounds (a given pair of boots can levitate from 294 to 560 pounds of weight). Thus, an ogre could wear such boots, but its weight would be too great to levitate. (See the 2nd-level wizard spell, *levitation*.)
+
+## Loki's Boots
+
+**XP Value:** 6,000 &emsp; **GP Value:** 47,500
+*Source: Gods, Demigods, & Heroes*
+
+These boots combine the powers of water walking, flying, traveling, and speed.
+
+## Midnight Slasher's Boots
+
+**XP Value:** 2,000 &emsp; **GP Value:** 14,000
+*Source: RAVENLOFT MC Appendix II: Children of the Night*
+
+The Slasher wears a pair of drowish boots of elvenkind that enable him to move silently with a 95% chance of success. His boots, along with his cloak, work only in darkness — they give the Slasher triple normal chances for surprise.
+
+## Moccasins of Free Movement
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: Maztica Campaign Set*
+
+These beaded leather shoes are marvelous talismans that convey multiple effects — they function as boots of elvenkind and allow their wearer to move silently; they also permit a full movement rate, whatever the footing, as long as the character is walking. Thus, he or she can cross swamps, wade through shallow water (but not swim), even cross a pool of sticky tar, as if walking on smooth, level ground.
+
+---
+
+<!-- page 197 -->
+
+## Boots of the North
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This footgear bestows many powers upon the wearer. First, the character is able to travel across snow at normal rate of movement, leaving no tracks. The boots also enable the wearer to travel at half normal movement rate across the most slippery ice (horizontal surfaces only, not vertical or sharply slanted ones) without falling or slipping. Boots of the North warm the wearer, so that even in a temperature as low as -50° F is comfortable with only scant clothing—a loin cloth and cloak, for instance. If the wearer of the boots is fully dressed in cold-weather clothing, temperatures as low as -100° F have no effect.
+
+In a DRAGONLANCE Campaign: On Ansalon, of course, boots of the north are called boots of the south.
+
+## Boots of Pinching
+
+**XP Value:** — &emsp; **GP Value:** 1,800
+*Source: The Book of Marvelous Magic*
+
+These boots appear to be and function as boots of tracks but they cannot be removed until a *remove curse* is applied. They pinch the wearer's feet when the tracking function is used, slowing the wearer's movement rate by 1 MV point, cumulative with each turn or part of a turn of use. Any victim reduced to zero movement must be carried or magically transported about and cannot walk; the effect disappears when the boots are removed.
+
+## Runjoye's Winged Boots
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+*Source: 1992 Fantasy Collector Card 147*
+
+Runjoye's boots are of better quality than most other winged boots. They possess a flying speed of 21 and maneuverability is class A. They are usable for up to four hours per day, rather than the usual two (for every 12 hours of uninterrupted nonuse, the boots regain two hours of flying time). Like other owners of winged boots, Runjoye doesn't need to maintain concentration in order to fly, so he can cast spells while airborne. Unlike other winged boots, Runjoye's quit working quite suddenly when their magic expires. Fortunately, he wears a ring of feather falling for just such an emergency.
+
+## Shalandain's Boots of Starstriding
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: 1992 Fantasy Collector Card 133*
+
+Shalandain won these magical boots from a scro during a card game. The boots allow Shalandain to tread upon the gravity plane of any ship without drifting away. Movement is cut in half, but jumping down to the gravity plane does not result in oscillation. Shalandain can jump from the gravity plane to the gravity plane or even the deck of another ship as if she had the jumping proficiency.
+
+## Boots of Speed
+
+**XP Value:** 2,500 &emsp; **GP Value:** 20,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+These boots enable the wearer to run at the speed of a light horse—24 base movement. For every 10 pounds of weight over 200 pounds, the wearer is slowed by 1 MV, so a 180-lb human with 60 pounds of gear would move at 20 base MV.
+
+For every hour of continuous fast movement, the wearer must rest an hour. No more than eight hours of continuous fast movement are possible before the wearer must rest. Boots of speed give a +2 bonus to Armor Class in combat situations in which movement of this sort is possible.
+
+## Spider's Boots of Stealth
+
+**XP Value:** 3,500 &emsp; **GP Value:** 25,000
+*Source: POLYHEDRON Newszine 90*
+
+"Spider" was the nickname of the premier thief of the city of Rel Astra. No one knew his real name, origin, or anything else about him, which was precisely the way the thief wanted it. Spider was a loner, a half-elf who never formed a close relationship with anyone in the Rel Astran Thieves' Guild.
+
+There could be no doubt that he was the finest and most successful burglar in living memory, and his loyalty to the guild was never in question. Still, those in the guild considered him a malevolent menace. He was openly, undeniably evil. That fact and his appearance and dress, led to rumors that he worshiped Lolth, the spider queen.
+
+Spider was obsessed with his alias and nickname, and very flamboyant when on a caper. His face was tattooed in a web-pattern, and much of his clothing was embroidered with similar motifs. His boots and cloak were known to be enchanted, and speculation was rife whether he had found
+
+---
+
+<!-- page 198 -->
+
+the items in his travels and they had subsequently shaped his personality and tastes. Regardless, it was known he had at least three additional pairs of the enchanted boots made so that one pair would always be clean.
+
+Spider's boots of stealth are black, calf-length suede boots with a crisscrossing pattern of silver webs. They act as slippers of spider climbing. However, when worn by a thief, their other powers activate. The boots increase a thief's abilities to move silently and hide in shadows by 15%. In addition, a thief can move along natural webs at a rate of 6 and cannot be stuck in any kind of natural or magical web.
+
+## Boots of Star Striding
+
+**XP Value:** 3,000 &emsp; **GP Value:** 20,000
+*Source: DRAGON Magazine #159*
+
+These boots are similar to all magical boots, shrinking or expanding to fit any S-M size creature. However, their usefulness is limited to space adventurers. The boots allow a wearer to walk along a gravity plane without drifting away from the ship. The boots allow movement across any gravity plane, though movement is half normal due to the lack of a solid surface.
+
+A character falling or jumping from a ship toward a gravity plane comes to rest on the plane with no oscillation through the plane. Any character falling prone on the plane remains there; when the character orients so as to tell which end is up and changes position, the boots interact with the gravity plane and the wearer "bobs" up to the surface of the gravity plane until he or she stands on it.
+
+The boots allow for running and jumping to other gravity planes at the wearer's regular movement rate. Due to the flexibility of the gravity planes, the boots give the wearer a Jumping proficiency when used to leap onto other gravity planes. The wearer can also use the jumping proficiency when jumping from the gravity plane to the ship with no damage or penalties.
+
+## Boots of Stomping
+
+**XP Value:** 900 &emsp; **GP Value:** 1,800
+*Source: The Book of Marvelous Magic*
+
+These boots appear and function as boots of speed but only affect movement rates, not Armor Class, number of attacks, or anything else. When they are used to move quickly, they make the footsteps of the wearer sound like the thuds of an elephant that can be easily heard up to 120 feet away.
+
+## Boots of Striding and Springing
+
+**XP Value:** 2,500 &emsp; **GP Value:** 20,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+The wearer of these magical boots has a base movement rate of 12, regardless of size or weight. That speed can be maintained tirelessly for up to 12 hours per day, but thereafter the boots cease to function for 12 hours—they need that long to recharge.
+
+In addition to the striding ability, these boots allow the wearer to make great leaps. While normal paces for an individual wearing this type of footgear are 3 feet long, the boots also enable forward jumps of up to 30 feet, backward leaps of 9 feet, and vertical springs of 15 feet.
+
+If circumstances permit the use of such movement in combat, the wearer can effectively strike and spring away whenever he or she has the initiative during a melee round. However, such activity involves a degree of danger—there is a base 20% chance that the wearer of the boots stumbles and is stunned on the following round. Adjust the 20% chance downward by 3% for each point of Dexterity the wearer has above 12 (17% at 13 Dexterity, 14% at 14, 11% at 15, 8% at 16,
+
+---
+
+<!-- page 199 -->
+
+5% at 17, and only 2% at 18 Dexterity). In any event, the boots better Armor Class by 1 due to the quickness of movement they allow, so Armor Class 2 becomes 1, Armor Class 1 becomes 0, and so on.
+
+## Boots of Tracks
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: The Book of Marvelous Magic*
+
+This useful pair of boots allows the wearer, on command, to leave tracks like those of any creature (dragon, giant, ogre, or anything else) while walking. The boots function as often and for as long as desired.
+
+## Boots of Traveling and Leaping
+
+**XP Value:** 2,500 &emsp; **GP Value:** 20,000
+*Source: DUNGEONS & DRAGONS Expert Rules Set*
+
+The wearer needs no rest during normal movement, and may also jump, up to a maximum height of 10 feet and a maximum length of 30 feet.
+
+## Boots of Varied Tracks
+
+| Type   | XP Value | GP Value |
+|--------|----------|----------|
+| Type A | 1,500    | 7,500    |
+| Type B | 1,500    | 7,500    |
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+The wearer of these ordinary looking boots is able, on command, to alter the tracks he or she leaves. The footprints of the wearer can be made as small as those of a halfling or as large as those of an ogre, bare or shod as desired. In addition, each pair of these boots has four additional track-making capabilities. Roll 1d6 four times to determine the subtable used, followed by 1d8 four times:
+
+| Roll | Tracks             |
+|------|--------------------|
+| 1–3  | Subtable A         |
+| 1    | Basilisk           |
+| 2    | Bear               |
+| 3    | Boar               |
+| 4    | Bull               |
+| 5    | Camel              |
+| 6    | Dog                |
+| 7    | Hill Giant         |
+| 8    | Goat               |
+| 4–6  | Subtable B         |
+| 1    | Horse              |
+| 2    | Lion (or giant lynx) |
+| 3    | Mule               |
+| 4    | Rabbit             |
+| 5    | Stag               |
+| 6    | Tiger (or leopard) |
+| 7    | Wolf               |
+| 8    | Wyvern             |
+
+## Boots of Winged Flying
+
+| Type          | XP Value | GP Value |
+|---------------|----------|----------|
+| Fl 15, MC A   | 2,000    | 20,000   |
+| Fl 18, MC B   | 2,000    | 20,000   |
+| Fl 21, MC C   | 2,000    | 20,000   |
+| Fl 24, MC D   | 2,000    | 20,000   |
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+These boots appear to be ordinary footgear. If magic is detected, they radiate only a faint aura of enchantment and alteration. When they are on the owner's feet and he or she concentrates on the desire to fly, the boots sprout wings at the heel and empower the wearer to fly, without having to maintain the concentration.
+
+The wearer can use the boots for up to two hours per day, all at once or in several shorter flights. If the wearer tries to use them for a longer duration, the power of the boots fades rapidly, but it doesn't abruptly disappear — the wearer slowly descends to the ground.
+
+For every 12 hours of uninterrupted nonuse, the boots regain one hour of flying power. However, no amount of nonuse allows the boots to be used for more than two hours at a time. Some winged boots are better than others. To determine the quality of a given pair, roll 1d4 and consult the table below:
+
+| Roll | Flying Speed | Maneuverability Class |
+|------|--------------|-----------------------|
+| 1    | 15           | A                     |
+| 2    | 18           | B                     |
+| 3    | 21           | C                     |
+| 4    | 24           | D                     |
+
+## Bottle
+
+A magical bottle is a plain glass container, usually with a cork stopper. It always appears empty until opened. Bottles may be of any size and color; most are fragile.
+
+## Bottle of Boos
+
+**XP Value:** 600 &emsp; **GP Value:** 1,800
+*Source: POLYHEDRON Newszine 23*
+
+When opened, this item emits a chorus of loud snarls, hisses, and booing sounds for one round, and then ceases. All within 60 feet must make a
+
+---
+
+<!-- page 200 -->
+
+## Bottle, Brazen
+
+**XP Value:** 9,000 &emsp; **GP Value:** 45,000
+*Source: STRATEGIC REVIEW Magazine 7*
+
+This item has the appearance of a highly-burnished, brazen flask, shaped like a Klein bottle. The flask is corked and the cork has a red seal impressed bearing mystical runes. When uncorked, the symbols on the seal may be used to compel 1d6 djinni or 1d2 efreet into the bottle, which is then corked. When one creature is being compelled, the compulsion is at +4 effectiveness, for two creatures the effectiveness drops to +1, and more than two creatures have normal saving throws.
+
+The bottle may also be used to attempt to jug one of the following—a balor (+3), invisible stalker (+2), an air elemental (-1), a fire elemental (-2), or a minor fiend (+1). If forcibly compelled into the bottle, any of the above creatures (including the djinni and efreet) are in very foul moods when next uncorked (attacking with haste and ferocity). When found in a dungeon, or elsewhere, a bottle may already be occupied at the DM's discretion. If a considerable time has elapsed since the being was compelled into the jug (say 1,500 years or so), the being may be so glad for its newfound freedom that it willingly serves the person who freed it for 1,001 days. In some cases (a balor for instance), the liberated creature may attempt to destroy everything in the immediate vicinity.
+
+---
+
+*[Note: This page begins mid-entry. The preceding text, belonging to Bottle of Fireflies, reads:]*
+
+Morale check (if applicable). Those not affected by Morale suffer a -2 penalty to attack and damage rolls for 6 turns (no saving throw). After three openings, the bottle disappears.
+
+---
+
+## Bottle of Containment
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: The Book of Marvelous Magic*
+
+This small bottle can hold up to 20 units of any fluid. A magic potion counts as one unit, as does one gallon of any nonmagical fluid. The bottle keeps all of its contents separate, and each may be recalled by name. However, any fluid stored must be poured from the bottle to be used. The bottle appears empty. If broken, all its liquid contents disappear.
+
+## Bottle, Efreeti
+
+**XP Value:** 9,000 &emsp; **GP Value:** 45,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This bottle is typically fashioned of brass or bronze, with a lead stopper bearing special seals. A thin stream of smoke is often seen issuing from it. There is a 10% chance that the efreeti is insane and attacks immediately upon being released. There is also a 10% chance that the efreeti of the bottle grants only three wishes. The other 80% of the time, however, the inhabitant of the bottle will serve normally (see the MONSTROUS MANUAL accessory). When opened, the efreeti issues from the bottle.
+
+In a DRAGONLANCE Campaign: Efreeti bottles do not exist on Ansalon.
+
+## Bottle of Evaporation
+
+**XP Value:** 500 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This bottle is identical to a bottle of containment and usually functions in the same manner. However, its entire contents may disappear without warning. There is a 5% chance of disappearance any time the user attempts to remove a liquid from the bottle.
+
+## Bottle, Eversmoking
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This metal urn is identical to an efreeti bottle except that it does nothing but smoke. The amount of smoke is very great if the stopper is pulled out, pouring from the bottle and totally obscuring vision in a 50,000 cubic foot area, in one round. Left unstoppered, the bottle fills another 10,000 cubic feet of space with smoke each round until 120,000 cubic feet of space is fogged. The area remains smoked until the bottle is stoppered. When the bottle is stoppered, smoke dissipates normally. The bottle can be resealed only if the command word is known.
+
+In a DRAGONLANCE Campaign: Eversmoking bottles do not exist on Ansalon.
+
+## Bottle of Fireflies
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: The Book of Marvelous Magic*
+
+This bottle appears and functions as a bottle of containment. However, when a skin of wine is poured into it, the bottle glows with many tiny lights and the wine is immediately consumed. The lights can be commanded to glow with any brightness desired and can light an area as small as 1 foot across or up to 120 feet in diameter. The bottle cannot be totally darkened, except magically. The firefly light lasts one hour per skin of wine, as often as desired.
+
+---
+
+<!-- page 201 -->
+
+## Bottle of Graffiti
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #156*
+
+This ornate brass bottle has a lead stopper covered with special seals and sigils that are better left untranslated. If the stopper is removed, four air elementals armed with spray cans pop out and paint rude slogans and obscenities all over everything (and everyone) in the area. They cannot be ordered back into the bottle or restrained in any way except by a censer controlling air elementals (see Censer).
+
+## Bottle of Pleasant Odors
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine #30*
+
+The bottle of pleasant odors was developed to rid kitchens of undesirable odors (even burnt food and rotten eggs). Uncorking this bottle causes any room up to 30 square feet to smell of roses, lemon, or pine.
+
+## Bottle of Preservation
+
+**XP Value:** 200 &emsp; **GP Value:** 2,000
+*Source: DRAGON Magazine #194*
+
+While they look like normal glass bottles from the outside, these common, magical devices are invaluable to wizards who use them for storing odds and ends. The bottles come in a variety of sizes and shapes, but all share one property; their interior walls project a spell designed to preserve indefinitely the freshness of anything placed within them, including spell components or ingredients for the manufacture of potions and other magical items. A more mundane use for a large bottle of preservation would be the storage of perishable food items, but the use of even a common magical item to preserve inexpensive food seems a bit wasteful.
+
+## Bottle of Refreshment
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: POLYHEDRON Newszine #43*
+
+This thick, transparent greenish bottle has strange, undecipherable runes on it in no known language. It contains a brownish fluid that fizzes when the cork is pulled out. This stimulating beverage negates exhaustion, alleviates thirst, and increases Strength by 1 for 1d4+20 turns. The bottle refills itself overnight if the cork is returned immediately to the empty bottle.
+
+## Bottle of Safety
+
+**XP Value:** 1,600 &emsp; **GP Value:** 8,000
+*Source: Port of Raven's Bluff*
+
+These bottles are enchanted with a *glassee* spell to make them virtually indestructible. (See the spell description for more information.)
+
+## Bottle of Temperature
+
+**XP Value:** 1,000 &emsp; **GP Value:** 3,000
+*Source: DRAGON Magazine #73*
+
+A dark green glass bottle, about the size of a half-gallon milk carton, with a screw top. Any liquid placed in the bottle can maintain its current temperature indefinitely while inside. The bottle is light and fairly fragile.
+
+## Bottle of Thought
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Tome of Magic*
+
+This item usually takes the form of a metal flask similar in appearance to an efreeti bottle. Bottle and stopper are usually engraved with intricate runes. The bottle can be used to store and protect important memories and thoughts, and is often used by powerful characters as a way of managing their (potentially cluttered) memories.
+
+To use the bottle, a character concentrates on the thought or memory to be stored. He or she then uncorks the bottle and speaks the word of command. The thought or memory is then transferred from the character's brain into the bottle. All details of the thought or memory are held within the bottle. The caster remembers the general nature of the thought ("Oh, that was my thought on the design of an efreeti-powered steam engine!"), but need not worry about forgetting specific details, since these are trapped in the thought bottle.
+
+To retrieve a thought, a character uncorks the bottle and speaks another word of command. The thought or memory is then transferred directly into the user's brain.
+
+Thought bottles are sometimes used to protect vital information. A messenger carrying vital plans through enemy territory where there is a significant chance of capture and subsequent interrogation might carry all sensitive plans in one or more bottles. The messenger does not know the contents or the command word and therefore cannot reveal the contents of the bottles. Likewise, a spy could gain secret information, transfer it to a thought bottle, then use *forget* or
+
+---
+
+<!-- page 202 -->
+
+(This page is a continuation of the **Bottle of Thought** entry, followed by **Thuba's Efreeti Bottle** and the beginning of **Bottle of Trapping**.)
+
+---
+
+modify memory to wipe the information from his or her mind. After this, the spy is incapable of revealing the sensitive information.
+
+Thought bottles are sometimes used as "Memory archives," where characters can save memories that are "cluttering up" their minds. (This would be more of a problem for long-lived races such as elves, since the sheer volume of memories recorded over several centuries could be overwhelming.)
+
+Thought bottles function (both storage and retrieval operations) for any intelligent creature. When discovered, 75% of all thought bottles are capable of holding only a single thought or memory. The remaining 25% have a capacity of 2d4 separate thoughts or memories. There is a separate word of command for each "thought slot."
+
+In Ravenloft: It is possible for a self-willed undead to place a thought in a bottle that reflects the monster's inner essence. Any mortal who opens the bottle and speaks the command word suddenly experiences the depths of evil of the undead monster's mind. This is cause for a madness check. Vampires and liches occasionally use this magical item as a trap for unwary hunters. Since they rarely lose any thoughts, these creatures have no other use for the bottle.
+
+---
+
+## Thuba's Efreeti Bottle
+
+**XP Value:** 12,000 &emsp; **GP Value:** 60,000
+*Source: 1993 Collector Card 465*
+
+Thuba's magical bottle contains not one but two efreeti inside of it, a mated pair. Thuba is a particularly cruel and punishing master, and the efreeti pair loathe him. However, he is wise and thorough and has never slipped when issuing his commands. The efreeti wait and plot for the day they may gain their revenge upon Thuba. He, however, knows very well their hatred for him and has several surprises for them, should they ever try to disobey.
+
+---
+
+## Bottle of Trapping
+
+**XP Value:** 3,500 &emsp; **GP Value:** 17,500
+*Source: DRAGON Magazine #194*
+
+These magical bottles look absolutely normal when empty, except for their large, flaring mouths, and the elaborate, hinged stoppers that close them. The bottle's magic is activated when it is pointed at an object or person of less than 120 cubic feet in volume (which includes most humanoids 12 feet or less in height) and the lid is opened. When this happens, a beam of multicolor light lances out from the bottle's mouth to strike the target. If the target fails a saving throw vs. spell, it shrinks to a size that lets it fit within the bottle. (As if affected by a *reduce* spell cast by a 12th-level wizard; a 12-foot-tall creature would shrink to 3 inches.) Then the target is sucked toward the bottle's mouth.
+
+At that point most inanimate objects are irresistibly sucked into the bottle, but living creatures can attempt to grab the lip of the mouth and hold on against the force of suction. To cling to the edge of the mouth, they must succeed at a Strength check on 1d20 each round that they wait for rescue. The bottle can only hold one shrunken object at a time, so if the target does end up in the bottle, it is entirely empty. While the bottle's walls are as fragile as normal glass from the outside, they are stronger than steel from the inside, foiling most attempts to escape.
+
+There are two ways to exit the bottle. At the command of the holder, the bottle can expel its contents the same way that it trapped them, shooting them outward and subjecting them to an *enlarge* spell so that they return to normal size within seconds of escape. Someone may escape a bottle of trapping when the bottle is destroyed, an easy task from the
+
+---
+
+<!-- page 203 -->
+
+(continuing from previous page — this is a continuation of the Bottle of Trapping entry, then Bottle of Undead, then Bow entries)
+
+outside. Unfortunately, destroying the bottle also prevents it from enlarging its contents, so that anyone escaping from a shattered bottle of trapping still stands just a few inches tall until a *dispel magic* or *enlarge* spell is cast.
+
+## Bottle of Undead
+
+| Undead          | XP Value | GP Value |
+|-----------------|----------|----------|
+| Ghost:          | 1,200    | 6,000    |
+| Groaning Spirit:| 1,200    | 6,000    |
+| Spectres:       | 1,200    | 6,000    |
+| Vampires:       | 1,200    | 6,000    |
+| Wraiths:        | 1,200    | 6,000    |
+
+*Source: DRAGON Magazine #54*
+
+This object is indistinguishable from an efreet bottle, but when activated, it produces one or more undead creatures. Roll percentile dice for each use of the undead bottle to find the type and number of undead. The monsters produced will immediately attack the opener of the bottle, then anyone else that is around at random.
+
+| Roll  | Result         | Number |
+|-------|----------------|--------|
+| 01–20 | Ghost          | 1      |
+| 21–35 | Groaning Spirit| 1      |
+| 36–55 | Spectres       | 1–3    |
+| 56–70 | Vampires       | 1–2    |
+| 71–00 | Wraiths        | 1–6    |
+
+## Bow
+
+After finding the magical properties of the bow or crossbow the character has discovered, roll on the following table to determine the type of bow.
+
+| Roll  | Bow Type                    |
+|-------|-----------------------------|
+| 01–05 | Chu-ko-nu                   |
+| 06–09 | Composite Long Bow          |
+| 10–14 | Composite Recurve           |
+| 15–18 | Composite Short Bow         |
+| 19–23 | Crossbow, Heavy double-shot |
+| 24–27 | Crossbow, Light double-shot |
+| 28–32 | Daikyu                      |
+| 33–36 | Disk Crossbow               |
+| 37–41 | Double Crossbow             |
+| 42–45 | Elven Bow                   |
+| 46–50 | Folding Bow*                |
+| 51–55 | Hand Crossbow               |
+| 56–59 | Hankyu or Little Bow        |
+| 60–64 | Heavy Crossbow              |
+| 65–68 | Kenyan long bow             |
+| 69–73 | Light crossbow              |
+| 74–77 | Long Bow                    |
+| 78–82 | Medium Crossbow             |
+| 83–86 | Pellet Bow                  |
+| 87–91 | Short Bow                   |
+| 92–95 | Siege crossbow              |
+| 96–00 | Staff-bow                   |
+
+## Bow, Aasimon
+
+**XP Value:** 7,000 &emsp; **GP Value:** 70,000
+
+*Source: Outer Planes MC Appendix*
+
+Solars use an enormous composite bow with a magical quiver that produces any arrow of slaying the solar desires. Each attack has a +2 attack adjustment and slays any target it hits.
+
+## Bow of Accuracy
+
+**XP Value:** 2,500 &emsp; **GP Value:** 15,000
+
+*Source: DRAGON Magazine #127*
+
+The bow of accuracy is simple, but effective. The bow gives a +3 bonus on attack and damage rolls, and normal ranges are figured at short range.
+
+## Bow, Ajagava
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: Gods, Demigods, & Heroes*
+
+This bow shoots a curse spell (reverse of bless), with saving throw applicable, for a distance of 200 yards. There is no limit to the number of curses it can create.
+
+## Bow of Anshan
+
+**XP Value:** 1,750 &emsp; **GP Value:** 12,250
+
+*Source: DRAGON Magazine #16*
+
+This bow gives all arrows shot from it a +3 hit probability.
+
+## Bow, Black
+
+**XP Value:** 2,500 &emsp; **GP Value:** 15,000
+
+*Source: Black Courser*
+
+Whenever a character draws this bow, the target is automatically hit — provided the target is visible and within a range of one mile. The shot inflicts maximum damage according to the type of arrow fired, so this weapon is truly devastating if the black quiver (see Quiver) is also found. Unfortunately, every time the bow is drawn, it permanently drains one point of Constitution (the PC doesn't realize this until after the first shot has been fired).
+
+---
+
+<!-- page 204 -->
+
+## Bow of Brihaspati's
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+*Source: Legends & Lore*
+
+Brihaspati's avatar carries a bow that fires arrows of brilliant light that render his targets blind for 1d10 days (save vs. paralyzation to negate).
+
+## Bow of the Centaurs
+
+**XP Value:** 2,000 &emsp; **GP Value:** 15,000
+*Source: Rary the Traitor*
+
+The desert centaurs use several varieties of magical bows (typically +1 to +3). In addition to these, the most powerful and valued is a gleaming, white composite bow simply called the bow of the centaurs. Despite its name, it can be used by any race. The bow enables the archer to shoot twice the normal number of arrows and doubles the effective range. The first arrow loosed from this bow in a round strikes at +3 to attack and damage, the second at +2, the third at +1. Subsequent shots in a round have no modifiers.
+
+## Corellon's Long Bow
+
+**XP Value:** 3,000 &emsp; **GP Value:** 20,000
+*Source: Monster Mythology*
+
+Corellon's avatar uses a long bow +5 that never misses to a range of one mile (if the target is within line-of-sight), and any arrow fired from it causes 2d10 damage.
+
+## Crossbow of Accuracy
+
+**XP Value:** 2,500 &emsp; **GP Value:** 15,000
+*Source: DUNGEON MASTER Guide*
+
+This gives a +3 bonus to attack rolls with its missiles but not to damage. All ranges are considered short. About 10% of these weapons are heavy crossbows.
+
+## Crossbow of Angling
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: The Complete Thief's Handbook*
+
+This appears to be a normal light crossbow, although it has a thick wrist strap attached that is of an unusual design and toughness. On command, it can fire bolts with special properties up to three times per day. The magical bolt fired counts as a bolt +2 for determination of attack rolls (and damage if appropriate). When fired, this special bolt is trailed by a pencil-thin, snaking line of faint blue light (which radiates magic fairly strongly) that connects it to the crossbow. When the bolt impacts, the head expands into a small claw that embeds itself in the target, such that the bolt grips it strongly. By the use of a second command word, the crossbow user can "reel in" the target, the thin "cord" of magical energy shrinking to drag the target to the archer.
+
+The speed at which the target is retrieved depends on weight, friction, and distance—the maximum speed is 60 feet per round. The DM may need to exercise some judgement in these cases. If the target is heavier than the archer or is immovable or braced in some way, then the crossbow archer may actually be dragged to the target rather than the reverse. This can be exploited, of course, to pull a thief up to a ceiling or up a wall. The magical cord is AC -2 and takes 15 points of damage (nonmagical weapons do no damage) to destroy.
+
+## Crossbow of Distance
+
+**XP Value/GP Value:**
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1    | 1,500    | 10,000   |
+| +2    | 2,000    | 12,000   |
+
+*Source: GREYHAWK*
+
+A magical weapon which has double the range of a normal light crossbow, thus short range is 120 feet.
+
+## Crossbow of Enchantment
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: DRAGON Magazine #127*
+
+This weapon casts a spell on any nonmagical bolt placed in it, enabling it to strike any creature that can only be hit by magical weapons. Note that there are no bonuses for attack or damage; this crossbow merely enables one to have a chance against unnatural monsters with nonmagical bolts. No additional benefits are bestowed upon a magical bolt.
+
+## Crossbow of Klee
+
+**XP Value:** 500 &emsp; **GP Value:** 3,500
+*Source: DRAGON QUEST Game*
+
+This fine crossbow was made from bones of many magical creatures. When used in combat, it grants its holder a +1 bonus to attack and damage rolls. Any bolt fired from the crossbow leaves a trail of sparks behind it, as if it were a shooting star.
+
+## Crossbow of Multiplication
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine #40*
+
+The crossbow may be either light or heavy, using the range of fire of the proper class. How-
+
+---
+
+<!-- page 205 -->
+
+## Crossbow of Speed
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: GREYHAWK*
+
+When employing this weapon, the user can fire a missile from the crossbow despite surprise. It otherwise allows +3 on initiative dice. It fires as quickly as a bow, for it cocks itself.
+
+## Crossbow of Speed II
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This item allows its possessor to double the rate of fire normal for the weapon. If it is grasped, the crossbow of speed automatically cocks itself. However, in surprise situations, it does not grant initiative. Otherwise, it allows first fire in any melee round, and end-of-round fire also, when applicable. About 10% of these weapons are heavy crossbows. The weapon has a +1 bonus to attack and damage rolls.
+
+## Bow, Cursed
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: Oriental Adventures*
+
+Cursed bows have a penalty to attack rolls. Furthermore, on an attack roll of 1, the missile fired actually returns full force on the person who fired it, striking him or her for normal damage. Once picked up and used, the owner uses this weapon in preference to all others, never voluntarily discarding or ignoring it. *Remove curse* frees the character from the weapon.
+
+## Bow of Distance
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,000
+*Source: DRAGON Magazine #127*
+
+The bow of distance has a +2 bonus on attack and damage rolls. Its range is double that of a normal bow of similar type.
+
+## Bow of Doubling
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+*Source: DRAGON Magazine #99*
+
+This magical bow offers no bonuses on attack or damage, but it does have the unique property of being able to fire two arrows at the same time. Whenever a nonmagical arrow is fired from the bow, it automatically creates and fires a second arrow. If the first arrow hits its target, so does the second; if the first shot misses, the second arrow has normal probabilities to hit. All arrows shot from this bow, whether they hit or not, are destroyed upon impact (or as soon as it is determined that they did not hit) and cannot be recovered.
+
+## Bow, Eagle
+
+**XP Value:** 500 &emsp; **GP Value:** 3,500
+*Source: DRAGON QUEST Game*
+
+This weapon is crafted from fine wood and decorated with eagle feathers that gives it magical power. Any archer who uses this bow adds a +1 bonus to attack and damage rolls. It can only be used by fighters, and only in ranged combat.
+
+## Bow of Enchantment
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: DRAGON Magazine #127*
+
+This weapon casts a spell upon any nonmagical bolt placed in it, enabling it to strike any creature that can only be hit by a magical weapon. Note that there are no bonuses to attack or damage; the bow merely enables one to have a chance against unnatural monsters with nonmagical bolts. No additional benefit is bestowed upon a magical bolt.
+
+## Firebow
+
+**XP Value:** 4,000 &emsp; **GP Value:** 22,500
+*Source: POLYHEDRON Newszine #47*
+
+All arrows shot from this bow burst into flame, doing an additional 1d4 points of damage to the target (as the *flame arrow* spell), as well as setting all flammable materials aflame.
+
+---
+
+<!-- page 206 -->
+
+## Bow of Fire Teeth
+
+**XP Value:** 750 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine #127*
+
+When fired, this bow ignites any arrow it shoots. In addition to regular damage, the arrow causes 1d6 hit points of fire damage. Magical arrows must save vs. magical fire if shot from this bow; if they fail the save, they catch fire and lose all magical enchantments as they leave the bow. If they save, magical arrows perform normally. These arrows ignite combustibles if the materials fail a save vs. normal fire.
+
+Fire teeth bows can set fire to a maximum of 10 arrows per day. The bow gives no attack or damage bonuses other than the damage added by the arrow's flames. Such bows are generally red or yellow in color and have fire runes incorporated into their ornate designs.
+
+## Bow of the Forest
+
+**XP Value:** 750 &emsp; **GP Value:** 5,000
+*Source: The Mines of Bloodstone*
+
+This long bow +1, wielded by Sir Olwyn Forestfriend, a 17th-level human ranger, requires 18/01 or better Strength to use. The user adds his or her Strength bonuses to attack and damage rolls when using this bow. The bow has double normal range.
+
+## Gem Bow
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: DRAGON Magazine #127*
+
+Created long ago by a prestigious halfling bowyer and the Archmage Bendalyre, gem bows were developed to help halfling societies combat their enemies. Over the years, the gem bows have disappeared from halfling realms. They are now lost and all but forgotten by the race that created them. All are bows +1, of excellent craftsmanship, and have the ability to gain additional powers.
+
+On the face of each bow is an indentation above the handgrip. If certain gemstones are set into this notch, the bow is then capable of bestowing one of three special powers on any arrow fired. Arrows must be nonmagical to gain these powers.
+
+| Roll  | Gem Type | Effect                                    |
+|-------|----------|-------------------------------------------|
+| 01–06 | Diamond  | Normal damage + 10 hp electric shock.     |
+| 07–13 | Ruby     | Normal damage + 10 hp fire damage.        |
+| 14–00 | Sapphire | Normal damage + 10 hp cold damage.        |
+
+A gem bow gains one charge per 200 gp value of the gem. Gems set into a gem bow decrease in value by 200 gp as each charge is used, eventually becoming normal stones (or dust) with the expiration of their charges. These bows function normally with respect to range and rate of fire.
+
+## Goblins' Bane Bow
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+*Source: DRAGON Magazine #127*
+
+This bow appears to be a standard bow +1; in the hands of an elf fighter, however, its full potential is realized. A +2 bonus is gained, as well as the following characteristics — arrows fired have double-normal range and strike for double damage (2d6+2 hp damage) against any giant-class humanoid. This class of monsters includes those that may be struck for extra damage by rangers.
+
+## Hastsezini's Bow
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: Deities & Demigods Cyclopedia*
+
+While in battle, he uses a bow that shoots a shaft of fire for 1d10 points of damage; its range is line-of-sight.
+
+## Hawk Bow
+
+**XP Value:** 500 &emsp; **GP Value:** 3,500
+*Source: DRAGON QUEST Game*
+
+This bow was made by a noble tribe of hunters long before the records of man begin. It is made from fine wood and decorated with the feathers of a hawk, giving it magical power. Anyone who uses this weapon adds a +1 bonus to attack and damage rolls.
+
+## Heartseeker Bow
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: 1992 Fantasy Collector Card 24*
+
+This is Audrianna's special long bow +4. When Audrianna uses this bow, she receives her Strength score attack bonus, and on an unmodified roll of 20 on her attack roll, the arrow enters the heart of the target, killing it instantly. This assumes the target has a heart — undead, noncorporeal creatures, and creatures with unusual anatomies, such as oozes, are not affected. If the bow is ever stolen from her, Audrianna will pursue the thief relentlessly to reclaim it as long as she is physically able.
+
+---
+
+<!-- page 207 -->
+
+## Bow of Heartseeking
+
+**XP Value:** Normal: 4,000 &emsp; **GP Value:** Normal: 20,000
+**XP Value:** Vampiric: 2,000 &emsp; **GP Value:** Vampiric: 10,000
+
+*Source: DRAGON Magazine #127*
+
+This type of bow (self or composite) always has a +3 bonus to hit targets. It acts as a normal magical bow, except when a sufficiently high attack number is rolled. Then, the arrow it fires strikes directly at the target's heart (if it has one), slaying the victim instantly. Attack rolls required are as follows:
+
+| Opponent | Attack Roll¹ |
+|---|---|
+| Up to man-size | 21–23 |
+| Larger than man-size | 22–23 |
+| Metal or stone² | 23 |
+
+¹Consider only the bow's bonus of +3.
+²If the foe is using a spell or device that has transformed it into this material.
+
+Certain creatures (such as elementals, golems, and undead) do not have hearts, and are not affected by this weapon. Shape-shifting creatures (such as dopplegangers) are not affected by its killing power, either. Ten percent of these bows are bows of vampire slaying.
+
+## Bow of Heracles's
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,500
+
+*Source: Legends & Lore*
+
+Heracles has a special bow that has a range of up to one mile, and cannot miss at any range of less than half a mile.
+
+## Bow of Hiatea's Long
+
+**XP Value:** 3,750 &emsp; **GP Value:** 22,500
+
+*Source: Monster Mythology*
+
+Her long bow +5 has triple normal range.
+
+## Bow of Ice Fang
+
+**XP Value:** 600 &emsp; **GP Value:** 15,000
+
+*Source: DRAGON Magazine #127*
+
+This bow, made of ivory and mithral steel, is believed to have been first created by the Elder Craftsmen of Niflheim (an area of the Gray Waste). Duplicates of the ice fang bow have been crafted by human and elf wizards ever since. The main function of an ice fang bow is to create ice arrows from water vapor in the air. The user need only pull on the bowstring and release it; the arrows are created instantly, but may only be fired at a rate of two per round, to allow the bow time to recharge.
+
+These magical arrows are +1 on attack rolls and cause double damage (2d6 hp damage for normal flight arrows) vs. fire-using and fire-dwelling creatures. If used against any other sort of being, these arrows are merely +1 on attack and damage. Each ice fang bow can generate a total of 1d100+50 ice arrows before its magic fades. A discharged and nonmagical ice fang bow is still finely crafted and worth 1,000 gp.
+
+Unfortunately, in hot climates (120°F+) the effective range of these arrows is halved. In environments where the temperature is over 300°F (certain Inner and Outer Planes and the affected area of a fireball spell), the ice arrows cannot form. If normal or magical arrows are fired from this bow, they do not gain the bonuses against fiery creatures, and the bow performs in all ways as a normal bow.
+
+## Bow of Illusory
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DRAGON Magazine #181*
+
+Potent and permanent, these illusory missile launchers are bows, slings, or other missile weapons that have been given special magical treatments by high-level illusionists. They can be used as normal missile launchers with no bonuses, but if the user merely prepares the weapon for firing, without fitting a missile, an illusory missile of whatever type is appropriate for the launcher, is conjured up. When the owner "fires" the weapon, the illusory missile travels to its target as noted above, and any thinking enemy who believes the illusion takes damage equal to that from a normal missile (save vs. spell with Wisdom bonuses otherwise). As with all illusions, these are useless against unthinking opponents such as golems and undead. As consolation, they give their users an unlimited supply of "ammunition" against normal foes.
+
+## Bow of Indra's
+
+**XP Value:** 1,900 &emsp; **GP Value:** 9,500
+
+*Source: Legends & Lore*
+
+Indra's avatar carries a bow from which he can fire lightning bolts that do 2d10 points of damage and have a range of 1,000 yards. The magic of this bow eliminates all negative modifiers for range.
+
+---
+
+<!-- page 208 -->
+
+## Iron Bow of Gesen
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: The Horde Campaign Set*
+
+This item is very simple-looking. It is made entirely from black iron, and is strung with a golden wire. This item and the hammer of Gesen were the weapons of Gesen Khan, a legendary hero of the steppes. He claimed the magical items by slaying a powerful manggus. From then on, he fought many monsters, conquered rival tribes, went on daring raids, and fought great battles. As long as he had his bow and hammer, he was never defeated. Finally, in his old age, he rode to the lands of the west and was never seen again.
+
+The bow and hammer may have reappeared several times since his disappearance. It is hard to be certain. Unscrupulous conmen and dishonest wizards have foisted both crude and cunning imitations on the unwary. The Yeke-noyan of the Suren was said to have had the bow and hammer when he drove the Kao out of the Endless Waste. Some even say the weapons have now come into the hands of the new warlord of the Tulgan, Yamun Khahan.
+
+Although they look heavy and impossible to use, both the bow and hammer are quite light. The bow is the mightier and more valuable of the two weapons. Although made of iron, it flexes easily. Any arrow fired from it is automatically considered magical for that attack, +5 to attack and damage rolls. Arrows instantly appear in hand when using the bow, so the owner never needs to fear running out. All ranges for the iron bow are double those for a normal short bow. In addition, the iron bow can fire a 20 HD lightning bolt three times a day. This has a range equal to an arrow shot from the bow.
+
+Characters possessing the club and bow invariably become chaotic good, although this occurs over a period of time. Worse still, the character is unable to refuse any challenge, adventure, or heroic deed, no matter how dangerous or impossible. He or she will refuse aid from others on these adventures. Should the character refuse to undertake an adventure, the bow and hammer will instantly disappear.
+
+## Iron Bow of Gesen II
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: Book of Artifacts*
+
+Upon casual examination, the iron bow of Gesen appears to be an ordinary short bow of the type used by horse raiders, lacquered black and strung
+
+---
+
