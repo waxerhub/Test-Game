@@ -6,6 +6,7 @@ significantly reduce API cost on multi-page runs.
 """
 
 from __future__ import annotations
+import time
 import anthropic
 
 MODEL      = "claude-sonnet-4-6"
@@ -161,13 +162,22 @@ def merge_page(page_num: int, text: str, tables: list) -> tuple[str, dict]:
         "Produce the clean markdown for this page now."
     )
 
-    resp = client.messages.create(
-        model=MODEL,
-        max_tokens=MAX_TOKENS,
-        system=[{"type": "text", "text": SYSTEM_PROMPT,
-                 "cache_control": {"type": "ephemeral"}}],
-        messages=[{"role": "user", "content": user_msg}],
-    )
+    for attempt in range(6):
+        try:
+            resp = client.messages.create(
+                model=MODEL,
+                max_tokens=MAX_TOKENS,
+                system=[{"type": "text", "text": SYSTEM_PROMPT,
+                         "cache_control": {"type": "ephemeral"}}],
+                messages=[{"role": "user", "content": user_msg}],
+            )
+            break
+        except anthropic.RateLimitError as e:
+            wait = 15 * (2 ** attempt)   # 15, 30, 60, 120, 240, 480s
+            print(f"\n  Rate limit page {page_num}, retrying in {wait}s…", flush=True)
+            time.sleep(wait)
+    else:
+        raise RuntimeError(f"Rate limit persisted after 6 retries on page {page_num}")
 
     u = resp.usage
     return resp.content[0].text, {
