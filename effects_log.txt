@@ -3,4 +3,14 @@ Processing 50 items with 3 workers …
 
   1/50 (2%)  latest: Cloaked Wizardry  2/50 (4%)  latest: Anything Item  3/50 (6%)  latest: Aquatic  4/50 (8%)  latest: Racial Enhancements
   JSON parse error [Weightless Item]: Expecting value: line 1 column 1 (char 0)
-  5/50 (10%)  latest: Weightless Item
+  5/50 (10%)  latest: Weightless Item  6/50 (12%)  latest: Amulet of Caterpillar Control  7/50 (14%)  latest: Amulet of Charm Resistance  8/50 (16%)  latest: Drow Treasure  9/50 (18%)  latest: Amulet of Cheetah Speed  10/50 (20%)  latest: Amulet of Charming  11/50 (22%)  latest: Amulet of Communication  12/50 (24%)  latest: Amulet of Dragon Warding  13/50 (26%)  latest: Amulet of Finding  14/50 (28%)  latest: Amulet, Fiend  15/50 (30%)  latest: Amulet of Dramatic Death  16/50 (32%)  latest: Amulet of Furyondy's  17/50 (34%)  latest: Amulet of the Golden Collar  18/50 (36%)  latest: Amulet of Hunting  19/50 (38%)  latest: Amulet of Immunity to Charm  20/50 (40%)  latest: Amulet, Greenstone  21/50 (42%)  latest: Hands of the Healing Spirit  22/50 (44%)  latest: Amulet of Insect Repellency  23/50 (46%)  latest: Amulet of Inescapable Location  24/50 (48%)  latest: Kaleen's Undead Stone  25/50 (50%)  latest: Amulet of Lathander  26/50 (52%)  latest: Amulet of Leadership  27/50 (54%)  latest: Amulet Noseeum  28/50 (56%)  latest: Amulet of Neutrality
+  JSON parse error [Palm Sign Amulet]: Expecting value: line 1 column 1 (char 0)
+  29/50 (58%)  latest: Palm Sign Amulet  30/50 (60%)  latest: Amulet of Protection from Good  31/50 (62%)  latest: Amulet, Orcish  32/50 (64%)  latest: Amulet of Protection from Turning  33/50 (66%)  latest: Amulet of Psionic Interference
+  Rate limit [Amulet of Protection from Slee], retry in 15s…
+  34/50 (68%)  latest: Amulet of Psychic Protection  35/50 (70%)  latest: Amulet of Psionic Reflection  36/50 (72%)  latest: Amulet of Recall  37/50 (74%)  latest: Amulet Shakti
+  JSON parse error [Amulet Shell of Protection fro]: Expecting value: line 1 column 1 (char 0)
+  38/50 (76%)  latest: Amulet Shell of Protection from Sharks  39/50 (78%)  latest: Seafaring Anchor  40/50 (80%)  latest: Seafaring Anchor (Animated)  41/50 (82%)  latest: Anchor of Staying  42/50 (84%)  latest: Anchor of Weight  43/50 (86%)  latest: Ankh of Life  44/50 (88%)  latest: Amulet of Protection from Sleep  45/50 (90%)  latest: Anklet of Levitation  46/50 (92%)  latest: Nithian Ankh  47/50 (94%)  latest: Anklet of Sinking  48/50 (96%)  latest: Anklet of Walking  49/50 (98%)  latest: Anklet of Sure Footing  50/50 (100%)  latest: Antennae of Triangulation
+
+Saving encyclopedia_magica_sample50.xlsx …
+Done → encyclopedia_magica_sample50.xlsx
+Items with needs_review=True: 184/50

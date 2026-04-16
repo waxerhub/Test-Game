@@ -53,15 +53,20 @@ Minimum Int requirements go in conditions, not here. 0 if none>,
 Minimum Wis requirements go in conditions, not here. 0 if none>,
   "stat_cha":          <int, net Charisma BONUS or PENALTY granted TO the user. \
 Minimum Cha requirements go in conditions, not here. 0 if none>,
-  "ac_bonus":          <int, RELATIVE AC improvement to the WEARER'S own AC (positive = better, \
-e.g. a +2 AC item makes wearer AC 10 → AC 8, so this is 2). \
-IMPORTANT: if an item forces a TARGET/ENEMY to AC 10 or bypasses a target's armor, that is an \
-OFFENSIVE ability — put it in granted_abilities, NOT here. \
-For variable-tier items (e.g. cloak +1 to +5), use the LOWEST tier value. 0 if none>,
+  "ac_bonus":          <int, RELATIVE AC improvement to the WEARER'S own AC only \
+(positive = better protection for the WEARER). \
+CORRECT examples: "betters Armor Class by 2" → 2; "cloak +1 lowers AC 10 to AC 9" → 1 \
+(the improvement is 1, NOT 10; AC 10 is the unarmored baseline, not the bonus); \
+"+3 to Armor Class" → 3. \
+WRONG — do NOT set ac_bonus for OFFENSIVE effects on TARGETS/ENEMIES: \
+"all creatures treated as AC 10 against this weapon" → ac_bonus=0, put in granted_abilities; \
+"renders target AC 10" → ac_bonus=0, put in granted_abilities; \
+"bypasses armor, target base AC 10" → ac_bonus=0, put in granted_abilities. \
+For variable-tier items (e.g. cloak +1 to +5), use the LOWEST tier value (1). 0 if none>,
   "ac_set":            <int, ABSOLUTE AC value the item sets the WEARER'S base AC to, \
 overriding armor (e.g. Bracers of Defense AC 0 → use 0, Bracers AC 6 → use 6). \
-MUST be -1 (not null, not 0) if this field does not apply. \
-Only use when item explicitly sets a base AC value, not when it adds a bonus>,
+MUST be the integer -1 (never null, never "null", never 0, never "None") if this field does not apply. \
+Only use when item explicitly sets the WEARER'S base AC to a fixed value, not when it adds a bonus>,
   "thac0_bonus":       <int, THAC0 improvement (positive = lower THAC0), 0 if none>,
   "save_bonus":        <int, saving throw bonus/penalty, 0 if none>,
   "hp_bonus":          <int, hit point bonus, 0 if none>,
@@ -231,10 +236,17 @@ def main():
                     if col_idx is None:
                         continue
                     cell  = row[col_idx - 1]
-                    value = effects.get(col_name, "" if isinstance(effects.get(col_name), str) else 0)
-                    # Coerce None: ac_set defaults to -1, others to 0/""
-                    if value is None:
-                        value = -1 if col_name == "ac_set" else (0 if col_name not in ("granted_spells","granted_abilities","conditions","notes") else "")
+                    value = effects.get(col_name)
+                    str_cols = ("granted_spells", "granted_abilities", "conditions", "notes")
+                    # Coerce None / "null" / "None" to safe defaults
+                    if value is None or value == "null" or value == "None":
+                        value = -1 if col_name == "ac_set" else ("" if col_name in str_cols else 0)
+                    # Ensure ac_set is always an int (never left as None/null)
+                    if col_name == "ac_set" and not isinstance(value, int):
+                        try:
+                            value = int(value)
+                        except (TypeError, ValueError):
+                            value = -1
                     cell.value = value
                     cell.alignment = Alignment(vertical="top", wrap_text=False)
 
