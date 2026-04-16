@@ -21146,3 +21146,609 @@ While appearing to be nothing more than a magical dart, this missile weapon is o
 
 ---
 
+<!-- page 375 -->
+
+making an angry buzzing noise similar to the sound of a swarm of hornets. When one of these darts is hurled, percentile dice are rolled to determine the attack bonus and the appropriate number of darts contained in this particular item. Note that the bonus applies only to attack probability—not to damage, which is the standard amount (1d3 vs. S or M, 1d2 vs. L) for a dart of normal sort.
+
+| Roll  | Attack Bonus | No. of Darts |
+|-------|-------------|--------------|
+| 01–40 | +1          | 5d4          |
+| 41–70 | +2          | 4d4          |
+| 71–90 | +3          | 3d4          |
+| 91–00 | +4          | 2d4          |
+
+## Illusory Missiles
+
+**XP Value:** 10 &emsp; **GP Value:** 100
+
+*Source: DRAGON Magazine #181*
+
+There are illusory missiles of various types, and these complement illusory weapons and armor. First are illusory sticks and stones. These are tiny things, totally useless in battle normally. When the command word is spoken, however, a faintly visible magical field surrounds them, stretching them out to the proportions of regular darts, javelins, arrows, or sling bullets. Although the field does no damage itself, it is substantial enough to enable the missile to be handled and used with a blowgun, bow, sling, or spear thrower. If an enemy sees this coming, he or she will probably assume the worst and take damage equivalent to that of an ordinary missile, but it's all show. These devices are only usable once.
+
+## Dart of Light
+
+**XP Value:** 20 &emsp; **GP Value:** 75
+
+*Source: POLYHEDRON Newszine #47*
+
+Several (2d10) of these glowing darts will be found together. When they strike an object, they explode in a burst of white light (as a *continual light* spell), blinding all within the 10-foot explosion area for 1d6 rounds. Shadows, shades, and other creatures of darkness take 1d10 points of damage from each dart.
+
+## Dart of Lighting
+
+**XP Value:** 200 &emsp; **GP Value:** 500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This dart can create a *light* spell effect (30-foot diameter), either upon command or when it hits a target. If a creature is hit, the victim must make a saving throw vs. spell or be blinded by the light (as if the spell had been cast at its eyes). The missile disintegrates when the light is created.
+
+## Dart of Penetrating
+
+**XP Value:** 400 &emsp; **GP Value:** 1,000
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A dart with this talent cannot be slowed by underbrush, webs (normal or magical), or other forms of cover. The victim's Armor Class is not modified by cover of any sort.
+
+## Dart of Refilling
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This talent gives no special effect to a dart when fired; however, if left in a container with other missiles of the same type (that is, a refilling dart with normal darts or a refilling sling stone with normal sling stones), it magically creates 1d20 more darts of the normal type each day.
+
+## Dart of Screaming
+
+**XP Value:** 300 &emsp; **GP Value:** 900
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This dart's effect occurs when it is fired, even if it misses the target. As it travels through the air, the missile produces a loud cry, causing all within 30 feet of its path to check morale. If the morale check fails, the victims retreat in fear for 1d8 rounds.
+
+## Dart of Seeking
+
+**XP Value:** 200 &emsp; **GP Value:** 500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When this dart is launched at an object, it automatically hits any one target object within range as long as a path of travel is clear. It may be used as a missile of disarming, if needed, or it can be used to sever a normal rope, pierce a sack, push a button, or trigger a trap. It cannot be used against creatures, and misses any creature at which it is aimed.
+
+## Dart of Sinking
+
+**XP Value:** 600 &emsp; **GP Value:** 1,500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When fired at a water craft of any sort, a dart with this talent inflicts 1d10+10 (11–20) hull points of damage when it hits. (The Armor Class of the vessel is used, as if the shot were a ramming or catapult attack.)
+
+---
+
+<!-- page 376 -->
+
+## Dart of Slaying
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+If die rolls for a dart indicate this talent, roll 1d100 on the table below. The result indicates the dart's opponent. When an opponent is hit, the victim must make a saving throw vs. death magic or die.
+
+| Roll  | Opponent Type              |
+|-------|----------------------------|
+| 01–06 | Bugs                       |
+| 07–09 | Constructs                 |
+| 10–15 | Dragonkind                 |
+| 16–24 | Enchanted monsters         |
+| 25–36 | Giantkind                  |
+| 37–48 | Lycanthropes               |
+| 49–52 | Planar monsters            |
+| 53–58 | Regenerating monsters      |
+| 59–67 | Reptiles and dinosaurs     |
+| 68–70 | Spell-immune monsters      |
+| 71–76 | Spellcasters               |
+| 77–88 | Undead                     |
+| 89–94 | Water-breathing creatures  |
+| 95–00 | Weapon-using monsters      |
+
+## Dart of Speaking
+
+**XP Value:** 200 &emsp; **GP Value:** 500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This dart misses every creature at which it is launched. It is used for communication purposes only. The user may give the dart any message of 20 words or less and then shoot, either naming a place within 10 miles or aiming at a target. The dart automatically lands on the floor or ground in the target area and repeats the message aloud, twice.
+
+## Dart of Stunning
+
+**XP Value:** 300 &emsp; **GP Value:** 750
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A victim hit by a dart with this talent must make a saving throw vs. spell or be stunned for 1d6 rounds.
+
+## Dart, Svirfnebli
+
+**XP Value:** 600 &emsp; **GP Value:** 1,800
+
+*Source: When A Star Falls*
+
+These darts have a range of 40 feet, inflicting 1d3 points of damage on a successful attack roll. Any creature struck by one of these darts must save vs. poison, or be stunned for the next round and slowed for the next four rounds.
+
+## Dart of Teleporting
+
+**XP Value:** 400 &emsp; **GP Value:** 1,200
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A victim hit by a dart with this talent must make a saving throw vs. spell (at a +2 bonus) or be teleported to a point 1d100 miles away, with the direction and distance determined randomly. Unlike the effect of the mage spell, the victim cannot arrive in the air or within a solid object.
+
+## Dart of Transporting
+
+**XP Value:** 300 &emsp; **GP Value:** 500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+A victim hit by a dart with this talent must make a saving throw vs. spell or be sent to a point up to 360 feet away, as determined by the user of the dart. The effect is identical to the mage spell *dimension door*, and it cannot cause the victim to appear within a solid object.
+
+## Dart of Wounding
+
+**XP Value:** 500 &emsp; **GP Value:** 1,500
+
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+When a dart of wounding strikes a creature, it inflicts normal damage. In addition, however, it causes the loss of 1 hit point per round after that until magical curing is applied (a potion, cure spell of any type, etc.). However, no undead creature or construct (golem, living statue, etc.) can be wounded by this dart, and such creatures suffer only the initial damage.
+
+---
+
+# Decanter
+
+Decanters are decorative bottles used to serve fine drinks. Usually filled with wine, sparkling water, or other rare nectars, decanters are found in any wealthy home. They have richly sculpted handles that are used to pour the drinks, as touching the decanter itself can warm the drink too much.
+
+## Carrague's Decanter of Endless Steam
+
+**XP Value:** 1,250 &emsp; **GP Value:** 4,000
+
+*Source: POLYHEDRON Newszine #84*
+
+These stoppered flasks look like ordinary brass containers. They are warm to the touch and radiate both enchantment and conjuration/summoning magic. When the stopper is removed and the proper words are spoken, a constant flow of steam will pour out. Similar to a decanter of endless water, a decanter of endless steam has three separate commands for the amount of steam produced:
+
+---
+
+<!-- page 377 -->
+
+## Decanter of Endless Water
+
+**Teakettle:** A slow trickle of steam that sounds like a low-pitched whistle forms a sphere of scalding vapor. During the first round, the sphere has a diameter of 2 feet. Each round thereafter the sphere expands by 1 foot until it reaches a maximum diameter of 10 feet. Characters inside the sphere take one point of damage from the steam each round, save vs. breath weapon for no damage.
+
+**Small Geyser:** A translucent flow of steam that sounds like a high-pitched whistle fills a 6-foot sphere in one round; this expands an additional 3 feet each round to a maximum diameter of 30 feet. Characters inside the sphere take 1d6 points of damage each round, save vs. breath weapon for half.
+
+**Large Geyser:** A gush of thick steam that sounds like loud roaring fills a 10-foot sphere in one round; this expands by an additional 5 feet each round to a maximum diameter of 50 feet. Characters inside the sphere take 3d6 points of damage each round, save vs. breath weapon for half damage.
+
+The two geyser settings are used to power Carrague's steam machines. The large geyser setting produces considerable back pressure, and the holder must be well braced or be knocked backwards. The force of the geyser kills small animals and normal insects. At any setting, a command word must be given to stop the flow of steam.
+
+## Decanter of Endless Water
+
+**XP Value:** 1,200 &emsp; **GP Value:** 3,600
+
+*Source: Nightrage*
+
+This stoppered flask, almost always of fine workmanship, contains a portable wormhole to the Elemental Plane of Water. The user removes the stopper, speaks a word of command, and a stream of fresh water pours out. Some decanters have variable rates of flow, but others simply flow at a constant rate until the command word stops them.
+
+These items tend to be rare, for the elementals who inhabit the Plane of Water dislike them — they drain their resources. Rumors tell of elemental patrols scouring the Prime Material Plane to buy or steal every flask they find. Once transported to the Plane of Water, the flask's magic is permanently dispelled.
+
+The decanter that created the Serpent Oasis pours several gallons per minute in a strong stream. It is a shapely flask of untarnished gold with inlaid lapis lazuli in a geyser design.
+
+---
+
+<!-- page 378 -->
+
+## Decanter of Endless Water II
+
+**XP Value:** 1,000 &emsp; **GP Value:** 3,000
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This stoppered flask looks ordinary but radiates the aura of magic. If the stopper is removed, and the proper words spoken, a stream of fresh or salt water pours out, as ordered. There are separate command words for the amount as well as the type of water. Water can be made to come forth as follows:
+
+- **Stream:** pours out one gallon per round.
+- **Fountain:** 5-foot-long stream at five gallons per round.
+- **Geyser:** 20-foot-long stream at 30 gallons per round. The geyser causes considerable back pressure, and the holder must be well braced or be knocked over. The force of the geyser can kill small animals and insects (mice, moles, small bats, etc.). The command word must be given to cease the flow.
+
+---
+
+# Deck of Cards
+
+A magical deck is a pack of rectangular playing cards, usually found as either a small deck of 10 or a large deck of 20. Each card is made of stiff parchment, inscribed with a number or letter and a picture of some sort. Although card decks are common in the modern world, they are rare, handmade in a medieval setting. The cards may be as small as 1 by 2 inches or as large as 1 by 2 feet; larger cards are very rare. When a card is drawn from a deck, its magical effect is released. The card either disappears immediately or vanishes after a given period. Cards may be drawn once per round at most, unless specified otherwise.
+
+## Deck of Chance
+
+**XP Value:** 1,000 &emsp; **GP Value:** 4,000
+
+*Source: The Book of Marvelous Magic*
+
+When a card is drawn from this large deck, a bonus or penalty applies to the user for 24 hours after that. To determine the effect, roll 2d6:
+
+| Roll | Effect |
+|------|--------|
+| 2 | −2 penalty to attack and damage rolls |
+| 3 | −2 penalty to saving throws |
+| 4 | −2 penalty to armor class |
+| 5 | −2 penalty to damage rolls |
+| 6 | −2 penalty to attack rolls |
+| 7 | +1 bonus to attack, damage, and saving throw rolls |
+| 8 | +2 bonus to attack rolls |
+| 9 | +2 bonus to damage rolls |
+| 10 | +2 bonus to armor class |
+| 11 | +2 bonus to saving throws |
+| 12 | +2 bonus to attack and damage rolls |
+
+## Deck of Daffy
+
+**XP Value:** 600 &emsp; **GP Value:** 1,800
+
+*Source: The Book of Marvelous Magic*
+
+This small deck contains an assortment of cards from the chance, quarter, sun, and tracer decks, and each has a 25% chance of decking as a deck of decking. Each type of card in the daffy deck is determined when drawn.
+
+## Deck of Decking
+
+**XP Value:** 700 &emsp; **GP Value:** 2,100
+
+*Source: The Book of Marvelous Magic*
+
+This item appears identical to a quarter deck. However, there is a 25% chance that any card drawn may be dangerous; if so, a user, and not an intended victim, is suddenly stunned by the card and falls to the floor. A victim remains stunned for 1d6 more rounds and is unable to get up, talk, attack, or cast spells.
+
+## Deck of Fortune Telling
+
+**XP Value:** 1,000 &emsp; **GP Value:** 6,000
+
+*Source: Inside Raven's Bluff, The Living City*
+
+Only 12 such decks are known to exist. Each deck starts with 50 cards, and is therefore good for 50 fortunes. A character pulls a card from the deck and rolls 1d12. The number rolled corresponds to the number of months in the future the forecasted event will occur. The card shimmers, becomes three-dimensional, and shows a scene involving the character who pulled the card. For example, a card could show the character finding a great fortune, being killed in battle with a monster, finding his or her true love, or any other scene the DM wishes. The scene is played out before the character for three minutes, then the card vanishes. It is possible to alter the future of the card by certain actions; but the card does not reveal what those actions are.
+
+## Deck of Illusions
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+
+*Source: Dungeonland*
+
+This set of parchment cards is usually found in an ivory, leather, or wooden box. A full deck consists of 34 of these plaques. Drawing one at random and casting it out forms an illusion with
+
+---
+
+<!-- page 379 -->
+
+## Deck of Illusions (1st Edition)
+
+audible and visual components, which lasts until it is dispelled. The illusory creature cannot go more than 30 feet from the card, but it otherwise moves and acts as if it were real. When the illusion is dispelled, the card becomes blank and cannot be used again. If it is picked up, the illusion is automatically and instantly dispelled. Cards can differ or some may be missing. Illusions perform normal routines and respond to attacks (DMs play them as if they were real creatures). The cards are:
+
+| Card | Illusion Created |
+|------|-----------------|
+| Joker | Illusion of the Deck's Owner |
+| Joker | Illusion of the Deck's Owner |
+| A♥ | Red Dragon |
+| A♦ | Beholder |
+| A♣ | Lich |
+| A♠ | Iron Golem |
+| K♥ | Fighter and four Guards |
+| K♦ | Magic-user and one Apprentice |
+| K♣ | Priest and two Underpriests |
+| K♠ | Thief and three Cohorts |
+| Q♥ | Succubus |
+| Q♦ | Night Hag |
+| Q♣ | Medusa |
+| Q♠ | Erinyes |
+| J♥ | Druid |
+| J♦ | Assassin |
+| J♣ | Monk |
+| J♠ | Bard |
+| 10♥ | Cloud Giant |
+| 10♦ | Fire Giant |
+| 10♣ | Frost Giant |
+| 10♠ | Ettin |
+| 9♥ | Hill Giant |
+| 9♦ | Ogre Mage |
+| 9♣ | Troll |
+| 9♠ | Ogre |
+| 8♥ | Bugbear |
+| 8♦ | Gnoll |
+| 8♣ | Hobgoblin |
+| 8♠ | Orc |
+| 2♥ | Goblin |
+| 2♦ | Kobold |
+| 2♣ | Goblin |
+| 2♠ | Kobold |
+
+## Deck of Illusions II
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This set of parchment cards is usually found in an ivory, leather, or wooden box. A full deck consists of 34 cards of suits. When a card is drawn at random and thrown to the ground, an illusion with audible and visual components is formed. This lasts until dispelled. The illusionary creature cannot go more than 30 feet away from where the card landed, but otherwise moves and acts as if it were real. When the illusion is dispelled, the card becomes blank and cannot be used again. If the card is picked up, the illusion is automatically and instantly dispelled. The cards in a deck and their illusions are as follows:
+
+| Hearts | Diamonds |
+|--------|----------|
+| A: Red dragon | A: Beholder |
+| K: Fighter & four guards | K: Wizard & one apprentice |
+| Q: Female Wizard | Q: Night hag |
+| J: Druid | J: Harpy |
+| 10: Cloud giant | 10: Fire giant |
+| 9: Ettin | 9: Ogre mage |
+| 8: Bugbear | 8: Gnoll |
+| 2: Goblin | 2: Kobold |
+
+| Clubs | Spades |
+|-------|--------|
+| A: Lich | A: Iron Golem |
+| K: Priest & two underpriests | K: Thief & three cohorts |
+| Q: Medusa | Q: Pixies |
+| J: Paladin | J: Bard |
+| 10: Frost giant | 10: Hill Giant |
+| 9: Troll | 9: Ogre |
+| 8: Hobgoblin | 8: Orc |
+| 2: Goblin | 2: Kobold |
+
+Jokers (2): Illusion of the deck's owner
+
+The cards of a particular deck may differ from these, and a deck may be discovered with some of its cards missing. The illusions perform normal routines and respond to attacks — they should be played as if they were real creatures.
+
+## Janean's Deck of Many Things
+
+**XP Value:** — &emsp; **GP Value:** 10,000
+
+*Source: 1992 Fantasy Collector Card 32*
+
+Janean's deck of cards was designed with some unusual properties. The first card drawn from the deck is always beneficial, and every even card
+
+---
+
+<!-- page 380 -->
+
+## Deck of Many Things (Greyhawk Variant)
+
+**XP Value:** — &emsp; **GP Value:** 10,000
+
+*Source: GREYHAWK*
+
+This deck is a pack of 18 parchment cards, four each of four suits and two jokers. Each of the four in each suit is different. One-half bring beneficial things, and one-half cause harmful effects. Any person possessing such a deck may select cards from it four times (or more if jokers are drawn), and whatever is revealed by the selected card takes place. After each draw, the card is returned to the pack and it is shuffled again before another draw is made. All four draws need not be made, but the moment a possessor of the deck states that he or she has no intention of ever drawing further cards, or after the maximum number of draws, the deck disappears. Note: A DM may invent a deck using the guidelines above.
+
+| Card | Effect |
+|------|--------|
+| A of ♠ | Immediately gain 50,000 experience points. |
+| K of ♠ | Gain miscellaneous magical item of the player's choice. |
+| Q of ♠ | Gain 1d3 wishes to be taken when the player likes. |
+| J of ♠ | Help from a high-level warrior with +3 armor, shield, and sword for one hour when you call for him. |
+| A of ♦ | Immediately gain map to richest treasure on any dungeon level. |
+| K of ♦ | Gain 5d6 pieces of jewelry immediately. |
+| Q of ♦ | Gain Scroll of seven spells with no 1st-level spells on it. |
+| J of ♦ | Add one point to any ability score—Strength, Intelligence, Wisdom, Dexterity, etc. |
+| A of ♥ | Lose one experience level immediately. |
+| K of ♥ | A high-level warrior with +4 armor, shield, and sword attacks you. |
+| Q of ♥ | Immediate death, no saving throw. |
+| J of ♥ | Monster from the Gray Waste attacks by surprise. |
+| A of ♣ | Change alignment immediately (random). |
+| K of ♣ | Lose your most prized magical item immediately. |
+| Q of ♣ | Turn to stone, no saving throw. |
+| J of ♣ | Lose 1 point from your Prime Requisite. |
+| Joker | Gain 25,000 experience points immediately or select two additional cards. |
+
+---
+
+## Deck of Many Things II
+
+**XP Value:** — &emsp; **GP Value:** 10,000
+
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+A deck of many things is usually found in a box or leather pouch. Each deck contains a number of cards or plaques, made of ivory or vellum. Each card is engraved with glyphs, characters, and magical sigils. As soon as one of these cards is drawn from the pack, its magic is bestowed upon the person who drew it—for better or worse.
+
+The character with a deck of many things may announce that he or she is drawing only one card or the owner may draw two, three, four, or more. However, the number must be announced prior to drawing the first card. If a jester is drawn, the possessor of the deck may elect to draw two additional cards.
+
+Each time a card is taken from the deck it is replaced (making it possible to draw the same card twice) unless the draw is a jester or fool, in that case the card is discarded from the pack. A deck of many things contains either 13 cards (75% chance) or 22 cards (25%). Additional cards in a 22-card deck are shown below by an asterisk (*) before their names. To simulate the magical cards you may want to use the normal playing card in the suits indicated in the second column. (The notation is face value, then suit.)
+
+Upon drawing the last card, or immediately upon drawing the cards in bold face (**The Void** and **Donjon**), the deck disappears. The cards are explained in greater detail below:
+
+| Plaque | Card | Effect |
+|--------|------|--------|
+| *Vizier | Ace ♦ | Know the answer to your next dilemma. |
+| Sun | King ♦ | Gain beneficial miscellaneous magical item and 50,000 XP. |
+
+---
+
+<!-- page 381 -->
+
+## Deck of Many Things II
+
+*(continued)*
+
+| Card | Rank | Effect |
+|------|------|--------|
+| Moon | Queen ♦ | You are granted 1d4 wishes. |
+| Star | Jack ♠ | Immediately gain two points to Prime Requisite ability. |
+| *Comet | 2 ♠ | Defeat the next monster you meet to gain one level. |
+| *Idiot | Ace | Lose 1d4 points of Intelligence; you may draw again. |
+| Throne | King ♣ | Gain Charisma of 18 plus a small keep. |
+| Key | Queen ♥ | Gain a treasure map plus one magical weapon. |
+| Knight | Jack ♣ | Gain the service of a 4th-level fighter. |
+| *Gem | 2 | Gain your choice of 20 pieces of jewelry or 50 gems. |
+| *Fates | Ace ♠ | Avoid any situation you choose . . . once. |
+| The Void | King ♠ | Body functions, but soul is trapped elsewhere. |
+| Flames | Queen ♠ | Enmity between you and an outer planar creature. |
+| Skull | Jack ♠ | Defeat Death or be forever destroyed. |
+| Talons | 2 ♠ | All magical items you possess disappear permanently. |
+| *Donjon | Ace ♠ | You are imprisoned (see below). |
+| Ruin | King ♠ | Immediately lose all wealth and real property. |
+| Euryale | Queen ♠ | -3 penalty to all saving throws vs. petrification. |
+| Rogue | Jack ♠ | One of your henchmen turns against you. |
+| *Balance | 2 ♠ | Change alignment instantly. |
+| Jester | Joker | Gain 10,000 XP or two more draws from the deck. |
+| *Fool | Trademark Joker | Lose 10,000 experience points and draw again. |
+
+**Sun:** Roll for a miscellaneous magical item until a useful item is indicated.
+
+**Moon:** This is best represented by a moonstone gem with the appropriate number of wishes shown as gleams therein. The wishes are the same as the 9th-level wizard spell and must be used in a number of turns equal to the number received.
+
+**Star:** If the two points would place the character's score at 19, use one or both in any of the other abilities in this order: Constitution, Charisma, Wisdom, Dexterity, Intelligence, Strength.
+
+**Comet:** The player must singlehandedly defeat the next hostile monster (or monsters!) encountered or the benefit is lost. If successful, the character moves to the midpoint of the next experience level.
+
+**Throne:** If Charisma is 18 already, the individual still gains five on encounter and loyalty reactions. He or she becomes a real leader in people's eyes. The castle gained is near a stronghold already held.
+
+**Key:** DM must prepare a treasure map. The weapon must be one usable by the character so use the Magical Weapons Table until a useful item is awarded.
+
+**Knight:** The fighter joins the character as a henchman and serves loyally until death. The fighter has +1 per die (18 maximum) on each ability roll.
+
+**Gem:** This indicates wealth. The jewelry is always gold set with gems, the gems are all of 1,000 gp base value. With this wealth should come experience points equal in value, but never more than needed to increase one level of experience.
+
+**The Void:** This black card spells instant disaster. The character's body continues to function, though he or she speaks like an automaton, but the psyche is trapped in a prison somewhere — in an object on a far planet or plane, possibly in the possession of an outer planar creature. A wish cannot bring the character back, but the plane of entrapment might be revealed. Draw no more cards.
+
+**Flames:** Hot anger, jealousy, and envy are but a few of the possible motivational forces for the enmity. The enmity of the outer planar creature can't be ended until one of the parties has been slain.
+
+**Skull:** A minor Death appears (AC -4; 33 hit points; strikes with a scythe for 2d8 points, never missing, always striking first in a round). The character must fight it alone — if others help, they get minor Deaths to fight as well. If the character is slain, he or she is slain forever. Treat the Death as undead with respect to spells. Cold, fire, and
+
+---
+
+<!-- page 382 -->
+
+## Tarot Deck of Many Things (continued)
+
+electrical energy do not harm it.
+
+**Talons:** When this card is drawn, every magical item the character has is irrevocably gone, instantly.
+
+**Ruin:** As implied, when this card is drawn every bit of money (including all gems, jewelry, treasure, and art objects) is lost. All land and buildings owned are lost forever as well.
+
+**Euryale:** The medusa visage on this card brings a curse only the Fates card or godlike beings can remove. A -3 penalty to all saving throws is otherwise permanent.
+
+**Rogue:** When this card is drawn, one of the character's henchmen is totally alienated and forever hostile. If the character has no henchmen, the enmities of some powerful personage—community or religious—can be substituted. The hatred remains secret until the time is ripe for devastating effect.
+
+**Balance:** As in "weighed in the balance and found wanting," the character must change to a radically different alignment. Failure to act according to the new alignment may bring penalties (as described in the section on Character Alignment, in the PHB). Discard this card.
+
+**Jester:** The jester actually makes a pack more beneficial if the experience point award is taken. It is always discarded when drawn.
+
+**Fool:** The payment and draw are mandatory.
+
+**Vizier:** This card empowers the character drawing it with the ability to call upon supernatural wisdom to solve any single problem or answer fully any question whenever he or she requests it. Whether the information can be successfully acted upon is another matter entirely.
+
+**Idiot:** This card causes the loss of 1d4 points of Intelligence immediately; drawing an additional card is optional.
+
+**Fates:** This card enables the character to avoid even an instantaneous occurrence if desired, for the fabric of reality is unraveled and respun. Note that it does not enable something to happen—it can only stop something from happening. The reversal is only for the character who drew the card, and other party members may have to endure the confrontation.
+
+**Donjon:** This signifies imprisonment—either by spell or by some creature, at the DM's pleasure. All gear and spells are stripped from the victim in any case. Whether these items are recoverable is up to the DM as well. Draw no more cards.
+
+---
+
+## Quarter
+
+**XP Value:** 1,200 &emsp; **GP Value:** 12,000
+*Source: The Book of Marvelous Magic*
+
+If a card is drawn from this small deck and shown to any creature of 7 Hit Dice or less within 30 feet, the victim must make a saving throw vs. spell. If the throw fails, the creature immediately offers to surrender, if its life is spared. If the offer is not accepted, the card has no other effect.
+
+---
+
+## Sun
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+Any card drawn from this deck sheds light within a 15-foot radius as a *light* spell for 12 turns and then disappears. A deck of light may be small or large.
+
+---
+
+## Tarot Deck of Many Things
+
+**XP Value:** 4,000 &emsp; **GP Value:** 44,000
+*Source: DRAGON Magazine #77*
+
+Although the deck of many things in the AD&D game is a powerful and interesting device, it is but half a reflection (the other being ordinary playing cards) of the original on which all such card decks are based—the Tarot. The 78-card Tarot deck consists of two parts. The Major Arcana includes the card known as the Fool, which is unnumbered, and the 21 numbered cards I (The Magician) through XXI (The World); these 22 cards are also known as the Greater Trumps. The Minor Arcana, or Lesser Trumps, are divided into the four suits of Wands, Cups, Swords, and Pentacles; each suit includes the "pip" cards (Ace through Ten) and the court cards (Page, Knight, Queen, and King).
+
+The deck itself is a series of plaques or cards, fashioned of precious and rare substances: ivory, gold, vellum made from dragon skin, carved bulette scales, or the like, painted with costly pigments, gilded, or even jeweled. These are usually wrapped in silk or other simple but costly cloth, and placed within an elaborate box or coffer of at least 5,000 gp value, expensively decorated with symbols, and with the holy symbol of the deity who is the master of the deck. It could be sold unused for 39,000 gp plus the value of the box or coffer, but if anyone does more than look at the backs of the cards, they are compelled (saving throw applicable) to draw from it.
+
+A person who wishes or is compelled to draw from the deck is allowed to announce an inten-
+
+---
+
+<!-- page 383 -->
+
+tion to draw one, two, three, or four cards; when the last member of the party who wishes to do so has drawn, or if one hour elapses without any draw, the deck disappears—unless the party is on the plane of the Tarot's master deity, which is not the party's own home plane. The person making the draws, hereafter called the "drawer," should shuffle the cards well, in such a manner that the images on almost one-half of the cards are inverted or "reversed" in relation to the others (which are termed "upright"). Each card is then turned over along the long axis of the card, and presented to the DM (from whose viewpoint "upright" and "reversed" are judged). After each person finishes drawing, the drawn cards are returned to the deck, and it is reshuffled by the next drawer. (In case the DM cannot obtain a real Tarot deck, each card has been given a number for the use of percentile dice; a card will be reversed or upright on a 50% chance. No card can be received more than once by the same drawer.)
+
+The effects of the Tarot are instantaneous unless noted otherwise, and should be noted immediately by the DM (silently); characters will not notice any change until they perceive it in terms of how it alters their abilities or activities. The effects are irrevocable unless otherwise stated, short of a wish for the Major Arcana, or a limited wish for the Lesser Arcana.
+
+If the effects of a card would raise or reduce an ability score to a level outside racial limitations, the DM can choose to effect change in another ability if possible within those same limits, in this order: Constitution, Charisma, Wisdom, Dexterity, Intelligence, Strength. If a character loses one point or more from an ability score and is therefore no longer qualified to be a member of the class he or she was pursuing, then the character loses the right to be in that class and (if not multiclassed) must begin anew as a 1st-level character in some other class. If the lost points are replaced later by some other means, the character may resume study in the class that he or she was forced to abandon.
+
+Above all, bear in mind that this is an artifact, not the tool of a chaotic game for foolhardy or suicidal characters; it should be handled with respect and gravity. (Whether the random aspects of the deck make its use an act of chaotic nature is a matter decided between lawful characters, their deities, and the DM.)
+
+The effects and values of the individual cards in AD&D game terms, given in the following text, are based on their divinatory and symbolic meanings. (The effects of draws made by characters are printed in italic type, with "upright" effects always given first.) Space does not allow for fuller explanation of details.
+
+## THE MAJOR ARCANA
+
+### 00: The Fool
+
+The Fool is a quirky and variable character; he may be clad in the fool's cap and motley of a jester (or joker), or in gorgeous, elaborate, and costly (though not cumbersome) vestments. A staff and pouch over his shoulder, a little dog behind him, he strides blithely into the world. The Fool is often seen dancing at the brink of the precipice, for his is the folly (and the wisdom) of childhood, the innocence of the babe and the mischief of a child.
+
+Upright, the Fool signifies unformed potential, the need to make choices and the necessity of making the right choice, the wisdom of fools and the follies of the wise. *Drawer gains one more draw, but the new draw does not count unless the card drawn is one with an effect that is mostly good for the drawer.*
+
+---
+
+<!-- page 384 -->
+
+## 04: The Emperor (Reversed)
+
+Reversed, this card signifies thoughtless action, folly; choices must be made, but may well be faulty. Effect as above, but the subsequent card must be mostly bad in effect.
+
+## 01: The Magician
+
+The Magician stands at a table on which are various articles: swords, wands, pentacles, cups, dice, balls, bells, or others. One hand holds a double-ended wand toward the heavens, the other points to the earth; over his head is a lemniscate curve, the symbol of eternity and infinity. The table, which resembles an altar, is surrounded by growing things. Represented here is the rational mind, confident in its power and right to use the forces of the infinite to reshape the world of matter.
+
+Upright, The Magician signifies will, mastery, the ability to manipulate the universe through rational thought, self-confidence, ability to manipulate others. Drawer gains one point of Intelligence, two points if a mage or specialty wizard.
+
+Reversed, this card signifies ineptitude, failure of will, indecision; abuse of power; disquiet; mental illness. Drawer loses one point of Intelligence, two points if a mage or specialty wizard.
+
+## 02: The High Priestess
+
+The High Priestess sits enthroned in her temple, dressed in flowing robes that obscure a scroll or a book of secret laws and wisdom she holds securely. She is the mother of wisdom, sometimes identified with Isis or Diana; the queen-protector of hidden knowledge and occult mysteries.
+
+Upright, she signifies serene knowledge, sagacity, intuition, foresight, inspiration, the power of the inner mind to heal, create, enlighten, and inform. Drawer gains one point of Wisdom, two points if a cleric or priest.
+
+Reversed, she signifies superficiality, conceit, shallowness, a lack of depth, perception, or understanding; an acceptance of external and superficial "knowledge," of trivialities. Drawer loses one point of Wisdom, two points if a priest or cleric; in the latter case, receives one new proficiency.
+
+## 03: The Empress
+
+Royal and matronly, the Empress sits enthroned among rich fields, clad in opulent garments, and crowned with a starry, open crown. Befitting her position, she bears a scepter, for hers is the realm of universal fecundity and wealth.
+
+Upright, she signifies material wealth, productivity for farmers and creative workers, profitability for merchants, practical application of knowledge. The next time treasures are divided, the drawer will receive some item which turns out to be worth an extra 3d6 (×1,000) gp; but even the drawer will not notice until at least three days later.
+
+Reversed, she signifies poverty, sterility, inability to produce; waste or dissipation of resources. The next time treasures are divided, the drawer will receive an item which proves to be worthless (a seemingly magical mace which actually has Nystul's magic aura on it, or a "ruby" which is actually cut glass, and so on) as the largest part of a treasure share, but will not notice for at least three days.
+
+## 04: The Emperor
+
+Regal and fatherly, the Emperor sits upon his throne, with open spaces surrounding him for a domain. He wears royal robes, and in his hands bears a scepter and an orb of rulership. His crown is simple but majestic. He is the active principle, the ruler of the visible, material world through law.
+
+---
+
+<!-- page 385 -->
+
+## 05: The Hierophant
+
+Upright, he signifies leadership, strength of mind, dominance, law, control of natural drives, stability, power, conviction, and protection. A lawful drawer gains two points of Charisma; a chaotic drawer must successfully save vs. poison or suffer confusion for 2d4 months; a neutral drawer is unaffected.
+
+Reversed, he signifies immaturity, confusion or loss of control, ineffectiveness, irrationality, attempts to destroy one's authority or rights. Unless the drawer saves vs. death magic at -4 (-2 for neutrals, no penalty for chaotics), over the next four days, the PC gradually goes insane in one of the following ways, becoming: manic-depressive, schizoid, demented (dementia praecox), or hebephrenic.
+
+## 05: The Hierophant
+
+Established in state within his temple, the Hierophant is the embodiment of the church in the world, the external pomp and ceremony of organized religion; his elaborate crown, ornate robes, and scepter of power establish him as a hierarch and a potentate. He is the link between deity and worshiper, his is the role of mediator and medium. As the High Priestess is mistress of the hidden mysteries, the Hierophant is the master of external, manifest religion, law, and morality, usually depicted ministering to, or being attended by, two lesser priests, upon whom he bestows a blessing.
+
+Upright, the Hierophant signifies the outer form of religion; social relations with the world; ritualism; conformity, traditionalism and orthodoxy; retention of outmoded ideas and attitudes; orderly hierarchies; mercy and forgiveness. Drawer gains one point of Charisma (two points if a lawful priest); priests also gain one point of Intelligence. If drawer is a priest who belongs to any organization with a hierarchical nature, religious or secular, which does not base rank solely on levels of ability, he or she will be promoted soon, in 5–25 (1d100+4 rounded up) days, after returning from this adventure. The Hierophant also serves as a *remove curse* spell for a drawer who is in need of one.
+
+Reversed, this card signifies overkindness, weakness; unconventionality, openness to novelty, unorthodoxy. Drawer gets a permanent -2 on saving throws against charm, suggestion, and other mental attack forms involving force of will; he or she also receives a permanent +4 on reaction rolls to all persons and beings. If drawer is a member of any hierarchic body (as described above), within 5–25 (1d100+4 rounded up) days of returning from the current adventure he or she will be demoted for "ineffectuality" and "lack of authority." If drawer is a chaotic priest, one point of Intelligence is gained.
+
+## 06: The Lovers
+
+A winged supernatural being hovers over a man and a woman, behind each of whom flourishes a different tree. The man looks at the woman, but she, though open to him, looks up at the supernatural messenger. The Lovers are emblematic of the necessity for the conscious mind ("intelligence") to approach the supernatural and transcendent through the unconscious ("wisdom"), for a harmonious and loving life depends on the cooperation of both parts of the mind. (In older decks the Lovers are often shown as a young man standing between two women; some different divinatory meanings relate to this older symbolism.)
+
+Upright, they signify attraction, amativeness, love; difficulties overcome, tests and trials passed. The drawer's Charisma increases by one point for every 6 points of Wisdom or Intelligence (whichever is lower), rounding down; in addition, the drawer's reaction rolls increase 1% for each point of Wisdom or Intelligence (whichever is
+
+---
+
