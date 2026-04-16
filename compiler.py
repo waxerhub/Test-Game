@@ -166,39 +166,46 @@ def run_phase2(cache: dict[int, dict], page_indices: list[int],
     print("  Prompt caching active — cost drops significantly after page 1.\n")
 
     totals     = dict(input=0, output=0, cache_read=0, cache_write=0)
-    results    = {}          # page_num → (merged, usage)
+    buffer     = {}          # page_num → (merged, usage) for out-of-order arrivals
     write_lock = threading.Lock()
-    progress   = [0]
+    next_write = [sorted(todo)[0] + 1]   # next page_num we must write
 
-    # Collect all results in parallel, then write in strict page order
+    mode = "a" if (resume and output_path.exists()) else "w"
+    out_file = open(output_path, mode, encoding="utf-8")
+    if mode == "w":
+        out_file.write(f"# {pdf_stem}\n\n")
+        out_file.write(f"> Compiled from `{pdf_stem}.pdf` — {len(page_indices)} pages\n\n")
+        out_file.write("---\n\n")
+
+    sorted_page_nums = [i + 1 for i in sorted(todo)]
+
+    def flush_buffer():
+        """Write consecutive pages from buffer in order, flushing after each."""
+        while next_write[0] in buffer:
+            page_num = next_write[0]
+            merged, usage = buffer.pop(page_num)
+            totals["input"]       += usage["input_tokens"]
+            totals["output"]      += usage["output_tokens"]
+            totals["cache_read"]  += usage["cache_read_input_tokens"]
+            totals["cache_write"] += usage["cache_creation_input_tokens"]
+            out_file.write(f"<!-- page {page_num} -->\n\n")
+            out_file.write(merged.strip() + "\n\n---\n\n")
+            out_file.flush()
+            # Advance to next expected page
+            idx = sorted_page_nums.index(page_num)
+            next_write[0] = sorted_page_nums[idx + 1] if idx + 1 < len(sorted_page_nums) else -1
+
+    # Process pages in parallel, writing each to disk as soon as its turn arrives
     with ThreadPoolExecutor(max_workers=workers) as pool:
         futures = {pool.submit(_merge_one, idx, cache): idx for idx in todo}
         for fut in tqdm(as_completed(futures), total=len(todo),
                         desc="Merging", unit="page"):
             page_num, merged, usage = fut.result()
             with write_lock:
-                results[page_num] = (merged, usage)
-                progress[0] += 1
+                buffer[page_num] = (merged, usage)
+                flush_buffer()
 
-    # Write output in sorted page order
-    mode = "a" if (resume and output_path.exists()) else "w"
-    with open(output_path, mode, encoding="utf-8") as out:
-        if mode == "w":
-            out.write(f"# {pdf_stem}\n\n")
-            out.write(f"> Compiled from `{pdf_stem}.pdf` — {len(page_indices)} pages\n\n")
-            out.write("---\n\n")
-
-        for page_idx in sorted(todo):
-            page_num = page_idx + 1
-            merged, usage = results[page_num]
-
-            totals["input"]       += usage["input_tokens"]
-            totals["output"]      += usage["output_tokens"]
-            totals["cache_read"]  += usage["cache_read_input_tokens"]
-            totals["cache_write"] += usage["cache_creation_input_tokens"]
-
-            out.write(f"<!-- page {page_num} -->\n\n")
-            out.write(merged.strip() + "\n\n---\n\n")
+    out_file.close()
 
     print(f"\n{'─'*48}")
     print(f"Output → {output_path}")
