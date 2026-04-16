@@ -1,0 +1,12 @@
+PDF:    tsr02141 Encyclopedia Magica Volume One.pdf
+Pages:  1–20  (20 pages)
+Output: test_20pages.md
+DPI:    300
+
+  Cache: 117 pages already extracted.
+Phase 1: all pages already extracted (cached).
+
+Phase 2: Claude cleanup (20 pages)…
+  Prompt caching active — cost drops significantly after page 1.
+
+Merging:   0%|          | 0/20 [00:00<?, ?page/s]Merging:   5%|▌         | 1/20 [00:01<00:26,  1.39s/page]Merging:  10%|█         | 2/20 [00:20<03:33, 11.86s/page]
