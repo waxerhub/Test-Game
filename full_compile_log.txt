@@ -1,0 +1,9 @@
+PDF:    tsr02141 Encyclopedia Magica Volume One.pdf
+Pages:  1–416  (416 pages)
+Output: tsr02141 Encyclopedia Magica Volume One_compiled.md
+DPI:    300
+
+  Cache: 117 pages already extracted.
+Phase 1: OCR with Tesseract (299 pages to extract)…
+
+Extracting:   0%|          | 0/299 [00:00<?, ?page/s]Extracting:   0%|          | 1/299 [00:07<38:45,  7.80s/page]Extracting:   1%|          | 2/299 [00:13<33:20,  6.74s/page]Extracting:   1%|          | 3/299 [00:20<33:32,  6.80s/page]

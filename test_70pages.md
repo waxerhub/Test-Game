@@ -1874,3 +1874,329 @@ This amulet does not appear to have any magical function (although it radiates m
 
 ---
 
+<!-- page 38 -->
+
+the dilation, far-reaching, or extension spells. When such a spell is cast, the amulet adds 50% to the functional effect of the spell. For example, if *extension I* is used to increase the duration of a 3rd-level spell by 50%, the wearer of this amulet can add another 50%, raising it to a 75% extension effect.
+
+## Amulet of Neutrality
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Fate of Istus*
+
+The amulet of neutrality is generally used by evil individuals to shield their evil nature and make them seem neutral to all dweomers. (Thus, *know alignment*, and similar spells show the wearer to be neutral, with respect to evil and good — *protection from evil* and equivalent spells won't keep them away.)
+
+## Amulet Noseeum
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: Unidentified*
+
+This device protects the wearer against all divination spells and magical location and detection. The wearer cannot be detected through clairaudience, clairvoyance, ESP, telepathy, crystal balls, or any other scrying devices. No aura is discernible on the wearer, and predictions cannot be made regarding the character unless a powerful being is consulted.
+
+## Amulet, Orcish
+
+**XP Value (Cursed):** — &emsp; **GP Value (Cursed):** 1,000
+**XP Value (Normal):** 1,000 &emsp; **GP Value (Normal):** 5,000
+*Source: The Orcs of Thar*
+
+Orcish witches and shamans have very limited abilities when it comes to creating magical items. They prefer sending a few hordes of bloodthirsty warriors to steal them from whoever has some. However, they can create amulets for themselves or others. Special components are required to create these amulets. These items have limited powers as described below.
+
+| Roll  | Amulet Power                              |
+|-------|-------------------------------------------|
+| 01–09 | +1 bonus to attack rolls                  |
+| 10–18 | –1 bonus to Armor Class                   |
+| 19–27 | +1 bonus to damage                        |
+| 28–36 | +1 bonus to saving throws                 |
+| 37–45 | +1 bonus to an Ability check: Strength    |
+| 46–54 | +1 bonus to an Ability check: Dexterity   |
+| 55–63 | +1 bonus to an Ability check: Wisdom      |
+| 64–72 | +1 bonus to an Ability check: Intelligence|
+| 73–81 | +1 bonus to an Ability check: Constitution|
+| 82–90 | +1 bonus to an Ability check: Charisma    |
+| 91–00 | Bonus turns into a penalty instead.       |
+
+## Palm Sign Amulet
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: Oasis of the White Palm*
+
+The palm sign is a symbol that magically appears on the palm of the woman chosen by fate to be the bride of the sheik of the oasis. The mark also appears on the palm of the woman betrothed to the sheik's firstborn son. The sheik and his son each wear the amulet. The origins of the amulet and the palm mark were lost in antiquity and no one now knows their true purpose.
+
+Martek, after his visions of the future, gave the palm sign and the amulet to the ancient leader of the Symbayans. They were to be handed down through the ages until the time when the two would be combined to tell where and how to release the djinni.
+
+Anyone who puts the amulet against the palm symbol is able to align the symbols and read clearly:
+
+*City of Phoenix over the house of Set*
+*where sleeps salvation —*
+*There speak Atmopryeemno!*
+
+---
+
+<!-- page 39 -->
+
+## Amulet of the Papyrus Scepter
+
+The message can be read only when the palm mark and the palm sign amulet are aligned together. "Atmopryeetno" is the word that releases the Djinni at the ancient (and now destroyed) City of Phoenix.
+
+The amulet itself is a weapon. It glows in the presence of efreeti, and strikes them with a beam of cold, blue light. The pain caused by the beam drives efreeti away in three rounds. The amulet also acts as a ring of fire resistance. The amulet loses its powers once it is used to free the djinni.
+
+**XP Value:** 600 &emsp; **GP Value:** 9,000
+*Source: IMAGINE Magazine #16*
+
+This amulet is a sheaf of papyrus leaves and gives the deceased renewed vigor and youth for their journey to the afterlife. It is placed on the chest on the day of the funeral.
+
+For the living, the amulet raises one score—Dexterity, Strength, or Constitution—of any user one point (to a maximum of 18). If the Strength of a warrior is 18, a user can raise his or her exceptional Strength on a 1d20 roll.
+
+Alternately, the user can choose to retrograde the aging process. If this option is selected, the character's age is reduced by one year every year for 1d6+4 years. Once this 1d6+4 year time period is complete, the character begins to age again normally, beginning at the new, younger age. This amulet can be used once.
+
+## Amulet of Perpetual Youth
+
+**XP Value:** 2,000 &emsp; **GP Value:** 20,000
+*Source: Tome of Magic*
+
+This amulet glows with a faint, blue light. The wearer has temporary immunity to the effects of both natural and magical aging; the amulet grows older instead of the wearer. As the amulet ages, it gradually becomes dimmer. It can absorb 5d6 years of aging, at which time its light dims completely, its magic negated, and the wearer resumes normal aging.
+
+## Amulet of Perpetual Youth and Inexperience
+
+**XP Value:** — &emsp; **GP Value:** 2,000
+*Source: 1992 Fantasy Collector Card 624*
+
+This amulet glows continuously with a faint, blue light and conveys immunity from aging for 5d6 years, just like an amulet of perpetual youth. Once donned, however, it cannot be removed without the aid of a *remove curse* spell or similar magical means until its magic has expired. Furthermore, the wearer cannot accumulate any experience points until the amulet is removed. A PC wearing this amulet should not be advised of this by the DM until the curse is broken—the character should continue to believe that experience points are being accumulated (unless attempting to advance while wearing the cursed item).
+
+## Amulet, Phelthong's
+
+**XP Value:** 7,000 &emsp; **GP Value:** 30,000
+*Source: Menzoberranzan Campaign Set*
+
+Named for the drow wizard of fabled powers who devised them long ago, these rare, fist-sized obsidian pendants are carved into smiling drow faces. In Menzoberranzan, they are worn only by powerful Master Mages of Sorcere. These amulets have the following powers (identical to the cited spells):
+
+- *Comprehend languages* whenever held or worn.
+- *Dimension door* twice per day, by silent command of the bearer. Use of this power extinguishes any fires within 30 feet in the round of its activation by will.
+- *Obscurement* once per day, activated by the bearer's will.
+- *Timestop* once every 12 days: This power can only be unleashed by speaking a secret word while touching the amulet to a magical item (that is then forever drained).
+
+## Amulet of the Planes
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This device enables the individual possessing it to transport instantly to or from any one of the closest levels of the Outer Planes. The journey is absolutely safe, if not absolutely sure, but until the individual learns the device, transport is random. Roll 1d6. On a 4–6, add 12 to the result of a 1d12 roll (for a result between 1 and 24). On a 1–3, do not add 12 to a 1d12 roll. Figure the total and consult the following table to determine where the amulet holder goes:
+
+| Roll  | Planar Location  |
+|-------|------------------|
+| 01–02 | Mount Celestia   |
+| 03    | Bytopia          |
+| 04    | Elysium          |
+
+---
+
+<!-- page 40 -->
+
+## Amulet of the Planes (continued)
+
+| Roll | Planar Location |
+|------|-----------------|
+| 05 | The Beastlands |
+| 06–07 | Arborea |
+| 08 | Ysgard |
+| 09 | Limbo |
+| 10 | Pandemonium |
+| 11–12 | Abyss |
+| 13 | Carceri |
+| 14 | The Gray Waste |
+| 15 | Gehenna |
+| 16–17 | Baator |
+| 18 | Acheron |
+| 19 | Mechanus |
+| 20 | Arcadia |
+| 21–24 | Prime Material Plane* |
+
+*As an alternative, the following may be substituted for totals between 22 and 24:
+
+| Roll | Planar Location |
+|------|-----------------|
+| 22 | Ethereal Plane |
+| 23 | Astral Plane |
+| 24 | Prime Material Plane, but alternate campaign world |
+
+**In a DRAGONLANCE Campaign:** The amulet of the planes does not exist on Ansalon.
+
+**In Ravenloft:** The amulet of the planes does not function in the Demiplane of Ravenloft.
+
+---
+
+## Amulet of Power
+
+**XP Value:** 12,000 &emsp; **GP Value:** 60,000
+*Source: DRAGON Magazine #5*
+
+Usable by all spellcasters, this object serves to periodically boost latent magical energy. One day each week, the number of spells (of each level) the caster may perform, and the range, duration, and power (dice, area, number affected, etc.) of those spells, is increased by 50%. An enchanter could, for example, do 6–4–3–1 spells on one day a week, rather than the usual 4–3–2–1. (Always round fractions down.) Due to the increase in spell capabilities, the target's saving throw is augmented by +3.
+
+Upon acquiring the amulet of power, a new user must wear it for 30 consecutive days before it melds properly to his or her mental capacities. After that period, the amulet becomes fully functional. Any attempts to make use of the power boost before the 30-day period is completed are all in vain.
+
+---
+
+## Amulet of Proof Against Detection and Location
+
+**XP Value:** 4,000 &emsp; **GP Value:** 15,000
+*Source: DUNGEON MASTER Guide, 1st Edition*
+
+This device protects the wearer against all divination and magical location and detection. The wearer cannot be detected through clairaudience, clairvoyance, ESP, telepathy, crystal balls, or any other scrying devices. No aura is discernible, and predictions cannot be made regarding the user unless a very powerful being is consulted.
+
+---
+
+## Amulet of Protection
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1 | 1,000 | 10,000 |
+| +2 | 2,000 | 15,000 |
+| +3 | 3,000 | 20,000 |
+| +4 | 4,000 | 25,000 |
+| +5 | 5,000 | 30,000 |
+
+*Source: Drums on Fire Mountain*
+
+This amulet, in the form of a distorted boar's head on a fine gold chain, has been specially enchanted by KalnaKaa. It has the properties of a ring of protection +3, but it also protects any lycanthrope wearing it from the effects of wolfsbane. KalnaKaa can wear it in both pig and human form.
+
+---
+
+## Amulet of Protection from Alignment Change
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: Old Empires*
+
+This magical talisman has a ruby as its centerpiece. The amulet protects the wearer against the effects of magic designed to fundamentally alter a person's alignment. While this does not protect characters from spells that charm them into actions that they wouldn't normally perform, it does prevent the effects of a helm of opposite alignment and similar items. It cannot stop the alignment reversal process of an artifact or relic, but (DM's option) it may slow it down.
+
+---
+
+## Amulet of Protection from Crystal Balls and ESP
+
+**XP Value:** 4,000 &emsp; **GP Value:** 15,000
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+The wearer of this item is protected from being spied upon with crystal balls and any type of ESP.
+
+---
+
+<!-- page 41 -->
+
+## Amulet of Protection from Good
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: DUNGEON Magazine #11*
+
+This item is worn by all temple guards and priests of evil deities. The amulets are created by a special process known only to higher-level priests. Each amulet, shaped like a distorted skull, is worn in plain view and serves as an unholy symbol. A +2 bonus is given to the wearer's Armor Class as long as the wearer remains evil, and a +1 attack bonus is applied when fighting good-aligned creatures.
+
+## Amulet of Protection from Sleep
+
+**XP Value:** 500 &emsp; **GP Value:** 2,000
+*Source: DRAGON Magazine #91*
+
+When worn on a chain or on a cord around the neck, this object prevents its wearer from falling asleep, either natural or induced, magical sleep. The wearer is always alert under its influence, and cannot be affected by sleep spells, potions, or poisons that cause sleep, nor the sleep gaze of a jackalwere, or any other item or procedure that causes sleep or drowsiness.
+
+The amulet of protection from sleep can be worn as long as desired. However, after three days of continuous use, the wearer begins to have mild and infrequent hallucinations. These effects increase in frequency and intensity each day after that. After seven straight days of sleeplessness, the user is afflicted by a form of insanity, determined by a roll of 1d6:
+
+| Roll | Induced Dementia |
+|------|-----------------|
+| 1 | Dementia Praecox |
+| 2 | Delusional Insanity |
+| 3 | Schizophrenia |
+
+**1 Dementia Praecox:** The afflicted character is quite uninterested in any undertaking when suffering from this form of madness. Nothing seems worthwhile, and the individual is filled with lassitude and a tremendous feeling of ennui. No matter how important the situation, it is 25% likely that the distressed character chooses to ignore it as meaningless.
+
+**2 Delusional Insanity:** Similar to megalomania, in this state, the deluded person is convinced that he or she is a famous figure — a monarch, demigod, or similar personage. Those who fail to recognize the true nature of the afflicted arouse great hostility. In normal affairs, the individual seems sane, but acts in a manner appropriate to a station that he or she does not actually hold, gives orders to actual or imagined creatures, and draws upon monies or items that do not exist.
+
+**3 Schizophrenia:** This form of insanity strikes suddenly and violently (1 in 6 chance per turn, lasting 2d6 turns, then 1 in 6 chance per turn to return to normal). The afflicted can become hysterical, enraged, or completely maniacal. The insane character shrieks, raves, and behaves in a violent manner, possessing 18/50, 18/75, or 18/00 Strength according to the state he or she is in.
+
+| Roll | State | Strength |
+|------|------------|----------|
+| 1–2 | Hysteria | 18/50 |
+| 3–4 | Enragement | 18/75 |
+| 5–6 | Mania | 18/00 |
+
+(Note that even nonfighters can possess exceptional Strength during this state, as can nonhuman races.) The lunatic is unreasonable when spoken to, but he or she possesses great cunning. The afflicted person seeks to either avoid conflict or to do something (not necessarily the appropriate something) about the situation at hand. When the madness has passed, the afflicted one does not remember his or her actions while mad, believing that he or she is sane.
+
+---
+
+<!-- page 42 -->
+
+The OCR output for this page contains the continuation of the **Amulet of Inescapable Locating** (or similar cursed amulet) description, followed by the **Amulet of Protection from Turning** entry. Based on the content, I'll reconstruct the correct reading order.
+
+---
+
+Paranoia: At the onset of this derangement, the beset individual becomes convinced that "they" are plotting against him or her, spying, listening, and always nearby. As the affliction develops over several days, the tormented character becomes convinced that everyone is part of the plot. Conversations are about the paranoid character, laughter is directed at him or her, and every action of former friends is aimed at deluding the afflicted to fulfill the "plot." The paranoid is principally concerned about social positions or goods first, but as the ailment progresses, he or she "realizes" that the plotters are actually after his or her life. A paranoid displays signs of increasing suspicion, taking elaborate precautions with locks, guards, devices, and food and drink. In the later stages of paranoia, the victim exhibits extremely irrational behavior, may hire assassins to do away with "plotters," or even become homicidal in order to protect his or her life. Paranoids trust absolutely no one when the affliction is in the advanced stage, regarding their former close associates and friends as their worst enemies.
+
+5–6: Hallucinatory insanity: This malady causes the sufferer to see, hear, and otherwise sense things that do not exist. The more exciting or stressful a given situation, the more likely the individual is to hallucinate. Common delusions are: ordinary objects that do not exist, people nearby or passing when there are no people, voices giving information or instructions, abilities or forms that the character does not really possess (Strength, wings, gills, etc.), threatening creatures appearing from nowhere, etc. It is 50% likely that the afflicted individual behaves normally until stimulated or under stress. Hallucinations commence and continue for 1d20 turns after the excitement or stress passes.
+
+The hallucinations stop immediately if the amulet is taken off before seven straight days of use, but if the wearer is stricken by insanity, this condition persists until removed by a *heal*, *restoration*, or *wish* spell, or by similar magic. If the amulet is worn for 10 consecutive days, the wearer dies when the 10th day has passed. No magical cures can offset this effect, and the character can only be brought back to life by a *raise dead*, *resurrection*, or *wish* spell. The amulet does not provide a substitute for sleep; it merely postpones the need for it. A character who goes without sleep by using the amulet eventually has to make up for this deficiency.
+
+To make up lost sleep, a character only needs to sleep one half-hour for each hour of lost slumber. This does not apply when the deficit is a full night's sleep (8 hours or less); in that case, lost sleep must be made up on an hour-for-hour basis. The wearer of the amulet is not penalized for lack of sleep (except by the side effects described above). Lost hit points are regained at the normal rate, and a spellcaster's ability to study and memorize spells is not impaired by lack of sleep as long as the amulet is worn.
+
+The amulet can be removed at any time, either by the wearer or someone else. If the wearer has lost 16 hours (two nights) of sleep or less when the amulet is removed, he or she is able to remain awake for up to one hour, if engaged in fairly strenuous physical activity. (No one drops off to sleep in front of an onrushing dragon, for instance.) If the amulet has been used to postpone sleep for longer than two nights, the wearer immediately falls asleep when the amulet is removed, and cannot be awakened by normal means for 1–6 hours thereafter. A *haste* or similar spell can restore the character to consciousness (but not provide any lasting effects) for the duration of the spell. Until a character has made up all lost sleep, he or she fights at –1 to attack rolls for every 8 hours of sleep (or any portion of that) that have not been made up. The amulet may be worn by any character class, and functions indefinitely without need for recharging.
+
+---
+
+## Amulet of Protection from Turning
+
+| Variety | XP Value | GP Value |
+|---------|----------|----------|
+| +1 | 1,000 | 5,000 |
+| +2 | 1,500 | 7,500 |
+| +3 | 2,000 | 10,000 |
+| +4 | 2,500 | 12,500 |
+| +5 | 3,000 | 15,000 |
+
+*Source: The Hidden Shrine of Tamoachan*
+
+This is an amulet of silver and turquoise. It allows any creature who is being turned to save vs. turning with a bonus to its roll, depending upon the variety at hand.
+
+---
+
+<!-- page 43 -->
+
+## Amulet of Psionic Interference
+
+**XP Value:** 5,000 &emsp; **GP Value:** 7,500
+*Source: DARK SUN Campaign Set*
+
+This item scrambles the wearer's psionic abilities, rendering the user incapable of making any psionic power checks. The device creates a magical field around the wearer's mind that does not eliminate Psionic Strength Points, but interferes with them so that they cannot be called upon for power checks. The amulet does not interfere with the wearer's ability to recover psionic strength points. Only the person who places the amulet can remove it. If someone puts it on, he or she can easily remove it, but if it was placed there by another, it cannot be removed without a *remove curse* or *wish* spell.
+
+## Amulet of Psionic Reflection
+
+**XP Value:** 2,500 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine #99*
+
+The ancient githyanki/mind flayer wars spawned a number of interesting, psionically related magical items and weapons. Among them is the githyanki amulet of psionic reflection, a small, ornate device that is pinned to a headband and placed so that it is centered on the user's forehead. The wearer is protected from all Psionic Blast attacks; the protection does not extend to anyone else. In addition, if a Psionic Blast is cast upon the person wearing this amulet, the amulet itself generates a Psionic Blast in the direction of the attacker, at ½ the strength of the original attack (round fractions down). If the wearer is psionic, he or she cannot fire a Psionic Blast without being destroyed.
+
+This device is generally used by githyanki scouts operating alone on missions into illithid lairs. Wearing these amulets is considered a great honor, and githyanki go to great lengths to recover lost amulets. Mind flayers are equally enraged to see such an amulet if they recognize it for what it is. Only humans, githyanki, and githzerai may use this item; psionic demihumans and nonpsionic characters are neither aided nor injured by it.
+
+## Amulet of Psychic Protection
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: D&D Expert Rules Set*
+
+This amulet is good against both crystal balls and ESP. The wearer of this item is automatically protected from spying by anyone using a crystal ball or any type of ESP.
+
+## Amulet of Recall
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Ghost Tower of Inverness*
+
+The amulet of recall can teleport or plane shift its user (and anyone touching the user) and all carried gear, to its symbiont point. The amulet's symbiont point is the last location in which it lay, untouched by any living creature, for 30 days or more.
+
+## Amulet Shakti
+
+**XP Value:** 6,000 &emsp; **GP Value:** 60,000
+*Source: DUNGEON Magazine #45*
+
+When called to battle, Cosette uses a small figurine at her belt called a shakti. When she speaks the command word, the shakti surrounds her in scintillating blue-green armor (AC 0) and arms her with two short swords +1 that give off electrical discharges when they hit an opponent (2d6+1 hp damage) on an attack roll of 20.
+
+## Amulet Shell of Protection from Sharks
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: Otherlands*
+
+This amulet is always in the form of a beautifully polished seashell half. When worn around the neck, it creates a circle of protection with a 10-
+
+---
+
