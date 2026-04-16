@@ -287,3 +287,339 @@ PHB = Player's Handbook
 
 ---
 
+<!-- page 8 -->
+
+# Random Power Tables for Artifacts
+
+*Source: Book of Artifacts*
+
+Although complete descriptions of the magical powers of many artifacts are given, there are many items that lack detailed explanations. Random tables for determining unlisted powers are presented here. To discover the powers of an artifact, find the appropriate table in this section and either select one appropriate to your campaign, or roll the dice.
+
+The tables provide broad categories to define a wide variety of artifact powers. DMs are urged to select powers from the lists, rather than rely on dice rolls. Blind chance can easily lead to unusual and illogical results, destroying the continuity of an artifact's nature and history, as well as disrupting your campaign. There are only a few items where a completely random selection is truly appropriate. It works well with the horn of change, and possibly even with a device like the machine of Lum the Mad. With these items, randomness is a basic property, but randomness is applicable to few others.
+
+In addition to selecting powers, the DM must also decide how the power is applied. A suggested use is given for most powers, but this can hardly account for all possible shapes, forms, and usages. A character can strike an enemy with the sword of Kas, but that would be quite a trick with Heward's mystical organ. As a guideline, hand held items (swords, scepters, etc.) should touch the target to activate a power, while those items that are worn are activated by thought or spoken command. The large, immobile items (like the machine of Lum the Mad) either have immediate effects on characters or charge them with powers that can be released later. The machine could immediately increase prime requisite ability scores or provide the knowledge needed to cast a fireball (for a single use, or even once per day!) into a character's mind.
+
+Most of the random artifact powers duplicate existing spells and have the same restrictions. Obviously, magical items never require material components. Spells that vary by level should operate as if cast by a 20th-level wizard or priest (within the limitations of the spell), unless otherwise noted. Powers marked in *italic boldface* are unique spells found in the *Magic* tome.
+
+Some random artifact powers are unique. These are described where they appear, but because of the necessity to be brief, not every rule can be covered. DMs are once more encouraged to resolve these as they think best. Individual judgments add to each campaign's unique flavor. As an aid to designing new artifacts, each table has a brief description of its category.
+
+Two of the tables below—Table 1-19: Nature and Table 1-20: Necromancy—are not used in this book. They are provided to round out the collection for those DMs who want to design their own artifacts.
+
+The tables cannot include every possible power an artifact might have. In addition to the tables here, there could be others based on any imaginable topic. Those who want more variety should add whatever powers they need, creating new tables when necessary. Nor should anyone consider themselves limited to AD&D game rules. Other genres—horror, science fiction, as well as your own imagination, can provide inspiration for the creation of new and unique magical items. For example, many of the mutations found in the GAMMA WORLD™ game could become strange and wonderful powers in a bizarre, other-worldly device. In short, have fun, expand, experiment.
+
+**In Ravenloft:** Due to their unusual power and purpose, artifacts and relics may transcend the limitations of Ravenloft. At the DM's discretion, spells cast from an artifact or relic are unchanged by the demiplane (as are any spell-like abilities). These powerful items may even help characters escape from Ravenloft. An evil artifact may not want to leave, however. Furthermore, any character who owns an evil artifact or relic must make a Ravenloft powers check once a week.
+
+### Table 1-00: Abjuration
+
+Abjuration primarily negates properties and powers. Unlike offensive spells, these powers do not destroy, rather they remove enchantments, bindings, and the like.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast *abjure* (3/day) |
+| 2 | Cast *avoidance* between a creature and the user (1/day) |
+| 3 | Cast *banishment* by touch (1/week) |
+
+---
+
+<!-- page 9 -->
+
+| Roll | Power |
+|------|-------|
+| 4 | Instantly dismiss an elemental (1/week) |
+| 5 | Cast dismissal upon any planar creature by touch (1/week) |
+| 6 | Cast dispel evil/dispel good (1/day) |
+| 7 | Cast dispel magic by touch (1/day) |
+| 8 | Cast holy word/unholy word (1/week) |
+| 9 | Cast Hornung's random dispatcher by touch (1/week) |
+| 10 | Cast imprisonment/freedom by touch. Imprisoned creatures are freed by naming them (1/month). |
+| 11 | Cast knock (3/day) |
+| 12 | Cast lower resistance (1/day) |
+| 13 | Have minor spell turning continually in effect while the artifact is in hand. Roll 1d4 to determine the maximum level of the spell turned. |
+| 14 | Cast purify food & drink on all items within a 10' radius of the artifact (1/day) |
+| 15 | Cast remove curse by touch (3/day) |
+| 16 | Have repel insects in a 10' radius in constant effect while the artifact is held |
+| 17 | Cast repulsion upon one named creature (1/week) |
+| 18 | Cast spell turning for two turns duration (1/day) |
+| 19 | Dispel illusions within a 60' radius (3/day) |
+| 20 | Have turn wood continually in effect while the artifact is in hand |
+
+## Table 1-01: Cataclysm
+
+Cataclysms cannot be intentionally called upon by an artifact's owner. They occur at random intervals. While a character might get lucky and trigger an incendiary cloud just as orcs storm the stronghold, the cataclysm takes no sides. Human defenders and orc attackers are equally vulnerable to the artifact's vengeance — even the artifact's owner. All of the cataclysms described here affect a minimum area one mile in diameter.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast acid storm to rain down upon the area of effect for two full turns |
+| 2 | Create a permanent aura of desolation that settles over the area of effect. Individuals of good alignment are haunted by terrifying dreams and suffer −2 penalties to THAC0 and saving throws while evil creatures gain +2 penalties to the same. Plants twist and wither, crops fail, and herds grow sickly. |
+| 3 | Blanket the area of effect with a blizzard, dropping temperatures to 0° F and inflicting 1d6 points of damage per hour to those unsheltered. Overland movement is impossible. The storm lasts 1d6+12 hours and snows remain 1d3 days (summer), 2d6 days (spring/fall), or 2d20 days (winter). |
+| 4 | Ravage the area of effect with call lightning for 72 hours (432 bolts), randomly striking any targets |
+| 5 | Create a cloudkill spell upon the area of effect for 1d6 hours |
+| 6 | Form a ring of creeping doom around the area of effect that constricts in a solid blanket inward, not diminishing until the center is reached (4 hours to reach center). |
+| 7 | Settle a death fog over the area of effect that remains in place for 2d20 rounds |
+| 8 | Strike the area of effect with a permanent drought. All water present or brought into the area of effect evaporates instantly. |
+| 9 | Hit the area of effect with an earthquake spell. |
+| 10 | Rain a firestorm down upon the area of effect for 2d6 rounds |
+| 11 | Flood the entire area of effect, destroying buildings and fields. All living creatures unable to fly risk drowning in the rushing waters. The waters recede to safe levels in 1d6 hours but remain for 2d20 days. |
+| 12 | Sweep an incendiary cloud through the entire area of effect |
+| 13 | Settle an insect plague upon the area of effect for 1d6 hours that, besides other spell effects, destroys all plants. |
+| 14 | Instantly create a permanent magic-dead area of effect. Nonartifact magical items do not function in the zone, spellcasting is impossible, and all existing spells are negated, including permanent enchantments on creatures. Summoned beings are driven back to their own plane. |
+| 15 | Create a meteor swarm to rain down upon the area of effect for 1d12 hours (8 spheres/round, or 480/hour), randomly striking targets within the area of effect |
+| 16 | Create a permanent spiral of degenera- *(continues on next page)* |
+
+---
+
+<!-- page 10 -->
+
+Only artifacts remain unaffected.
+
+| Roll | Power |
+|------|-------|
+| 17 | Create a permanent wildzone in the area of effect |
+| 18 | Transfer the whole area of effect to a randomly chosen lower plane. The artifact is not transported. |
+| 19 | Strike the entire area of effect with a storm of vengeance. |
+| 20 | Create permanent wolf spirits to guard the area of effect; they are hostile to all nonanimal life forms. |
+
+### Table 1-02: Combat
+
+The powers on this table are associated with weapons and generally give advantages in melee combat.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cause paralyzation by touch (3/day) |
+| 2 | Provide initiative each combat round |
+| 3 | Have blur constantly in effect while the artifact is in hand |
+| 4 | Cast choose future (1/day) |
+| 5 | Provide double attacks per round |
+| 6 | Cast energy drain by touch (1/week) |
+| 7 | Cast fire shield (1/day) |
+| 8 | Cause an opponent to fumble (7/day) |
+| 9 | Cause an opponent to suffer greater malison (7/day) |
+| 10 | Imbue the user with the skills to use the weapon, despite class |
+| 11 | Cast harm upon an opponent struck by the weapon (1/week) |
+| 12 | Cast improved invisibility (1/day) |
+| 13 | Cast mirror image (7/day) |
+| 14 | Imbue the user with the combat skills to use two weapons at no penalty |
+| 15 | Weapon is aware of its surroundings. The user is never struck from behind and never suffers penalties for blind fighting. |
+| 16 | Cast slay living upon an opponent struck by the weapon (1/week) |
+| 17 | Imbue the user with all benefits of weapon specialization |
+| 18 | Cast Tenser's transformation upon the user (1/day) |
+| 19 | Function as a vampiric regeneration ring |
+| 20 | Cast warband quest (1/month) |
+
+### Table 1-03: Conjuration
+
+The powers here relate to the ability to summon creatures or objects from other places or to create things out of thin air.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast aerial servant (1/week) |
+| 2 | Cast animal horde (1/month) |
+| 3 | Cast animal summoning I–III — the user chooses the creature summoned (1/day) |
+| 4 | Cast animate object (1/day) |
+| 5 | Cast call lightning (1/week) |
+| 6 | Cast a conjure elemental spell of the user's choice (1/week) |
+| 7 | Cast Leomund's secure shelter (1/day) |
+| 8 | Cast fabricate (1/day) |
+| 9 | Call upon Leomund's secret chest at any time, using the chest to store the artifact when not needed |
+| 10 | Cast maze (1/week) |
+| 11 | Cast monster summoning I–VII with user choosing the monster summoned (1/week) |
+| 12 | Cast prismatic sphere (1/week) |
+| 13 | Summon 1d4 berserkers as a horn of Valhalla (1/week) |
+| 14 | Summon a genie (1/week) |
+| 15 | Summon an invisible stalker (1/week) |
+| 16 | Cast summon shadow (1/week) |
+| 17 | Inscribe a symbol of the user's choice (1/week) |
+| 18 | Cast trap the soul upon a creature by touch (1/month) |
+| 19 | Cast unseen servant to be constantly at hand to serve the user |
+| 20 | Cast weather summoning (1/week) |
+
+### Table 1-04: Cursed
+
+These powers usually affect only the owner of an artifact. Once a curse triggers, the presence of the artifact is not important, since the effect centers on the character and not on the item. Most curses end when the character voluntarily surrenders the artifact, whether it is given up, lost, or stolen.
+
+| Roll | Power |
+|------|-------|
+| 1 | Instantly pollute all holy water within 30' of the user |
+| 2 | Reduce the user's Charisma by 1d4 points |
+| 3 | Inflict a −1 penalty on the user's saving throws vs. magic |
+
+---
+
+<!-- page 11 -->
+
+| Roll | Power |
+|------|-------|
+| 10 | Inflict a -2 penalty on the user's saving throws vs. poison |
+| 11 | Cause the user's touch to rot away wooden items the size of a bow or less in 1d4 days |
+| 12 | Cause the user's touch to kill plants (inflicts 1d6 points of damage to plant-based creatures) |
+| 13 | Cause NPC reactions to the user to be neutral or worse |
+| 14 | Inflict insatiable hunger upon the user, who must eat a full meal once every waking hour |
+| 15 | Instantly change the gender of anyone handling an artifact for the first time |
+| 16 | Inflict deafness upon the user, who then can only hear when people shout. Spellcasters must shout their spells to be successful. |
+| 17 | Inflict an incurable disease upon the user. At the beginning of each month a saving throw vs. death magic must be made to avoid losing 1 point of Constitution. When the user's Constitution reaches 0, death occurs. |
+| 18 | Cause the user's touch to have a 50% chance of draining the magic from any item not an artifact |
+| 19 | Inflict 5d10 points of damage upon anyone handling the artifact for the first time |
+| 20 | Cause a 50% chance of the user being struck by a geas each time a power of the artifact is used. The geas must be completed before the artifact can be used again. |
+| 15 | Age the user 1d10 years each time the artifact is used. Although the user suffers all the effects of aging, death by old age is not possible as long as the artifact remains in possession. |
+| 16 | Afflict the user with lycanthropy |
+| 17 | Cause the user's touch to be poisonous (saving throw vs. poison or 2d12 points of damage are inflicted) |
+| 18 | Inflict photosensitivity upon the user, who suffers a -1 penalty to all die rolls while in daylight |
+| 19 | Cause the user's personal possessions to gradually disappear as if lost. Little things disappear first, then larger possessions, until the user is stripped of all worldly goods. |
+| 20 | Cause the user to become forgetful, starting with small details and progressing until full amnesia occurs |
+
+### Table 1-05: Detection
+
+These powers are oriented toward finding and discovering things hidden, but not necessarily unknown. Unless noted, these powers are in effect whenever the artifact is held or worn.
+
+| Roll | Power |
+|------|-------|
+| 1 | Provide a +1 bonus to the user's surprise rolls while the artifact is in hand |
+| 2 | Imbue the user with all benefits of the appraisal proficiency |
+| 3 | Have comprehend languages constantly in effect while the artifact is in hand |
+| 4 | Have detect charm continually in effect while the artifact is in hand |
+| 5 | Cast detect evil/detect good (3/day) |
+| 6 | Detect illusions (3/day) |
+| 7 | Cast detect invisibility (3/day) |
+| 8 | Cast detect magic (3/day) |
+| 9 | Cast detect poison (3/day) |
+| 10 | Have detect snares & pits constantly in effect while the artifact is in hand |
+| 11 | Detect stonework traps |
+| 12 | Cast detect undead (3/day) |
+| 13 | Cast emotion read (3/day) |
+| 14 | Cast extradimensional detection (3/day) |
+| 15 | Cast find traps (1/day) |
+| 16 | Have infravision continually in effect while the artifact is in hand |
+| 17 | Cast locate object (3/day) |
+| 18 | Cast true seeing (1/day) |
+| 19 | Cast wizard eye (3/day) |
+| 20 | Cast wizard sight (3/day) |
+
+### Table 1-06: Divination
+
+Divination is the complement of detection, revealing things unknown or uncertain. Unlike most detection abilities, these powers tend to reveal intangibles—things that cannot and could not have been seen without the aid of the power. In most cases the artifact must be touched against the desired target of the power.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast analyze balance by touch (7/day) |
+| 2 | Cast augury (3/day) |
+| 3 | The user communes with the deity affiliated with the artifact. Questions about the… |
+
+---
+
+<!-- page 12 -->
+
+### Table 1-06: Divination (continued)
+
+| Roll | Power |
+|------|-------|
+| — | Questions about the artifact are not answered (1/week). |
+| 4 | Cast *consequence* (1/day) |
+| 5 | Permits the wielder to use *contact other plane* through the artifact, which selectively screens out all information relating to itself or its powers (1/week) |
+| 6 | Cast *detect lie* upon any creature within 10' (3/day) |
+| 7 | Cast *detect scrying* (1/day) |
+| 8 | Cast *divination* (1/day) |
+| 9 | Cast *divine inspiration* (1/day) |
+| 10 | Cast *ESP* by touch (3/day) |
+| 11 | Cast *find the path* (1/day) |
+| 12 | Cast *foresight* (1/week) |
+| 13 | Cast *identify* by touch (1/day) |
+| 14 | Cast *know alignment* by touch (3/day) |
+| 15 | Cast *moment reading* (3/day) |
+| 16 | Cast *past life* (3/day) |
+| 17 | Cast *patternweave* by touch (1/day) |
+| 18 | Cast *personal reading* upon a creature by touch (3/day) |
+| 19 | Cast *read magic* by touching the artifact to written material (3/day) |
+| 20 | Cast *stone tell* by touch (3/day) |
+
+### Table 1-07: Elemental Air
+
+These powers grant knowledge of or control of the elemental forces of Air. Most function identically to the spell of the same name. Some are activated by the touch of the artifact while others transfer their power to the wielder.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast *aerial servant* (1/week) |
+| 2 | Cast *cloud of purification* (2/day) |
+| 3 | Cast *cloudkill* (1/day) |
+| 4 | Cast *conjure air elemental* (1/week) |
+| 5 | Cast *control winds* (3/day) |
+| 6 | Create a windstorm equal to a djinni's whirlwind. The storm lasts for 1 full turn (1/day) |
+| 7 | Have *feather fall* constantly in effect while the artifact is in hand |
+| 8 | Cast *fly* (3/day) |
+| 9 | Change the user (and all possessions carried) into a gaseous form, vulnerable only to area-effect spells. The user can remain gaseous for 2d6 rounds and can move at full normal movement rate (1/day) |
+| 10 | Cast *gust of wind* (5/day) |
+| 11 | Cast *solid fog* (1/day) |
+| 12 | Cast *stinking cloud* (3/day) |
+| 13 | Cast *wall of fog* (3/day) |
+| 14 | Cast *weather summoning* (1/day) |
+| 15 | Cast *wind walk* (1/day) |
+| 16 | Cast *wind wall* (1/day) |
+| 17 | Have *zone of sweet air* (10' radius) continually surrounding the user while the artifact is in hand |
+| 18 | Open a portal to the Elemental Plane of Air. The passage can be traversed in both directions and the portal remains open for 1 hour. Any creature may use the portal. |
+| 19 | Imbue the user with immunity to the hostile environment found on the Elemental Plane of Air and the ability to fly through it normally while the artifact is in hand |
+| 20 | Send messages in a fashion similar to a *whispering wind*. The user need only know the name of the recipient before whispering a message to the sky. The user's voice reaches its target within 24 hours, if that person is on the same plane (at will). |
+
+### Table 1-08: Elemental Fire
+
+These powers grant knowledge of or control of the elemental forces of Fire. Most function identically to the spell of the same name. Some activate by the touch of the artifact while others transfer their power to the wielder.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast *chariot of Sustarre* (1/week) |
+| 2 | Cast *conjure fire elemental* (1/week) |
+| 3 | Cast *delayed blast fireball* (1/day) |
+| 4 | Imbue the user with the ability to breathe a cone of fire 30' x 10', inflicting 1d6 points of damage per level (1/day) |
+| 5 | Cast *fire burst* (3/day) |
+| 6 | Imbue the user with the ability to assume the form of a small fire elemental, changing body and possessions into flame. All within 5' suffer 2d6 points of damage each round (successful saving throw vs. spell reduces damage by one-half) and the user's physical blows inflict 2d6 points of damage per hit. The user is immune to all types of fire. The form lasts 2d6 rounds. |
+| 7 | Cast *fire shield* (1/day) |
+
+---
+
+<!-- page 13 -->
+
+### Table 1-08 (continued): Elemental Fire
+
+| Roll | Power |
+|------|-------|
+| 8 | Cast fireball (3/day) |
+| 9 | Cast fireflow (3/day) |
+| 10 | Cast flame strike (1/day) |
+| 11 | Cast flame walk (3/day) |
+| 12 | Cast Forest's fiery constrictor (1/day) |
+| 13 | Imbue the user with immunity to the hostile environment found on the Elemental Plane of Fire while the artifact is in hand |
+| 14 | Cast light (3/day) |
+| 15 | Cast Malec-Keth's flame fist (3/day) |
+| 16 | Have protection from fire constantly in effect while the artifact is in hand |
+| 17 | Imbue the user with the ability to sculpt normal fire by hand (no damage suffered). The fire can be fashioned into any shape the user is capable of making, but does not gain any special powers because of it. Sculpted fire holds its form for 1d6 turns before returning to normal. |
+| 18 | Cast sunray (1/day) |
+| 19 | Cast wall of fire (1/day) |
+| 20 | Open a portal to the Elemental Plane of Fire. The passage can be traversed both ways and the portal remains open for 1 hour — any creature may use it. |
+
+### Table 1-09: Elemental Water
+
+These powers grant knowledge of or control over the elemental forces of Water. Most function identically to the spell of the same name. Some are activated by the touch of the artifact while others transfer their power to the wielder.
+
+| Roll | Power |
+|------|-------|
+| 1 | Cast airy water (3/day) |
+| 2 | Cast cone of cold (1/day) |
+| 3 | Cast conjure water elemental (1/week) |
+| 4 | Transform small quantities of liquids into holy water (or unholy water, depending upon the item's nature) by touch. Up to 1 pint can be transformed (3/day). |
+| 5 | Cast create water (1/day) |
+| 6 | Cast ice storm (1/day) |
+| 7 | Shoot a watery blue beam at a single target. If struck, the target must roll a successful saving throw vs. death magic. If the saving throw fails, the target is slain as the victim melts into a puddle of ooze. If the save is successful, the target still suffers 2d8 points of damage. This power is not effective on water-based creatures or those that lack solid structure (puddings, oozes, jellies.) (1/day). |
+| 8 | Empower any basin of water to function as a magic font spell by touch (1/day) |
+| 9 | Cast metamorphose liquids by touch (at will) |
+| 10 | Cast Otiluke's freezing sphere (1/day) |
+| 11 | Cast part water (3/day) |
+| 12 | Imbue the user with immunity to the hostile environment found on the Elemental Plane of Water and with the ability to breathe normally there while the artifact is in hand |
+| 13 | Render any small body of water into a reflecting pool (1/day) |
+| 14 | Imbue the user with all sailing and navigation proficiencies for as long as the artifact is in the user's possession |
+| 15 | Transform any small body of water into a time pool (1/day) |
+| 16 | Cast wall of ice (1/day) |
+| 17 | Imbue the user with water breathing while the artifact is in hand |
+| 18 | Imbue the user with the abilities of water walk while the artifact is in hand |
+| 19 | Transform the user's body into liquid. The character can move through water at normal movement speeds and takes the form of a water weird. The user retains all normal abilities but cannot venture more than 30' away from a large body of water. The user is immune to water-based attacks and suffers only half damage from electrical attacks. Fire-based attacks cause double damage, while cold-based spells cause no damage but force the user to revert to true form. The power lasts for 1d6 hours or until canceled by the user (1/day). |
+| 20 | Open a portal to the Elemental Plane of Water. The passage can be traversed both ways and the portal remains open for 1 hour. Any creature may use the portal. |
+
+---
+
