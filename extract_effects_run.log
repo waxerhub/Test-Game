@@ -78,4 +78,11 @@ Processing 1394 items with 3 workers …
   Rate limit [Laeral's Storm Armor], retry in 15s…
   121/1394 (8%)  latest: Lemmikainen's Armor  122/1394 (8%)  latest: Armor of Missile Attraction  123/1394 (8%)  latest: Mourner's Armor  124/1394 (8%)  latest: Oyori of the Unknown Warrior  125/1394 (8%)  latest: Armor of the Mon (continued)  126/1394 (9%)  latest: Armor, Plate of Solamnus  127/1394 (9%)  latest: Laeral's Storm Armor  128/1394 (9%)  latest: Armor of Presence  129/1394 (9%)  latest: Armor Quirk  130/1394 (9%)  latest: Armor of Possession  131/1394 (9%)  latest: Armor of Rage
   Rate limit [Armor of Rainbow], retry in 15s…
-  132/1394 (9%)  latest: Raji's Armor of the Desert Evening  133/1394 (9%)  latest: Red Armor of the Hellfurnaces  134/1394 (9%)  latest: Red Dragon Scale Mail  135/1394 (9%)  latest: Armor of Reflection
+  132/1394 (9%)  latest: Raji's Armor of the Desert Evening  133/1394 (9%)  latest: Red Armor of the Hellfurnaces  134/1394 (9%)  latest: Red Dragon Scale Mail  135/1394 (9%)  latest: Armor of ReflectionLoading /home/user/Test-Game/encyclopedia_magica_vol1.xlsx …
+Processing 1394 items with 3 workers …
+
+  1/1394 (0%)  latest: Cloaked Wizardry  2/1394 (0%)  latest: Anything Item  3/1394 (0%)  latest: Aquatic  4/1394 (0%)  latest: Racial Enhancements
+  JSON parse error [Weightless Item]: Expecting value: line 1 column 1 (char 0)
+  5/1394 (0%)  latest: Weightless Item  6/1394 (0%)  latest: Amulet of Charm Resistance  7/1394 (0%)  latest: Amulet of Caterpillar Control
+  JSON parse error [Drow Treasure]: Unterminated string starting at: line 18 column 12 (char 1651)
+  8/1394 (0%)  latest: Drow Treasure  9/1394 (0%)  latest: Amulet of Charming  10/1394 (0%)  latest: Amulet of Cheetah Speed  11/1394 (0%)  latest: Amulet of Communication  12/1394 (0%)  latest: Amulet of Dragon Warding  13/1394 (0%)  latest: Amulet of Finding  14/1394 (1%)  latest: Amulet of Dramatic Death  15/1394 (1%)  latest: Amulet of Furyondy's
