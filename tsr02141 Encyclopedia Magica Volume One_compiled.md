@@ -8254,3 +8254,1612 @@ This can only be reversed with a *wish*.
 
 ---
 
+<!-- page 132 -->
+
+(continuing the Bag of Beans II table entries)
+
+| Roll | Effect |
+|------|--------|
+| 82 | side. Though it does great amounts of damage (20d10 hp; saving throw vs. death magic required if 50+ hp taken) to anything it lands on, only the very slow or very stupid should be unable to get out of its way. Have each character near the bean make an Intelligence check on 1d20 to notice the falling wall or its shadow and escape. |
+| 83 | A nest of 1d4+3 eggs springs from the ground. If an egg is eaten, a save vs. poison must be made. The person gains a point of Intelligence if the save is successful, but dies otherwise. |
+| 84 | A pillar of stone 30 feet in diameter rises from the ground and lifts all creatures in the area 100 feet into the air. The pillar vanishes in 1d4+2 turns, dumping anyone still on it. |
+| 85 | A simple silver headband appears on the head of the bean planter. It cannot be removed, and it reduces the character's level to zero. The planter retains all acquired hit points and ability scores, but is effectively a normal being. The person may assume a new profession and gain experience and levels in this class. The DM may allow the character to later perform a difficult quest for a patron deity or alignment. At the completion of the quest, the silver headband disappears forever, and the character can add the new experience point total, keep the original profession, or keep both classes. |
+| 86 | An area 30 yards in diameter about the bean turns into a sand pit. All creatures within that area must make Dexterity checks or be drawn all the way down to its center. There, lying in wait, is either—an ant lion of maximum hit points, an underground cavern, or a one-day gateway to another dimension. |
+| 87 | The bean transforms into a ball of soft pastel light that floats up from the ground and approaches the nearest character. If the light is allowed to touch a character, each item worn must save vs. disintegration or be transmuted into nonmagical glass. But the character adds one point to the lowest ability score. |
+| 88 | The planter becomes imprisoned within the bean. Crystal balls and various divination spells reveal what happened to the character. The person can be freed of the bean only by the spells *wish* or *freedom*, or if another creature volunteers to take the character's place. |
+| 89 | The bean turns into a black-purplish gem, shooting up from the ground and embedding itself in the bean planter's forehead, inflicting 1d12 hp damage. After that, whenever the character is injured, the gem drains any charged magical items, such as wands, within 20 feet of his or her person. For every charge drained, the character is healed for 1 hp. Only one charge is drained per round. This is not a voluntary power; it occurs whether the character wills it or not. As side effects, the character's eyes turn blood red, fingernails grow long, teeth become pointed, and the planter's hair grows white. These effects can be undone only with a *wish*, but the character is otherwise unaffected. |
+| 90 | Some creatures within 120 yards of the bean shrink while others grow: 01–50 Creature shrinks to 50% of normal size. 51–00 Creature's size doubles. Both effects last 12 turns. |
+| 91 | A tombstone springs up with the name of the bean planter engraved on it. The character faints for 2d4 rounds, unless aroused earlier. For 1d4 weeks afterward, the planter has a –4 penalty to all saving throws against magical fear. |
+| 92 | The bean becomes a powerful magnet, drawing all ferrous metallic items within 60 feet into it. All characters in metallic armor are held paralyzed until helped out of the armor. Metallic items can be pulled out of the area of effect only with Strength rolls to bend bars and lift gates. All items are considered 10 times their normal weight when carried from the magnet within its area of effect. The magnetic effect ends in 24 hours. The bean then turns into a 5,000 gp gem. |
+| 93 | A disembodied, fanged maw appears in the air 4 feet off the ground; only the huge teeth are visible. The mouth, *(continued)* |
+
+---
+
+<!-- page 133 -->
+
+The OCR output for this page is a continuation of the **Bean** magic item's random effects table (entries 93–00), followed by two new items. I'll reconstruct the correct reading order.
+
+---
+
+*(Continuation of Bean random effects table — entries 93–00)*
+
+| d100 Roll | Result |
+|-----------|--------|
+| 93 | A rolled-up tapestry appears. Engraved within its pattern is a symbol of death. The tapestry also shows a fairly accurate map to an ancient, undiscovered treasure horde (but not an unguarded horde). |
+| 94 | An ogre wizard suddenly appears over the planted bean and attacks the planter of the bean. Besides its normal powers, an ogre mage can use any power that is used upon it. For example, it could cast a spell previously used against it or attack several times in one round if attacked by someone with the same ability. The ogre mage uses a randomly determined, magical polearm that may be gained as treasure. |
+| 95 | A seemingly normal apple tree grows. It holds 1d10+20 fruit, 2d4 of which will behave as randomly determined magical potions or elixirs (not oils) if eaten. At least one apple is poisonous. While a person picks apples, branches in the tree quietly attempt to steal small trinkets from the character. The branches have an 80% chance to pick pockets, taking one item per round and hiding such items among its leaves. The tree and all stolen items vanish after one hour, though any apples picked remain behind, staying fresh and retaining all powers for one month. |
+| 96 | A small pyramid bursts upward from the ground. If its simple interior is investigated, a mummy with maximum hit points is found, wielding a fully charged staff of withering and talisman of ultimate evil. If the mummy is slain, it turns into gold dust worth 1d10×1,000 gp. |
+| 97 | A pair of bulettes with maximum hit points burrows out of the earth, attacking and devouring as many victims as they can in 20 rounds, then return to the earth. If slain, each has a magical shield of random type as one of its back scales. |
+| 98 | The area around the bean is struck by a fire storm (as the 7th-level priest spell). |
+| 99 | A totem pole grows 20 feet into the air. A magic mouth on the pole demands a suitable sacrifice from the bean planter. If a monetary treasure is given, the character is given a magical weapon (roll on the appropriate tables in the last volume of this encyclopedia). If magical treasure is given, the character is granted a wish that must be used within the hour. If a sacrifice is not given, the pole permanently drains two points from the character's main attribute. |
+| 00 | A two-handed, dancing sword (MV 15; THAC0 13; #AT 1) rises from the ground and begins to strike at random targets. Though no physical attack can harm it, it is affected by magical attacks, such as fireball, lightning bolt, or transmute metal into wood. |
+
+---
+
+## Beltpouch of Disappearance
+
+**XP Value:** — &emsp; **GP Value:** 1,250
+*Source: POLYHEDRON Newszine #47*
+
+This highly dweomered belt pouch acts as a bag of holding (200 gp), but it is actually cursed.
+
+Once every 24 hours, the pouch opens a rift into the Astral Plane and dumps its contents, closing one round later. Living things can fall through the rift only if they are small enough to fit completely into the pouch (rats, birds, or characters using diminutive magic).
+
+---
+
+## Bag of Bones
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: Tome of Magic*
+
+This item, usable only by priests, is a small, ordinary leather pouch that contains a number of tiny bones. When the bones are scattered over a 40 by 20 yard area and the word of command is spoken, a unit of skeletons immediately springs from the ground. This unit comprises eight BATTLESYSTEM® rules figure skeletons (80
+
+---
+
+<!-- page 134 -->
+
+(continuing the Bag of Bones entry from the previous page)
+
+skeletons) armed with swords. (The statistics for this unit are: AD 6, AR 8, Hits 1, ML n/a, MV 12. Hits from piercing and slashing weapons are reduced by half.)
+
+The unit unconditionally obeys the combat orders of the priest, never checking morale. The unit fights until totally destroyed or until the sun sets (at which time the remaining skeletons crumble into dust). Roll 1d100 on the table below to determine the type of bag found.
+
+| Roll  | Bag of Bones type                                                                     |
+|-------|---------------------------------------------------------------------------------------|
+| 01–66 | The bag is a "one-shot" magical item. Once the bones are used, they are gone forever. |
+| 67–00 | The bag magically replenishes itself every sunset if the bones have been used.        |
+
+A bag of bones works only on a battlefield in the full heat of battle. (For the purposes of this definition, a "battlefield" is a place where units are in conflict and where at least 100 individuals per side are involved.) The unit never splits up, and obeys no orders other than to enter combat.
+
+Certain war deities may frown upon the use of undead or conjured troops, believing them to be unworthy and cowardly. Priests worshiping these deities may suffer divine consequences if they choose to use a bag of bones.
+
+In Ravenloft: this bag can be used to create a small army of skeletons (80 of them). The bag works only in battles where at least 100 creatures per side are involved. This condition is rarely met in Ravenloft. In the rare event that this bag is used, double the normal number of skeletons appear (to 160). The user must also roll a Ravenloft powers check.
+
+---
+
+## Bucknard's Everfull Purse
+
+**XP Value:** (Type I) 1,500 &emsp; **GP Value:** (Type I) 15,000
+**XP Value:** (Type II) 2,500 &emsp; **GP Value:** (Type II) 25,000
+**XP Value:** (Type III) 4,000 &emsp; **GP Value:** (Type III) 40,000
+*Source: DUNGEON MASTER Guide*
+
+This item is a leather pouch or small bag, but this magical poke is most useful to its owner: Each morning it duplicates certain coins—and possibly gems as well. When found, the purse is full of coins. If totally emptied, and left so for more than a few minutes, the magic of the purse is lost, but if one coin is left within the bag, the next morning many coins can be found inside. The type of coins found is determined by consulting the table below.
+
+Once the type of bag is determined by roll, its abilities do not change. Roll percentile dice to learn which type of bag has been found:
+
+| Roll  | cp | sp | ep | gp | pp | gems |
+|-------|----|----|----|----|----|------|
+| 00–50 | 10 | 5  | —  | 1  | —  | —    |
+| 51–90 | 20 | —  | 5  | 1  | 2  | —    |
+| 91–00 | 20 | —  | 5  | 2  | —  | 10   |
+
+In a DRAGONLANCE Campaign: Bucknard's everfull purse does not exist on Ansalon.
+
+In Kara-Tur: when opened, the purse contains:
+
+| Roll  | Fen | Yuan | Tael | Ch'ien | Gems |
+|-------|-----|------|------|--------|------|
+| 01–50 | —   | 10   | 5    | —      | —    |
+| 51–90 | 20  | —    | 5    | 1      | —    |
+| 91–00 | 20  | —    | 5    | 2      | 10   |
+
+---
+
+## Bag of Devouring
+
+**XP Value:** — &emsp; **GP Value:** 1,500
+*Source: DUNGEON MASTER Guide*
+
+This bag is an ordinary sack, which may appear empty—it might hold beans. The sack is, however, a lure used by an extradimensional creature—this is one of its feeding orifices.
+
+Any substance of animal or vegetable nature is subject to "swallowing" if it is thrust within the bag. The bag of devouring is 90% likely to ignore any initial intrusions, but any time it senses living human flesh within, it is 60% likely to close and attempt to draw the whole victim in base 75% chance for success less Strength bonus for "damage," each +1 = -5% on base chance. Thus, an 18 Strength character (with +2 damage) is only 65% likely to be drawn into the bag, while a 5 Strength character (with -1 damage) is 80% likely to be drawn in.
+
+The bag radiates magic. It can hold up to 30 cubic feet of matter. It will act as a bag of holding (normal capacity), but each turn it has a 5% cumulative chance of "swallowing" the contents and then "spitting the stuff out" in some non-space. Creatures drawn within are consumed in one round, eaten, and gone forever.
+
+---
+
+## Devouring Pouch
+
+**XP Value:** — &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This pouch appears and functions as a kangaroo pouch but may cause its contents to disappear.
+
+---
+
+<!-- page 135 -->
+
+## Bag of Duplication
+
+**XP Value:** 4,000 &emsp; **GP Value:** 40,000
+*Source: POLYHEDRON Newszine #82*
+
+This finely crafted leather pouch can duplicate any nonmagical, nonliving item that weighs three pounds or less. A single item must be placed into the pouch and a charge expended for the pouch's magic to take effect. After three rounds, a permanent, duplicate item is formed, and both items can be removed from the pouch. Pouches of duplication can be used up to five times a day. They typically are found with 4d8 charges, and they can be recharged.
+
+## Ever-Full Bag of Seeds
+
+**XP Value:** 1,500 &emsp; **GP Value:** 2,500
+*Source: DRAGON'S CROWN* Sourcebox*
+
+This small, green leather pouch has a drawstring on top and a pattern of leaves embossed on it. The pouch feels empty, but any preserver wizard, non-templar priest, or druid reaching inside can draw forth a single seed. The seed, even if planted on barren ground, grows into a tree of life in four weeks.
+
+An avangion can draw an unlimited number of seeds from the bag. Lesser preserver wizards, druids, and nontemplar priests can draw a total of 1d10 seeds before the bag stops working for them. (At this point it functions for that character as it would for characters of another class.) Each seed drawn from the bag grows into (roll 1d10):
+
+| Roll | Seed         |
+|------|--------------|
+| 1    | Oak tree     |
+| 2    | Apple tree   |
+| 3    | Redwood tree |
+| 4    | Maple tree   |
+| 5    | Willow tree  |
+| 6    | Fir tree     |
+| 7    | Pine tree    |
+| 8    | Cherry tree  |
+| 9    | Cedar tree   |
+| 10   | Birch tree   |
+
+Any other class reaching into the bag draws but a handful of nonmagical seeds. If planted in fertile ground, watered and tended, they grow into:
+
+| Roll 1d6 | Seed         |
+|----------|--------------|
+| 1        | Grass        |
+| 2        | Small cactus |
+| 3        | Berry bush   |
+| 4        | Vegetable    |
+| 5        | Flowers      |
+| 6        | Vine         |
+
+## Bag of Eyes
+
+**XP Value:** 2,250 &emsp; **GP Value:** 20,000
+*Source: The Book of Marvelous Magic*
+
+This pouch is the size of a large sack (capacity 60 pounds) but has an invisible drawing of an eye upon its outer surface. When completely filled with coins of any type and commanded to function, the holder of the item can see with infravision (160-foot range). The effect lasts for four hours. All the coins in the pouch disappear when the command word is spoken.
+
+## Feedbag of Plenty
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #73*
+
+An ordinary horse's nosebag. Many horses can feed from the feedbag, yet it continues to be full of grain. If more than 10 different horses feed from the bag in one day, however, the magic is lost forever. No grain can be poured from the bag.
+
+## Food Pouch
+
+**XP Value:** 700 &emsp; **GP Value:** 3,500
+*Source: Dragon Dawn*
+
+A food pouch contains nuts, grain, and dried fruit, foods suitable for a snack or as trail rations during lengthy travels. It supplies enough food for two meals in the saddle each day.
+
+## Henry's Carpetbag of Holding
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: 1992 Fantasy Collector Card 78*
+
+Henry has kept most of his belongings in this magical bag of holding for years. The outside has become faded and worn, but the inside is full of surprises. The bag has not one, but four separate dimensional spaces within it for better organization. Each space has 200 cubic feet of volume,
+
+---
+
+<!-- page 136 -->
+
+and Henry has stored up more forgotten treasure and other items in his carpetbag than he can remember. He is constantly searching for some lost item and pulling another out, surprised that he rediscovered it.
+
+## Heward's Handy Haversack
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: DUNGEON MASTER Guide*
+
+A magical backpack of this sort appears quite ordinary, well-made and well-used. It is of finely tanned leather, and the straps have brass hardware and buckles. There are two side pouches, each of which appears large enough to hold about a quart of material, but each is similar to a bag of holding and actually contains material equal to as much as 2 cubic feet in volume or 20 pounds in weight. The large central portion of the pack can contain up to 8 cubic feet or 80 pounds of material. The pack has an even greater power — when the wearer reaches into it for a specific item, that item is always on top. Thus, no digging around and fumbling is ever necessary to find what the haversack contains. Heward's handy haversack, and whatever it contains, gains a +2 bonus on all saving throws.
+
+In a DRAGONLANCE Campaign: Heward's handy haversacks are called haversacks of order on Ansalon.
+
+## Bag of Holding
+
+| Weight Limit | XP Value | GP Value |
+|-------------|----------|----------|
+| 50 lb       | 1,000    | 5,000    |
+| 100 lb      | 2,000    | 10,000   |
+| 150 lb      | 3,000    | 15,000   |
+| 200 lb      | 4,000    | 20,000   |
+| 250 lb      | 5,000    | 25,000   |
+| 500 lb      | 7,500    | 37,500   |
+| 1,000 lb    | 10,000   | 50,000   |
+| 1,500 lb    | 12,500   | 65,200   |
+| 2,000 lb    | 15,000   | 70,000   |
+
+*Source: DUNGEON MASTER Guide*
+
+This is a common, cloth sack, about 2 by 4 feet. The bag of holding opens into a nondimensional space, and inside it is larger than the outside. No matter what is put into it, the bag always weighs the same amount. This weight, the bag's weight limit for contents, and the volume limits are determined by a percentile roll and consulting the table below:
+
+| Roll  | Weight  | Weight Limit |
+|-------|---------|--------------|
+| 01–28 | 5 lbs   | 50 lbs       |
+| 28–43 | 10 lbs  | 100 lbs      |
+| 44–57 | 10 lbs  | 150 lbs      |
+| 58–69 | 15 lbs  | 200 lbs      |
+| 70–79 | 15 lbs  | 250 lbs      |
+| 80–87 | 15 lbs  | 500 lbs      |
+| 88–93 | 35 lbs  | 1,000 lbs    |
+| 94–97 | 60 lbs  | 1,500 lbs    |
+| 98–00 | 80 lbs  | 2,000 lbs    |
+
+If overloaded, or if sharp objects pierce it (from inside or outside), the bag can rupture and become useless. The contents are then lost forever in the vortices of nilspace.
+
+## Bag of Infinite Wealth
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: DRAGON Magazine #2*
+
+This magical bag turns base metals into gold at the rate of 100 gp per day.
+
+## Jasper Thunderhand's Handy Haversack
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: 1992 Fantasy Collector Card 144*
+
+Jasper has managed to locate a Heward's handy haversack that is dwarf-sized. Other than that special feature, it is the same as other magical haversacks: it has two quart-sized side pouches that are equivalent to bags of holding, capable
+
+---
+
+<!-- page 137 -->
+
+(This page is a continuation of a "Bag/Pouch" section. The first entry is a continuation of "Jasper's Haversack" or similar, followed by standalone entries.)
+
+---
+
+of holding up to 2 cubic feet in volume or 20 pounds of weight; the central pack holds up to 8 cubic feet of volume and 80 pounds of weight. When Jasper reaches into the pack, any item he wants is always waiting on the top; and all contents of the haversack gain a +2 bonus to all saving throws.
+
+## Kangaroo Pouch
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+
+*Source: The Book of Marvelous Magic*
+
+This item can hold up to 60 pounds. When placed over the stomach (armor or clothes do not interfere), it blends in and is undetectable except to *detect invisible* spells, *true sight*, and similar spells.
+
+## Khalid's Pouch of Accessibility
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+
+*Source: 1993 Collector Card 460*
+
+Khalid's pouch functions as a normal pouch of accessibility, with one notable difference. Once in 20 times, when Khalid calls forth a particular item that he has stored in his pouch, he receives instead a random item that magically appears. This item is some sort of trinket, usually a small piece of jewelry worth between 50 and 500 gp. In exchange for this trinket, one of Khalid's stored personal items disappears forever.
+
+## Bag of Many Bags
+
+**XP Value:** 1,000 &emsp; **GP Value:** 2,500
+
+*Source: POLYHEDRON Newszine #90*
+
+This cloth sack is indistinguishable from any other sack normally found in a market square. However, if a *detect magic* spell is cast, a faint aura of evocation magic is discovered.
+
+The sack can hold any mundane or magical items placed within it—to the normal capacity of the bag. However, its magical nature cannot be called into play unless it is empty. When placed on the ground and the word "backpack" is spoken, the bag of many bags transforms into a normal canvas backpack. The words "flask," "small sack," "large sack," "belt pouch," "bucket," "vial," and "waterskin" have like effects on the bag.
+
+## Nithian Saddlebags
+
+**XP Value:** 800 &emsp; **GP Value:** 2,400
+
+*Source: The Emirates of Ylaruam*
+
+Recently a poor fisher of the Nithian coastal plain drew up a sealed lamp with a net. He opened the sealed lamp and freed a djinni, who rewarded him with these saddlebags, from which may be drawn a sumptuous feast three times daily. The quality of the food is reputedly fit for a sultan.
+
+## Noj's Bag of Misplacing
+
+**XP Value:** — &emsp; **GP Value:** 500
+
+*Source: 1992 Fantasy Collector Card 381*
+
+Noj "the Double-Edged" thought that this item was a bag of holding until it lost half his equipment. A bag of misplacing is like a bag of devouring except nothing disappears forever in it (and it doesn't seem interested in devouring Noj, either). The bag merely misplaces items for random periods of time (usually when they're most needed). The upside of this bag is that it is very old and has misplaced some interesting items. When Noj reaches in for an item, he could come up with anything, including (randomly rolled) magical items (60% chance). Of course, some of them may be cursed!
+
+## Pictish Bag of Fiends
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+
+*Source: Gods, Demigods, & Heroes*
+
+This magical device summons 10d10 creatures from its interior. It is 16 inches by 30 inches and seals with beeswax. The fiends are half man, half bird, with 35 hit points. They are as strong as a fire giant and will not attack anything lying flat on the ground. Their saving throws and attack rolls are comparable to 5th-level warriors.
+
+## Bag of Plenty
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+
+*Source: The Book of Marvelous Magic*
+
+This pouch is small and can hold only 100 gp at most. If the user places up to 10 coins within the pouch and leaves it closed for 24 hours, the pouch changes the coins to the next higher value. Thus, 10 cp can be changed into 10 pp by leaving them in the pouch for four days. No change occurs if more than 10 coins are left inside. The pouch cannot affect platinum pieces. The upgraded coins may be used normally, and are not magical.
+
+## Protection Pouch
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+
+*Source: DRAGON Magazine #73*
+
+A soft suede leather pouch (size varies). Any glass or ceramic item in the pouch will not break if the pouch itself is not penetrated or destroyed. For example, a hammer blow on the pouch would
+
+---
+
+<!-- page 138 -->
+
+## Pouch of Accessibility
+
+**XP Value:** 1,500 &emsp; **GP Value:** 12,500
+*Source: DUNGEON MASTER Guide*
+
+This normal-seeming pouch is actually a strongly magical item that can contain up to 300 pounds in 30 specially constructed pockets. Each pocket holds a maximum of 10 pounds, or 1 cubic foot of volume, whichever is reached first.
+
+This device also enables the possessor to open it and call forth the items needed. Merely speaking the name of a desired object causes it to appear at the top of the pouch, ready for instant grasp.
+
+These pouches are similar to bags of holding and portable holes, and the strictures about placement within such magical spaces apply fully. The pouch weighs one pound empty and four pounds when filled.
+
+## Pouch of Holding
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: The Temple of Elemental Evil*
+
+These apparently normal leather or cloth pouches are found in groups of 1d4+2 attached to a belt. Each pouch can hold 100 gp (or 10 pounds weight) as if it were a tenth of a pound. However, nothing larger than 1 by 2 by 3 inches can fit into a pouch, and the maximum cubic volume capacity for a pouch is 3 by 6 by 12 inches. (Thus, vials of holy water easily fit, but, normally, a dagger or wand would not.)
+
+## Pouch of Returning
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: Black Courser*
+
+This half-rotten bag contains 1 cp, 1 sp, 1 gp, and one pp. Whenever one of these coins is spent, it returns to the bag within 24 hours.
+
+## Pouch of Security
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DUNGEONS & DRAGONS Rules Cyclopedia*
+
+This item is the size of a large sack (capacity 60 pounds). Any attempt at stealing the pouch causes it to scream, "I am being stolen!" (in Common) repeatedly for one hour. Its cries can be heard to 120 feet. If its owner holds it and commands it to be quiet, it obeys, but repeats its cries if stolen again.
+
+## Seed Satchel
+
+**XP Value:** 250 &emsp; **GP Value:** 1,250
+*Source: DRAGON Magazine #5*
+
+A seed satchel contains 1d6+6 magical seeds. When a seed is dropped on the ground and a command word spoken, the seed grows into one of the features listed below. The feature or object disappears in one hour — the seed can be used once.
+
+| Roll | Effect |
+|------|--------|
+| 1 | A wyvern, commanded and controlled utterly by the one who spoke the phrase. |
+| 2 | A 100', circular forest. The type is dependant upon the climate and terrain. The user controls the density of trees, but no more than one tree per square foot is allowed. |
+| 3 | A nearly impenetrable wall of thorns, 10' high and 4' thick. The wall forms a straight line 30' long, stretching in any direction. |
+| 4 | An oak-sized, flesh-eating tree, with many limbs but slow movements. Treat as an evil treant. |
+| 5 | 50' diameter pool of acrid sulphur, 10' deep. |
+| 6 | Hollow mound of rock 15' high and 30' in diameter, with a human-sized crack in one wall for passage. The user can command the passage to close at any point, unless a creature, small-sized or larger, is within the crevice. |
+| 7 | A chasm, 10' deep, 10' across, and up to 30' long, stretching in any desired direction. |
+| 8 | Any one-use item that is immediately necessary for the user's survival. Generally a potion if severe damage has been sustained, a single-use rope of climbing if a fast escape is necessary, etc. The user gains no experience points for the grown item. The item grown cannot exceed 2,000 XP or 15,000 gp in value. |
+
+## Silent Purse
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #73*
+
+A leather drawstring purse about the size of a small fist, whether it is full of coins or holds only a few, no noise emanates from the purse. (Other objects in it make a normal amount of noise.)
+
+---
+
+<!-- page 139 -->
+
+## Skain's Satchel
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Quest Game*
+
+This handy object looks like any other leather satchel. Anyone who owns it, however, knows better. While a normal satchel allows its owner to carry 20 pounds of material, Skain's satchel is magical and has the space of a backpack inside it. Therefore, it allows a hero to carry 40 pounds of material. Any type of hero may use the satchel.
+
+## Sleeping Bag of Armor Nullification
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine #181*
+
+The sleeping bag of armor nullification is a good substitute for the various kinds of armor that allow their wearers to sleep in them. The powerful magic of this bag enables anyone wearing any suit of armor of any type to sleep in it as though he or she were unarmored. As with the special types of armor mentioned earlier, this enables adventurers camping out in the wilderness to avoid being attacked in the middle of the night before they can don their armor. The only problem is that if the enemy attacks before the warrior can get out of the bag, he or she is AC 10, since this bag totally nullifies any armor in it. In some circles, this is considered a borderline cursed item.
+
+## Bag of Teleportation
+
+**XP Value:** 2,500 &emsp; **GP Value:** 10,000
+*Source: POLYHEDRON Newszine #80*
+
+A simple, well-made leather bag, roughly 10 inches wide, tall, and deep — a few of them (5%) are as large as duffel bags. When something is put into the bag, and its drawstrings are pulled closed, the item in the bag is teleported without error to a predetermined location.
+
+Only items that can fit into the bag may be teleported. The destination is usually programmed into the bag during construction. The location is usually something obscure and related to the bag's original owner, such as "the third floor alcove of Wizzengerd's tower," or "behind the bar at Skully's." The location can be changed or established only via a *wish* or *limited wish* spell.
+
+When a bag of teleporting is found, there is initially no way to tell it apart from a normal bag. Individuals using the bag might think it a bag of devouring, as the items inside disappear. Further, there is no simple way to learn where items are being teleported. Careful use of spells such as *divination*, *contact other plane*, or *scrying* do work, however. Bags of teleporting are sought by thieves who do not want to get caught with stolen treasure, and by sages who use them for sending messages.
+
+## Bag of Transmuting
+
+**XP Value:** — &emsp; **GP Value:** 500
+*Source: DUNGEON MASTER Guide*
+
+This magical sack appears to be a bag of holding of one of the four weight-sizes described above. It performs properly for 1d4+1 uses (or more if the usages are made within a few days' time). At some point, however, the magical field begins to waver, and metals and gems stored in the bag are turned into common metals and stones of no worth.
+
+When emptied, the bag pours out the transmuted metals and minerals. Any magical items (other than artifacts or relics) placed in the bag turn into ordinary lead, glass, or wood as appropriate (no saving throw) once the effects begin.
+
+## Bag of Traveling
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+This pouch weighs 30 pounds. It contains iron rations for one week, an ordinary tent, blanket, bedroll, tinderbox, cooking utensils, six torches, six iron spikes, one flask of oil, one lantern, one full waterskin, one empty wineskin, three stakes and a mallet, two large sacks, and four small sacks. Any item may be drawn out at any time and is easily replaced in the pouch by uttering the command word. Any attempt to place additional items in the pouch bursts it and scatters the contents.
+
+## Bag of Tricks
+
+**XP Value:** 2,500 &emsp; **GP Value:** 15,000
+*Source: DUNGEON MASTER Guide*
+
+A bag of tricks appears to be a typical sack; visual examination shows it to be empty when first discovered. However, anyone who reaches inside feels a small, fuzzy object. If the object is taken from the bag and tossed from 1 to 20 feet, it turns into one of the animals on the table below.
+
+The animals obey and fight for the individual who brought them into being. The kind of animal inside a bag of tricks varies each time an animal is drawn from the bag.
+
+---
+
+<!-- page 140 -->
+
+## Bag of Tricks (continued)
+
+There are three types of bags of tricks, each capable of producing different kinds of animals. To find which kind of bag has been discovered, roll 1d10. After that, the wielder rolls a 1d8 on the appropriate table to determine the specific animal found.
+
+| Roll | Bag Type | d8 | Animal |
+|------|----------|----|--------|
+| 1–5 | Type A | 1 | Weasel |
+| | | 2 | Skunk |
+| | | 3 | Badger |
+| | | 4 | Wolf |
+| | | 5 | Giant Lynx |
+| | | 6 | Wolverine |
+| | | 7 | Boar |
+| | | 8 | Giant Stag |
+| 6–8 | Type B | 1 | Rat |
+| | | 2 | Owl |
+| | | 3 | Dog |
+| | | 4 | Goat |
+| | | 5 | Ram |
+| | | 6 | Bull |
+| | | 7 | Bear |
+| | | 8 | Lion |
+| 9–0 | Type C | 1 | Jackal |
+| | | 2 | Eagle |
+| | | 3 | Baboon |
+| | | 4 | Ostrich |
+| | | 5 | Leopard |
+| | | 6 | Jaguar |
+| | | 7 | Buffalo |
+| | | 8 | Tiger |
+
+Only one creature can be drawn at a time. It alone exists until it is slain, until one turn has elapsed, or until it is ordered back into the bag of tricks. At that point, the creature vanishes. Only then can another animal be brought forth. Up to 10 creatures can be drawn from the bag each week.
+
+## Bag of Useful Items
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: DRAGON Magazine #62*
+
+A bag of useful items is similar to a robe of useful items, but the bag is usable by any class, and the items within are miniatures, easily recognizable, that become real items when desired.
+
+## Bag of Vanishing
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: The Complete Thief's Handbook*
+
+This appears to be a simple pouch capable of carrying some three pounds. In fact, it operates as a bag of holding capable of carrying up to 50 pounds of weight while having an encumbrance of only three pounds. Furthermore, the bag of vanishing may have its drawstrings tugged tightly once per day and it just disappears for six turns; the equivalent of a *rope trick* spell will operate on the bag (although it stays with its owner) and it also has detection resistance operating on it.
+
+This bag is invaluable for smuggling, as should be obvious. The only problem is that each time the rope trick function is used there is a 5% chance that the contents vanish into the Ethereal Plane and the bag is empty when it is checked later.
+
+## Bag of Wind
+
+| Item | XP Value | GP Value |
+|------|----------|----------|
+| Bag of Aeolus | 4,000 | 20,000 |
+| Bag of Boreas | 1,400 | 7,000 |
+| Bag of Euros | 1,600 | 8,000 |
+| Bag of Notus | 1,300 | 6,500 |
+| Bag of Zephyrus | 1,200 | 6,000 |
+
+*Source: DRAGON Magazine #27*
+
+A magical bag of wind is a normal, large sack, but very careful examination of its drawstring
+
+---
+
+<!-- page 141 -->
+
+(This page is a continuation of the **Bag of Wind** entry from the previous page, followed by the **Wind Pouch** entry.)
+
+---
+
+reveals that the cord is woven of special fibers and, if checked for magic, it radiates faintly. When a bag of wind is drawn shut, a bow tied, and a magical word is spoken, the bag fills with air — appearing then like a normal sack filled with some kind of goods, clothing, or light supplies, since it appears lumpy and weighs only about 14 pounds. The possessor of the item may at any time loose the bow knot and release the wind that is contained in the bag. The command word necessary to release the wind or winds contained by one of these bags is usually written upon the container magically. Of course, the possessor may know the word in a case where an NPC initially owned the item.
+
+Each bag of wind can be used a maximum of four times before its magical powers are lost. Naturally, any such bag found might have been previously used, so the number of magical winds released can vary from one to four. The Bag of Aeolus is entirely drained if all four winds are released at once. If any one of the separate winds has been previously released, the whirlwind function of the sack does not work. The effect of the wind depends upon the type of bag of wind.
+
+Anytime a magic bag is found you may assume there is a 1 in 4 chance that it is a bag of wind rather than the type shown on the miscellaneous magic table. If a 1 is rolled, it is a bag of wind. Roll 1d6 and use the table below:
+
+| Roll | Result                          |
+|------|---------------------------------|
+| 01   | Bag of Boreas                   |
+| 02   | Bag of Euros                    |
+| 03   | Bag of Notus                    |
+| 04   | Bag of Zephynrus                |
+| 05   | Bag of Aeolus                   |
+| 06–10 | Roll again using d4 instead of d10. |
+
+**The Bag of Aeolus:** This sack contains one gust of each of the four separate winds (Boreas, Euros, Notus, Zephynrus) described below. These can be loosed one at a time, on command, and the bag retied after each such release. If the possessor wishes, however, he or she can release all four winds at once. The release equals the whirlwind effect of an air elemental, the whirlwind lasting four rounds; the four winds increase the strength of any one air elemental in range to a full 8 hit points per Hit Die, despite the number of Hit Dice of the elemental. The range of the released winds is 60 feet. Direction is determined by the mouth of the bag at the time of opening.
+
+**The Bag of Boreas:** When this sack is loosed and the command word spoken, a blast of freezing wind shoots forth. Creatures within 30 feet take 2d6 hit points of frost damage; those within 30 to 60 feet take 1d6 points of damage. Small flames and fires of nonmagical nature along the 20-foot-wide course of the wind gust are extinguished.
+
+**The Bag of Euros:** The release of this puff of air effects an area 30 feet broad by 30 feet deep. All creatures within this area are affected by a languor that causes them to deduct one pip from their initiative dice. They will also be 10% less likely to react unfavorably and attack unless they are already angry, hostile, or engaging in combat. Fires are only fanned by the release.
+
+**The Bag of Notus:** By opening this sack, the owner releases a gust of hot dry air that causes 2d4 points of damage to all within 30 feet and 1d4 points of damage to those from 30 feet to 60 feet distant and within its 20-foot-broad path. Water dwelling creatures take double damage from dehydration. All fires and flames are affected as for Boreas.
+
+**The Bag of Zephynrus:** A gentle breeze issues from this sack when it is untied, and all those within its 30-foot broad by 44-foot deep area of effect are so refreshed that they gain 1d4 previously lost hit points. In addition, all creatures within the area add one pip to their initiative rolls for the next four turns. Flame and fire are just fanned by the zephyr's release.
+
+---
+
+## Wind Pouch
+
+**XP Value:** 1,600 &emsp; **GP Value:** 8,000
+*Source: Pirates of the Fallen Stars*
+
+This looks like an ordinary leather pouch, tightly shut and bulging at the seams with contents. It weighs no more than the leather it is made from, for the pouch contains enchanted air. Once the pouch is opened, a magical wind escapes and does one of three things.
+
+A fair breeze blows a steady wind in the direction the user wants to travel. This wind is favorable and blows for one 24-hour period after it is released.
+
+A contrary wind blows a steady, if weaker, wind in the opposite direction from the course
+
+---
+
+<!-- page 142 -->
+
+of the ship's heading. This is treated as an adverse light breeze, and lasts until the ship puts ashore and waits one day before continuing its voyage.
+
+Finally, a storm wind immediately surrounds the vessel with gale force winds lasting 1d6 hours. These winds require the vessel to make seaworthiness checks each hour (described in Movement and Combat in *The Pirates of the Fallen Stars*).
+
+In all cases, the wind only affects the user's ship. However, other ships within 30 yards (one hex) of the user's ship may benefit (or suffer) from the effects of the wind, if they remain at that distance.
+
+The content of the pouch is determined randomly, using the following table:
+
+| Roll | Type |
+|------|------|
+| 1–3 | Fair breeze |
+| 4–5 | Contrary wind |
+| 6 | Storm wind |
+
+## Pouch of the Woodlands
+
+**XP Value:** 1,500 &emsp; **GP Value:** 5,000
+*Source: POLYHEDRON Newszine #82*
+
+This bag is a simple brown leather shoulder bag with green embroidery. However, in the possession of a druid, its magic becomes active, supplying the druid with an unlimited amount of seeds. A druid can call forth seeds by the handful or one seed at a time, using the bag's magic up to 24 times a day. The bag only produces nonmagical seeds.
+
+When seeds are dispensed randomly, use the chart below:
+
+| Roll | Seed | Roll | Seed |
+|------|------|------|------|
+| 01 | Acorn | 11 | Cherry |
+| 02 | Corn Kernel | 12 | Wheat |
+| 03 | Aloe Root | 13 | Thyme |
+| 04 | Maple Seed | 14 | Potato Eye |
+| 05 | Taro Root | 15 | Walnut |
+| 06 | Orchid Root | 16 | Dogwood |
+| 07 | Banana | 17 | Coconut |
+| 08 | Carrot Seed | 18 | Willow |
+| 09 | Rose Bulb | 19 | Evergreen |
+| 10 | Apple Seed | 20 | Apple Seed |
+
+## Zadron's Pouch of Wonders
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: DRAGON Magazine #62*
+
+Zadron's pouch of wonders is a magical grab bag, and inside is a great variety of magical items. It is an ordinary leather pouch with a drawstring made of silk. When found, the pouch is closed, and examination reveals that it contains a small object. To use the magic of the bag, a character must open the pouch and draw the item out. The first character to do this after the pouch is discovered becomes its owner.
+
+Each pouch produces 1d20+10 items for its owner and then teleports away to another treasure hoard to be found anew. However, only one item from the pouch can exist at any given time. Every time an item is drawn from it, the pouch remains empty for the next day, but after that there is a 5% chance per day that another item will appear in the pouch.
+
+When a new item appears in the pouch, the old one becomes useless and disappears, but the new one is ready for use. If an item from the pouch is destroyed by any other means, or if an item is put back in the pouch (if possible), it is replaced by a new item. (This does not apply to some cursed items; see individual item descriptions.)
+
+The 5% chance for a new item to be created is always assumed to be rolled at the start of the day in question. If a new item is indicated, it is created immediately—unless the pouch's owner is using the item, and the loss of the powers of the item then would directly endanger his or her life. In such a case, the creation of the new item cannot take place until the pouch's owner stops using the old item.
+
+If the owner of the pouch is killed, the pouch teleports away as if it had reached its quota, and next appears (if ever) in a different treasure hoard. The pouch does not produce new items for anyone other than its owner, but the owner can allow others to use the items taken from the pouch. However, items being used by other characters disappear instantly when the creation of a new item is indicated, despite the circumstances.
+
+The last item drawn from the pouch (the one that meets the pouch's limit) remains in existence and usable until the next creation of a new item (according to the 5% chance per day) is indicated. When this occurs, both the existing magic item and the pouch disappear. The owner of the pouch
+
+---
+
+<!-- page 143 -->
+
+(continuing from previous page — this is a continuation of the Zadron's Pouch of Wonders entry)
+
+can keep any item from the pouch as long as desired, subject only to the eventual disappearance of the item.
+
+To find what the pouch contains, roll on the table below for the type of item produced, then refer to the specific tables.
+
+| Roll | Type of Item Produced | Table |
+|------|-----------------------|-------|
+| 1 | An egg | A |
+| 2 | A glove | B |
+| 3 | A crystal sphere | C |
+| 4 | A rock | D |
+| 5 | A figurine | E |
+| 6 | A vial | F |
+| 7 | A miniature wagon | G |
+| 8 | A bag | H |
+| 9 | A card | I |
+| 10 | A piece of rope or string | J |
+| 11 | A small box with a red button | K |
+| 12 | A wand | L |
+
+### Table A: Eggs (Roll 1d6)
+
+All creatures hatched from eggs emerge in the third round after the egg is drawn from the pouch. As with all creatures conjured by the pouch, those hatched from eggs do not age.
+
+1. A copper egg from which a small, young copper dragon emerges. The dragon speaks, uses magic, and will serve the pouch owner. It can, however, only be commanded to fight for the owner three times (battles). Otherwise, it fights only in self-defense.
+
+2. A golden egg that hatches a golden-colored goose. The goose follows the pouch owner around unless forced to do otherwise, and appears to be very rare and valuable. There is a 1 in 3 chance each day that the goose becomes a living symbol of discord for one turn at a random time.
+
+3. A stone egg out of which emerges a full-grown, hungry xorn. The xorn demands from 2,000 to 8,000 gp value (2d4×1,000) in precious metal or everything the owner has, whichever is least, or else it attacks. It disappears if satisfied.
+
+4. A white egg from which issues a full-grown giant eagle. The eagle can speak the owner's language and serves the owner on the same terms as the dragon in A:1.
+
+5. A white egg with pink stripes, out of which a highly intelligent white rabbit appears. The rabbit can speak the owner's language and will serve as a scout (or whatever) for as long as the owner desires. The rabbit is AC 6, 3 hit points, no attacks, 50% magic resistance.
+
+6. A glass egg that hatches an unseen servant (80% chance) or an invisible stalker (20% chance). Either serve as described in the corresponding spells, but duration is unlimited, except as noted above.
+
+### Table B: Gloves (Roll 1d6)
+
+1. A small, light leather glove that turns into a pair of gauntlets of ogre power when it is drawn.
+
+2. As B:1, but gauntlets of dexterity are found instead.
+
+3. A glove that allows its wearer to cast a *push* spell, once per round, for up to six times per day.
+
+4. Anyone besides the owner of the pouch who puts on this glove immediately begins to choke to death, doing 2d4 points of damage per round. Only a *remove curse*, *limited wish*, or *wish* spell prevents the victim's eventual death. The glove has no effect when worn by the pouch owner.
+
+5. A glove that allows its wearer to cast one of Bigby's hand spells, except Bigby's crushing hand, once per day.
+
+6. A glove that, if used in place of a weapon, causes the wearer's fist to become a +2 weapon, does 1d4+2 points of damage per hit, and stuns (for 1d6 rounds) opponents that fail a saving throw vs. magic when hit. The latter property is effective only against creatures M-size or smaller.
+
+### Table C: Crystal Spheres (Roll 1d8)
+
+1. A large crystal sphere that opens to reveal 1d4+1 small (1-inch-diameter) crystals that glow dimly from within. Any sound originating within 1 foot of a crystal is reproduced at the same volume by the other crystals, whatever their location, allowing easy communication over any distance, but not between planes.
+
+2. A large crystal sphere that opens to reveal a pair of glass balls, each 3 inches in diameter. Looking into one of them allows the viewer to see anything within sight of the other. By turning the crystal around, the viewer can see an entire 360 degrees, just as if he or she were standing where the second crystal lies. The system works both ways, allowing a creature
+
+---
+
+<!-- page 144 -->
+
+continuing the Zadron's Pouch of Wonders entry (page 144):
+
+---
+
+3 A lens-shaped crystal that allows anyone looking through it to detect invisibility as the 2nd-level wizard spell.
+
+4 Anyone besides the owner of the pouch who holds this 3-inch-diameter crystal becomes magically imprisoned inside it, but suffers no other ill effects. The imprisonment lasts until the crystal disappears of its own accord when a new item appears in the pouch.
+
+5 This irregularly shaped crystal begins to glow with a blue light whenever hostile or potentially hostile creatures are within 50 feet, and glows more brightly as the hostile creatures get nearer. It also detects creatures like trappers, lurkers above, and piercers.
+
+6 A crystal ball 3 inches in diameter. It is usable by the owner of the pouch, whatever his or her class.
+
+7 Also a crystal ball, this item is usable by any character. However, if anyone but the owner of the pouch views a hostile creature through the crystal for 1d4+1 (number changes on each use) rounds, the viewer is teleported to the place being viewed—the crystal is not.
+
+8 A marvelous crystal that is hollow and contains small white flakes and a clear, colorless liquid. Shaking it causes the flakes to swirl in patterns wondrous to behold.
+
+### Table D: Rocks (Roll 1d8)
+
+| Roll | Description |
+|------|-------------|
+| 1 | A small stone with a word of command written on it. When the word of command is spoken within 30 feet of the stone, it grows into a 10-foot-diameter boulder in one round. Speaking the word of command a second time causes it to shrink back to normal size. The boulder does not reach full size in an area less than 10 feet wide or 10 feet high. Characters and creatures can be trapped and immobilized by the expanding stone, but it does not enlarge enough to cause them actual damage. |
+| 2 | A pebble that turns into a stone of controlling earth elementals. |
+| 3 | A stone of good luck (luckstone). |
+| 4 | A stone of weight (loadstone)—it seems to be a luckstone. |
+| 5 | A brick of flying—if thrown hard, it flies through the air. |
+| 6 | A large hollow stone that rattles if shaken. Breaking it open reveals 1d4+1 zoun stones inside. |
+| 7 | A triangular piece of stone that glows with a purple light. Once the stone is touched by anyone but the owner of the pouch, the toucher cannot be rid of it until a *remove curse*, *dispel evil*, or *wish* spell is used, or until the stone disappears. The stone imparts 50% magic resistance to the holder, allows regeneration of lost hit points at three points per round, and effectively blinds the holder to the sight of any living and animate creatures, making the holder −4 on attack rolls and damage (and all appropriate penalties). The blindness effect does not extend to nonliving creatures such as undead or inanimate living things such as trees. |
+| 8 | A stone that clings to iron or steel by means of a mysterious, unseen force. |
+
+### Table E: Figurines (Roll 1d5)
+
+| Roll | Description |
+|------|-------------|
+| 1 | A golden lion (only one); (see Figurine of Wondrous Power). |
+| 2 | An onyx dog. |
+| 3 | A serpentine owl. |
+| 4 | An ivory goat (one, selected at random). |
+| 5 | A marble elephant. |
+| 6 | A bronze figurine of a warrior with a word of… |
+
+---
+
+<!-- page 145 -->
+
+(continuing the Zadron's Pouch of Wonders entry)
+
+command written on the underside of its base. When the word of command is spoken, the figurine becomes a real warrior that serves the owner for up to three turns once each day. The bronze warrior has the following statistics: AC -2, 40 hit points, 6th-level fighter, Strength 18/01, Dexterity 18. The warrior uses a composite short bow +1, twenty arrows +1, a long sword +1, and a javelin of piercing. None of these items are magical in the hands of other characters.
+
+7. A jade sculpture of a palace. One turn after being drawn from the pouch the figurine starts growing, doubling in size each round until it becomes a real palace, 200 feet on a side and 100 feet tall at its apex. It will crush other structures or objects out of the way as it grows, but it will not grow while the sculpture is underground.
+
+8. A limestone figurine of a leprechaun, which immediately animates into a real leprechaun when drawn from the pouch. The leprechaun will plague the pouch owner and only the owner for the rest of the day, attempting to steal the pouch at every opportunity (without bringing physical harm to the owner). If the leprechaun can steal the pouch, the owner must catch the leprechaun within the same day (automatically retrieving the pouch in the act of catching the leprechaun), or both the pouch and the leprechaun disappear. The leprechaun disappears at the end of the day in any event.
+
+### Table F: Vials (Roll 1d8)
+
+1. A small ceramic vial that can hold up to 10 gallons of any liquid without increasing in size or weight. It draws or pours at the rate of 1 gallon per round, but if the vial is broken the entire contents of the vial are instantly released.
+
+2. A bottle with a label that says "Potion of ____." A stylus covered with ink is tied to the side of the bottle. If the stylus is used to fill in the blank, the contents of the vial become the potion named on the label. Until then, the vial contains poison.
+
+3. When this opaque vial is opened, the one who opened it (including the owner of the pouch) instantly assumes gaseous form and is sucked inside the vial. The vial then reseals itself and flies back into the pouch. The victim can be released if a character reaches into the pouch, withdraws the vial, and reopens it. The trapping and releasing powers of the vial work alternately in this fashion until the item is destroyed or disappears.
+
+4. An iron flask that will not be empty.
+
+5. An eversmoking bottle.
+
+6. A wheezing bottle that sucks air or any gas in and out on alternate rounds, with a capacity each time of 1d4+5 cubic feet. If the bottle is stoppered at the right moment, it can be used to store a gas for release later.
+
+7. A vial containing a potion that effectively raises any character's levels of experience for one day, with appropriate increases in abilities.
+
+8. A vial holding a potion that causes the imbiber to regenerate one hit point per turn, even after apparent death, for one day. Regeneration does not extend to magical attack forms that cause death without doing damage, such as the druidic *finger of death* spell; the priestal spell *destruction* (reverse of *reincarnation*); or the wizard spell *power word kill*, to name a few.
+
+### Table G: Miniature Weapons (Roll 1d10)
+
+All miniature weapons enlarge to the full size of the normal weapon within one round after being drawn from the pouch, unless the item's description indicates otherwise.
+
+1. This miniature boomerang grows into a full-size boomerang. This weapon may only be used outdoors or in large open spaces (minimum range 30 feet, maximum 100 feet). It always hits, does 1d4+1 points of damage, and returns to the hand of the thrower on the round after each hit.
+
+2. A small net that enlarges into Zadron's net of apprehending, a special version of the net of entrapment. It has an Intelligence of 25 and an Ego of 20, like a magical sword, and victims' saving throws are at −4. Its purpose is to capture thieves; when the net is thrown on a thief, the captured thief is instantly teleported to the nearest jail interested in the scoundrel. If the net gains control of the owner of the pouch or the owner of the net (if it is given away), it forces that person to use the net against any thief encountered (possibly another party member).
+
+3. A small arrow that enlarges into an apparently normal missile. When fired, this arrow never misses (although it may not hit the intended target). If a target is in range, and if the arrow
+
+---
+
+<!-- page 146 -->
+
+continuing from the entry for Zadron's Pouch of Wonders, this page contains table entries (continuation of tables from a previous page). The content covers parts of the item tables within the Zadron's Pouch of Wonders entry.
+
+---
+
+*(Continuation of Zadron's Pouch of Wonders)*
+
+comes to a corner, it turns 90 degrees and continues on its way, hitting the first character or creature it contacts, and doing 1d6+6 points of damage. Fifty percent of these arrows turn right, 50% turn left. The arrow continues turning corners to the limit of its range, until it hits something or can go no further.
+
+4. A tiny catapult with a command word written on it. When the command word is spoken, the model becomes a full-size, heavy catapult. Speaking the word a second time reduces the catapult to a miniature again. This process can be repeated.
+
+5. A small hammer that enlarges into a dwarven thrower +3.
+
+6. A sling of seeking +2, seven sling bullets +2, and one sling bullet that explodes as a 5 Hit Dice fireball, as the spell, on impact.
+
+7. A small sword that becomes a sword of dancing.
+
+8. A small sword that becomes a luck blade +1 with two wishes. The wishes cannot be used for selfish purposes, or else the sword vanishes and a new object appears in the pouch.
+
+9. A sword +1 with disarming ability; an opponent must save vs. magic when hit or drop his, her, or its weapon. An opponent that has already lost its weapon must save or lose its shield. Unarmed opponents or those using natural weapons are not affected.
+
+10. A club +1 that polymorphs its wielder into an ogre (no system shock roll required) for as long as the club is held. The wielder always retains his or her original personality. The ogre has the character's hit points, or 33 hit points, whichever is greater. The club does 1d10+1 points of damage. The polymorphed character attacks as an ogre if it has 33 hit points or less, and attacks as the normal character would if it has more than 33 hit points.
+
+### Table H: Bags (Roll 1d10)
+
+| Roll | Result |
+|------|--------|
+| 1 | A bag of holding. |
+| 2 | A bag of tricks. |
+| 3 | A bag of useful items, similar to a robe of useful items, but the bag is usable by any class, and the items in it are miniatures, which become real items when needed. |
+| 4 | A bag, brown in color, which contains two sandwiches, an apple, and a cookie. |
+| 5 | A small sack that is found to contain a small sack. That small sack is also found to contain a small sack ad infinitum. |
+| 6 | A bag of devouring. |
+| 7 | A magic bag that no one but a dwarf can open. |
+| 8 | It contains what appears to be a worn-out leather belt, two rusty gauntlets, a cheap blacksmith's hammer, and a scroll on which are written the letters "DEEHNRRTU." When these letters are rearranged, they spell "THUNDERER," the name of the hammer. When this name is spoken, the hammer becomes a hammer of thunderbolts, the gauntlets become gauntlets of ogre power, and the belt a girdle of hill giant strength. If this item is drawn a second time, the name of the hammer will be different, and, of course, scrambled. |
+| 9 | A bag containing a suit of invisible clothing. Anyone wearing the clothing is made invisible as a ring of invisibility, but this effect is limited to persons and creatures acquainted with the wearer. To strangers, only the clothes are invisible, not the wearer. Naturally, the magic clothing does not work if the wearer also wears nonmagical clothing underneath. |
+| 9 | This bag is found to contain treasure. This is because it is a Bucknard's everfull purse. The money found in the purse, as well as any money produced by the purse later, does not disappear when a new item appears in the pouch. |
+| 10 | A bag that functions as a bag of tricks until used in the presence of an enemy. Then it becomes a bag of monster summoning; the creature it produces is a hostile monster that attacks the bag owner and his or her companions. The monster is selected at random and will be of a level corresponding to the summoner's level. |
+
+### Table I: Cards (Roll 1d8)
+
+| Roll | Result |
+|------|--------|
+| 1 | A card with a picture of the area where the pouch owner is standing when the card is drawn. Anyone studying the card intently for one round at any time afterward is teleported without error to the place pictured. |
+| 2 | A card with a picture of fate holding a balance scale. The DM rolls secretly and determines whether the card holder (including the pouch owner) will be +4 or −4 on saving throws for as long as the card is held (equal chances for either). If the result is negative, the effects persist until a *wish* spell is used to negate the |
+
+---
+
+<!-- page 147 -->
+
+(continuing from within the Zadron's Pouch of Wonders entry — these are sub-tables within that item)
+
+effect or until 2d4 weeks have elapsed, no matter what happens to the pouch meanwhile.
+
+3. A card with a picture of a red dragon sitting on a huge pile of treasure. Writing at the bottom of the card says, "Wish you were here. Love, Gorgo."
+
+4. A card with a spell (level 2–7, of the appropriate class) written on it, usable by the viewer as if it were a scroll spell. If the pouch owner is a nonspellcaster, the card is blank until it is given to a spellcasting character.
+
+5. A random card from a deck of many things. All effects and results persist after the card disappears.
+
+6. A blank card in which the first viewer other than the pouch owner is magically imprisoned, becoming the picture on the card. If the card is damaged or destroyed, the victim suffers appropriately. The imprisonment lasts until a new item appears in the pouch.
+
+7. A set of 1d4+1 magic message cards. When the command word is spoken, one of these cards, if a message has been written on it, teleparts to the hand of the one for whom the message is intended. An extra card (besides the 1d4+1 message cards) is provided, containing the command word and other appropriate instructions.
+
+8. A card stating, in prominent letters, that the pouch owner is wanted dead or alive by the nearest local authorities, with a picture of the pouch owner, and offering a 10,000 gp reward. When this card is drawn, 100 copies of it appear in prominent places within a 50-mile radius of the location where the pouch was opened. The copies do not disappear when a new item appears in the pouch.
+
+### Table J: Ropes and Strings (Roll 1d8)
+
+1. A rope that allows a *rope trick* spell to be cast with it, as a 10th-level wizard, once per day. Usable by any class.
+2. A *rope of entanglement*.
+3. A *rope of climbing*.
+4. A ball of endless string, a sphere of string 4 inches in diameter that never winds down to nothing, no matter how much string is drawn from it.
+5. A rope that, when thrown to the ground, animates and "dances" to the amusement of all. Lively music from out of nowhere accompanies the dance, which lasts for 1d4+1 turns. The rope can dance up to three times per day.
+6. A rope that, when stretched tightly across a doorway or corridor, takes on the coloration of its surroundings to 95% undetectably. When a creature tries to step across or over it, the rope animates and acts as though a druidic *trip* spell had been cast. Twenty-five percent of these ropes act like a *snare* spell instead. Only the pouch owner or the owner of the rope (if it was given away) can safely retrieve the rope if it is of the latter kind.
+7. This rope is unremarkable save for the fact that it constantly levitates in a vertical orientation, with the bottom end staying 3 feet off the ground. Up to 1,000 pounds of weight can be tied to the rope and supported. If the limit is exceeded, the rope sinks slowly to the ground until the excess weight is taken off it. It requires little effort to pull the rope and its load along.
+8. This rope seems a *rope of entanglement* until it is used against enemies. Then it entangles the one using it (including the owner) and as many allies as possible.
+
+### Table K: Boxes (Roll 1d6)
+
+These are 3-inch-square cubes of an unknown metal with a round red spot on one face. When the owner of the pouch presses the red spot, the magic of the box is activated.
+
+1. This cube acts as a limited *cube of force*. When the red spot is pressed a field of force goes up — roll 1d6:
+
+   - 1–2: keeps out living matter
+   - 3–4: keeps out nonliving matter
+   - 5–6: keeps out magic
+
+   Charges operate the same way as with a normal *cube of force*. Determine one of the three effects above the first time the cube is used, and the cube performs the same way after that.
+
+2. A *cube of frost resistance*.
+
+3. Pressing the red spot on this cube causes it to become a 4- by 2- by 2-foot treasure chest on wheels. The red spot appears on the center of the lid of the chest. Pressing the spot a second time causes the chest to become a large, enclosed wagon, drawn by two draft horses, with a 4- by 5- by 2-foot locked compartment built in to it. The red spot appears on the center of the lid of this compartment. Pressing the spot a third time turns the wagon into a 40- by 30- by 10-foot stone cottage with a hearth,
+
+---
+
+<!-- page 148 -->
+
+furniture, and a built-in stone chest of the same dimensions as the wagon compartment, with a red spot on its lid. Pressing this spot causes the cottage to become a small cube again. Pressing the red spot 3 times in rapid succession causes the item to revert to a small cube no matter what form it is presently in. Any objects not originally part of the cube, such as persons who may enter the cottage or the wagon, are left unchanged and unharmed when the item changes form. The lone exception to this is treasure placed in the chest on wheels, which remains intact when other form changes occur. Anything in the chest moves to the compartment in the wagon, or to the stone chest in the cottage, when the appropriate form change occurs. The three respective chests are wizard locked, and only the pouch owner can open them freely.
+
+4. When the spot on this cube is pressed, a set of red numerals appears above the red spot. The numerals begin with 10 and count down one number per round after that. Pressing the red spot again after the first pressing resets the count to 10, and pressing it 3 times in rapid succession (within one round) makes the red numerals disappear. If and when the count reaches 0, the cube explodes, doing 10d6 points of damage to all creatures within 10 feet, half that amount to all others within 30 feet, and causing structural damage equal to twice that caused by a horn of blasting. Creatures who make their saving throw vs. magic at −4 take half damage. The cube can be thrown, by hand or with a sling, but will not explode prematurely no matter what happens.
+
+5. This Pandora's box releases 4d4 hostile monsters, all of which attack the one who released them (including the pouch owner) when the red spot is pressed. The monsters' Hit Dice are selected at random by rolling 1d6, the result being the level of the monster, but on a result of 6, roll again using 1d8.
+
+6. When the red spot is pushed, all nonhostile creatures within 60 feet must save vs. magic at −4 or flee in panic for 3d4 rounds. This includes the box holder as well.
+
+### Table L: Wands (Roll 1d8)
+
+1. A wand of magic missiles with 1d4+10 charges.
+
+2. See #3.
+
+3. Any one of the following wands, with 1d4+1 charges (Roll 1d8):
+   - 1: Wand of frost
+   - 2: Wand of fire
+   - 3: Wand of lightning
+   - 4: Wand of fear
+   - 5: Wand of illumination
+   - 6: Wand of polymorphing
+   - 7: Wand of conjuration
+   - 8: Wand of paralyzation
+
+4. One of three types of wands with 11–14 charges (Roll 1d6):
+   - 1–2: Wand of magic detection
+   - 3–4: Wand of enemy detection
+   - 5–6: Wand of secret door & trap location
+
+5. A wand that emits a gust of wind, as the spell, at a cost of one charge. It has 2d4 charges.
+
+6. A wand like one of those in (4) above, except that it acts as a rod of cancellation when its last charge is expended, affecting all magic items within a 5-foot radius.
+
+7. A wand that detects life (the life force) of any creature within 30 feet, including hidden or invisible creatures, for one turn at a cost of one charge. It has 2d4 charges. It cannot detect the life force of creatures smaller than a mouse.
+
+8. This item, Zadron's wand, has 1d4+10 charges, and performs as follows (wielder's choice) for the appropriate expenditure in charges: wall of force, as the spell, for one charge; mirror wall (described below), for one charge; disintegrate, as the spell, for two charges; and prismatic spray, as the spell, for three charges. A mirror wall has the same effect as the wall of force spell, but creatures may freely pass through the wall, and only creatures on the same side of the wall as the spellcaster (wand wielder) can see it. Creatures on the other side, which is a mirror, see themselves. Magic cannot pass in either direction.
+
+---
+
+## Zagyg's Spell Component Pouch
+
+| Multiplier | XP Value | GP Value |
+|------------|----------|----------|
+| 2x         | 200      | 2,000    |
+| 3x         | 300      | 3,000    |
+| 4x         | 400      | 4,000    |
+| 5x         | 500      | 5,000    |
+| 6x         | 600      | 6,000    |
+| 7x         | 700      | 7,000    |
+
+*Source: Unearthed Arcana*
+
+This item is a normal belt pouch of an unremarkable sort, although it radiates a faint magic aura if *detect magic* is used. Any wizard possessing this
+
+---
+
+<!-- page 149 -->
+
+(This page is a continuation of the Zagyg's Spell Component Pouch entry, then begins the Balance Scale section.)
+
+---
+
+The user of this sort of pouch can simply think of the material components needed for a certain spell, and they appear in the pouch. If the components are not used within 1 round after they appear, they disappear immediately, and that usage of the pouch becomes wasted. If the components are employed in spell casting, they similarly disappear in an instant when the spell is cast. The number of times per day that Zagyg's Spell Component Pouch can be used is found on the table below.
+
+| Roll  | Result      |
+|-------|-------------|
+| 01–03 | 2 times/day |
+| 04–06 | 3 times/day |
+| 07–10 | 4 times/day |
+| 11–14 | 5 times/day |
+| 15–19 | 6 times/day |
+| 20    | 7 times/day |
+
+## Balance Scale
+
+A balance is an instrument used to determine mass and weight. The nonmagical version uses a beam and counterweights to find the exact weight of goods. Magical versions, however, are often used to create a balance, to establish an impartial verdict, or to create value where, perhaps, it didn't exist.
+
+## Balance Scale of Conversion
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: The Book of Marvelous Magic*
+
+A weighing device, the balance of conversion, on command, converts any coins placed in its left-hand tray into a gem of equivalent value. The gem appears in its right-hand tray as the coins disappear. It can hold up to 1,000 coins at once, if they are in sacks. If a second command word is used, the balance operates in reverse, converting gems placed in its right-hand tray into any designated type of coins in the left-hand tray. The coins do not appear in a container and will spill. This item functions as often as desired.
+
+## Balance Scale of Harmony
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: The Hidden Shrine of Tamoachan*
+
+The balance of harmony is a set of scales that can detect good or evil. A priest places a coin or a gem with a *bless* spell cast upon it in the right pan and touches the left pan to the item or person being tested. Coins or gems of greater value have a higher chance of detecting correctly. The scales will balance if they detect good; good outweighs evil and neutrally never balances, but fluctuates back and forth. This device cannot detect poison or traps, but it does detect curses.
+
+| Chance to Detect Correctly | Price            |
+|---------------------------|------------------|
+| 30%                       | copper piece     |
+| 40%                       | silver           |
+| 45%                       | electrum         |
+| 50%                       | gold             |
+| 55%                       | platinum         |
+| 60%                       | gems worth 10 gp |
+| 70%                       | 100 gp           |
+| 80%                       | 1,000 gp         |
+| 90%                       | 10,000 gp        |
+| 100%                      | 100,000 gp       |
+
+## Balance Scale of Judgment
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This metal weighing device can reveal alignments. When any creature touches the right-hand tray, a coin appears on the left. If the being is chaotic in nature, a copper piece appears; if lawful in nature, an electrum piece appears. The coin disappears after one round. The scale may be used three times a day.
+
+## Balance Scale of Power
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+*Source: The Book of Marvelous Magic*
+
+When a gem of at least 1,000 gp value is placed on the right-hand tray, this device destroys the gem and raises any one of the user's ability scores to 18. The score raised is selected randomly unless the user announces one beforehand. The score returns to normal in 24 hours. The scale functions once a day.
+
+## Ball
+
+Most magical balls are similar to crystal balls and measure from 1 to 5 feet in diameter. The balls may be clear, opaque, or of one or more colors. Most are crystal or glass, but stone, wood, and other materials have been used to create magical balls.
+
+## Ball of Avian Attraction
+
+**XP Value:** 50 &emsp; **GP Value:** 250
+*Source: DRAGON Magazine #73*
+
+A dull, gray stone ball the size of a child's marble. When placed in open air (as opposed to a
+
+---
+
+<!-- page 150 -->
+
+(bag, pocket, or other closed container), the stone attracts all unintelligent avians that pass within 50 feet. Each avian will approach the ball and stay within 5 feet for five minutes, unless frightened away, as (for instance) by the obvious presence of unfamiliar humans. (This item is used by the wealthy to enhance bird feeders, rock gardens, and reflecting pools.)
+
+## Ball, Base
+
+**XP Value:** 1,800 &emsp; **GP Value:** 9,000
+*Source: The Book of Marvelous Magic*
+
+When set upon the ground as the command word is spoken, this ball attunes itself to that "base." After that, if the creature carrying the ball speaks a second command word, the ball teleports itself, the user, and all carried equipment to the base location. No other creature can be carried or otherwise transported in this way. Standard chances for error apply (as given in the *teleport* spell description), and the base is treated as "generally known." The base ball functions once a week—at most.
+
+## Ball, Bowling
+
+**XP Value:** 1,800 &emsp; **GP Value:** 9,000
+*Source: DRAGON Magazine #72*
+
+This is a +3 weapon that can knock over any opponent weighing 500 pounds or less that it hits. On a natural roll of 19 (mystically known as a "split"), up to two other similar opponents behind the one struck are also bowled over. On a natural 20, up to four similar opponents are similarly affected if the jock yells out the magic word "Strike!" when releasing the ball.
+
+## Ball, Cosmetology
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine #73*
+
+A glass ball (several colors possible) about 2 inches in diameter. When someone breaks the ball, places his or her face and upper body in the resulting colored smoke, and thinks about the kind of cosmetic treatment desired—it is instantly accomplished. One person per ball, cosmetic effect only (not an actual disguise). Generally found in lots of 3d6. Different colors may signify different capabilities.
+
+## Ball, Cue
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+*Source: The Book of Marvelous Magic*
+
+This ball looks exactly like a crystal ball, but no images appear in it, and it may look useless. If carried, however, it can offer advice. Whenever the user is in doubt as to a decision of any kind, the cue ball speaks in a language known to the user, offering its opinion as to the best course of action. The cue ball always has an opinion if asked for advice, though its opinion is entirely random if a random choice is the only one possible (such as the direction to take at an unexplored intersection). This ball operates by using ESP on the mind of its user, brilliantly analyzing and applying all the user's knowledge to arrive at its opinion. The cue ball can offer only three opinions per day.
+
+## Ball, Elemental
+
+| Type  | XP Value | GP Value |
+|-------|----------|----------|
+| Earth | 1,000    | 5,000    |
+| Air   | 1,000    | 5,000    |
+| Fire  | 1,000    | 5,000    |
+| Water | 1,000    | 5,000    |
+
+*Source: The Book of Marvelous Magic*
+
+There are four types of elemental balls—earth, air, fire, and water—but they are all identical to crystal balls. Upon command, an elemental ball turns into its element (stone for earth). Each holds its shape while in elemental form and resumes the original crystal appearance on command.
+
+- An air ball is useful underwater, where it can supply the user with three hours of breathable air.
+- If Strength permits, the earth ball can be used as a boulder (as if thrown by a giant) but it is treated as a +1 weapon in all respects; it is also immune to acid damage.
+- A fire ball burns the person holding or touching it for 1d4 points of damage per round of contact, though it has no effect if any sort of fire resistance applies; with a touch it will set combustible materials afire.
+- The water ball is useful in desert areas, for it cannot evaporate and provides one person with daily water for up to seven days.
+
+On the Prime Material Plane, if an elemental ball is offered to an elemental creature as a gift, it causes that creature to become neutral toward the donor and is thus useful for preventing attacks from out-of-control, summoned elementals. The
+
+---
+
+<!-- page 151 -->
+
+## Ball of Endless String
+
+**XP Value:** 120 &emsp; **GP Value:** 600
+*Source: DRAGON Magazine #62*
+
+A ball of endless string is a sphere of string 4 inches in diameter that never winds down to nothing no matter how much string is drawn from it.
+
+## Ball of Endless String (Foot)
+
+**XP Value:** 800 &emsp; **GP Value:** 4,000
+*Source: POLYHEDRON Newszine #23*
+
+When this item is placed on a surface and the command word is uttered, it follows its owner, rolling along the surface. When it is picked up, it automatically displays the exact distance it has traveled (measured in yards, contrary to its name) since the command. A second command causes it to reset, starting again at zero. The foot ball can measure a total of 20,000 yards (approximately 11 miles) per day, and can display distances accurate to within one-tenth of a yard.
+
+## Ball of Endless String (Onyx)
+
+| | **XP Value** | **GP Value** |
+|---------|-------------|-------------|
+| Inert | 30 | 300 |
+| Normal | 500 | 2,500 |
+
+*Source: DRAGON Magazine #120*
+
+This 1-foot-diameter black sphere acts just like a crystal ball, but is only capable of Clairaudience since the ball is nearly impossible to see through. Ten percent of all onyx balls are actually inert, but have Nystul's magical aura cast upon them anyway — for effect.
+
+## Ball of Power
+
+**XP Value:** 500 &emsp; **GP Value:** 800
+*Source: The Book of Marvelous Magic*
+
+This ball is identical to a ball of string, but works in an entirely different manner. When held while the command word is spoken, it causes the user to become very fearsome in appearance, brave (morale score 12, if applicable), and as strong as a hill giant (gaining a +4 bonus to hit and damage rolls, but not able to throw boulders). In addition, the ball of power protects the user from damage — the first six points of damage taken each round are magically removed as if by regeneration, but only negating up to six points taken during the same round. The ball's effects last for two turns, then the ball shrivels and disappears.
+
+## Ballistae
+
+| | **XP Value** | **GP Value** |
+|------------|-------------|-------------|
+| Heavy +1 | 1,600 | 8,000 |
+| Heavy +2 | 3,200 | 16,000 |
+| Heavy +3 | 6,400 | 32,000 |
+| Light +1 | 800 | 4,000 |
+| Light +2 | 1,600 | 8,000 |
+| Light +3 | 3,200 | 16,000 |
+| Medium +1 | 1,200 | 6,000 |
+| Medium +2 | 2,400 | 12,000 |
+| Medium +3 | 4,800 | 24,000 |
+
+*Source: War Captain's Companion*
+
+Somewhat rare items, magically enhanced ballistae are highly desirable additions on any ship. Most (65%) of the weapons gain a bonus to their attack and damage rolls. The rest (35%) of the ballistae apply the bonus to the range (speed) of the missile being shot.
+
+| Roll | Bonus Type |
+|-------|-----------|
+| 01–65 | Apply bonus to attack and damage rolls. |
+| 66–00 | Apply bonus to range (speed) of the missile. |
+
+## Balloon
+
+A magical balloon is a perfect sphere, usually transparent but occasionally tinted in a single color. The sphere may be from anywhere from 2 inches to 50 feet in diameter and is constructed entirely of magic — no matter of any kind is used. It cannot be flattened, dented, or otherwise changed in shape, it cannot be damaged by blunt weapons, nor by any magical attacks except *magic missile*, *dispel magic* (balloon is treated as 30th level), and *disintegrate* spells. However, balloons are nearly weightless and can be easily moved by any force, including blows from blunt weapons and the effects of many spells. Damage from sharp or pointed weapons cause most balloons to burst immediately; some, however, are damaged only by pointed or edged, magical weapons. If floating freely about, a balloon is treated as AC 7.
+
+A balloon may be of a single type or may combine as many as five different types. Any balloon that contains only air, gas, or fluid appears to be totally empty until burst (unless described otherwise), but any solid item inside a balloon can be easily seen from up to 30 feet away.
+
+---
+
+<!-- page 152 -->
+
+## Balloon of Traveling
+
+*This page covers several types of Balloon. Full names are given below.*
+
+---
+
+## Balloon of Traveling (Air)
+
+**XP Value:** 300 &emsp; **GP Value:** 650
+*Source: The Book of Marvelous Magic*
+
+Air balloons should not be combined with other types. If punctured carefully with a reed or tube, an air balloon releases its pure, clean air slowly. If taken underwater and tightly held while inhaling through its tube, an air balloon can be successfully used in place of a *water breathing* spell or potion. An air balloon 1 foot in diameter can provide enough breathable air for one hour of underwater travel. A 2-foot-diameter balloon provides air for four hours, and a 3-foot-diameter balloon for 16 hours. Once punctured, however, it continues to release air, despite all attempts to plug the leak.
+
+---
+
+## Balloon of Traveling (Carnivorous)
+
+**XP Value:** — &emsp; **GP Value:** 200
+*Source: The Book of Marvelous Magic*
+
+This balloon floats toward any living creature that approaches within 10 feet. It magically moves at double the movement rate of its victim, but cannot pass through solids. When close enough, it attacks, automatically hitting its victim and inflicting 2d6 points of damage caused by blood draining. It inflicts 1d6 points of damage each subsequent round. Furthermore, it does not let go until either it bursts or the victim is dead.
+
+---
+
+## Balloon of Containment
+
+**XP Value:** 200 &emsp; **GP Value:** 400
+*Source: The Book of Marvelous Magic*
+
+This balloon contains an item. The item must be smaller than the balloon's diameter. Magical items are often found in balloons of containment, usually with two or more other balloon effects for protection. When first created, a balloon can absorb any one item it touches, if small enough. If freed to seek an item of its own choosing, the balloon drifts off in a random direction. While on its search, the balloon's touch causes any unlocked nonmagical door to open. It can sense magical items within a 10-foot range, and touches each one encountered until it finds one that can be absorbed. The balloon then envelopes the item without bursting, despite weight, unless the item is an edged weapon. The balloon then stops searching and settles to the floor.
+
+---
+
+## Balloon of Traveling (Hot Air)
+
+**XP Value:** 4,200 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+This item is always found clinging to ceilings — it is never encountered outdoors. A hot air balloon is warm, easily sensed as such by infravision, and rises through cooler air. It stops if it encounters air warmed to the same temperature or upon contact with a ceiling or other obstruction. The balloon cannot be cooled, even by cold spells. If encumbered by 50 pounds of weight or less, the balloon rises.
+
+---
+
+## Balloon of Traveling (Poison)
+
+**XP Value:** 200 &emsp; **GP Value:** 400
+*Source: The Book of Marvelous Magic*
+
+When burst, this balloon releases a colorless, poisonous gas in a sphere of 10-foot radius. Each victim within range must make a saving throw vs. poison or die. Its potency can be increased so that it causes a saving throw penalty of up to −8.
+
+---
+
+## Balloon of Traveling (Rust)
+
+**XP Value:** 300 &emsp; **GP Value:** 500
+*Source: The Book of Marvelous Magic*
+
+Touching the surface of this balloon has the same effect as the touch of a rust monster. Any nonmagical metal item used to touch or puncture the balloon crumbles to rust; magical weapons may resist the effect (10% chance per magical plus). Magical metal items without pluses have a 25% chance to resist the effect.
+
+---
+
+## Balloon of Traveling (Soap)
+
+**XP Value:** 100 &emsp; **GP Value:** 200
+*Source: The Book of Marvelous Magic*
+
+When burst, this balloon releases a spray of acrid, soapy liquid to a range of 10 feet. Each victim in range must make a saving throw vs. wands or be temporarily blinded. This lasts for one turn or until the eyes are rinsed with water.
+
+---
+
+## Balloon of Traveling
+
+**XP Value:** 400 &emsp; **GP Value:** 600
+*Source: The Book of Marvelous Magic*
+
+This item floats toward any living creature that approaches within 10 feet; it magically moves at double the movement rate of its victim. When close enough, it appears to attack, automatically hitting and sticking to the victim, but it inflicts no damage. It cannot be removed except by the command word to release or by being punctured.
+
+---
+
+<!-- page 153 -->
+
+## Word Balloon
+
+*(continued from previous page)*
+
+However, the victim of the balloon may direct it, if the proper command words are known. The command to "lift" causes it to rise into the air, carrying the user, of whatever size, and up to 200 pounds of additional weight. If the 10 other command words are known, the balloon can be ordered to descend, stop, or drift toward any of eight compass points: N, NE, E, SE, S, SW, W, or NW. The rate of descent or ascent is invariably 30 feet per round. The rate of drift is 60 feet per round.
+
+## Word Balloon
+
+**XP Value:** 400 &emsp; **GP Value:** 600
+*Source: The Book of Marvelous Magic*
+
+When held, this balloon causes the user to lose his voice. However, anything the user says appears as floating letters and words, in proper order, inside the balloon. The words shrink as more are spoken, making room for an entire sentence of any length. Once a sentence is completed, the words immediately disappear. Thus, silent communication is quite possible. The word balloon does not interfere with spell casting, but neither does it display the words uttered. It does, however, display command words spoken. The words in the balloon appear in the language (and alphabet) being spoken. They can be read from any direction and from anywhere the balloon can be seen.
+
+---
+
+# Band
+
+Bands are thin, flat strips of metal, leather, or cloth used to confine or bind something. However, they also can be used as decorative accessories. Bands have been used as a statement of rank, designating an individual as a slave or someone in the service of a powerful individual. The rich often decorate their bands with gems, feathers, or needlework.
+
+## Band of the Arachnid
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: DRAGON Magazine #184*
+
+These bands are always found in pairs and are very similar in appearance to bands of the serpent. The bands are worn wrapped around the spidery legs of the neogi. Only those of that race who possess magical ability can make use of them. The wearer gains the following abilities:
+
+- The wearer receives a +2 bonus on all saving throws vs. poison. This is cumulative with other forms of magical protection.
+- The wearer is immune to the effects of any spell or spell-like ability that affects movement (*slow*, *hold*, and the like). This power is always in effect, despite the wishes of the wearer. A side effect of this ability is that the wearer can move freely through any web, magical or otherwise, like an actual spider.
+- The wearer may transform into a giant spider. The wearer gains all of the abilities listed in the MONSTROUS MANUAL accessory under Spider, Giant. The wearer retains his or her own hit point total. This transformation lasts a number of turns equal to the wearer's experience level. The wearer can transform once per day.
+
+These items neither have nor require any charges. Neogi who possess these rare items will go to great lengths to keep them. Neogi cannot wear more than one type of magical band at any time.
+
+## Band of Bird Restraint
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #73*
+
+This is a very small, flexible strip of metal. When placed around the leg of a bird, its magic prevents the bird from getting out of the building it occupies, except if physically carried away by someone. The band is too small to fit any bird larger than a hawk.
+
+## Band of Denial
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: The Ruins of Undermountain*
+
+This black ribbon, which can be worn as a garter, headband, choker, or ceremonial belt, prevents a priest or wizard from casting any spells while it is in contact with his or her skin. It does not end or prevent existing or operating spells already cast from functioning, nor does it affect the magic of items used by the wearer.
+
+It looks like a loop of black silk, no knots or clasps, but a smooth circle of cloth. The band adjusts to wherever it is worn, fitting snugly around the biceps, ankle, waist, or neck. While worn, it conceals any magical auras on or about the person, and prevents all detection, enchantment, and charm powers or spells from affecting the person. In short, though this band is a bane to spell casters, it does protect its wearer from scrying attempts through crystal balls, magical mir-
+
+---
+
+<!-- page 154 -->
+
+# Bands of the Serpent
+
+rors, and all spells except *true seeing*.
+
+A band of denial can only be destroyed by silver edged weapons, which must do at least four points of damage to cut it and destroy its magical power. It emerges unscathed from acid baths, explosions, and magical effects that destroy the body wearing it. Its properties affect only living beings, not undead or otherwise animated, nonliving creatures. It can freely be removed by the wearer, unless physical restraints prevent this.
+
+## Bands of Familiar Protection Enhancement
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,000
+*Source: POLYHEDRON Newszine #82*
+
+This item consists of two pieces, a thin band that is placed about a familiar's neck and that automatically adjusts itself to the size of the animal, and another band that is worn about the finger or on the ear of the wizard. The bands allow the familiar to travel away from the wizard a number of miles equal to the wizard's level, with no ill effects befalling the animal or wizard. In addition, twice a day, the wizard can see through the familiar's eyes for 10 minutes. The wizard can perform no other function while doing this. Familiars receive the Armor Class of the wizard, if it is higher than their own.
+
+## Iron Bands of Bilarro
+
+**XP Value:** 750 &emsp; **GP Value:** 5,000
+*Source: DUNGEON MASTER Guide*
+
+When initially discovered, this very potent item seems to be merely a rusty, iron sphere. Close examination reveals that there are bands on the 3-inch-diameter globe. Magical detection reveals strong magic of an indeterminate nature.
+
+When the proper command word is spoken, and the spherical iron device is hurled at an opponent, the bands expand and tightly constrict the target creature if a successful, unadjusted attack roll is made. A single creature of up to frost giant or fire giant size can be captured thus and held immobile until the command word is spoken to bring the bands into globular form again. Any creature captured in the bands, however, gets the chance to break (and ruin) the bands with a successful bend bars roll. Only one attempt is possible before the bands are set to be inescapable.
+
+In a DRAGONLANCE Campaign: Iron Bands of Bilarro do not exist on Ansalon.
+
+## Bands of Might
+
+| | **XP Value** | **GP Value** |
+|------------|-------------|-------------|
+| Str 18/00: | 2,000 | 20,000 |
+| Str 19: | 2,500 | 25,000 |
+| Str 20: | 3,000 | 30,000 |
+| Str 21: | 3,500 | 35,000 |
+| Str 22: | 4,000 | 40,000 |
+
+*Source: Maztica Campaign Set*
+
+These are thin bands of pluma worn around the wrists. They can greatly enhance the strength of the wearer—to 18/00, 19, or 20. The exact increase is determined by the Dexterity and Wisdom attributes of the artisan; take the lower of the two scores and add 3. This equals the strength conveyed by the wristbands.
+
+The strength conveyed is added to the hands and arms of the character, and thus benefits crushing and pummeling as well as weapon-wielding power. It does not allow the casting of boulders, such as is gained with a girdle of giant strength.
+
+| Die Roll | Strength Rating | Bonus to Hit | Bonus to Damage | Open Doors |
+|----------|----------------|-------------|----------------|------------|
+| 01–06 | 18/00 | +3 | +6 | none |
+| 07–11 | 19 | +3 | +7 | 16(8) |
+| 12–15 | 20 | +3 | +8 | 17(10) |
+| 16–18 | 21 | +4 | +9 | 17(12) |
+| 19–20 | 22 | +4 | +10 | 18(14) |
+
+## Bands of the Serpent
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+*Source: DRAGON Magazine #184*
+
+Only neogi possessing magical ability can make use of these items. These metal bands, always found in pairs, are worn wrapped around the spidery legs of the neogi and bestow the following abilities:
+
+- The wearer of the bands receives a +1 bonus on all saves vs. poison. This bonus is cumulative with other forms of protection.
+
+- The wearer can communicate with any form of reptile through a limited form of telepathy. This includes lizard men and other sentient reptiles as well as the mundane forms. This form of telepathy does not give the neogi any ability to control reptiles, however.
+
+- The wearer is able to transform into a giant poisonous snake. The wearer gains all of the abilities listed in the MONSTROUS MANUAL accessory under Snake, Giant Constrictor.
+
+- The wearer retains his or her own hit point
+
+---
+
+<!-- page 155 -->
+
+total and can transform into snake form once per day, each change taking one round to complete and lasting up to six turns.
+
+This item neither has nor requires charges. Neogi who possess these rare items go to great lengths to keep them out of the "hands" of other neogi as well as adventurers.
+
+## Banner
+
+All banners are special to those who fight beneath them, but some are invested with magical powers, either by enchantment or by the reverence of countless generations of warriors. Magical battle standards characteristically share certain traits and have particular special abilities. They are typically 9 to 12 feet long and weigh between 20 and 80 pounds. Their other common features are:
+
+- They are tough and unfading, making all item saving throws with a +3 bonus to the die roll.
+- They are inspiring. Soldiers get a +1 bonus to all saving throws and +3 bonus to morale checks while in a unit bearing such a banner (a "unit" is any organized body of troops from 5 to 100 strong).
+- They are hard to steal or capture. Any hostile soldier who manages to seize such a banner finds it twice as heavy as it should be and has a −2 penalty to all saving throws while carrying it.
+- Their powers wane and wax, depending upon whether they are being used for legitimate mass-combat purposes (the DM may declare the powers of a certain standard will fade if it has been captured by a group of adventurers). This effect is the result of the gods withdrawing their good will from such a device, the lack of proper battlefield preparation and blessing, and other causes, DM's choice.
+
+Most magical battle standards have specific attributes beyond the above abilities. Note that experience point values supersede the previously given value for standards possessing the following special attributes:
+
+Other magical banners appear much like normal scarfs, narrow blankets, or other strips of cloth. No runes or written words appear on them, but it may appear that something like a written notice is there to certain creatures, as given in each description. The words seen on such a banner are always readable if the victim has greater than animal intelligence; the words seem to be in the reader's language and alphabet. A magical banner must be displayed over or near an entrance of some kind to have any magical effect. Each magical banner affects the actions of NPCs and monsters, but usually does not affect PCs, although their curiosity is often stimulated.
+
+## Banner of Attraction
+
+**XP Value:** 1,000 &emsp; **GP Value:** 4,000
+*Source: The Book of Marvelous Magic*
+
+When seen by any creature of less than 5 Hit Dice, the banner apparently says, "Enter Here." All monsters and NPCs affected have a 66% chance of wanting to investigate the area and may be surprised when entering any door within 30 feet of the banner (−2 to surprise rolls).
+
+## Banner of Bravery
+
+**XP Value:** 4,500 &emsp; **GP Value:** 7,500
+*Source: The Book of Marvelous Magic*
+
+This banner differs from most others, since it must be carried toward an enemy or dangerous area to have magical effect. When seen by any creature of less than 5 Hit Dice, the banner apparently says, "Excelsior." Those NPCs and monsters affected who are friendly toward the banner carriers will follow the user without regard to personal safety (morale score of 12). This effect lasts for one turn at most, and occurs only once per day.
+
+## Banner, Cursed
+
+**XP Value:** — &emsp; **GP Value:** 1,200
+*Source: The Book of Marvelous Magic*
+
+This banner appears to be and functions as any other type of banner. However, after three or more creatures have been attracted or repelled by its effect, the banner becomes dangerous to touch. The victim suffers a −4 penalty to attack, damage, saving throws, and Armor Class. Once its curse is cast, it returns to normal, but it becomes cursed again if three or more creatures are attracted or repelled by it. The curse is permanent until a *remove curse* spell is cast on the banner by a 26th- or higher level caster—this remedy destroys the banner and removes the effects of the curse.
+
+---
+
+<!-- page 156 -->
+
+## Dragon Flag
+
+**XP Value:** 1,000 &emsp; **GP Value:** —
+
+*Source: Heart of the Enemy*
+
+This 3-foot-square, black cloth bears the outline of a dragon. When not in use, it is rolled into a tube and stored in a special ivory case. When unfurled and displayed on a spelljamming ship, usually from the top of a mast, it causes the entire ship to appear as an immense, three-headed multicolor dragon, spewing fire and clawing at the air. The effect is purely illusionary, and the dragon flag is commonly used to scare away predators and pirates. Because the illusion is entirely visual, without benefit of sound or smell, sophisticated observers aren't likely to be fooled for very long. The effect is subject to all the normal restrictions of an illusion, including normal chances of detection. The dragon flag can be used for one hour per day. If it is not stored in its ivory case between uses, it permanently loses its enchantment.
+
+## Banner of Ferocity
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+
+*Source: DRAGON Magazine #178*
+
+Friendly troops within 60 feet need not check morale, and save against fear and mind-control attacks at +3.
+
+## Flag of Untrue Colors
+
+**XP Value:** 750 &emsp; **GP Value:** 12,000
+
+*Source: DRAGON Magazine #145*
+
+A flag of this type appears (in its neutral state) as a large rectangular or triangular piece of dull, light-gray fabric. This magical flag is meant to be flown over a castle or keep. When it is placed atop any structure, all creatures viewing a flag of untrue colors (from any distance, including by scrying) see it either as a bold crest of a family or country the viewer deems friendly, or of any other force the viewer recognizes as benign. Whenever possible, the flag appears the same to each person in a group; what is more, if blank gray flags are flown from a structure with a flag of untrue colors, they also take on the illusory hues and colors of the magical item.
+
+Any creature with a Wisdom of 14 or higher receives a saving throw vs. spell (with Wisdom bonuses) against the flag's effect. Creatures not affected by illusions are immune to this item.
+
+## Banner of Flying
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: The Book of Marvelous Magic*
+
+If held while the command word is uttered, this banner enables the user to fly for six turns. However, while flying, the banner must be held by one end so that it flaps out behind the user. While thus displayed, it functions as a banner of insults, visible to all within 360 yards of the user.
+
+## Banner of Friendship
+
+**XP Value:** 1,250 &emsp; **GP Value:** 4,500
+
+*Source: The Book of Marvelous Magic*
+
+When seen by any creature of less than 5 Hit Dice, this banner apparently says, "Welcome!" All monsters and NPCs affected have a 66% chance of wanting to visit and, if not attacked, may be friendly to whatever they meet (+2 bonus to reaction rolls).
+
+## Holy Banner
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+
+*Source: DRAGON Magazine #178*
+
+This is a banner that gives a +2 bonus to the saving throws of all friendly troops within 60 feet who are of the same alignment in which the banner has been consecrated. In addition, it turns (or commands, for evil-aligned banners) undead as would a 12th-level priest. All hostile priestal
+
+---
+
+<!-- page 157 -->
+
+## Banner of Insults
+
+**XP Value:** — &emsp; **GP Value:** 450
+*Source: The Book of Marvelous Magic*
+
+This banner appears and functions just like any other type of banner. However, when seen by a creature of 6 or more Hit Dice, the message displayed is quite insulting and deeply personal. The message cannot be seen by humans or demihumans. The creature has a 90% chance of investigating, and probably will attack anyone nearby (–4 penalty to reaction rolls).
+
+## Banner of Law's
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: Tome of Magic*
+
+This blazing red standard has the magical ability to raise the morale of troops when held at the front of a lawful army. The banner inspires any soldier in the army who is within a quarter-mile of the banner and can see the flag. Troops inspired in this manner receive a +2 modifier to their base morale according to BATTLESYSTEM rules. In order for an army to be considered lawful, at least 90% of the troops must be of lawful alignment and no more than 1% can be chaotic.
+
+If the banner falls, the effects are lost immediately. If the banner is raised within one turn, the effect returns. If the banner is not raised within one turn, the inspired troops become filled with dread, feeling that the battle has clearly gone against their cause. The same troops now suffer a –2 morale penalty for the duration of the battle. The standard may be raised any number of times, but it only improves or impairs morale once per day.
+
+In Ravenloft: all the effects of this magical item can be used on mobs and crowds of villagers. It is up to the DM to decide if the mob or crowd is sufficiently lawful. Almost by definition a mob is a chaotic group. However, if the crowd of villagers is highly organized, the game master might rule that it is sufficiently lawful to qualify for a banner.
+
+## Banner Magic Shield
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: DRAGON Magazine 178*
+
+All hostile spells cast within 60 feet of this item have a flat 20% chance of being dispelled (including potions possessed by hostile creatures), and all unit saving throws against spells cast by hostile forces are at +2.
+
+## Pennant of Bravery
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine 72*
+
+By waving this mystical flag and yelling "Go, team, go!" a jock can cause all friendly viewers to fly into a berserk rage (+20% to morale, –2 to the attack, but +2 to damage).
+
+## Banner of Privacy
+
+**XP Value:** 1,500 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+When seen by any creature of less than 5 Hit Dice, this banner apparently says, "Keep Out." All monsters and NPCs affected have a 66% chance of wanting to leave the area undisturbed.
+
+## Banner of Protection
+
+**XP Value:** 7,500 &emsp; **GP Value:** 30,000
+*Source: Oriental Adventures*
+
+This banner is a flag that could be hoisted above a castle or palace. On it are written red characters for health, prosperity, and fame. To activate the banner, it must be affixed to the highest point on the building or compound it is to protect, and the name of the building or compound must be boldly written on the banner. Once in place, the banner extends a magical field that blocks spells of 5th level or greater. The field extends to all buildings and grounds that form a single unit, identified by the name written on it. Thus, if placed on the main building of Matsuma Castle, the field would protect all buildings that form the castle. However, the area of effect can never be greater than a 100-yard radius. The banner is only effective while it is flying in plain view. If it is cut down or removed, the protection is canceled until the banner is restored to its proper position.
+
+## Banner of Protection II
+
+**XP Value:** 2,000/bonus &emsp; **GP Value:** 10,000/bonus
+*Source: DRAGON Magazine 178*
+
+This banner provides all friendly troops within 60 feet protection from one or more specific sorts of attack. Saving throws against those attacks are at +3; successful saving throws result in ½ normal damage, and failed saves result in ½ damage. (There are 2,184 permutations of this item.)
+
+---
+
+<!-- page 158 -->
+
+| d100 Roll | Protection Granted |
+|-----------|-------------------|
+| 01–07 | Breath weapons |
+| 08–14 | Cold attacks |
+| 15–21 | Death magic |
+| 22–28 | Electricity/Lightning |
+| 29–35 | Fear attacks |
+| 36–42 | Fire attacks |
+| 43–49 | Gas attacks |
+| 50–56 | Paralyzation |
+| 57–63 | Petrification |
+| 64–70 | Poisons |
+| 71–77 | Rods |
+| 78–84 | Spells |
+| 85–91 | Staves |
+| 92–98 | Wands |
+| 99–00 | Roll Twice. This effect is cumulative (up to three times). (Add 750 XP and 7,500 GP for each additional property.) |
+
+## Banner of Renown
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: Land of Fate*
+
+This magical flag displays the moon and trailing stars of the Land of Fate, and may be used to rally and increase the morale of enlightened soldiers and other creatures. All enlightened creatures within 100 feet of the banner gain a +2 to all morale checks, and fight at +1 on attack and damage rolls. In addition, routed individuals may make another morale check, should they pass within 100 feet of the banner. The banner's magic lasts as long as its holder is alive. Should the banner bearer be slain, the banner evaporates and all benefits are immediately lost. (See Sword of the Faithful for an explanation of "enlightened.")
+
+## Banner of Terror
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: DRAGON Magazine #178*
+
+Enemies within 80 feet of this dreaded flag must make an immediate morale check. All subsequent morale checks in the zone of influence suffer a –1 penalty per 20 feet of distance as they continue to close in on the flag, to a maximum of –4.
+
+## Zen's Banner
+
+**XP Value:** 5,000 &emsp; **GP Value:** 25,000
+*Source: 1992 Fantasy Collector Card #390*
+
+This bright blue standard is like Law's banner in as much as it greatly affects the turn of a battle, yet it is very different. Zen is a strict advocate of peace and her magical banner's power reflects this. Zen's banner makes any enemy within a quarter-mile feel as though they are unjust and cruel, subtracting two from their base morale, according to BATTLESYSTEM rules. This applies even to the most evil of armies. Should the banner fall, the effects are immediately lost. Should it not be raised again within a turn, enemies are filled with blood-lust and receive a +2 bonus to base morale.
+
+## Barding
+
+After deciding the magical properties of the barding the character found, purchased, or traded for, roll on the tables below to find the type of barding, the category, and the construction materials. Please note that certain barding types do not require a roll on the materials table (for example, the different types of leather and padded armor).
+
+| d100 Roll | Barding |
+|-----------|---------|
+| 01–07 | Banded |
+| 08–14 | Brigandine |
+| 15–21 | Chain |
+| 22–29 | Elven Chain |
+| 30–35 | Field Plate |
+| 36–38 | Lamellar |
+| 39–43 | Full Plate |
+| 44–50 | Leather |
+| 51–57 | Leather Scale |
+| 58–64 | Metal Scale |
+| 65–71 | Padded |
+| 72–79 | Plate |
+| 80–84 | Ring |
+| 85–88 | Scale |
+| 89–93 | Splint |
+| 94–97 | Studded Leather |
+| 98–00 | Wicker |
+
+| d100 Roll | Barding Category |
+|-----------|-----------------|
+| 01–30 | Full Barding |
+| 31–70 | Half Barding |
+| 71–00 | Partial Barding |
+
+| d100 Roll | Armor Material | Cost Multiplier |
+|-----------|---------------|-----------------|
+| 01 | Adamantite | ×50 |
+| 02–05 | Bronze | ×.95 |
+| 06–08 | Copper | ×.90 |
+| 09–10 | Electrum | ×2.5 |
+| 11–12 | Gold | ×5 |
+| 13–62 | Iron | ×1 |
+| 63–72 | Obsidian | ×.75 |
+| 73 | Platinum | ×25 |
+
+---
+
+<!-- page 159 -->
+
+## Barding of Deceptive Travel
+
+**XP Value:** (see below) &emsp; **GP Value:** (see below)
+
+| Monster Form | XP Value | GP Value |
+|--------------|----------|----------|
+| Basilisk | 600 | 6,000 |
+| Cave bear | 600 | 6,000 |
+| Giant scorpion | 500 | 5,000 |
+| Manticore | 600 | 6,000 |
+| Rust monster | 500 | 5,000 |
+| Tuatara lizard | 300 | 3,000 |
+
+*Source: The Book of Marvelous Magic*
+
+This item is identical to barding of easy travel and, indeed, may be used as such indefinitely. However, if the proper command word is discovered and spoken, the steed turns into a monster. Roll 1d6 to find the form of the monster:
+
+| Roll | Steed Type |
+|------|------------|
+| 1 | Cave bear |
+| 2 | Tuatara lizard |
+| 3 | Rust monster |
+| 4 | Basilisk |
+| 5 | Manticore |
+| 6 | Giant scorpion |
+
+The monster understands, obeys, and even fights for the user. Note that the gaze of the basilisk form is still dangerous, even to the user, and that the rust monster may require very quick and detailed instructions if accidents are to be avoided.
+
+---
+
+## Barding of Easy Travel
+
+**XP Value:** 200 &emsp; **GP Value:** 2,000
+
+*Source: The Book of Marvelous Magic*
+
+This is a 2-inch-long set of complete horse barding. When the user places it on the ground and speaks the proper command word, it enlarges to full size and magically creates a war horse within it; hit points are determined randomly for each use. This can be done once per day at most. The animal disappears on command, when slain, or if the barding is removed. When the animal disappears, the barding returns to its original (empty), miniature state.
+
+---
+
+## Barding of Flight
+
+**XP Value:** 4,500 &emsp; **GP Value:** 45,000
+
+*Source: POLYHEDRON Newszine #82*
+
+This leather horse barding emits only a weak dweomer when *detect magic* is cast. However,
+
+---
+
