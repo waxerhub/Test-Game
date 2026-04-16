@@ -9,4 +9,4 @@ Phase 1: all pages already extracted (cached).
 Phase 2: Claude cleanup (70 pages)…
   Prompt caching active — cost drops significantly after page 1.
 
-Merging:   0%|          | 0/70 [00:00<?, ?page/s]Merging:   1%|▏         | 1/70 [00:01<01:45,  1.53s/page]
+Merging:   0%|          | 0/70 [00:00<?, ?page/s]Merging:   1%|▏         | 1/70 [00:01<01:35,  1.39s/page]Merging:   3%|▎         | 2/70 [00:14<09:17,  8.21s/page]
