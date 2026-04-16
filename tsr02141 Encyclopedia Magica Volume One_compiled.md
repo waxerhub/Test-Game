@@ -9863,3 +9863,1401 @@ This leather horse barding emits only a weak dweomer when *detect magic* is cast
 
 ---
 
+<!-- page 160 -->
+
+## Barding of Flying
+
+*Source: [entry continues from previous page]*
+
+When this barding is fitted onto a horse, pony, mule, or donkey, it automatically sizes itself to the mount. When a command word is spoken, a set of feathery wings graft themselves onto the mount, granting the beast flight with a maneuverability class D and a movement rate of 24. The mount can fly up to six hours before needing to rest. For each hour of flight, the mount must rest one hour. If a mount is forced to fly beyond the six-hour limit, the wings disappear, and mount and rider fall to the ground.
+
+## Magical Barding
+
+**XP Value:** (see table) &emsp; **GP Value:** (see table)
+
+| Magical Plus | XP Value | GP Value |
+|-------------|----------|----------|
+| +1          | 500      | 5,000    |
+| +2          | 1,000    | 10,000   |
+| +3          | 2,000    | 20,000   |
+| +4          | 4,000    | 40,000   |
+| +5          | 8,000    | 80,000   |
+
+### Top Ballista
+
+Made only by dwarven (and a few gnomish) smiths of exceptional talent, magical barding (frequently used by pegataurs among the skydwellers) is a rare treasure indeed. Make two 1d20 rolls on the table below to find the armor type and the magical plus of the armor.
+
+| 1d20  | Armor Type   | 1d20  | Plus     |
+|-------|-------------|-------|----------|
+| 01–04 | Scale mail  | 01–10 | Armor +1 |
+| 05–14 | Chain mail  | 11–17 | Armor +2 |
+| 15    | Banded mail | 18    | Armor +3 |
+| 16–19 | Plate mail  | 19    | Armor +4 |
+| 20    | Field plate | 20    | Armor +5 |
+
+Magical barding is automatically of superior quality. Field Plate is not found with an enchantment superior to +3, and ordinary plate mail barding is not enchanted beyond +4 protection.
+
+## Barding of Missile Protection
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+
+*Source: POLYHEDRON Newszine #82*
+
+This magical chain barding always has an ornamental design woven into the links. The barding is unusually light, weighing about 45 pounds. When the command word is spoken, the barding sizes itself to fit any horse, from a pony to a heavy war horse. The barding gives the horse a −5 Armor Class against missile attacks and a saving throw vs. spell against magic missiles. Against nonmissile attacks, the barding confers an AC of 2. The barding can function indefinitely.
+
+## Morgan's Horse
+
+**XP Value:** 500 &emsp; **GP Value:** 5,000
+
+*Source: 1992 Fantasy Collector Card #295*
+
+Morgan's war horse wears this suit of half barding +1, giving it an effective Armor Class of 1. The barding protects only the head and front quarters of the horse, leaving the rear unprotected. The weight of plate barding is such that only war horses can wear it and then only for short periods of time.
+
+---
+
+# Barrel
+
+A barrel is a cylindrical container constructed of wooden slats (staves) and held together by circular metal bands (hoops). It has flat, parallel ends; the base is mounted permanently and the top is usually removable. Both base and top may be permanent if one or more holes are cut in the barrel and sealed with plugs (bungs). A standard barrel holds 31.5 gallons of liquid or 196 pounds of solid material (such as flour or treasure), and weighs 100 pounds when empty.
+
+After determining the magical properties of the barrel, roll on the following table to determine the type.
+
+| Roll  | Barrel Type   |
+|-------|---------------|
+| 01–25 | Barrel, Large |
+| 26–50 | Barrel, Small |
+| 51–75 | Hogshead      |
+| 76–00 | Tun           |
+
+## Barrel of Hiding
+
+**XP Value:** 250 &emsp; **GP Value:** 1,000
+
+*Source: The Book of Marvelous Magic*
+
+This wooden barrel is reinforced by iron hoops and has a bottom but no lid. Creatures or objects within the barrel cannot be seen or detected in any way, not even with *detect magic*, *detect invisible*, or other magical effects.
+
+## Itzpixe's Collapsible Barrel
+
+**XP Value:** 500 &emsp; **GP Value:** 3,000
+
+*Source: POLYHEDRON Newszine #82*
+
+When assembled, this 24 cubic foot device can hold about 15 gallons of water. When disassembled, the barrel fits inside a 3-foot by 8-inch sack. The barrel, consisting of a collection of metal rods and a tailored piece of canvas, has been enchanted not to leak. Only weapons of +2 or greater can puncture the canvas.
+
+The collapsible water barrel was designed and
+
+---
+
+<!-- page 161 -->
+
+built by the famous gnome engineer-wizard Itzpix of the Quickmind clan. The assembly sequence is not obvious; it takes some intelligence and practice to be able to put it together. However, it is simple to disassemble. This device is most often used by priests during their travels to hold the results of *create food and water* spells. In areas where water is rancid, fouled water can be collected in this device and, by means of a drop of sweet water, be made pure.
+
+## Barrel of Monkeys
+
+**XP Value:** — &emsp; **GP Value:** 500
+*Source: The Book of Marvelous Magic*
+
+When this barrel is examined, the victim looking inside it must make a saving throw vs. spell or be polymorphed into a white ape. In addition, regardless of the results of the saving throw, one white ape appears within the barrel and leaps out, attacking anyone nearby. Another white ape appears each turn thereafter, until 100 of the creatures have been created or until a *remove curse* spell is applied. The barrel loses all its magical powers if moved by hand, but may be transported by the use of *telekinesis* (weighing 500 pounds).
+
+## Neverending Barrel of Grog
+
+**XP Value:** 900 &emsp; **GP Value:** 4,500
+*Source: War Captain's Companion*
+
+Often, the greatest worry spelljammer captains have is maintaining a healthy supply of clean liquids for the ship's crew. One way this is accomplished is by using a neverending barrel of grog. Grog, a watered down version of cheap, rot-gut rum, is not particularly good for the crew, but it will keep them alive (and not complaining) almost indefinitely. The barrel has a magical dweomer, but remains empty until it is tapped. When tapped, it needs to be set upright and lidded. When the handle of the wooden tap is turned to either the left or right, a dirty, foul-smelling fluid gurgles forth, filling the cup (or mouth) lying beneath the spout.
+
+The barrel will forever pour out grog, without a daily limitation. (After the fifth glass in an hour's time, an imbiber must roll a Constitution check with each glass or pass out. If the check fails, the character falls asleep for 2d8 hours, and cannot be awakened by nonmagical means.)
+
+## Neverending Barrel of Salt Pork
+
+**XP Value:** 1,800 &emsp; **GP Value:** 9,000
+*Source: War Captain's Companion*
+
+Another problem of spelljammer captains is the safe storage of food on board, especially on the long journeys between crystal spheres. Food kept in dark, often damp cargo holds has the unsavory habit of turning bad and spoiling quickly. Therefore, other means to preserve food need to be found. Salting meats and vegetables is a common practice. This curbs spoilage, but storing the bulk and the extra weight of the meat and salt is a problem. The neverending barrel of salt pork allows the ship's cook to pull up to 100 pounds of salted pork each day (feeding about 50 crewmen). Once the salt is scraped, shaken, and dissolved away, the meat can be cooked, rendering a safe (although somewhat salty) meal.
+
+## Barrel of Poverty
+
+**XP Value:** — &emsp; **GP Value:** 550
+*Source: The Book of Marvelous Magic*
+
+When this item is examined, the victim looking inside is affected immediately and has no saving throw. All the victim's items, worn or carried, immediately disappear. Shoulder straps then appear across the top of the barrel — the victim may wear the barrel (treat as AC 4 but with no dexterity adjustments), if desired, by removing its bottom. The victim's possessions are not destroyed, but are merely sent to the victim's home. The barrel vanishes if struck by sunlight.
+
+## Barrel of Rolling
+
+**XP Value:** 500 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This barrel is useful both for storage and cargo transport. Its top is easily closed and locks on command. When laid on its side and a second command is given, it rolls away from the user at the rate of 20 feet per round. It cannot be commanded to turn, but a third command stops it. It may be used as often as desired.
+
+## Basin
+
+Basins are shallow, round containers crafted out of ceramics, pottery, or metal. They are chiefly used to hold water for washing (hands, feet, oral hygiene). Enchanted basins generally have magical waters that perform a specific function.
+
+---
+
+<!-- page 162 -->
+
+## Basin of the Angel
+
+| Alignment | XP Value | GP Value |
+|-----------|----------|----------|
+| CG Alignment | 7,500 | 33,500 |
+| LG Alignment | 7,500 | 33,500 |
+| NG Alignment | 7,500 | 33,500 |
+
+*Source: DRAGON Magazine #145*
+
+A basin of the angel is a rare, highly prized item sculpted of precious metal. A spidery design composed of thousands of interwoven holy symbols adorns its silver base, while its copper bowl is smooth and reflective. Each basin of this type has a particular good alignment (either lawful, neutral, or chaotic), and each of these basins is sworn to a particular good-aligned deity.
+
+Within the basin's bowl stands a tall gold statuette of a movanic deva (sometimes resembling a servant of the deity to which it is dedicated, with back arched and arms high). The deva figure pours water into the basin from a crystal vial held in its hands. The water appears and drains magically; the basin is always full.
+
+Any evil being touching a basin of the angel takes 2d6 points of damage and must save vs. spell to avoid being teleported three miles in a random, horizontal direction. The basin does not affect neutral creatures or characters, but it comforts any good-aligned being who views it or touches it, providing a +1d6 morale bonus based on exact alignment, piety, and so forth of the viewer or the toucher.
+
+Water from the basin tastes cool and refreshing to all good-aligned beings who drink from it. For drinkers of the same alignment as the basin, it cures disease and cures light wounds with a single sip, once per week, per individual. A priest of the basin's alignment who follows the basin's patron deity may drink of its special waters and gain their benefits as often as he or she likes (maximum of once per day).
+
+Still, a basin of the angel does not realize its full potential until a 9th-level priest places it within a permanent shrine to the proper deity. If the priest then lives in the best manner of his or her faith always, never straying from alignment, the following latent powers accrue to the device:
+
+- It radiates protection from evil in a 240-yard radius.
+- It causes all evil characters or creatures who attempt to enter the temple that houses the basin to save vs. spell at −1 or be affected as the wizard spell *repulsion*.
+- It endows the shrine with a guardian angel, a movanic deva of average hit points and abilities. This guardian appears only once, at the time of the temple's greatest need (as determined by the DM).
+
+A basin of the angel is about 5 feet high and 2 feet in diameter, and weighs 180 pounds. It is very awkward to carry. All water taken from it becomes nonmagical unless consumed within three rounds.
+
+---
+
+## Basin of Hidden Dangers
+
+**XP Value:** — &emsp; **GP Value:** 3,000
+
+*Source: DRAGON Magazine #145*
+
+This magical item appears to be a basin of the angel, even to the point of radiating a strong aura of good. However, any evil creature may handle this item with impunity, for it is actually a device built by evil gods. A basin of hidden dangers is constructed by forces of the Outer Planes directly opposed to those who have basins of the angel dedicated to them. Thus, Loki may create a basin of hidden dangers that appears exactly like a benevolent basin dedicated to Thor, or Set to a basin dedicated to Osiris.
+
+A basin of hidden dangers immediately and permanently defiles any good temple it enters, simultaneously inflicting the temple's high priest with a powerful curse. Unless the defiled temple is razed, the ground beneath it sown with salt, and a new temple of at least the same size and value of the old one is built elsewhere, the cursed high priest will carry temporary defilement (lasting 10d10 years) to any good temple the unfortunate priest enters. Furthermore, he or she is unable to learn any spells above the 3rd level until an atonement is received. This is such a powerful curse it may only be removed by the methods prescribed above or by employing a *wish*.
+
+A basin of hidden dangers may be easily destroyed and does not "follow" a character in the manner of some cursed items. Note that the destruction of the basin does nothing to alleviate its curse.
+
+---
+
+## Basket of Devouring
+
+**XP Value:** 250 &emsp; **GP Value:** 2,500
+
+*Source: War Captain's Companion*
+
+Baskets of devouring are common items in ship studies and captain's quarters. They are small, 1-foot in diameter and 1-foot tall, and have a natural ability to always land open-end up. Anything large enough to fit completely into the basket disappears once its total mass passes
+
+---
+
+<!-- page 163 -->
+
+## Battering Ram
+
+A battering ram is a long, heavy beam of wood with a thick, sturdy head for smashing down walls and portals. A ram can be carried by a siege machine or by a group of six or more warriors. Simple rams often are constructed from nearby trees and left at the sight of the siege, but magical versions can be very ornate and are reusable.
+
+Battering rams can also be attached to the front of sea-faring or spelljamming ships. These rams are used to crush the life out of enemy craft.
+
+## Bigby's Demanding Battering Ram
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+*Source: DRAGON Magazine #178*
+
+A singular item manufactured by a master wizard of the City of Greyhawk, this ram is a 10-foot, brass-sheathed battering ram, forged by dwarves from the Farthest Mountains. It was bathed in the boiling blood of a dozen yeti to give it strength, rune-etched with the acid of a black dragon, then tempered in a living volcano. Its head was forged from a single wedge of bronze brought from the Elemental Plane of Earth and carved in the shape of a clenched fist by six bound efreet. Finally, it was invested with Bigby's clenched fist, Bigby's forceful hand, and wall of iron. The result is a battering ram that takes 10 men, minimum Strength 13+ or the equivalent, to use. On impact, it delivers a blow equal to triple the usual structural damage inflicted by a ram.
+
+### Magical Battering Rams (Realmspace)
+
+| Type | XP Value | GP Value |
+|---|---|---|
+| Blunt +1 | 100 | 1,000 gp/ton |
+| Blunt +2 | 200 | 2,000 gp/ton |
+| Blunt +3 | 400 | 4,000 gp/ton |
+| Grappling +1 | 200 | 2,000 gp/ton |
+| Grappling +2 | 400 | 4,000 gp/ton |
+| Grappling +3 | 800 | 8,000 gp/ton |
+| Piercing +1 | 100 | 1,000 gp/ton |
+| Piercing +2 | 200 | 2,000 gp/ton |
+| Piercing +3 | 400 | 4,000 gp/ton |
+
+These enchanted rams give captains a bonus on ram attack rolls. Each number listed above is multiplied by the tonnage of the spelljamming ship they are attuned to determine the total GP and XP values.
+
+## Beacon
+
+Beacons are any number of different devices, but one thing they all have in common is their ability to attract attention. Beacons may be used to warn vessels of reef barriers, to signal spelljamming ships that a waystation is ahead, or mark courses.
+
+---
+
+<!-- page 164 -->
+
+## Beacon, Arcane
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+*Source: The Astromundi Cluster*
+
+Arcane beacons are devices used to attract spelljamming ships into ports. They emit a fiery blue glow that can be seen for thousands of miles. Typically, these beacons are used only in the largest ports — because they do attract unwelcome visitors.
+
+The beacons are fueled by gold, which they burn at a rate of one gold piece an hour. This makes them very expensive to keep running, but most trading ports believe they are worthwhile investments, since they keep potential clients from flying past. Some ships also carry an arcane beacon in case they are stranded and require rescue, but such use is rare.
+
+They resemble squat-legged stoves, with clear, crystal globes on top. Gold is fed into the body and flames appear within the globe. Arcane beacons are sometimes mounted in towers on a rotating platform like a groundling lighthouse.
+
+## Beacon, Thayvian
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+*Source: DUNGEON Magazine #38*
+
+A Thayvian beacon is a magical device that attracts a specific type of monster into an area and then holds it there through a powerful form of mind control. These beacons were developed by the School of Conjuration and Summoning in Thay, originally for use in Rashemen. Minshak Keseri was an influential member of the School at this time and was partly responsible for the item's invention.
+
+To create a Thayvian beacon, the wizard first needs to find a piece of the monster to be attracted (a tooth, for example). Next, a skilled metalsmith is required to cast a bronze disk 1-foot in diameter and 3 inches thick. The likeness of the monster should be carved into the mold, so that a relief picture of the beast appears on the disk. The piece of the monster must be ground or crushed into the molten bronze.
+
+When the disk has been removed from the mold and has cooled, the wizard can begin work. The exact spells to be cast are known only to select Red Wizards of the School of Conjuration and Summoning, but Elminster of Shadowdale believes they include *enchant an item*, *permanency*, and *charm monster*, as well as *monster summoning* spells whose potency level must total the Hit Dice of the monster to be summoned. In other words, to enchant a beacon to attract bulettes the wizard needs to cast *monster summoning VII* and *monster summoning II* (or a similar combination), since a bulette is a 9-HD monster.
+
+Each beacon must have its own unique command words to both activate and deactivate it. Monsters that can be attracted by Thayvian beacons must be of low intelligence or less. The range of a device is 10 miles per Hit Die of the monster to be summoned. Once attracted to the beacon, a powerful charm affects the monster. The creature must make an Intelligence check or it cannot stray farther than 1 mile per Hit Die from the beacon. For each week within the effect of a beacon, the monster can check again, adding a cumulative +1 to its Intelligence check. If it cannot overcome the beacon's influence, the monster remains within the zone of effect, even if this means it starves to death.
+
+---
+
+Magical beads are normally ¼ to 1 inch in diameter, made of any color glass, ceramic, metal, or other material. Beads are fragile and should not be thrown; almost any impact will shatter a bead, destroying it and its magic. When found, 1d4+1 beads are usually together, perhaps on a string, although they need not be all of the same type.
+
+## Bead of Accuracy
+
+**XP Value:** 150 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+When this bead is thrown, it automatically hits any victim within 60 feet, and the victim must make a saving throw vs. spell. If the saving throw is successful, the bead falls off but does not break and can be recovered unless broken afterward. Otherwise, it sticks to the victim and turns into a small target ring of concentric circles. The effect lasts for one hour and cannot be removed except by soap of washing or a *wish*. If generally aimed at the side on which the target appears, all weapon attacks gain a +2 bonus attacking the targeted victim. For example, a thief's backstab attempt would not gain this bonus unless the bead was thrown at the victim's back.
+
+## Bead, Beady Eye
+
+**XP Value:** 150 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+Upon command, this bead becomes a small eyeball. The user may see with the eye as long as it remains within 60 feet. If it is rolled, the user must make a saving throw vs. spell or become dizzy,
+
+---
+
+<!-- page 165 -->
+
+(continuing from the previous page — this is a continuation of the Bead of Force entry and then new entries)
+
+confused, and then completely stunned until the bead is destroyed. If crushed while in use (by someone being spied upon, for example), the user must make a saving throw vs. spell or be blinded (curable by the usual methods). Although the user may have any number of extra eyes with these beads, the eyes cannot be closed and the user cannot avoid looking through them. If any monster with a gaze attack looks at the eye in use, the user must make the appropriate saving throw (possibly each round), and may not look away. Upon command, the eye turns into a bead again.
+
+## Bead of Dew
+
+**XP Value:** 200 &emsp; **GP Value:** 300
+*Source: The Book of Marvelous Magic*
+
+When placed in any spoiled, poisoned, or stagnant water, this bead purifies it, affecting up to 1,000 cubic feet of liquid. The purified water is clear and cool. The bead dissolves when used.
+
+## Bead of Force
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: The Forgotten Temple of Tharizdun*
+
+These small, black spheres might be mistaken for common beads, marbles, or, perhaps, unusually lusterless, black pearls. Each is about ¾ of an inch in diameter and quite heavy, weighing almost an ounce. One can be hurled up to 30 feet away. Upon impact, the bead sends a burst of force that inflicts 5d4 points of damage on all creatures within the 10-foot radius of its burst. Those saving take full damage, but the force has thrown them back. Those failing to save vs. spell are immediately encapsulated after taking damage. The force forms a sphere around the victims (even those of large size) and they are unable to escape except by the same means by which a wall of force is brought down. The effect dissipates in 3d4 rounds. About 1d4+4 of these beads are usually found.
+
+## Bead of Glass
+
+**XP Value:** (see below) &emsp; **GP Value:** (see below)
+*Source: The Book of Marvelous Magic*
+
+| Type              | XP Value | GP Value |
+|-------------------|----------|----------|
+| Fire Resistance   | 250      | 400      |
+| Flying            | 250      | 400      |
+| Healing           | 250      | 400      |
+| Invisibility      | 250      | 400      |
+| Poison            | 250      | 400      |
+| Speed             | 250      | 400      |
+
+A glass bead, on command, turns into a glass goblet containing one of the following potions (determined randomly upon creation):
+
+| Roll | Potion Type     |
+|------|-----------------|
+| 1    | Fire resistance |
+| 2    | Flying          |
+| 3    | Healing         |
+| 4    | Invisibility    |
+| 5    | Poison          |
+| 6    | Speed           |
+
+If the potion is poured into any other container, it turns into water. It must be consumed from the goblet to have any magical effect. Any creature of 7 or more Hit Dice discerns the type of potion with a small sip; others must take their chances! If the potion is poison, the smallest sip requires a saving throw or death results. The poison turns to pure water when a sip is taken. The potion also turns into water if not consumed within one turn, and the goblet disintegrates when emptied.
+
+## Bead of Oblivion
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: The Emirates of Ylaruam*
+
+Each facet of this bead has a power that suppresses, erases, or discourages recall of dark sorceries, worships, and necromancy. Those who pass within 12 miles of this device make a save vs. spell at a −20 penalty (forcing all but the most powerful or magically-equipped to fail) or all dark knowledge is forgotten.
+
+A team of Immortals placed this major artifact deep beneath the earth, in the ruins of the Nithian royal catacombs near Sum-Man-Raa. The device was created at great expense of power by the Old Man of the Sea, the Gnoll, and Zephyr, dedicated Immortals who wished to reestablish the balance disturbed by the direct interference of Thanatos (and his secret ally Corona) in the affairs of the Nithian Empire.
+
+## Bead of Pearl
+
+**XP Value:** — &emsp; **GP Value:** 500
+*Source: The Book of Marvelous Magic*
+
+Upon command, this bead turns into a perfect pearl of 10,000 gp value. It remains magical, however, and is not of sufficient quality to fool a jeweler, moneylender, or dwarf. It disintegrates three hours after becoming a pearl.
+
+---
+
+<!-- page 166 -->
+
+## Bead of Prayer
+
+| Type | XP Value | GP Value |
+|------|----------|----------|
+| Atonement | 500 | 1,000 |
+| Damnation | 500 | 1,000 |
+| Hindrance | 500 | 1,000 |
+| Karma | 500 | 1,000 |
+| Response | 500 | 1,000 |
+| Succor | 500 | 1,000 |
+
+*Source: STRATEGIC REVIEW Magazine, 5*
+
+These beads (10d4) are mounted on a string, and may only be used by priests for aid in prayer. All of the beads are of gem-quality stone (a minimum of 100 gp each), and of uniform size and value.
+
+**Bead of Atonement:** Allows a user to have an 80% chance of atoning for a transgression that has caused an alignment change. In other words, it gives the user an 80% chance of regaining his or her original alignment.
+
+**Bead of Response:** Serves as a hotline to the patron deity, assuring response to prayers, though in no way guaranteeing that the response is the one hoped for—gods are fickle.
+
+**Bead of Damnation:** Serves as a hotline to the patron's chief nemesis, which usually gets the user in trouble.
+
+**Bead of Karma:** For priests of the 1st to the 5th levels, it increases their powers by three levels for 3d4 turns; 6th through 10th, two levels for 2d4 turns; and 11th level+, one level for 1d4 turns.
+
+**Bead of Succor:** Increases the base chance of response from the god prayed to by 30%.
+
+**Bead of Hindrance:** Decreases chance of a response by 30%.
+
+## Bead of Prayer II
+
+**XP Value:** 200 &emsp; **GP Value:** 300
+
+*Source: The Book of Marvelous Magic*
+
+This valuable item allows a priest to exchange one known spell (not yet cast) for another, if both are of the same spell level. For example, if the priest knows detect magic but needs cure light wounds, the priest may use the bead to forget detect magic and gain knowledge of cure light wounds. The new spell may be cast when needed. The priest need not be fully rested to use the bead. After changing one spell, the bead disintegrates.
+
+## Beaker
+
+Beakers are glass, crystal, ceramic, or lightly hammered metal flasks that are used to hold liquids and plasma substances. Alchemists use them to heat liquids, combine solutions, and dissolve aqueous compounds. These concoctions can either have magical temperaments or they can be natural, nonmagical blends.
+
+## Beaker of Cures
+
+**XP Value:** 400 &emsp; **GP Value:** 2,000
+
+*Source: CARDMASTER® Adventure Design Deck*
+
+Roll 1d10 and restore that many hit points. These can be divided among the party.
+
+## Beaker of Plentiful Potions
+
+**XP Value:** 1,500 &emsp; **GP Value:** 12,500
+
+*Source: DUNGEON MASTER Guide*
+
+This container resembles a jug or flask. It is a magical beaker with alchemical properties allowing it to create 1d4+1 doses of 1d4+1 potions. (The kinds of potions are determined by random selection.) Different potions are layered in the container, and each pouring takes one round and results in one dose of one potion.
+
+Roll 1d4+1 to find the number of potions the beaker holds. Roll again to find which potions the beaker contains (delusion and poison are possible). Record each potion in order of occurrence—the potions are layered and are poured in order. Duplication is possible.
+
+If the container holds only two potions, it dispenses them one each per day, three times per week; if three are contained, one each per day, twice per week. If four or five are contained, one per week is produced. Once opened, the beaker gradually loses the ability to produce potions. The reduction in ability results in the permanent loss of one potion type per month, determined randomly.
+
+## Bean of Ooze, Slime, and Jelly
+
+| Type | XP Value | GP Value |
+|------|----------|----------|
+| Gray | 500 | 2,500 |
+| Green | 500 | 2,500 |
+| Orange | 500 | 2,000 |
+| White | 500 | 2,500 |
+| Yellow | 500 | 2,500 |
+
+*Source: Wizard's Challenge*
+
+When these beans are thrown against a solid surface, they change into one of the amorphous life-forms often found in dungeons. A green bean transforms into green slime, yellow into a gelatinous cube, white into crystal ooze, gray into gray ooze, and orange into an ochre jelly.
+
+The beans are generally carried in metal containers. A character who falls with a bean in his
+
+---
+
+<!-- page 167 -->
+
+## Bedroll of Dryness
+
+**XP Value:** 500 &emsp; **GP Value:** 1,500
+*Source: DRAGON Magazine #73*
+
+A bedroll sewn along the edges to make it a large bag (in other words, a zipperless sleeping bag). Anyone who sleeps in this bedroll remains dry, despite rain or snow, unless the bedroll comes to lie in more than 1 inch of water. It remains dry inside even when covered with snow.
+
+## Beholder Mouthpick
+
+|  | XP Value | GP Value |
+|---|---|---|
+| Fangpick: | 3,000 | 6,000 |
+| Absorbing: | 1,000 | 2,000 |
+
+*Source: The Ruins of Undermountain*
+
+For all their formidable might, the eye tyrants cannot accomplish the simple task of picking up a stick without some aid. To circumvent their lack of appendages and limbs, beholders sometimes use mouthpicks or tongue-arms to manipulate items.
+
+These are nothing more than reaching aids, often articulated and of metal, held in an eye tyrant's mouth. They are manipulated with lips, tongue, and teeth (in a manner akin to a human pipe smoker moving a pipe around in his or her mouth) to move, trigger, or carry items that the beholder would rather not carry in its mouth to spit out later.
+
+Mouthpicks may be improvised from wooden masts, tree-trunks, or spars in a pinch, but beholders prefer to use more sophisticated specimens, generally made of metal, which may end in spikes (1d6 points of damage), scraping or cupping flanges, shovel-bowls, or pincer-like arms (one point of piercing damage to any creature gripped). Numerous beholder mouthpicks have many-branched ends incorporating all of these control devices and more.
+
+Mouthpicks save against attack forms according to the material of their construction. Severing one or shattering a grasping attachment usually requires characters to inflict at least 12 points of damage.
+
+Beholders set such mouthpicks between their teeth, and can withdraw lip and tongue pressure in an instant—so an attack that rams a mouthpick back into a beholder's mouth only does 1d6 points of damage, as the mouthpick strikes the bony interior plates that protect the inner organs of every beholder.
+
+---
+
+<!-- page 168 -->
+
+## Mouthpick of Absorption
+
+*Source: Lost Ships*
+
+Several types of magical mouthpicks have been reported. One, known to still exist in Undermountain, is described here. A fangpick of electrum-plated stainless steel. Worth about 20 gp for its metal content, this 12 foot-long shaft ends in a rake- or scythe-shaped arc of metal, set with many long, curved metal teeth. This metal arc grazes opponents for 1d4 points of damage; if an attack roll is 19 or 20, the pick automatically closes its arc in a "bite," allowing the toothed scythe to wrap around the victim to inflict 1d12 points of damage and hold him or her immobile for a round. These actions are mechanical, operating for any wielder of the item.
+
+Grooves in the base of the pick contain tiny contacts akin to the buttons on a rod of lordly might. If manipulated by the tongue or fingers of a skilled user, these contacts activate the pick's power (maximum of three times per day) to paralyze any being struck. A normal saving throw vs. paralyzation is allowed; if failed, onset time is 1d2 rounds after being struck, and the paralysis lasts for 1d4 turns. (This magical effect is besides physical tooth damage).
+
+A fangpick will levitate whenever released by a being, to hang motionless in midair until next grasped or disturbed. Some of these items automatically absorb electrical energy (such as lightning bolts) into themselves, sparing anyone touching a pick from any damage.
+
+The name of the inventor of the mouthpick of absorption is lost to the ages; presumably, its invention has limited use for normal beholders, as their antimagic ray negates any magical functions of the item. Any magical beholder mouthpicks can only be fully used by those beholder-kin that do not radiate an antimagic field.
+
+---
+
+## Bellows of Breath
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+Bellows are made of wood, leather, and metal. Two rounded wooden boards, each carved with a handle at one end and tapering to a 3-inch tip at the other, are attached to the sides of a leather bag; a metal tube covers the tips and is connected to the bag. When the handles are pressed toward one another, air is forced from the bag through the tip.
+
+If pumped while speaking the command word, the bellows of breath produces a greenish poison gas in a 25- by 20-foot cloud, 10 feet high. The gas inflicts 20 points of damage, but each victim may make a saving throw vs. breath weapon to take ½ damage. The bellows of breath works just once per day.
+
+## Bellows of Breezes
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+*Source: The Book of Marvelous Magic*
+
+This bellows looks like and is used as a bellows of breath. However, when pumped and commanded, it produces great winds. The winds blow all loose items about, effecting a cone 60 feet long and 10 feet wide at its furthest point. Each victim within the area must make a saving throw vs. spell or be knocked over and unable to attack or cast spells. If used to help propel a boat with sails, the winds add a bonus of 30 feet per round to the movement rate. The bellows may be used once per day for up to a full turn per use.
+
+## Bellows of Roaring
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: The Book of Marvelous Magic*
+
+This bellows appears to be and functions as a bellows of breath — it also produces a cloud of green gas. The cloud is harmless. However, if any victims within it are hostile to the user, they all roar in rage for one round. Their roars bestow a +1 bonus on their attack rolls and saving throws for one turn and attract the attention of all other creatures within 120 feet. Only one cloud can be created each day.
+
+---
+
+Belts are accessories worn about the waist. Pouches, scabbards, and other objects can be suspended from a belt, allowing the wearer easy access to the contents. Belts also are used to hold up dungarees, pants, and hose that are too large. Magical belts can hold almost any type of enchantment, and their use is as varied as those of magical rings or staves.
+
+## Belt, Arcane
+
+**XP Value:** 3,000 &emsp; **GP Value:** 30,000
+*Source: Lost Ships*
+
+This is the most common and least powerful of the broad, cummerbund belts worn by arcane. They rarely sell them, but neither do they challenge individuals who wear them. Some have been traded or sold by arcane recently, and some have been found in space wrecks and treasure caches.
+
+By turning a stud on the belt, a wearer who knows its secrets can levitate to any height. This allows the wearer to rise or descend through the air gently, or appear to walk on water. There is no limi-
+
+---
+
+<!-- page 169 -->
+
+(continuing from previous page — this page begins mid-entry for a belt with wall of force, then continues with the Elk Clan Ceremonial Belt section, then ends with the beginning of Belt of Goblinoid Protection)
+
+---
+
+tation on the number of times this power can be activated, but turning it on or off requires one round.
+
+The belt can also shed magical light or darkness in a 20-foot radius around the wearer. Identical to the effects of the wizard spells, these effects affect the belt wearer as well, lasting up to six rounds at a time (though the wearer can terminate them sooner).
+
+Once either of the belt powers is used, the belt cannot repeat that particular effect until a complete turn has elapsed. The belt may be removed without ceasing to function (the wearer may create darkness, slip off the belt, and leave it to creep blindly toward a known exit to make an escape).
+
+The belt has one additional power. By proper manipulation of the studs, the wearer can raise a wall of force twice a day, lasting for up to four turns (or ending instantly or earlier, if the wearer so desires). The wall of force covers an area equal to that of the equivalent spell, cast by a 16th-level wizard.
+
+The belt's studs all lock into place and cannot accidentally be manipulated by a casual swipe or jostle. The belt appears to be leather with a metal boss, but it saves against dangers as if it were entirely metal, gaining a +3 bonus as well.
+
+---
+
+## Elk Clan Ceremonial Belt
+
+| Color   | XP Value | GP Value |
+|---------|----------|----------|
+| Black   | 50       | 500      |
+| Blue    | 50       | 500      |
+| Golden  | 50       | 500      |
+| Green   | 50       | 500      |
+| Red     | 50       | 500      |
+| White   | 50       | 500      |
+
+*Source: The Atruagín Clans*
+
+The Children of the Elk fashion cylindrical beads from the shells of various freshwater mollusks and bivalves. These are known as wampum and are often traded or used in a manner similar to that of money in the outside world. While the Elk Clans do use them as a means of exchange, they generally prefer to think of the shells as a raw material from which jewelry can be made. In fact, the various colors of wampum are important for their role in the creation of wampari or shell belts.
+
+Wampari are created under the guidance of shamani and come in several colors, each of which has a special purpose. The actual creation of a wampari requires one month of labor, while its enchantment is completed in but a single night. When the belt is assembled, it is brought and given into the care of a shamani.
+
+The shamani calls upon the person for whom the belt was made and, using a sharp knife, makes several cuts in the owner's chest. The symbols that the shamani makes are always related to the totem spirit of both the person who made the belt and the person who will wear it — this symbolizes the bond between the two. After the cuts are made, the wounds are packed with various colored herbs and several magical spells are woven. When all is done, the belt is enchanted. All wampari have good effects upon those they were made for, but anyone else who tries to wear one will be cursed. Once put on, a cursed wampari cannot be removed without the aid of a dispel magic spell.
+
+**Black Belts:** Black wampari attest to the health and vigor of the wearer. Thus, their owners gain a +1 bonus to Constitution (up to a maximum of 18) while the belt is in place. If the belt is donned by another, a –1 Constitution penalty is imposed.
+
+**Blue Belts:** Wampari of this type are symbols of the understanding found in a truly wise person. They grant a +1 bonus to their wearer's Wisdom score (up to a maximum of 18) while in place and a similar penalty to anyone else.
+
+**Golden Belts:** It is possible to fashion wampum that have a golden tint. When such beads are made into belts and enchanted by shamani, they increase the Charisma of their owner by +1 point (up to a maximum of 18). Other wearers suffer a –1 point penalty.
+
+**Green Belts:** Green wampari are symbols of sure-footedness and agility. They bestow upon their rightful owners a +1 bonus to Dexterity (up to a maximum of 18) while being worn and upon other wearers a like penalty.
+
+**Red Belts:** Wampari fashioned from red beads are symbols of might and power. They are normally given to warriors and have the effect of increasing the wearer's Strength by +1 point (up to a maximum of 18) when worn. If someone other than the belt's owner puts on the wampari, the thief loses –1 point of Strength.
+
+**White Belts:** Wampari set with white beads are symbols of open-mindedness and clear thinking. They impart a +1 bonus to their owner's Intelligence score (up to a maximum of 18) and a like penalty if worn by another.
+
+---
+
+## Belt of Goblinoid Protection
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+
+*Source: POLYHEDRON Newszine #58*
+
+This belt acts as a belt of protection +4 against goblinoid creatures and all weapons of goblin ori-
+
+---
+
+<!-- page 170 -->
+
+## Belt of the Golden Serpent
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: Gods, Demigods, & Heroes*
+
+This belt puts up an antimagic shell and dispels any lesser beings summoned with spells cast by 7th- or lower-level spellcasters.
+
+## Belt of Lemmikainen's
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+This is a broad belt that gives the avatar frost giant strength.
+
+## Belt of Meginjarder
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+This is a magical belt of power. Combined with his magical gloves, these items give Thor's avatar the comparable strength of a storm giant. When used by itself, the belt merely raises the thunder god's strength to that of a fire giant.
+
+## Serpe's Belt of Swimming
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: 1993 Collector Card 461*
+
+Serpe's magical belt enables her to swim very well, although she cannot breathe underwater. With it, Serpe can swim as fast as a triton under the surface (Sw 15) and as fast as a merman on the surface (Sw 18). The belt acts as a ring of warmth whenever Serpe is in the water, allowing her to swim in the frigid waters of her northern home. When she leaves the water, the belt instantly dries her body, clothes, and hair, keeping her warm.
+
+## Belt of the Serpent
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: DRAGON Magazine #5*
+
+This magical item is similar to the snake belt but with additional powers. It grants infravision, relays audial and visual images from any location within 50 feet (including behind any nonmagical walls or doors), and grants an Armor Class bonus of +1 while worn. It can be animated to attack any opponent within 10 feet, biting as a 6 HD monster with 36 hp, causing 2d4 points of damage.
+
+The belt can be stretched to 30 feet and thrown (or commanded to crawl) to catch on outcroppings, ledges, or anything else that the buckle can snag. If there is nothing for the belt to catch on, it can disintegrate a small, 1-inch hole in order to secure itself. This allows the user to escape pits and climb walls. The belt can hold up to 500 pounds.
+
+## Shadow Belt
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Five Coins for a Kingdom*
+
+Created by the fiend ruler Orcus, the shadow belt is known in the legends of a hundred planes of existence — though thankfully not on the Prime Material Plane. Orcus has subtly engineered its frequent disappearances and rediscoveries, partly as a way to test likely candidates for Immortality in the Sphere of Entropy.
+
+Durhan is the latest candidate; he has already failed his test. Durhan lacks the self-awareness necessary for Immortals. His invasion of Trann endangered the entire realm of Eloysia. Even if he is aware of this, he cares not — Durhan is crazed with a lust for power.
+
+A simple leather belt with an iron buckle, it has a gray leather strap that fits over one shoulder and crosses the chest like a baldric. The belt changes size to fit any wearer.
+
+Carved on the belt and strap are disc-shaped symbols. When the wearer touches a symbol and concentrates, a gold skullcap appears, attached to the belt by an infinitely extendable gold wire. The belt can produce up to 500 of these caps, which are used for its power drain ability.
+
+### Suggested Powers
+
+- Lightning bolt
+- Mass charm
+- Power drain (see below)
+- Clairvoyance
+- Levitate
+- Immunity
+
+The shadow belt is activated when a user puts it on. The belt extends countless, hair-thin filaments that grow through clothing or leather armor and into the wearer's skin — literally melding to the host's body. The filaments cannot grow through metal armor, and the belt does not activate until the filaments have grown into the host's body. Thereafter, the belt can't be removed until the host dies or reaches Immortality.
+
+Knowledge of the belt's powers is acquired when the belt is activated. Each power is trig-
+
+---
+
+<!-- page 171 -->
+
+(This page is a continuation of the Shadow Belt artifact entry, followed by several standalone belt entries.)
+
+---
+
+gered by mental command alone and does not require continued concentration.
+
+The power drain ability is unique to the shadow belt. Unlike most artifacts, it does not regenerate power itself. Instead, it leeches power from other beings or its host to regain power. A victim must be willing or charmed, and a gold cap and wire from the belt must touch the victim's body.
+
+The belt regains one spell level per day for each level of the victim. (Normal people count as 1st level for this purpose.) A victim is drained of vitality while wearing the cap and can take no action. The helpless victim may suffer from lack of food or sleep while being drained, but is otherwise unharmed once the cap is removed.
+
+**Suggested Handicaps:** When first used, alignment changes to a chaotic bent. After that, the wearer grows 1d4 inches a day. Maximum height is three times normal, and the body becomes horribly distorted at large sizes. No damage (except unceasing agony) while belt is worn; when removed, the victim shrinks to normal size, taking 1d6 damage per foot shrunk.
+
+**Suggested Penalty:** While any power is used, a heavy storm arises, centered on the user and continues while the power effect lasts.
+
+Durhan, the current user of the shadow belt, is wired into 500 wizards of 1st to 21st level. These wizards have been kidnapped from all over Eloysia. Their energy gives Durhan an effectively infinite amount of power to spend.
+
+While wearing the shadow belt, Durhan is immune to all 1st- through 4th-level spells, charms, mental control, and poison, and to all spells that cause instant destruction. Durhan was a 36th-level wizard before donning the shadow belt; with it, he can cast any and all wizard spells at any level, repeatedly and without limitation. The sole exception are wish spells, which were intentionally placed beyond the power of the shadow belt by Orcus. (Druid and priestal spells cannot be cast with this artifact.)
+
+Nonattack spells can be amplified in effect by the belt. For example, a vastly increased telekinesis spell allowed Durhan to remove Solius from Trann. Other possible effects are as follows:
+
+- Walls of stone, ice, fire, or iron can be constructed of indefinite size.
+- Polymorphing large numbers of objects at once is possible (for instance, meteors of a meteor swarm cast against Durhan can be altered).
+- Monsters of 20+ HD can be created via a create monster spell.
+
+These amplified spells cannot directly affect an enemy. Attack spells have their usual effects. For example, a fireball from the shadow belt never does more than 20d6 hp damage.
+
+The unpleasant side effects of wearing this artifact are obvious — Durhan's huge, distended form is clearly painful.
+
+---
+
+## Snake Belt
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: DRAGON Magazine #5*
+
+Similar to a snake staff but in belt form, the snake belt is 3 feet long and can be used by any class or race. It silently crawls anywhere its owner mentally directs it, down halls, through cracks, and even up stone or wooden walls, at speeds up to 6 per round. The belt relays a visual impression of all it passes to its owner, akin to a wizard's eye spell. It causes 1d4 points of damage to any creature it strikes (biting as a 3 HD monster with 18 hp). The snake belt is considered to have 18/00 Strength for purposes of strangling victims, pinning arms, or forcing a door open or closed.
+
+---
+
+## Udo's Belt of Flying
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: 1992 Fantasy Collector Card 384*
+
+One day, Udo and his monkey familiar escaped from a pack of orc archers, mounted on his horse with its saddle of flying, and an arrow pierced his mount through the heart, sending them all crashing to the ground. In desperation, Udo tore the saddle from his horse's back and strapped it on, commanding his monkey to climb into the saddle. To Udo's wonder and delight, he sprouted wings and made his escape. Now, the wizard has taken the silver buckle from the saddle and sewn it onto a belt. He still requires a small rider on his shoulder to make the belt function, but he's been used to having a monkey on his back for a long time.
+
+---
+
+## Vainamoinen's Belt
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+This gives Vainamoinen's avatar the equivalent of cloud giant strength.
+
+---
+
+## Zoster of Zeal
+
+**XP Value:** 6,000 &emsp; **GP Value:** 20,000
+*Source: The Book of Marvelous Magic*
+
+This belt can be worn in combination with any magical buckle. When the wearer commands it to func-
+
+---
+
+<!-- page 172 -->
+
+## Zoster of Zoophobia
+
+**XP Value:** — &emsp; **GP Value:** 1,800
+*Source: The Book of Marvelous Magic*
+
+This belt appears and functions as a zoster of zeal. However, when commanded to function, it also inflicts the user with a morbid and uncontrollable fear of animals of all types (no saving throw). In addition, the victim must make a saving throw vs. spell. If the throw fails, the wearer is overcome by a strange illusion—that all those nearby are turning into animals. The victim flees and hides from the animals if possible; the illusion passes when the zoster's effect ends after one turn. The phobia does not end, however, and the victim flees from any normal or giant-sized animal seen thereafter, running at three times normal movement rate for at least six rounds. The phobia can be cured by a *remove curse* applied by a caster of 15th level or higher, or by a *heal* spell. The phobia returns each time the zoster is activated: it cannot be removed from the item.
+
+---
+
+# Bench
+
+Benches are hand-crafted, multiseat chairs consisting of long, thick slats of wood nailed or bolted onto perpendicular legs. The slats make up the seat and the back, while the perpendicular pieces keep the structure together. Finely crafted benches are called pews, but the latter are constructed from whole pieces of shaped wood.
+
+## Bench of Encumbrance
+
+**XP Value:** — &emsp; **GP Value:** 1,800
+*Source: The Book of Marvelous Magic*
+
+This item appears identical to a bench of ramming, but it cannot open doors. The user soon discovers that it also cannot be set down. A *remove curse* or a *wish* from a caster of at least the 21st level makes the bench disappear.
+
+## Bench of Levitation
+
+**XP Value:** 1,200 &emsp; **GP Value:** 6,000
+*Source: The Book of Marvelous Magic*
+
+This bench appears and functions as a bench of ramming, but if an attempt to ram a door fails, the bench levitates to the ceiling or to a height of 100 feet if outdoors, carrying the user with it. It may be brought back to earth by using a *dispel magic* spell that causes it to fall, or *levitation*, which brings it down slowly and safely, or by pushing down on it with a weight equal to the weight of the bench plus the user or users—easily done with a single *fly* spell or potion in one turn. When brought back to earth, the victims are freed.
+
+## Bench of Ramming
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: The Book of Marvelous Magic*
+
+This wooden bench is 4 feet long, 2 feet wide, 3 feet high, and seats two human-sized creatures. It weighs 50 pounds and may be carried by one (using both hands) or two (using one hand each). If used to ram a door, the ramming is probably successful. Unsecured doors may be opened easily; locked doors open 90% of the time, although this will trigger most unremoved traps (if any). Wizard locked doors may be rammed open 50% of the time, and one-way doors 25% of the time from the wrong side, although this usually destroys the door. The bench has no effect on barred doors. It may be used as often as desired, but each use has a 5% chance (not cumulative) of destroying its magic.
+
+---
+
+# Berry
+
+Berries, like apples and other fruit, have found many magical uses. The entries below depict only a small portion of these. (See Potion for the uses of magical berries in a DARK SUN Campaign.)
+
+## Fireberries
+
+**XP Value:** 600 &emsp; **GP Value:** 1,200
+*Source: Adventure Pack I*
+
+Similar to fireseeds, these are nature's own variety. To activate a berry, it must be thrown onto the ground and a command word spoken. This causes the berry to burst into flames that inflict 1d8 points of damage and ignite any combustibles they touch. They may be thrown up to 10 feet.
+
+## Magical Berry
+
+**XP Value:** 300 &emsp; **GP Value:** 900
+*Source: Horror on the Hill*
+
+Many years ago, an old priest spilled a potion of healing at the base of three bushes. A strange and magical absorption took place, and now the berries themselves have healing properties. Twelve berries are on each bush, and each berry acts as a half-strength potion of healing, curing 1d4 points of damage for each berry eaten. The berries spoil fairly quickly though, and are only
+
+---
+
+<!-- page 173 -->
+
+effective if eaten within one day of being plucked. A *detect magic* spell indicates that the bushes and berries are indeed magical. They resemble raspberry bushes, but the berries on the plants are much larger than ordinary raspberries.
+
+## Bison Skull Totem
+
+**XP Value:** 5,000 &emsp; **GP Value:** 50,000
+
+*Source: DUNGEON Magazine #32*
+
+These permanent, magical items are usable by any Rover shaman. A bison skull totem focuses the magical ability of a shaman when either held in a shaman's hands or placed on top of a totem pole. When on a totem pole, the skull gives the following powers to all villagers within 500 yards—cannot be surprised by attackers, +1 on saving throws, and *protection from evil* (as the spell). In a shaman's hands, the skull gives the following additional benefits—+2 on saving throws to shaman holding it, *protection from evil* 10' radius, immunity to fear, and *protection from normal missiles*.
+
+A bison skull totem has several greater powers, usable once per day. To invoke these, a shaman must hold the skull overhead and chant a command phrase. The powers are—a blast of fear (as a *wand of fear*), *flame strike*, *insect plague*, and *sunray*. If the skull is threatened with capture by a non-Rover, it can teleport itself to the nearest Rover shaman.
+
+Kolkis's Evil Skull Totem is a twisted parody of a normal Rover bison skull totem. It can disguise itself to appear as a normal bison skull. For its powers to be manifested, it must be wielded in the same way as a Rover shaman uses a good totem. Although it no longer has the power to change alignment, it still grants other powers to its user—immunity to fear, +2 on saving throws; inability to be surprised, and protection from normal missiles. The following powers can be used once per day: *insect plague*, *confusion*, *flame strike*, *slow*, *fear*, and *sticks to snakes*. Kolkis's evil skull totem has no powers when placed on a totem pole, unlike a true bison skull totem. Any good-aligned person who touches this evil stenchkow skull takes 2d4 hp electrical damage.
+
+## Black Wall
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+
+*Source: DRAGON Magic*
+
+This wall is made of pure obsidian. There is a solid black circle about 50 feet in diameter in front of the wall. Dragons believe that specific aromas can trigger vivid memories. By touching areas of the black wall in certain sequences, aromas are produced that enable a dragon, or any other intelligent creature, to experience racial memories of incidents occurring thousands of years before birth. If anyone touches the wall and stands in the circle, he or she feels a tingling sensation in the body and then smells a strong aroma that seems to flow from the wall and envelop his or her head. The intense effect lasts only a few seconds. Roll 1d6 and consult the following table for the aroma and the effect.
+
+| Roll | Result       |
+|------|--------------|
+| 1    | Sea Water    |
+| 2    | Decay        |
+| 3    | Violets      |
+| 4    | Baking Bread |
+| 5–6  | No Effect    |
+
+- **Sea Water:** This aroma is of sweet, salty air blowing in on an ocean breeze, triggering vague memories of living in the sea—playfully chasing fish, exploring the murky depths, breaking through the surface to catch the sun's rays. (The implication is that the one touching has evolved from some sort of marine life.) This experience is so soothing that the PC recovers 1d2 hp of damage.
+
+- **Decay:** The stench of rotting meat triggers vague memories of living in a dark swamp—scraping in the mud for scraps to eat, hiding in cool caves from predators, shaking from fever chills. (The implication is that the one touching has evolved from some sort of primitive swamp-dweller.) This experience is so disturbing that the toucher must succeed in a Constitution Check or lose one hp of damage.
+
+- **Violets:** The fragrance of sweet violets triggers vague memories of floating in a void—formless wisps of color, distant echoed voices, flashes of soft light. (The implication is that the spirit of the one touching had an existence that predated his or her physical body.) This experience is so profound that the toucher is distracted for the next hour, making all attack rolls at -1.
+
+- **Baking Bread:** This is the delicious aroma of freshly baked bread, triggering vague memories of infancy—snuggling against a warm body, hearing gentle melodies from a soft voice, watching a colorful butterfly float by in the breeze. This experience is so relaxing that the one touching immediately falls asleep (no saving throw allowed) and stays asleep until something or someone wakes the character.
+
+---
+
+<!-- page 174 -->
+
+## Blanket
+
+Blankets are extremely common items that can be found in almost every climate and culture. They are used primarily for warmth or comfort, especially during sleep. However, they also are used for decorative or ritualistic purposes. Many northern cultures use many layers of blankets or hides as their only form of clothing.
+
+## Blanket of Comfort
+
+**XP Value:** 600 &emsp; **GP Value:** 1,600
+*Source: DRAGON Magazine #73*
+
+This blanket automatically maintains a comfortable temperature for anyone sleeping under it. It cannot maintain a temperature difference of more than 30 degrees, however, from the ambient atmosphere.
+
+## Blanket of Devouring
+
+**XP Value:** — &emsp; **GP Value:** 1,200
+*Source: The Book of Marvelous Magic*
+
+This plain gray blanket is 6 feet square. When it is used to wrap or cover any living creature, dozens of tiny mouths appear inside the blanket and bite the victim for 10 points of damage per round. Once the mouths appear, a *remove curse* is needed to remove the blanket. Once removed, the blanket becomes nonmagical and powerless.
+
+## Blanket of Protection
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+*Source: The Book of Marvelous Magic*
+
+This plain, gray blanket is 6 feet square. Its user can rest easily, for it blocks all magical and normal attacks as long as the user is asleep. It has no power while the user is awake. A *wish* spell is needed to remove the blanket without the user's permission.
+
+## Silk Coverlet of Warmth
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,500
+*Source: POLYHEDRON Newszine #43*
+
+Although it appears as only a finely woven bedcovering of dazzling color, this coverlet is capable of maintaining a comfortable temperature for sleeping — even in the most extreme conditions of cold and wind. It is always large enough to spread over three human-sized individuals. It does not work if it is wrapped around a person. It must be spread out over someone on a horizontal surface.
+
+## Blanket of Sleeping
+
+**XP Value:** 900 &emsp; **GP Value:** 1,800
+*Source: The Book of Marvelous Magic*
+
+This plain gray blanket is 6 feet square. If used to wrap or cover any living creature, the victim must make a saving throw vs. spell or sleep until the blanket is removed. The blanket is easily removed by anyone except the victim. If the saving throw is successful, the blanket has no effect. The victim needs no food or water while asleep, and may sleep for years. A normal attack roll is required if the blanket is used in hand-to-hand combat.
+
+## Blashphor's Magical Diapers and Crib of Pushing
+
+| Item | XP Value | GP Value |
+|----------|----------|----------|
+| Cradle | 800 | 8,000 |
+| Diapers | 40 | 400/each |
+| Nursery | 1,500 | 15,000 |
+
+*Source: The Book of Wondrous Inventions*
+
+Blashphor was a kindly and studious wizard who lived with his wife, Atrina, in the tiny village of Spinyon, a poor farming community many miles from the nearest trade route. Blashphor eventually left Spinyon for a wilderness retreat where he could do his research without interruption. Atrina, pregnant with their first child, was less than eager to go, but Blashphor convinced her that he needed her help. Besides, he argued, there could be no better way for their child to come into the world than surrounded by the magnificent splendor of nature. Reluctantly, Atrina agreed.
+
+Six months later, in a small cabin deep in a beautiful remote woodland, Atrina gave birth to triplets. Sadly, Atrina died in childbirth, leaving Blashphor alone with his three new sons. The grieving Blashphor chose to return to the village and continue his research, while raising his sons as best he could. However, Blashphor's research went very slowly, and caring for three infants proved all but overwhelming. Able to transmute only the simplest of gases and minerals, he developed diapers as an experimental novelty that kept his babies dry and clean — a great help to an overburdened father, but hardly the breakthrough he desired.
+
+Believing himself a failure, Blashphor was surprised when new parents in the village took an interest in his magical diapers. Intrigued, he began to tinker with another of his seemingly
+
+---
+
+<!-- page 175 -->
+
+*[Page 175 appears to be a decorative or illustration-only page with no readable magic item text content.]*
+
+---
+
+<!-- page 176 -->
+
+## Blashphor's Magical Diapers and Crib of Pushing
+
+minor magical experiments and soon came up with a baby cradle that completely provided for an infant's needs. The cradles were made available at harvest time, much to the delight of the overworked parents.
+
+The diaper resembles an ordinary white diaper, but the cloth is somewhat softer and silkier and sparkles slightly in the sunlight. Small leather straps in the corners serve as fasteners. The cradle is a rectangular box made of polished wood, typically oak or maple. Colorful caricatures of animals and babies are painted on the sides, and two wooden rockers are attached to the bottom. A small platform extends from the foot of the cradle and holds a medium-sized flowerpot containing sweet-smelling mint plants. Daisies, violets, and other flowers grow in boxes attached to the sides of the cradle.
+
+A long wooden rod extends upward from the flowerpot at the foot of the cradle, and a second rod crosses it at the top to make a perch. A brightly feathered parrot sits on the perch, softly chattering and chirping as it overlooks the cradle. At the end of the perch is a wooden tube containing food for the parrot. A small cup at the base of the tube is filled with seeds.
+
+Another wooden rod is attached to the headboard. Two objects are attached to this rod and hang over the cradle. One is a large, leathery bag ending in a long tube. The other is a delicately balanced mobile made of several pieces of bamboo and crystal. The mobile produces a soothing tinkle at the slightest touch. A string extends from the mobile to the parrot's food tube.
+
+**Construction:** Blashphor was responsible for the magical diaper and the crib of pushing. Each has its own construction requirements. Because of the time and expense involved, it is a good idea to create a large number of diapers of enchantment at the same time. Using this method, up to 15 yards of cloth can be enchanted at the same time (12,000 gp, 39 days), enough to make as many as 30 small to medium-sized diapers. A newly woven bolt of cloth made from any natural fiber interwoven with 10% butterfly silk must first be hung outside and blown in the wind for 30 days. A permanent *transmute foul to fresh* spell (2nd level) is then cast on the cloth. Spell components include a handful of crushed lilacs, an ounce of talcum, and a vial of green slime.
+
+A baby cradle (8,000 gp, 8 days) first requires the construction of a basic crib out of wood. The crib is varnished, polished, and decorated to taste, then enchanted to become a crib of pushing. Components for this enchantment include a pinch of powdered brass, a baby's fingernail clipping, and the pendulum from a clock. The crib is then lined with the same kind of cloth used to make diapers of enchantment.
+
+Flowers of the maker's choice are planted in the flower boxes, and mint sprigs are planted in the pot containing the parrot perch. A trained parrot, preferably one with a large vocabulary, should be secured from a reputable trainer. (Adequate training for this purpose takes a minimum of 10 weeks.) The food tube can be made from a small, hollow log. This is attached to the perch along with a cup to receive the food as it spills from the tube. A string hooked to a latch inside the tube releases the food when pulled by the parrot.
+
+A milk bladder is hung from the wooden rod suspended over the cradle. The top end of the bladder has a stopper or valve that can be opened to pour in fresh milk. The tube end has a valve that opens at the slightest pressure from an infant's lips, but otherwise remains closed. The bladder is adjusted so that the tube end dangles within easy reach of a reclining infant. The milk bladder may be made from a leather flask, but an air bladder from an aquatic creature makes a better one—cleaned and dried, air bladders won't leak, and come equipped with natural valves. (In his original cradle, Blashphor used the bladder of a giant carp.) A mobile constructed of attractive bits of crystal, bamboo, and other baubles is hung next to the milk bladder. The mobile should have no sharp edges and hang just out of the baby's reach. A string from the parrot's food tube is connected to it.
+
+**Statistics:**
+
+- **Diaper:** size varies but averages 2-foot square. Up to 30 diapers can be made from 15 yards of enchanted cloth. A diaper of enchantment is secured to an infant with small leather straps. When the baby relieves himself, the waste products are instantly transmuted into a mixture of 95% pure oxygen and 5% powdered talcum.
+
+- **Crib:** 4'×2'×3'; parrot perch reaches 5 feet from ground. Weight of entire cradle: about 50 lbs. Provides up to 12 hours of complete care for a single infant (suggested age: 3–15
+
+---
+
+<!-- page 177 -->
+
+(Note: This page continues from a previous entry about a magical crib item, then begins the Blowgun section.)
+
+months). Milk bladder holds about one gallon. The parrot food tube holds one week's supply.
+
+The crib of pushing is activated by the sound of crying from its occupant. It will continue to gently rock back and forth as long as the baby cries.
+
+If the baby is hungry, the tyke may suckle milk from the milk bladder suspended overhead. The crib is lined with cloth made from the same material as the diaper of enchantment and transmutes any milk that leaks from the bladder or dribbles from the baby's mouth.
+
+At the base of the crib is a flowerpot of fresh mint, fertilized by the droppings of the parrot perched above. Colorful flowers grow from boxes on each side of the crib. The mint and the flowers keep the air smelling sweet and also add to an aesthetically pleasing environment.
+
+The specially trained parrot keeps an eye on the infant and provides entertainment and speech lessons. A string runs from its feeder to the mobile; when the parrot pulls the string to fill its cup, the string tugs on the mobile to amuse the baby. The parrot's songs and chatter provide entertainment while its repetition of words and phrases helps the baby learn to talk.
+
+Most importantly, the parrot has been trained to alert the parents in case of an emergency. If specific cues occur which indicate the baby may be in trouble, such as gasping for air or extended crying, the parrot flies like a homing pigeon to the parents or a specified neighbor and squawks out a warning.
+
+---
+
+## Blowgun
+
+After determining the magical properties of the blowgun the character found, purchased, or traded for, roll on the following table to determine the type of blowgun found.
+
+| Roll  | Blowgun Type |
+|-------|--------------|
+| 01–25 | Blowgun      |
+| 26–50 | Blowpipe     |
+| 51–75 | Metsubishi   |
+| 76–00 | Tufenk       |
+
+## Blowgun of Accuracy
+
+**XP Value:** 2,500 &emsp; **GP Value:** 15,000
+*New Item*
+
+The blowgun of accuracy is a simple, yet effective, missile weapon. The magical properties of this weapon are a +3 bonus on attack and damage rolls. Normal ranges are figured at short range for this weapon.
+
+## Blowgun of Distance
+
+**XP Value:** +1: 1,500 &emsp; **GP Value:** +1: 10,000
+**XP Value:** +2: 2,000 &emsp; **GP Value:** +2: 12,000
+*New Item*
+
+This is a magical weapon that has double the range of a normal blowgun, thus short range is 20 feet.
+
+## Blowgun Hawk
+
+**XP Value:** 500 &emsp; **GP Value:** 3,500
+*New Item*
+
+This weapon is crafted from fine wood and decorated with eagle feathers that give it magical power, adding +1 to attack and damage rolls.
+
+## Blowgun of Wild Emotions
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #134*
+
+This item is a blowgun, 3 feet in length, made of a light, strong blue metal similar to mithral. At unpredictable times the metal changes color, sometimes glowing or even growing fur or scales. None of these changes affect the powers of the blowgun. Its range is normal for a blowgun.
+
+Any dart fired from one of these blowguns is
+
+---
+
+<!-- page 178 -->
+
+The page begins mid-entry (a blowgun dart item) before transitioning to the Boat section and then the Airboat entry. The blowgun dart text and boat type table appear to be continuations from the previous page.
+
+---
+
+briefly enchanted to cause random emotional changes in the creature struck by it. When a creature is hit by such a dart, roll on the following chart for the effect:
+
+| Roll  | Effect   |
+|-------|----------|
+| 1–10  | Envy     |
+| 11–20 | Greed    |
+| 21–30 | Pride    |
+| 31–40 | Hatred   |
+| 41–50 | Paranoia |
+| 51–60 | Love     |
+| 61–70 | Sloth    |
+| 71–80 | Euphoria |
+| 81–90 | Sadness  |
+| 91–00 | Lust     |
+
+This item affects any being with an intelligence of 5 or greater who fails a saving throw vs. spell after being struck. Darts fired from this blowgun do no physical damage. Only one dart may be fired per round, and only one emotion can affect a being at any one time. The duration of effect of these emotions is one turn. PCs struck by these darts should be role-played to an extreme; while these emotional effects have no real game effect, they can create remarkable role-playing situations.
+
+---
+
+Most magical boats are identical in size to river boats — 20 to 30 feet long with a 10-foot beam and a 3,000-pound cargo capacity (for larger vessels, see Ship). Though normal river boats require a crew of eight rowers, all magical boats start, stop, and turn on command. Most magical boats are AC 4, have 40 hull points, and can move 36 miles per day (60 feet per round) unless noted otherwise. Roll on the following table to find the type of vessel found.
+
+| Roll  | Boat Type       |
+|-------|-----------------|
+| 01–03 | Barge           |
+| 04–06 | Barijah         |
+| 07–09 | Boat            |
+| 10–12 | Caravel         |
+| 13–16 | Coaster         |
+| 17–20 | Cog             |
+| 21–24 | Common Oar      |
+| 25–28 | Curragh         |
+| 29–32 | Dhow            |
+| 33–36 | Dromond         |
+| 37–40 | Dunij           |
+| 41–44 | Galleon         |
+| 45–48 | Galley Oar      |
+| 49–52 | Great Galley    |
+| 53–56 | Kayak           |
+| 57–60 | Markab          |
+| 61–64 | Outrigger Canoe |
+| 65–68 | Qarib           |
+| 69–72 | Raft            |
+| 73–76 | Reed Canoe      |
+| 77–80 | Safinah         |
+| 81–84 | Sailboat        |
+| 85–88 | Sambuk          |
+| 89–92 | Umiak           |
+| 93–96 | Xebec           |
+| 97–00 | Zaruq           |
+
+## Airboat
+
+**XP Value:** 20,000 &emsp; **GP Value:** 200,000
+*Source: The Complete Wizard's Handbook*
+
+This is a stone canoe that measures 3 feet tall, 12 feet long, and 4 feet wide. Inside are five evenly spaced stone planks, each capable of seating two human-sized passengers. A plank on one end of the canoe is marked with a star symbol in the center. An airboat is also fitted with two sets of stone oars that conform to ridges carved in both sides of the craft. These boats respond to the mental orders of their commanders (the character sitting on the plank with the star symbol). Only a wizard or priest can serve as an airboat commander.
+
+An airboat can move in any direction and in any medium. While moving, an airboat is surrounded by an aura of light that allows all of its passengers to breathe normally, even when traveling in airless space. The aura surrounds the craft to a distance of 10 feet.
+
+An airboat has a movement rate of 40. It can move only if it is being rowed with at least one set of the stone oars. If only one set is used, the craft has a maximum movement rate of 20; if both sets are used, the craft has a maximum speed of 40. A single character can operate two oars, or two characters can sit side by side on a plank, each operating an oar. To move at maximum speed, the rowers must complete a stroke every two seconds; if the rate is less than this, the maximum speed decreases proportionately. For instance, if one set of oars is stroking once every four seconds, that airboat has a maximum movement rate of 10.
+
+The commander must remain seated on the star
+
+---
+
+<!-- page 179 -->
+
+plank and can take no actions other than commanding the craft. If he or she moves from the star seat, attempts to operate the oars, or takes any other action, the airboat stops moving. Similarly, if the captain's concentration is broken, the craft stops. If it stops moving while in the air, it hovers in place. An airboat can hover in place for only one turn, after that, it sinks gently to the ground. If it stops moving while on water, the boat simply drifts.
+
+## Canoe of Portage
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+This canoe appears to be and functions like an ordinary canoe in all respects. When the command word is spoken, however, all nonliving items within the canoe stick to it and become as light as feathers. The canoe thus encumbered (600 pounds maximum) can be carried as if empty, requiring two persons and counting as 25 pounds of weight for each. A second command word negates the effect, releasing the cargo and returning it to normal.
+
+## Canoe of Travel
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+This canoe appears to be and functions the same as a normal canoe. When the command word is spoken, the canoe resists the current, staying in the same place, however rapid the flow. It may then be paddled up or downstream at normal rates, as if the water were calm and still. A second command restores normal operation. The canoe of travel functions for up to four hours per day. The total time may be spent in any number of uses; however, each use costs at least one turn.
+
+## Boat, Desert
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+*Source: The Book of Marvelous Magic*
+
+This item is similar to an ice boat, but the runners allow movement only on sand or flat surfaces devoid of vegetation.
+
+## Boat, Folding
+
+| &nbsp; | XP Value | GP Value |
+|--------|----------|----------|
+| Small: | 5,000    | 12,500   |
+| Large: | 10,000   | 25,000   |
+
+*Source: Dungeon Master Guide, 1st Edition*
+
+A folding boat is always discovered as a small wooden "box"—about 1-foot-long, ½-foot-wide, and ½-foot-deep. It does, of course, radiate magic if subjected to magical detection. The box can be used to store items like any other box. If the command word is given, however, the box unfolds itself to form a boat 10 feet long, 4 feet wide and 2 feet deep. A second command word causes it to unfold a vessel 24 feet long, 8 feet wide, by 6 feet deep.
+
+In its smaller form, the boat has one pair of oars, an anchor, a mast, and lateen sail. In its larger form, the boat is decked, has single rowing seats, five sets of oars, a steering oar, anchor, a deck cabin, a mast, and square sail. The first holds three or four people, the second carries 15 with ease.
+
+A third word of command causes the boat to fold itself into a box again. The words of command may be inscribed visibly or invisibly on the box, or they may be written elsewhere—perhaps on an item within the box. The words may have been lost, making the boat useless (except as a small box) until a finder discovers them (via legend lore, consulting a sage, the physical search of a dungeon—your imagination is the key).
+
+## Folding Coracle
+
+**XP Value:** 10,000 &emsp; **GP Value:** 25,000
+*Source: Moonshae*
+
+This device is similar to a folding boat, except that it does not create such a grand vessel nor does it take up as much space when collapsed.
+
+The folding coracle looks like a small leather patch when folded—about the size of a large playing card. In fact, the patch may be sewn to a piece of clothing as a means of disguising it. When the command word is spoken, it expands into a circular skin-and-strut craft about 8 feet in diameter. Up to six human-sized passengers can travel in it.
+
+---
+
+<!-- page 180 -->
+
+## Boat, Frog
+
+**XP Value:** 400 &emsp; **GP Value:** 4,000
+
+*Source: The Book of Marvelous Magic*
+
+The amazing frog boat leaps on command, jumping out of the water to a height of 120 yards and landing up to 360 yards away. It treats its cargo, crew, and passengers gently and causes no ill effects when leaping and landing. On landing, its keel reaches a depth of only 5 feet and immediately returns to the usual 2–3 foot draft. The one-round leap is nearly vertical and quite useful to prevent boarding, a monster attack, etc. The frog boat can leap up to three times per day.
+
+## Goerl's Portable Canoe and Tackle Box
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+
+*Source: 1992 Fantasy Collector Card 387*
+
+Goerl retired from the adventuring life many years back. Among the treasures that he accrued and kept for his twilight years is his own special portable canoe and tackle box. Not only does this 6- by 6- by 1-inch packet unfold into a canoe and paddles for two, but it also stores a complete set of fishing poles and a tackle box filled with lures and other fishing accessories. Goerl's canoe even stores live bait for up to three months.
+
+## Hasty Barge of Nyr Dyv
+
+**XP Value:** 2,500 &emsp; **GP Value:** 30,000
+
+*Source: GREYHAWK Adventures*
+
+This magical boat was created by a wizard who was adopted by the people of Nyr. The wizard gave it as a gift to a Rhennee noble, and the wizard in turn was made a noble by the grateful lake people.
+
+The barge looks like a common vessel of the Rhennee. It is 14 feet wide and 36 feet long; on command it can move at twice normal speed or 60 miles per day, for an unlimited time and under its own magical power. Four heavy crossbows are mounted along each side, and more can be added. The barge has a lugsail that can be raised in windy weather to hide the magical nature of its movement.
+
+The hasty barge magically repels water creatures with less than low intelligence. They cannot attack the barge, and get no saving throw against the effect.
+
+## Boat, House
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+
+*Source: The Book of Marvelous Magic*
+
+This boat is identical to a river boat, but contains a 120- by 90- by 30-foot, extradimensional space. The space can be fitted with beds, cabinets, and gear, or may be used as an extra cargo hold. However, whatever the space holds cannot exceed its 3,000-pound total cargo capacity. The entrance to the extra space is a secret trap door on the inside of the hull. If a house boat takes 20 or more hull points of damage, the space and the door both disappear, casting all contents into the Ethereal Plane.
+
+## Boat, Ice
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+
+*Source: The Book of Marvelous Magic*
+
+This boat can be used as a magical river boat. When placed on any icy or snow-covered surface, two flat runners, similar to skis, appear upon command; each runner is the same length as the boat and firmly mounted on struts projecting downwards from the hull. The boat is lifted, its keel 5 feet above the surface of the ice, as the struts and runners appear. The runners enable the boat to move about as if waterborne. Each runner has 10 hp and disappears if damaged for more than that amount. If the boat falls over because it loses a runner, it takes 1d6
+
+---
+
+<!-- page 181 -->
+
+## Joukahainen's Boat
+
+points of hull damage. The runners are immune to all normal damage and can be affected only by magical weapons (treat as AC 4) or spells. An ice boat can move about with only one runner, but at 10 feet per turn.
+
+## Joukahainen's Boat
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Gods, Demigods, & Heroes*
+
+Joukahainen has two boats. This one is light and may go an additional MV 4 per round over normal movement rates for a similar boat.
+
+## Joukahainen's Boat II
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Gods, Demigods, & Heroes*
+
+The second boat owned by Joukahainen's avatar is small and holds twice as many passengers and cargo.
+
+## Mistboat
+
+**XP Value:** 4,500 &emsp; **GP Value:** 45,000
+*Source: POLYHEDRON Newszine 58*
+
+This powerful magical item only works on water; it is a miniature ivory carving of a sailing ship. However, when the command word "mistform" is spoken, the carving turns into a full-size ship made entirely of mist. Despite its appearance, the ship is quite solid and has the statistics of a carrack (length 120 feet, width 20 feet, movement 21, carrying capacity 685 tons). The ship has 70 hull points, and is equipped with one light mangonel, one medium mangonel, and four ballistae with 10 rounds of ammunition each. It requires a crew of 20. The mistboat is impervious to nonmagical fire and cold, and to crushing attacks, excluding ramming and constriction. Wall of fog repairs one point of damage to the ship per level of the caster; solid fog repairs two points per level. If the ship sustains more than 70 points of damage, the mist fades and the ivory miniature turns to dust. A mistboat can be used three times a week, for a maximum of 24 hours each time.
+
+## Portable Canoe
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Tome of Magic*
+
+This canvas canoe is capable of comfortably holding two passengers. The canoe includes two wooden paddles. The portable canoe can fold itself into a 6-inch-square packet, about an inch thick, and weighing just under a pound. Except for the paddles, the portable canoe must be emptied of all other objects before it can fold. Folding the canoe requires a command word and five rounds; unfolding requires a second command word and two rounds.
+
+## Quaal's Mystical Feather Token
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: 1992 Trading Card 30*
+
+Whenever this token is even slightly wet, it turns into a boat. When the boat dries out completely, it turns back into its feather token form. This can be especially troublesome if the owner of the token is caught in the rain without sufficient protection from moisture. The boat can carry up to 32 men and their gear. The token was supposed to be usable only once, but it appears to have had permanency successfully cast upon it.
+
+## Semekhtet Barge
+
+**XP Value:** 1,500 &emsp; **GP Value:** 9,000
+*Source: Nightrage*
+
+Koresh Teyd uses this magical ship to travel underground. Like a dwarven rockship, it moves through solid rock as easily as an ordinary boat moves through water. Also like a rockship, barge passengers are protected from the environment and can breathe and speak normally. However, a Semekhtet barge is not so rare nor hard to produce as a rockship, and it has figured prominently in Nithian folklore and mythology. (Thus the name; Semekhtet was a legendary hero who owned a similar barge.) Though Koresh Teyd received the barge as a gift from Thanatos, there is nothing inherent in the barge's power that necessarily demonstrates Immortal magic.
+
+Treat the Semekhtet barge as an undersea boat, except that it moves through rock, not water.
+
+## Smuggler's Boat
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+This boat rolls over on command. As it rolls, gravity reverses for all creatures and objects within the hull, and a water breathing effect protects all passengers and crew. The boat still floats, but only its keel and 2 to 3 feet of draft are above the water. The smuggler's boat can be used upside down indefinitely — it is extremely useful for secret, water travel.
+
+---
+
+<!-- page 182 -->
+
+## Storm Rider of the Gearnat Sea
+
+**XP Value:** 5,000 &emsp; **GP Value:** 50,000
+*Source: GREYHAWK Adventures*
+
+This large merchant ship is enchanted to withstand the violent storms and huge waves of the Gearnat in spring and autumn. Many merchants pooled their wealth to pay the wizard who enchanted it. A bloody fight erupted afterwards when the deed of ownership mysteriously disappeared. Now the Storm Rider is an item for anyone strong enough to take it and crafty enough to keep it. The vessel ignores the effects of storms, sailing as if in a brisk breeze at all times. Waves flatten out when the keel touches them and the effects of rain or snow do not affect the ship.
+
+## Theon's Folding Boat
+
+**XP Value:** 10,000 &emsp; **GP Value:** 50,000
+*Source: 1992 Fantasy Collector Card 33*
+
+This 1-foot by 6-inch by 6-inch box unfolds into a jaunty vessel, 90 feet long and 17 feet wide, that sails itself through waters of little or no effective depth (though there must be some water). The ship is constantly at full sail with the wind blowing in whatever direction the sailor wishes. Another unusual feature of this craft is that it cannot be hit by physical or magical attacks of any type. (All riders and equipment in the boat can take damage, but the boat itself remains unharmed.) The boat also plays pleasant fife and drum music at the command of the user, boosting the morale of all by one.
+
+## Tub of Sailing
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This tub is identical to a tub of lard, but it cannot create anything. If placed in any liquid, it floats and can support up to 500 pounds of weight without sinking. If a creature sits in the tub and commands it to sail, it moves at a Movement Rate of 18. It is not affected by wind, but it is easily damaged (5 hull points, AC 9).
+
+## Undersea Boat
+
+**XP Value:** 2,000 &emsp; **GP Value:** 18,000
+*Source: DUNGEON Magazine #9*
+
+This item is identical to a 30-foot-long, standard riverboat and can be used as one. As it is magical, however, its Armor Class is 4 and has 40 Hull Points. No rowers or sailors are needed if the command words are known. The command words for the undersea boat are simple anagrams:
+
+| Command | Command Word |
+|---|---|
+| Start | Ratts |
+| Stop | Opts |
+| Turn to port | Runt potrot |
+| To starboard | Burnt toast odarr |
+| Stop turning | Piston grunt |
+| Submerge | Rubes gem |
+| Level off | Elf ov elf |
+| Surface | Fur aces |
+
+When underwater, the boat radiates a *water breathing* effect, protecting all passengers and crew as long as they touch the boat, and it is fitted with grips so passengers won't drift away.
+
+## Underwater Boat
+
+**XP Value:** 2,000 &emsp; **GP Value:** 15,000
+*Source: The Sea People*
+
+Underwater boats are created from corals and are powered by water elementals. They resemble long cylinders with rounded ends. The driver sits in a special cockpit at the front of the boat and operates the vessel using simple controls. Passengers sit in seats behind the driver. The boat is open at the top and is not waterproofed in any way. They are constructed by triton wizards and are used to carry passengers and cargo.
+
+---
+
+<!-- page 183 -->
+
+## Vainamoinen's Boat
+
+Small Boat: Length 15–20', Width 10', Height 10'. Capacity 500 pounds, Passengers 4 (including driver).
+
+Large Boat: Length 30–40', Width 20', Height 20'. Capacity 3,000 pounds, Passengers 12 (including driver).
+
+| Vessel     | Miles/day | Feet/round | HP | AC |
+|------------|-----------|------------|----|----|
+| Small boat | 60        | 120'       | 60 | 0  |
+| Large boat | 40        | 100'       | 80 | 0  |
+
+The elemental that powers an underwater boat is contained at the back of the vessel. It cannot be attacked or harmed in any way unless the boat's hull points have been reduced to 0. Once the hull has been broken, the elemental emerges and attacks the occupants of the boat. A small boat contains an 8 HD elemental; a large boat has a 16 HD elemental.
+
+## Vainamoinen's Boat (Canoe)
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,000
+*Source: Gods, Demigods, & Heroes*
+
+Vainamoinen's boat is a canoe-sized craft that can hold as many passengers and as much cargo as a galleon and is not affected by storms and high winds. All of his boats move twice as fast as normal.
+
+## Xiphoid Xebec
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: The Book of Marvelous Magic*
+
+This item looks and functions like a sword +1 in all respects. When immersed in water and the command word spoken, it turns into a three-masted boat with sails (treat as a small sailing ship). The xebec remains in ship form for as long as needed; a second command word returns it to sword form. The magical xebec can only be damaged by magical attacks or by physical attacks from creatures of 12 or more Hit Dice. If damaged, it never again returns to the form of a sword.
+
+## Bombard
+
+| Bonus | XP Value | GP Value |
+|-------|----------|----------|
+| +1    | 4,000    | 50,000   |
+| +2    | 8,000    | 100,000  |
+| +3    | 16,000   | 200,000  |
+| +4    | 32,000   | 400,000  |
+
+*Source: War Captain's Companion*
+
+Somewhat rare items, magically enhanced bombards are highly desirable additions to any giff-manned ship. Magical bombards have the same chance of backfiring as standard bombards have, but they are not destroyed by such explosions.
+
+| Roll  | Bonus Type                                      |
+|-------|-------------------------------------------------|
+| 01–65 | Apply bonus to attack and damage rolls          |
+| 66–00 | Apply toward the range of the missile shot      |
+
+## Bone
+
+A magical bone is a wand-sized object that appears similar to a human arm or leg bone. A magical bone can be used only by a human who holds it and recites the proper command word. These bones cannot be damaged except by acid, a disintegration spell, or a wish, all of which cause the bone to crumble to dust. However, any magical bone can be turned by a priest; the bone is treated as if it were a spirit, and a successful attempt, whether to turn or destroy it, causes the bone to become nonmagical for 1d4+2 rounds. If the bone was operating while turned, it resumes its magical activity after the delay and cannot be turned by the same priest for an hour.
+
+## Bone of Animation
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This bone grows into a human skeleton (as the monster) on command. The skeleton understands and obeys the person animating it, but cannot speak, even if a *speak with dead* spell is cast. If given a weapon, it fights on command (AC 4; hp 30, otherwise identical to the monster description). The skeleton can be damaged by any sort of weapon and disappears if "slain," resuming its original bone form. It can carry up to 100 pounds weight. If turned (as a spirit, as any bone), the skeleton disappears, replaced by the original bone for 1d4+2 rounds; the skeleton then reappears and resumes its previous activity. A *dispel magic* spell automatically causes the skeleton to stop, paralyzed, for 1d4+2 rounds. The bone of animation can create a skeleton once per day, and the creature will serve for one hour or until slain.
+
+## Bone of Bruising
+
+**XP Value:** 250 &emsp; **GP Value:** 3,000
+*Source: The Book of Marvelous Magic*
+
+This bone, thrown at an opponent, attacks continuously and requires no concentration. The bone dances around the victim's head and shoulders,
+
+---
+
+<!-- page 184 -->
+
+trying to interfere and cause distraction. No attack rolls are made. Instead, the victim must make a saving throw vs. spell for each round of the bone's attack. If the throw is successful, the bone has no effect; if it fails, the victim takes one point of damage from bruising and cannot cast a spell or utter a command word during that round. The bone of bruising stops dancing on command or when the victim dies.
+
+## Bone Clapper
+
+**XP Value:** 150 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This bone can be used on any bell, normal or magical. When the bell is struck by the bone, it rings in its normal or magical fashion and no command word is needed. The bone clapper may be used three times per day.
+
+## Bone Dragon (Oracle Bone)
+
+| Age Category | XP Value | GP Value |
+|--------------|----------|----------|
+| Cursed | — | 2,000 |
+| Hatchling | 450 | 4,500 |
+| Very Young | 475 | 4,750 |
+| Young | 500 | 5,000 |
+| Juvenile | 525 | 5,250 |
+| Young Adult | 550 | 5,500 |
+| Adult | 575 | 5,750 |
+| Mature Adult | 600 | 6,000 |
+| Old | 625 | 6,250 |
+| Very Old | 650 | 6,500 |
+| Venerable | 675 | 6,750 |
+| Wyrm | 700 | 7,000 |
+| Great Wyrm | 725 | 7,250 |
+
+*Source: DRAGON Magazine #181*
+
+Dragon bones (or oracle bones, as they are sometimes called) are commonly sold in most apothecaries across Kara-Tur for the relatively low price of 1–6 tael each. However, nearly all of these items are surely fakes, perhaps animal bones or fragments of turtle shells. True dragon bones are the polished and enchanted shoulder blades of Oriental dragons, and they would never be sold so cheaply if properly recognized. One of these enchanted bones can aid a shukenja's casting of divination spells. Theoretically, the dragon's spirit travels between the diviner and a divinity, ensuring an accurate response through its ties with the Celestial Palace. The process involves scratching a question into the surface of the dragon bone with a sharp stylus, then carving a groove next to the query. The next step involves touching the groove with the red-hot point, causing a maze of cracks to spread across the bone's surface. By interpreting the length and pattern of the cracks, a shukenja learns the answer.
+
+A dragon bone adds 10% to the success of *augury*, doubles the duration of *find the path*, allows *know history* to be cast at twice normal distance, adds +1 to rolls on Artifact Table 1–24: Divination Results, and is suggested as a material component in powerful divination spells (to which it adds 10% to the chances of success). The complex process involved in utilizing a dragon bone takes one turn, which replaces the casting time for all of the above spells. Using this item in casting a spell does not always cause the bone to vanish, be destroyed, or become useless; it may be used a number of times equal to twice the age category of the dragon from which it came (roll 1d12 for random determination). Bones from older dragons have large surface areas on which to carve questions. If a dragon bone is found as part of a hoard, it may have already been used in previous divinations (DM's discretion; 1d4 suggested).
+
+A shukenja of the 10th level or higher may enchant a dragon bone if access to a deceased Oriental dragon's skeleton is possible. Since the requisite bones are taken from a dragon's shoulder blades, a shukenja may create two dragon bones from each dragon. The bones must be cleaned, stained with exotic oils (the ingredients for which cost 20 ch'ien), and polished. Since an Oriental dragon's bones are magical by their very nature, the final enchantment requires but a single casting of *holy symbol*. The chance that the enchantment "holds" is equal to 70%, plus 1% per level of the caster; the DM should roll this secretly, with 90% being the maximum chance of success. An unsuccessful enchantment results in a worthless item or — on an enchantment roll of 00 — cursed dragon bones. A cursed dragon bone functions like its correctly enchanted counterpart but provides false answers, sometimes (10% chance); a warped version of the truth or the direct opposite of the correct answer, often (80% of the time).
+
+## Bone of Slaying
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+Upon command, this bone becomes a magical club +3 (normal damage 1d4), gaining that bonus to attack and damage rolls in addition to Strength bonus, if any. Furthermore, if an attack roll of 19 or 20 is made while using the club +3 (before any
+
+---
+
+<!-- page 185 -->
+
+## Bone of Turning
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+adjustments), the victim must make a saving throw vs. magic or be struck dead by the blow, instantly reduced to 0 hit points. This does apply to undead. The bone functions once a day for one turn per use.
+
+This bone may be thrown at any undead monster as a missile weapon (ranges 40/80/120) with a +4 bonus to attack rolls. If the bone hits, the monster is affected as if turned by a 15th-level priest, although the bone may be used by any human class. The bone of turning must be retrieved to be thrown again, but there is otherwise no limit to the number of uses. If an attempt fails by too low a score on 2d6 after the bone hits, it has no further affect on that creature.
+
+## Bonnet
+
+Bonnets, in agricultural and industrial cultures, are wide-brimmed, flimsy hats that are thick enough to shelter the wearer's face and neck from the sun. In tribal cultures, bonnets are headdresses displaying or made from the tribe's or the wearer's totem (be it feathers, sprigs of oak, or the hide of a powerful and respected animal).
+
+## Bonnet of the Horn
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DUNGEON Magazine #32*
+
+This bonnet is made from a bison scalp with the horns attached. It is often decorated with feathers. Magical versions of the headdress give the warrior a Strength of 19 (+3 to hit, +7 to damage), but only for the purposes of attacking and damage with weapons. The Strength lasts for one turn and can be used only once per day.
+
+## Bonnet of War
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DUNGEON Magazine #32*
+
+Worn only by noted warriors, a war bonnet consists of a feathered headdress with two long trailers of feathers. Nonmagical bonnets are made of eagle feathers, while magical ones are made of the feathers from giant eagles. A war bonnet gives a wearer extremely sharp hearing and vision; the odds of surprise are only 1 in 10.
+
+## Book
+
+Books, Librams, Manuals, Spellbooks, and Tomes — in the AD&D game system, each of these terms has a unique definition:
+
+- **Books** may be used only by priests and sometimes raise a specific character statistic.
+- **Librams** are books used only by wizards, and occasionally boost stats.
+- **Manuals** may be used by both fighters and thieves, and some include boosts to stats.
+- **Spellbooks** contain spells and surprises. Most are restricted to priests and wizards, but a few may be used by any class.
+- **Tomes** may be used by all classes and some grant boosts to stats.
+
+All magical books, librams, manuals, and tomes appear to be normal works of arcane lore. Each is indistinguishable from others by visual examination or by magical detection.
+
+A *wish* spell can identify or classify a magical work. Other spells, notably *alter reality*, *commune*, *contact higher planes*, *limited wish*, and *true seeing* are useless. A *wish* reveals the general contents of a book, telling what classes or characteristics are most affected (not necessarily benefitted) by the work. A second *wish* is required to learn the book's exact contents.
+
+After being studied by a character, most magical works vanish forever. However, one that is not beneficial to the reader may become attached to the character, and he or she is unable to get rid of it. If the work benefits another character alignment, the owner is geased to conceal and guard it. As DM, you should use your judgment and imagination as to exactly how these items are to be treated; use the rules in this section as parameters.
+
+## Book of Amon
+
+**XP Value:** 6,500 &emsp; **GP Value:** 17,000
+*Source: Kingdom of Nithia*
+
+This relic has no known origin. It has existed since the days of the Nithian Empire on the surface world. It is a large volume weighing nearly 80 pounds, bound in what appears to be red dragon hide with raised, unreadable glyphs on the cover. Raised areas, like veins under skin, radiate out from the glyphs. Sixteen eyes of precious gemstone stare endlessly out from the cover of the book. To the casual observer, it appears to breathe.
+
+It is rumored that only the Pharaoh, or the Pharaoh's high priest, is able to read it freely. If
+
+---
+
