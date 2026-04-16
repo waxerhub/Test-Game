@@ -15425,3 +15425,1276 @@ The process of extracting the magic is not a simple task. The work takes 2d6 hou
 
 ---
 
+<!-- page 263 -->
+
+stance. If Afamir's fundamental breakdown is cast during the process, the wizard gains a +2 to his or her Intelligence check. In this situation, the spell does not consume the magical items on which it is cast.
+
+Each use of the portmanteau consumes some of the special agents required for the process. When discovered, the case holds enough materials to attempt 4d10 duplications.
+
+# Cask
+
+Casks (sometimes called caskets) are simply small barrels, though some are small boxes with attached lids. They are usually used to hold fluids (water, wine, ale, vinegar) and occasionally ground grains (flour, rice).
+
+## Everfull Cask
+
+**XP Value:** 360 &emsp; **GP Value:** 3,600
+*Source: DRAGON Magazine #159*
+
+These casks appear to be the same as any water container found aboard a ship. Each contains a special enchantment that causes the cask to fill with five gallons of fresh spring water once a day. If the cask is damaged or its cover is lost, no water is created. The casks fill themselves and do not operate using command words.
+
+Created by a priestal order of Eldath, everfull casks fulfill a multitude of purposes within Realmspace. Ships with these casks need never worry about short water supplies or foul water during long voyages. Planetary colonies with water shortages are aided by reliable sources of water. And the Eldathian priests who create these wonderful items raise money through the sale of everfull casks to finance building the temples of Eldath throughout civilized space. This money also brings more of Eldath's priests into space, thus leading to the spread of her religion. It is widely proclaimed by her priests that Eldath's word will flow across the stars, and the goddess of the singing waters will be found everywhere in her water and in her worship. As of yet, Eldath's worship is still limited to Realmspace, but her followers are growing steadily—her priests' words may yet come true.
+
+**Note:** These casks will not work efficiently outside of Realmspace. Each cask only produces five gallons of water per week outside of the crystal sphere of the Realms, because of Eldath's limited influence beyond Realmspace.
+
+## Cask of the Wind Spy
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+*Source: DRAGON Magazine #178*
+
+A breathtakingly beautiful, normal-sized casket of clear crystal with a lid mounted on hinges of gold, this device has trapped within it a minor form of air elemental who will act as a scout and spy for anyone who knows the magic word of command. The word must be spoken before the box is opened, lest the elemental fly out and return to its native plane. The elemental can be commanded for a total of two hours before it must return to the box for a full day.
+
+The elemental is invisible and does not engage in combat, but it is intelligent and able to communicate in a high, lilting whisper. It cannot draw maps, but it can describe what it has seen. Though it cannot distinguish fine details (it may see medium infantry rather than heavy, or spears instead of pikes), it can provide basic information of what and who it saw (infantry, but maybe cavalry, gnomes, but it could be ogres). If the casket breaks (which occurs if an item saving throw for crystal glass fails), the elemental is free to return to its home plane (MV FL 24; AC 0; hp 24).
+
+---
+
+<!-- page 264 -->
+
+## Cloud Castle
+
+**XP Value:** Varies &emsp; **GP Value:** Varies
+
+*Source: DRAGON Magazine #39*
+
+Through a long, arcane process, a complete castle can sometimes be built on a floating cloud. Such a castle is worth at least 30,000 gp and could be worth millions (see *The Castle Guide*). Experience is never awarded for finding and using a cloud castle. The award for actually building one is up to the DM; 1 to 10 XP per 100 gp spent on construction would suit most campaigns.
+
+Few things in the realm of fantasy inspire a sense of wonder equal to that of a castle nestled among the clouds, serene and (perhaps) peaceful, commanding a view of the country below such as few people ever see. Cloud castles are usually inhabited by high-level priests or wizards, cloud or storm giants, titans, silver or gold dragons, or other lofty, powerful beings. They are very rare, and their creation is a long and complicated process.
+
+A high-level wizard is usually required to construct a cloud castle, and he or she should have a large force of men and monsters to complete the task. First, a cloud must be found that meets the wizard's requirements for size, shape, and altitude — an area of little rain or one rich in cumulus clouds is preferred. Altitudes above two miles should be avoided for lack of breathable air. A flying carpet, broom of flying, or similar spell must be used to give the wizard a stable platform from which to cast spells.
+
+Next, the wizard must summon an air elemental (16 HD) and command it to shape the cloud into the desired form. Elementals are not hostile when informed of the purpose of their summoning, and willingly cooperate with the wizard. Shaping the cloud involves flattening a space for the castle, adding decorations (of somewhat vague form) to the cloud as the wizard sees fit, and preventing precipitation. Within one turn after the air elemental is dismissed, the wizard must cast *wish* and *control weather* on the cloud mass to permanently maintain its form and stability. A second *wish* may be used to anchor the cloud over a particular location, so it doesn't drift.
+
+Now the wizard must start casting *walls of force* to form the construction base of the castle; this could be a lengthy and tedious process, depending on the size of the castle the wizard has in mind. Obviously, the higher the wizard's level, the bigger the walls of force, which are laid in an alternating tile pattern on the flattened base of the cloud. Immediately after each force wall is created, a *permanency* spell must be thrown on it so that it doesn't fade. When finished, another *wish* is cast over the whole to ensure the surface is level, interlocking, and cannot be dispelled except by acts of greater powers. This entire process may take days or weeks and the wizard must be fully absorbed in the project.
+
+When this is done, the wizard casts a *wish* and a *reverse gravity* and another *permanency* spell upon the cloud mass, so that now it will support any weight placed upon it, even the weight of vast amounts of masonry and stone. This step may only be circumvented if the wizard or the creature the castle is being built for (a cloud or storm giant, or a titan) is a worshiper of Crius, titan of Density and Gravity. A great sacrifice made to Crius (DM's option) may induce him to work on the cloud castle base for one hour, after which it will support nearly any weight.
+
+At this point, the lucky wizard may start construction of the stronghold with whatever materials he or she deems necessary. If large blocks of quarried stone are to be carried to the site, then a retinue of cloud and storm giants may be helpful (perhaps payment is in the form of co-ownership of the castle). Otherwise, variations of Tenser's *floating disc* at high level may suffice, or *teleport*, or *wish*. Once the castle is built, a final *wish* is used to absolutely lock the castle to the cloud — the deed is done. If allowed then to drift, it will do so in a random direction, at a speed never exceeding 10 feet an hour.
+
+A few final notes. Remember that, unless a water tower or garden is included, the inhabitants may well have to hunt frequently or starve, as dragons and giants must do. High-level priests may provide food, but this isn't recommended for longer periods of time. The walls of force are translucent, so if a transparent floor is desired, allow for the cloud to be cleared away underneath the designated area; otherwise, cover the floor to prevent vertigo. *Glassteel* and similar spells may provide windows to enhance the view, and remember that if the castle drifts freely it also rotates slowly.
+
+Note that if a cloud castle descends to within
+
+---
+
+<!-- page 265 -->
+
+I'm unable to produce content for this page as the Tesseract OCR output contains no extracted text, and no structured table data was provided. There is nothing to transcribe or clean for page 265.
+
+---
+
+<!-- page 266 -->
+
+## Cloud Castle II
+
+*(continued from previous page)*
+
+100 feet of the ground, there is a 5% cumulative chance per round that, regardless of the spells used to protect it, the wall of force spells on the base cease to function, bringing the whole to the earth as precipitation. If the cloud strikes a mountaintop, the base is not dispelled, but there may be severe structural damage to the castle, as an *earthquake* spell.
+
+## Cloud Castle II
+
+**XP Value:** Varies &emsp; **GP Value:** Varies
+
+*Source: The Book of Wondrous Inventions*
+
+Clouds are normally too vaporous and impermanent for any but the most insubstantial of creatures to make their dwellings. However, millennia ago, a being of an unknown species, traditionally called Gibberlin the Aerifier, made the discovery that when the blood of a storm deity is spilled on a cloud, the cloud changes. It becomes permanent and semi-solid, never fading, never completely evaporating. The cloud's appearance is unchanged to human eyes, but aerial entities (such as cloud giants) can recognize such altered clouds at a glance.
+
+A cloud castle looks like a cloud from below. It moves with the wind, is white and fluffy—the only real difference is that it never dissipates, although its edges can change shape. However, anyone flying above it, and looking down, can view the castle, its gardens, perhaps even the forests, towns, and landscapes on the cloud's surface.
+
+**Construction:** Manufacturing one's own permanent cloud is quite difficult, since godsblood is nearly impossible to obtain. Fortunately, storm deities are mostly a violent bunch. Their immortal ichor is frequently spilled onto clouds, so a cloud castle builder need only check out likely prospects until locating a permanent, ichor-saturated cloud.
+
+Boarding one of these clouds is easy; flying creatures can simply land atop the foggy mass. Landbound giants must wait until the cloud bumps into a mountain, then climb aboard while it is still caught on the pinnacle.
+
+Once aboard the cloud, it must be prepared for construction. The cloud-stuff itself is soft and fluffy, and while it can support enormous weight, it is quite unsuitable for use as building material. Fog cutters and fog tongs are needed to dig the castle's foundation and carve the cloudy landscape into the desired shapes of hills, lakes, rivers, and valleys.
+
+Fog cutters are nonmagical shears used to snip out cubes of cloud from the surrounding mist. The shears must be long enough to chop out the largest cube possible, and they must be sharp, as must any shears intended to cut soft materials. Most fog cutters are sized for cloud giants, and much too large for humans to wield. Fog tongs are enormous, nonmagical pincers resembling oversized ice-tongs. They are used to grip blocks of cloud and move them about. Often a rope is attached to the tongs, so the hunk of cloud can be towed, floating at a distance above and behind the user. When a great number of cloud cubes must be moved, the easiest procedure is to net them and tow them with a long rope. If landscaping is to be done, grooves must be cut out for rivers, and depressions for lakes and ponds. A few holes are usually cut entirely through the cloud to permit the threading of chains.
+
+The builder of the castle needs one or more huge, iron dredges, attached by colossal lengths of rope and chain to the cloud. These dredges are lowered to the ground as the cloud floats by, to scoop up dirt and lift it to the surface of the cloud where it is spread to provide surface for gardens and trees. Plants and animals may be caught in the dredge as well; in that case, the better plants are used as seed stock to start gardens, and the animals are eaten or bred. Cloud giants, having little concern for human needs, usually scoop up only the best farmland. Some giants use their dredges to scoop up entire human houses, using the inhabitants as serfs to work their cloudtop farmland.
+
+Building the castle itself is a bit more arduous. Once the foundation is prepared, the builder, usually a giant, must be lowered on a rope or chain to a good source of stone. The cloud should be anchored so it won't float off, and slabs of stone are quarried in the normal fashion. Of course, with a giant doing this work, it takes less time than for human quarry workers. Buckets are lowered from the cloud to raise the quarried stone, then the giants return to the cloud and construct the castle.
+
+A cloud castle is inexpensive, since everything used is of natural materials (or stolen), but it may take as long as an ordinary castle to build. Fog cutters, fog tongs, dredges, anchors, and chains must be made to order, costing an average of 500 gp each; the dredges, chains,
+
+---
+
+<!-- page 267 -->
+
+and buckets average 5,000 gp each. These items may be obtained more cheaply from giant or dwarven blacksmiths. Some giants simply walk into a small town, glower at the locals, and order them to build a house-sized dredge equipped with a mile or two of chain—or the giants will devastate the town.
+
+Statistics:
+
+- **Size:** Larger than an ordinary castle.
+- **Structural points:** As an ordinary castle or stronger. Cloud castles are usually larger, stronger, and cruder than normal castles, having been built by and for giants.
+- **Construction tools:** Fog tongs and fog cutters are usually about 10 feet long and weighing well over 200 pounds. The dredges are at least 20 feet across, and weigh several tons. The anchor need only be a simple boulder attached to a long rope.
+- **Weight-bearing capacity:** 50 pounds per square foot, per foot of cloud's thickness. Thus, a cloud 40 feet thick can support 20,000 pounds per square foot, sufficient for most building purposes.
+- **Movement:** At the speed and in the direction of the prevailing wind.
+
+Cloud castles are almost self-sufficient. Their gardens and animal life provide enough food to support many inhabitants, and if the fare ever gets dreary, the inhabitants need only lower a dredge to scoop up an orchard or a barn full of cattle. Waste materials are easily dumped overboard.
+
+It does not rain very often on cloud castles, since they float at altitudes equal to or higher than those of many rain clouds. When drought threatens, a bucket is lowered to a pond and water scooped up and dumped in one of the cloud castle's lakes. The gardens and farms on the cloud must be irrigated, and that chore is done by whatever serfs the giants have captured.
+
+A cloud castle makes an ideal raiding base. By its very nature, it provides excellent camouflage. It is almost continually on the move, rarely remaining behind to suffer retribution. When the castle drifts over a likely prospect, such as a wealthy citadel or a prosperous hamlet, the giants simply lower ropes and chains, then swarm down to rob the area blind. The cloud's motion can be controlled slightly by the use of huge bellows and fans, so it can be made to float directly over a ground castle, enabling the giants to bypass the fortress's outer defenses. If necessary, giants subdue defenders by dropping large boulders, tree trunks, dead horses, and similar debris.
+
+While the cloud never completely dries out or disintegrates, its edges do change shape, and any structure built too near the edge may be damaged or even fall over the side. In addition, the cloud changes size with the prevailing moisture in the air. When traveling over a steaming jungle, the cloud swells, becoming much larger than usual. When over arid regions, it may shrink to a third its normal size.
+
+Cloud castles are at the whim of the winds. If becalmed, the inhabitants may be unable to find loot, food, or water for weeks. They also suffer water shortages if the castle is blown over an ocean or desert. Castles are sometimes attacked by flying monsters, creatures that are both more rare and more fearsome than earthbound beasts. Dragons, wyverns, and griffins can be difficult to drive away, even for giants.
+
+## Catapult
+
+| Type | XP Value | GP Value |
+|---|---|---|
+| Light +1 | 1,000 | 5,000 |
+| Light +2 | 2,000 | 10,000 |
+| Light +3 | 4,000 | 20,000 |
+| Medium +1 | 1,400 | 7,000 |
+| Medium +2 | 2,800 | 14,000 |
+| Medium +3 | 5,600 | 28,000 |
+| Heavy +1 | 2,000 | 10,000 |
+| Heavy +2 | 4,000 | 20,000 |
+| Heavy +3 | 8,000 | 40,000 |
+
+*Source: War Captain's Companion*
+
+Somewhat rare items, magically enhanced catapults are a highly desirable addition to any ship.
+
+| Roll | Bonus Type |
+|---|---|
+| 01–65 | Apply bonus to attack and damage rolls |
+| 66–00 | Apply toward the range of the shot |
+
+## Cauldron
+
+A large boiler or kettle, a cauldron is used, most often, to cook meals for a great number of people. Very large cauldrons can weigh as much as 40 tons. Magical versions can aid the user by creating beneficial concoctions, malignant poisons, or simply extra-large amounts of normal matter.
+
+---
+
+<!-- page 268 -->
+
+## Cauldron of Ambrosia
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #32*
+
+Once per week this cauldron produces one gallon of a golden wine with an exquisite taste. The wine may be sold for a minimum of 50 gp. It also has a 50% chance of distracting any nonintelligent monster, if splashed in front of it, with its tantalizing odor. The wine turns to vinegar in one week.
+
+## Cauldron of the Archdruid
+
+**XP Value:** 3,000 &emsp; **GP Value:** 16,000
+*Source: DRAGON Magazine #32*
+
+Traditionally in the possession of the Archdruid, this cauldron has all of the powers of all of the following cauldrons: cauldron of ambrosia, cauldron of blindness, cauldron of creatures, cauldron of entrancement, cauldron of foretelling, cauldron of fresh water, cauldron of healing, cauldron of restoring freshness, and cauldron of warming. Each power may be used once per week. Druids lower than 10th level have a 50% chance of not achieving the power desired. (Roll 1d10 for the effect. On a roll of 10 the cauldron cracks and is useless.)
+
+## Cauldron of Blindness
+
+**XP Value:** — &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #32*
+
+This cauldron taints anything edible placed within it so that when it is consumed or rubbed over the body, blindness for 1d3 days results. It is otherwise undetectable from a cauldron of restoring freshness or a cauldron of warming.
+
+## Cauldron of Creatures
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: DRAGON Magazine #32*
+
+Once per week this cauldron allows a druid to polymorph into any natural animal, bird, or reptile. This is done by sprinkling a powder made of crushed ruby (500 gp minimum value), mistletoe, mandrake, and some part of the target creature into fresh water. The polymorphed form lasts for up to one week, but can be terminated at any time by the druid who is changed. Treat otherwise as *polymorph self*, but the druid is only rendered unconscious if a system shock roll fails.
+
+## Cauldron of Doom
+
+**XP Value:** 6,000 &emsp; **GP Value:** 30,000
+*Source: Moonshae*
+
+This unique and potent item was cast by an ancient blacksmith under the watchful eye of the Beast, Kazgoroth. Its last rumored location was in the Castle of Skulls in Llyrath Forest on the island of Gwynneth.
+
+The cauldron can be used to create a zombie monster from a human corpse. If a corpse is thrown into the cauldron, it is imbued with a mindless form of animation; it will answer the commands of the one who threw it into the cauldron.
+
+The zombie thus created is identical to a normal zombie, with a couple of exceptions. It has 4 Hit Dice (rather than 2) and attacks as a 4-HD monster. It also has an AC of 5.
+
+## Cauldron of Entrancement
+
+**XP Value:** — &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #32*
+
+This cauldron appears to be a cauldron of foretelling, but any druid using it is entranced and cannot bear to look away (as a charm). If physically removed from the cauldron, the shock renders the druid unconscious for 1d4 hours.
+
+---
+
+<!-- page 269 -->
+
+## Cauldron of Foretelling
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+
+*Source: DRAGON Magazine #32*
+
+The possessor of this item can cast one extra *augury* spell per day by concentrating on the swirling of mistletoe in the water. The augury takes effect as the water is magically heated.
+
+## Cauldron of Fresh Water
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+
+*Source: DRAGON Magazine #32*
+
+This item fills three times a day with pure water.
+
+## Cauldron of Healing
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DRAGON Magazine #32*
+
+Once a week this cauldron will turn a mixture of crushed pearl (100 gp worth), mistletoe, and wine into a potion that will heal 1d4 points of damage.
+
+## Cauldron of Heating
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+
+*Source: The Book of Marvelous Magic*
+
+This large item holds up to 20 gallons of any liquid. Upon command, the cauldron heats the liquid to near boiling, requiring only one turn to do so. The heated liquid inflicts 2d10 points of heat damage on any creature immersed in it. Any powerful or magical cold attack, such as white dragon breath, *cone of cold*, or similar effect, permanently destroys the magic of the cauldron. The cauldron does not function unless a liquid is inside.
+
+## Hymir's Steaming Cauldron
+
+**XP Value:** — &emsp; **GP Value:** —
+
+*Source: DUNGEONS & DRAGONS Master Set*
+
+The vain, immortal giant Hymir created this device to produce vast amounts of superb ale for his own enjoyment and for his friends, Thor and the other Immortals. Its powers can, however, be used in other ways.
+
+It is a black iron kettle with a handle, of a type normally found in kitchens. It is about 18 inches across and a foot high.
+
+The kettle is inactive when it is found. It is activated by filling it with water, heating it over a fire, and then reading the powers and command words in the rising bubbles with a *read magic* spell. However, it is impossible to exactly duplicate Hymir's formula for the flavor of his ale, unless a sample of his ale has been tasted.
+
+Each power is triggered by command words. The user may give the commands from up to 10 feet away. However, each power applies only to the contents of the kettle.
+
+**Suggested Powers:** (All abilities are cast at 20th level.)
+
+- Create poison (Range: touch. The only poison this will create is alcohol.)
+- Container (Duration six hours; Capacity 1,000 cubic feet).
+- Create water
+- Change tastes (Affects 40 meals or 20 cubic feet.)
+
+**Suggested Handicap:** Fumbling — whenever the user attacks another with either a weapon or spell, he or she has 1 chance in 6 of fumbling the attack.
+
+**Suggested Penalty:** Memory penalties. Spellcasters — after memorizing spells, the user immediately forgets one spell of each odd-numbered spell level (up to one each of 1st-, 3rd-, 5th-, 7th-, and 9th-level spells). Nonspellcasters — the user immediately forgets how to use one weapon.
+
+## Iubadan's Cauldron
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: Tall Tales of the Wee Folk*
+
+Stones placed in this cauldron overnight are transformed into meat fit for a king. Up to 10 pounds of meat can be created per night and the meat collected keeps for one week before spoiling.
+
+## Mordom's Cauldron of Air
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+
+*Source: Tome of Magic*
+
+Mordom's cauldron of air is a round pot about 2 feet in diameter, weighing 60 pounds. There are two handles on either side of the pot and a compartment built like a small shelf underneath. The compartment can be filled with wood or coal to heat the cauldron.
+
+Although the device is heavy and bulky, the cauldron is valuable for characters planning an expedition to a place with little or no air. The cauldron functions as an air generator. To operate the device, the cauldron is filled with water and a fire is lit in the compartment. When the water boils, vapor is released. The air from the vapor creates a bubble of breathable air with a 10-foot radius, centered on the cauldron.
+
+The water must not be allowed to spill out of the cauldron and the fire must be kept burning.
+
+---
+
+<!-- page 270 -->
+
+## Cauldron of Plenty
+
+**XP Value:** 1,600 &emsp; **GP Value:** 5,000
+
+*Source: DUNGEON Magazine #21*
+
+As long as these conditions are met, the cauldron provides air continuously.
+
+The air produced is the same temperature as the surrounding environment. The device needs a minimum of one gallon of water per hour to continue to supply the air bubble.
+
+This magical item was created by druids of the deity Dagda in imitation of the deity's own, more powerful, device. In addition, the cauldron of plenty is cursed to bring harm to any person who obtains it by violence, since it was created to be used without charge by all who wish to partake of its benefits. The only exception to the curse is if the cauldron is obtained by a druidic follower of Dagda, in which case the curse is not activated.
+
+The curse is suitably vague and slow in effect, but very certain; the DM should take a free hand in designing its consequences. Three to six months after the cauldron is taken by violence from its previous owner, the new owner will be attacked by a comparatively powerful enemy in a fight to the death. The enemy should be a single monster or NPC, or a group of beings; the reason for the attack could vary widely, but it always concerns retaliation for some perceived offense. If the first attack fails, the next attack comes in 1d4+1 months; if that fails, another occurs in 1d4 months, then 1d3 months, 1d2 months, one month, three weeks, two weeks, one week, and then every day from six days to one. Finally, the new owner is attacked on a daily basis by some new and powerful force, until the cauldron is given up or the owner is slain.
+
+In its normal function as a provider of large quantities of food, the cauldron operates only at the command of beings whose alignment has a neutral element (true neutral, neutral good or evil, or lawful or chaotic neutral). It does not function for those of other alignments.
+
+Once per day, when the proper command words are spoken, the cauldron produces beef, mutton, or pork in quantities sufficient to feed 5d10 people. It never produces fewer than five portions, nor does it produce more food than that required for the immediate party. The cauldron produces only one type of meat, once per day. The command words are:
+
+| Command | Result |
+|---|---|
+| "Dean Mairteoil" | Cooked beef |
+| "Dean Caoireoil" | Cooked mutton |
+| "Dean Muiceoil" | Cooked pork |
+
+## Cauldron of Potion
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DRAGON Magazine #5*
+
+A potion cauldron allows the user to produce one dose of any magical or nonmagical potion, elixir, or concoction listed in this encyclopedia in just one day. Unfortunately, there is a flat 10% chance that any potion created by the cauldron is cursed. The curse can manifest itself into one of the following effects:
+
+| Roll | Effect |
+|---|---|
+| 01–25 | A random geas as dictated by the DM. |
+| 26–50 | A lethal poison. |
+| 51–75 | A random potion or elixir. |
+| 76–00 | A potion or elixir that has an exact opposite effect. |
+
+## Cauldron of Restoring Freshness
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: DRAGON Magazine #32*
+
+Any herb left in this cauldron overnight and sprinkled with salt, sugar, and ground pearl (100 gp) is restored to the condition it was in one day after being picked. It cannot restore any herb that was consumed or turned to dust.
+
+## Cauldron of Warming
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: DRAGON Magazine #32*
+
+This cauldron has the effect of being able to warm any liquid within it to its boiling point without the aid of a fire or other outside heat.
+
+## Cegilune's Iron Pot
+
+**XP Value:** 1,700 &emsp; **GP Value:** 8,500
+
+*Source: Monster Mythology*
+
+The avatar's small iron pot can be used once per day each for the following purposes:
+
+- To draw forth 1d8+8 poisonous snakes (as the *sticks to snakes* spell).
+- To draw forth a vial of poison with which the avatar can coat her claws (class D poison, three successful claw attacks remove the venom, which otherwise evaporates after one hour).
+- To draw forth a web and throw it up to 60 feet.
+- To project a screen.
+
+---
+
+<!-- page 271 -->
+
+## Celestial Planisphere
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Emirates of Ylaruam*
+
+This lesser artifact permits viewing and communication with the Elemental and Outer Planes as a crystal ball permits viewing and communication on the Prime Material Plane. The viewer may speak with those viewed.
+
+Unfortunately, this item is cursed. On a saving throw vs. spell at a -10 penalty, viewing or speaking with another plane causes a calamity in that plane such as an earthquake, flood, firestorm, or tornado that causes frightful damage both on the target plane and on the plane of the viewer.
+
+## Censer
+
+A censer is a container used to burn incense. The censer has a base that allows the container to stand by itself, a central bowl that holds the smoldering incense, and an ornately carved lid. Three chains, spaced equally around the upper lid of the central bowl, allow the priest or wizard to hold the censer as it smokes, sending its magical aroma into the air.
+
+## Censer of Conduct
+
+**XP Value:** 1,200 &emsp; **GP Value:** 12,000
+*Source: POLYHEDRON Newszine #23*
+
+This item appears to be a censer of controlling air elementals. However, instead of producing the expected result, it emits an invisible gas that has an odd effect on all within 60 feet. Those affected become unable to explain any detailed action in combat. The victims cannot aim at a specific portion of a target such as a tentacle. When any victim reaches 0 hit points, it quietly sits down and expires, without bleeding, moaning, or performing any other sort of normal dying activity. The effect is identical to that produced by game violins (see Stringed Instruments).
+
+## Censer of Controlling Air Elementals
+
+**XP Value:** 4,000 &emsp; **GP Value:** 28,000
+*Source: DRAGON Magazine #156*
+
+If any book containing at least one 4-letter word (obscene or not) is burned in this crucible, a bald, bespectacled little man is summoned. If a graffiti bottle (see Bottle) has been used, he quickly scrubs away all those filthy words, then sits those four naughty air elementals down and gives them a good talking-to.
+
+## Censer of Controlling Air Elementals II
+
+**XP Value:** 4,000 &emsp; **GP Value:** 25,000
+*Source: DUNGEON MASTER Guide*
+
+This 6-inch-wide, 1-foot-high, perforated golden vessel resembles the thuribles found in places of worship. If filled with incense and lit, a command word need only be spoken to summon forth a 12-Hit Die air elemental on the following round. If incense of meditation is burned within the censer, the air elemental receives a +3 bonus to each of its Hit Dice, and obeys the commands of its summoner. If the censer is extinguished, the elemental remains and turns on the summoner (see the MONSTROUS MANUAL accessory).
+
+In Ravenloft: The elemental cannot return to its native plane unless it finds a normal escape route from Ravenloft. If the elemental is freed somehow from control, it attacks the summoner.
+
+## Censer of Summoning Hostile Air Elementals
+
+**XP Value:** — &emsp; **GP Value:** 2,500
+*Source: DUNGEON MASTER Guide*
+
+This thurible is indistinguishable from other magical and ordinary censers. It is cursed, so that any incense burned within it causes 1d4 enraged air elementals to appear, one per round. These attack any and all creatures within sight. The censer cannot be extinguished, and burns until either the summoner or the elementals have been killed.
+
+## Censer of Thaumaturgy
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,000
+*Source: DRAGON Magazine #91*
+
+This perforated, metal vessel is typically (75%) made of electrum, but may be formed of any precious metal. If it is filled with incense and lit, the vapors from the incense permeate a 10-foot radius after one round, and increase by 10 feet per round thereafter until reaching a limit, 70 feet in radius after the seventh round. The effect of the vapors depends on what sort of character or creature ignited the incense. (This may be someone other than the owner of the censer.) If the lighting was done by a member of a spellcasting class or a creature with those abilities, all wizard spells cast by someone who is within the vapors are treated as if cast by a wizard of 18th level. If the lighting is done by a character or creature with no spellcasting or innate spell-like abilities, then all wizard spells cast by someone within the vapors will take effect as if
+
+---
+
+<!-- page 272 -->
+
+cast at 5th level. A ranger or paladin who has obtained spell-user abilities is considered a spellcaster for purposes of this determination.
+
+All forms of magic that are equivalent to any wizard spell (such as a monster's innate spell-like abilities or priestal spells that directly duplicate wizard spells) are affected by the magic of the censer of thaumaturgy. Psionic powers, magical items, and other magical effects are not altered. The high level effect of the censer's magic gives any spell cast the range, duration, and effectiveness as if cast by a wizard of the 18th level, but does not allow the casting of any spell the caster did not already possess. The low level version of this magic limits the spells usable within the vapors to magic that is available to a 5th-level caster; in other words, nothing higher than a 3rd-level spell can be successfully cast. Any attempt to use a spell of 4th level or higher simply fails, and the spell is wasted. As with the high level version, no caster can use a spell to which he or she would not normally be entitled.
+
+The censer burns for 3d4 turns unless deliberately extinguished. A *gust of wind* spell, the approach of a wind walker, or the presence of similar air currents that markedly affect the vapors will disperse them and end the effect. When the censer goes out or is extinguished, the vapors persist for 1d4 rounds thereafter before losing their power.
+
+---
+
+## Chain
+
+A chain is a series of interlocking metal rings that form a long strand. Chains are commonly used to bind prisoners, haul cargo, and connect anchors to ships, and are even used as ornaments. Magical chains do not look or feel different from nonmagical varieties. Most magical chains have at least one activating command, but a few function automatically.
+
+## Chain Daisy
+
+**XP Value:** 50 &emsp; **GP Value:** 250
+
+*Source: DRAGON Magazine #30*
+
+A chain daisy (found in groups of 1d4 seeds) looks and smells like a normal daisy. The plant, which stands about 1-foot tall, has a stem and leaves that are tougher than cured leather. It is also highly resistant to fire and acids.
+
+## Danleor's Dungeon Chains
+
+| Strength Type | XP Value | GP Value |
+|---|---|---|
+| 17 Strength | 1,500 | 20,000 |
+| 18/00 Strength | 2,000 | 26,000 |
+| 19 Strength Type I | 2,500 | 33,000 |
+| 19 Strength Type II | 3,000 | 40,000 |
+| 20 Strength | 3,500 | 46,000 |
+
+*Source: DRAGON Magazine #145*
+
+Hundreds of years ago, there lived a great wizard named Danleor who created dozens of sets of magical dungeon chains, which he used to confine his numerous and unusual enemies. Some of these enchanted shackles have survived the centuries to the present.
+
+Individual sets of chains vary in power and effectiveness; the stronger ones are noticeably thicker and sturdier than the weaker ones. The iron chains and shackles are built to confine any creature from hill giant to halfling in size, and Danleor's dungeon chains weigh so heavily on captives that they are almost totally immobilized. To find the strength of the chains discovered, roll on the table below.
+
+Danleor's dungeon chains are much too heavy to be thrown or otherwise used as weapons. Anyone, aside from the chains' captive, may open the magic shackles, if the command word is known. In some of Danleor's ancient records, which are now kept by an isolated clan of elves, there is mention of strange dungeon chains that are particularly effective against undead, and others which are actually sized to hold larger giants. To date, however, none of these have been discovered.
+
+| Roll | Strength of Danleor's Dungeon Chains |
+|---|---|
+| 01–30 | Restrains up to 17 Strength. |
+| 31–60 | Restrains up to 18/00 Strength. |
+| 61–90 | Restrains up to 19 Strength, prevents captive from becoming gaseous. (Strength 19, Type I.) |
+| 91–97 | Restrains up to 19 Strength, prevents captive from becoming gaseous, escaping to the Astral or Ethereal Planes, teleporting, or using *dimension door*. (Strength 19, Type II.) |
+| 98–00 | Restrains up to 20 Strength, prevents captive from escaping by any means short of a *wish*. |
+
+---
+
+<!-- page 273 -->
+
+## Ivory Chain of Pao
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Book of Artifacts*
+
+This artifact has a very distinctive appearance, an ivory chain whose links are carved in the fashion of men with arms outstretched. Each link is cunningly made so that the hands of one figure interlock with the next in line. Unlike metal chains, the links here are not closed loops and it should be possible to unhook individual links. However, the chain will not fall apart. The chain is approximately 12 feet long.
+
+The ivory chain of Pao has a long and colorful history in the lands of the east, but it is virtually unknown to western sages. This is the tale, albeit abbreviated, as it is known to those eastern scholars. Only those western sages with contacts in the distant orient would know anything of this tale.
+
+The early history of the chain is very vague. Common tradition holds that it was fashioned in the Age of Red Earth by Master Pao, the Lesser Immortal of Mount Yei, and given to the Nine First Emperors, who ruled the empire jointly. The chain, it is said, was to symbolize their unity and the harmony they brought to all civilized people (meaning, of course, the empire).
+
+Unfortunately, it brought tragedy. One night, an audacious thief slipped into the treasury and stole the chain in the seventh year of the rule of the Nine. (Some say this thief was inspired by Monkey, the Lord of Mischief; others, by an evil god.) Shortly after that, turmoil grew in the southern realms of the empire as a new cult rose to challenge the Emperors.
+
+It was at this time that the Nine Emperors withdrew to heaven, leaving the empire in the hands of the First Dynasty. As the evil cult in the south continued to grow, the emperor sought the secret of its destruction. Finally he and his poet-brother went south to challenge the cult.
+
+It was there that they discovered that Nan Kung Chi, the high priest of the Black Leopard Cult, had the ivory chain. With it the priest had bound the great leopard-fiend of the cult and forced it to his will. Guided by the wisdom of his brother, the Emperor Chin shattered the chain with a single stroke of his spear, thus ending the terror of the leopard cult.
+
+Many would have assumed this to be the end of the ivory chain's power, but Master Pao had been more cunning than that. It is said that the chain vanished with the parting of a single link, only to reform itself later. This must certainly be true, for the chain figured into another great event — the fall of the copper fiend of Tros.
+
+If little was known of the Black Leopard Cult, even less has been recorded of the copper fiend. It is known that this monster rose to great power in the northwestern reaches of the empire, seizing several provinces for its own. These it ruled with absolute authority and terror for many decades. Finally the horrors of the fiend became so great that the emperor called for heroes to help regain his lands. Wo Mai and his companions, loyal to their emperor, undertook the dangerous task. It is unknown just how they overthrew the copper fiend, but the accepted stories say the ivory chain of Pao was instrumental in binding the creature and bringing it back to the imperial court. There it was imprisoned in the acorn of Wo Mai (see Acorn of Wo Mai).
+
+After this great event the chain drops out of all accounts of recorded history. Some scholars say it was ground into dust and forged into the acorn that holds the copper fiend. Others think it remained in the imperial treasuries until the fall of the Hai Dynasty, when the Sixth Emperor went to invade a neighboring land. There it was supposedly lost (along with the Sixth Emperor) when the invasion fleet sank in a great storm. The story continues that the chain was recovered by a foreign navigator named O'Rourke, who was in the employ of the dead emperor. It is quite possible that he carried it back to the lands of the west — or perhaps he did not.
+
+The ivory chain of Pao is not a particularly powerful artifact for common adventuring. Its powers affect only Outerplanar creatures, so, unless these figure into the campaign, the chain is going to be nothing more than an interesting curiosity. However, should a great Outerplanar threat appear . . .
+
+The DM should build the adventure around the chain's powers. The obvious possibility is that something awful and of great power has broken into the Prime Material Plane and the chain is necessary to overcome it.
+
+The player characters could, for various reasons, journey to the Outer Planes where they would need the chain to capture some powerful being. Perhaps it is needed for a powerful spell; perhaps the task is a geas imposed by a cunning lich or payment to a high priest for services rendered.
+
+---
+
+<!-- page 274 -->
+
+## Chain of the Ancestors
+
+*(continued from previous page)*
+
+dered. The group might even do something this dangerous merely to impress a powerful lord. A great king, caliph, or emperor would certainly think highly of heroes who presented a powerful fiend humbled by a simple ivory chain.
+
+Furthermore, since the chain can be taken apart, the simple business of discovering it can become quite complicated. The DM could introduce the artifact slowly. The group might find a single link as part of a treasure hoard, and later find others—without explanation. Only after an ample length of chain is assembled might there be clues to its purpose.
+
+**Invoked Powers:** The chain can be used in one of two ways, either as a whole or in individual links. When the whole chain is wrapped around the wrists, neck, ankles, or waist (or the equivalent) of an Outer-planar creature, the creature is automatically bound. Bound creatures must absolutely obey the commands of the owner of the chain, who must hold one end of it while giving commands. Although it seems extremely fragile, the bound creature is utterly helpless against the chain's might, nor can it use its powers except at the bidding of its master.
+
+If one knows the right way to twist and slide the figures, the links can be unlocked from each other. Once the 48-link chain is broken, it loses all power to bind. Any individual link can be thrown against a creature, with all of the effects of a *holy word* spell. Links hurled vanish instantly.
+
+**Curse:** Each day that the chain is used to bind a creature, there is a 5% chance it will break and vanish at once. Newly freed creatures are usually quite eager to extract vengeance on their former masters in horrible and imaginative ways. Furthermore, Outer-planar creatures will send earthly agents against the chain's owner.
+
+**Suggested Means of Destruction:**
+
+- A secret method of joining each link so that the hands do not touch the chain must be used. Each link matches a living hero or heroine. When all are dead, the chain crumbles.
+- It must be given to an elephant-god, who shatters the ivory.
+
+## Chain of Transport
+
+**XP Value:** 4,000 &emsp; **GP Value:** 30,000
+
+*Source: Steading of the Hill Giant Chief*
+
+This chain is constructed of a weird, black metal. If the magical device is looped into a figure eight, it will transport up to six persons in each circle of the figure eight to any location designated by anyone in the circle, or pointed out on a map. In the latter case, the chain picks the closest location that matches the map. The chain is unable to transport to different planes or different worlds.
+
+---
+
+# Chair
+
+An armchair is a large, upholstered chair with padded arms, sides, and back; normally a cushion covers the seat and is often detachable. Armchairs may be of almost any color and size—a giant's armchair may be 30 feet tall. All armchairs of normal size are 3 feet wide and deep, and 3 to 5 feet tall, and have wooden frames covered with padded fabric. Each weighs about 150 pounds. Chairs are sized appropriately to their functions. They may be made of wood or metal and vary in value and decoration.
+
+## Chair of Amnesia
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+
+*Source: DRAGON Magazine #73*
+
+A simple, stuffed chair. Although this chair looks extremely comfortable (and it is), anyone sitting in it is prevented from sleeping. (It was made for a doddering family patriarch who didn't want to embarrass himself.)
+
+## Chair of the Ancestors
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+
+*Source: POLYHEDRON Newszine #43*
+
+This miniature chair, on command, grows into a full-size chair of finely carved wood. When sitting in the chair and invoking the command word, the seated individual is able to communicate with one deceased ancestor (character's choice). There is a 5% chance the chair won't work, a 5% chance the chair becomes confused and calls upon someone else's ancestor, a 10% chance the wrong ancestor is called, and a 10% chance that if the ancestor is called upon by name, rather than relationship, a person of that name, but who is not a relative, is reached. Each ancestor may converse for 1d4 rounds. Deceased persons contacted in this manner know nothing of the world since their deaths, so it is quite possible that the ancestor invoked does not know the answer to a particular question.
+
+---
+
+<!-- page 275 -->
+
+## Chair of Extra Seating
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #73*
+
+A carved, miniature wooden chair. At a command word (carved in an ancient language on the underside of the seat), it expands to a full-size chair. Useful for travelers and some officials.
+
+## Chair of Helplessness
+
+**XP Value:** — &emsp; **GP Value:** 750
+*Source: The Book of Marvelous Magic*
+
+This chair looks and operates exactly like an armchair of travel. However, after moving only 10% of the desired distance, it paralyzes the victim (no saving throw), changes course to the nearest vacant space (whether underground or outdoors), stops, and rematerializes. A word then appears on the back of the armchair; the victim cannot see the word except by clairvoyance or some other magical scrying. If the word is uttered, the armchair releases its passenger and returns to the original location. The chair can make one "round trip" per day.
+
+## Chair of Relaxing
+
+**XP Value:** 450 &emsp; **GP Value:** 2,250
+*Source: The Book of Marvelous Magic*
+
+When anyone sits on it, this chair vanishes along with its user and travels to an Outer Plane. The user is instantly put to sleep and has no saving throw. The armchair reappears in one turn, awakens and releases its user; it bestows magical rest, as if its user had a full night's sleep during that period on the Outer Plane. The chair functions once per day.
+
+## Chair of Retrieval
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+*Source: The Book of Marvelous Magic*
+
+This chair appears and is activated in the same manner as an armchair of travel. However, it will go to some predetermined destination, usually the lair of a powerful creature or ruler. The creature controlling the armchair (not the rider) can send it to any well-known location with the same chance of error as a *teleport* spell. The chair can make one "round trip" each day.
+
+## Chair of Seeing
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: The Book of Marvelous Magic*
+
+When the user of this chair sits and closes his or her eyes, the armchair bestows the power of clairvoyance (as the wizard spell, duration 12 turns), but with unlimited range. The user may not see things on other planes. The chair functions once per day.
+
+## Chair of Travel
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+*Source: The Book of Marvelous Magic*
+
+When the user sits in this chair, closes his or her eyes, and imagines a known place, the armchair and user become ethereal. The armchair then moves straight toward the known location—passing even through rock, woods, towns, and creatures—and cannot be stopped by any means less than a *wish*. The magic of the chair allows it to be dimly seen by those on the Prime Material Plane, although they cannot affect it in any way; this is the origin of many strange stories. There is a 25% chance per use that an ethereal creature notes the chair's passage and gives chase. The armchair moves so quickly, however, that ethereal creatures can only catch it 25% of the time. When it reaches its destination, the armchair and its rider rematerialize. The chair functions once per week.
+
+## Chair of Ugliness
+
+**XP Value:** — &emsp; **GP Value:** 1,250
+*Source: The Book of Marvelous Magic*
+
+This item appears and functions as an armchair of seeing in all respects. When someone sits, however, it lowers its victim's Charisma immediately to 3. Charisma returns to normal 24 hours later or if a *remove curse* is applied. However, the victim must also make a saving throw vs. spell with a −4 penalty to the roll or be stuck fast in the armchair. The chair and victim may be carried about, but any attacks on a seated victim gain a +4 bonus to attack rolls, and the victim's Dexterity adjustment to Armor Class (if any) does not apply. The victim is further penalized by −4 on all attack rolls and saving throws. Once a victim is stuck, the armchair becomes immune to all attacks except a *wish*. If a *remove curse* spell is cast on the armchair by a caster of 26th level or higher, the victim is released.
+
+## Couch of Comfortable Seating
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #73*
+
+A carved, miniature wooden couch. At a command word (carved in an ancient language on
+
+---
+
+<!-- page 276 -->
+
+## Chalice
+
+A chalice is an ornamental cup or goblet. It may be made of glass, crystal, metal, or even wood; it may be long-stemmed or have no stem at all, but be molded with a base.
+
+## Chalice of Colors
+
+**XP Value:** 500 &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This cup changes colors once per round, continuously. Any creature viewing the color changes must make a saving throw vs. spell or stand entranced, watching the display, for one turn. The chalice contains pure water when found.
+
+## Chalice of Continual Water
+
+**XP Value:** 240 &emsp; **GP Value:** 2,400
+*Source: Realmspace*
+
+The chalice of continual water, when bent to the lips, releases pure, cool water for the imbiber to drink. The chalice continues to produce water as long as it is not standing upright. This is the item that causes the continuous stream of water in the castle located in the center of the Tears of Selûne. The chalice can produce one mouthful of water every second.
+
+## Chalice of Detection
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This cup appears and functions as a chalice of colors. In addition, however, if it comes within 30 feet of poison, the water in it turns a murky green. Poisonous monsters, traps, arrows, and gases all trigger this response. After use, the water remains green and the chalice must be refilled in order to detect again; however, any drinkable water may be used. The chalice detects poison three times per day at most. Once each week, the chalice can be commanded to produce an antidote; the green water then turns pink and becomes a potion that negates the effects of the poison detected. When consumed, the antidote prevents any of that particular poison from affecting the user for one turn (treat as a successful saving throw).
+
+## Chalice, Eucharistic
+
+**XP Value:** 1,500 &emsp; **GP Value:** 25,000
+*Source: Wonders of Lankhmar*
+
+This magical chalice does not possess a magical aura as would be expected of a magical item. It does, however, exhibit a large amount of magical energy whenever a fluid is poured into it. The chalice automatically purifies any liquid it contains. It removes all bacterial and viral infestations, as well as removing poisons and alcoholic contents (wine becomes juice). If the purified liquid is drunk, it grants the imbiber total refreshment, and completely fulfills the body's needs for liquid, regardless of the dehydration of the drinker.
+
+The magic of the chalice also puts the imbiber totally at ease, both personally and with those with whom the user comes in contact. Enemies who share a drink from this chalice have no shared grievances for one full week. The chalice heals no damage except insanity, and that of all types, even genetic madness, by properly realigning the neural synapses in the brain. The drinker feels total communion with everything for one full week. A drinker's alignment is not permanently affected by the chalice.
+
+## Holy Grail
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: DUNGEONS & DRAGONS Master Set*
+
+This vessel of literary fame is supposedly the cup at the Last Supper, carried to England by Joseph of Arimathea. It was said to provide food, drink, and spiritual sustenance for the life of the custodian. The grail can create food and water as though cast by a 20th-level spellcaster once per day. Any food or drink poured or dipped into the grail is purified as though a *purify food and drink* was cast.
+
+## Holy Grail I
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Legends & Lore*
+
+The holy grail is a sacred relic that, legend has it, was brought from Rome to Britain by Joseph of Arimathea. It was lost in Britain until Arthur's knights set out on their quest. A large chalice, it appears to be made of pure gold, though in reality it is crafted from wood. In order to even see the holy grail, one must be of Lawful Good alignment and above evil temptations. Only a knight of saintly virtue may actually touch or drink from the holy grail.
+
+---
+
+<!-- page 277 -->
+
+## Chalice of Identification
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: The Book of Marvelous Magic*
+
+This cup appears and functions as a chalice of colors but may also be used to identify potions of all types. When a potion is poured into it, the name of the potion appears as misty letters in the next color change. A *read magic* spell is required to decipher the letters. The chalice must be carefully washed with ordinary water after each use, or no letters will appear. A potion of poison may be mistakenly identified as one other type (determined randomly). The chalice identifies three potions per week at most.
+
+## Chalice of Irreversibility
+
+**XP Value:** 2,000 &emsp; **GP Value:** 12,000
+*Source: Prince of LANKHMAR™*
+
+This cup is owned by Purdue Darkwolf, but it will never be used by him until well after the time he gains immortality through lichdom. When this transformation occurs, he will spend a great deal of time studying his books and searching for power and knowledge.
+
+The chalice of irreversibility is merely an item of revenge used by Purdue to get even with living mortals for past crimes against him. He also uses it under dire circumstances to rid himself of opponents he feels are too powerful to destroy, without risk of death to himself.
+
+The chalice's magic is invoked only when fluid is poured into it and drunk. When that occurs, the character drinking from the chalice is frozen in level. Never again can the person gain experience points and levels, nor can skills and statistics be improved. The person still continues to age normally.
+
+Magical improvements on statistics do not penetrate the shell of antimagic that the chalice places around the character's body.
+
+The effects of the chalice of irreversibility are permanent. If *dispel magic* or *remove curse* spells are cast upon the infected character, they are ineffectual. The only way that the magical curse can be dispelled is by use of a *wish* spell.
+
+## Chalice of Liquid Food
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: POLYHEDRON Newszine #82*
+
+On command, this ceramic chalice provides a meal in a cup up to three times a day. The meal is a thick, warm liquid, as filling as a three-course dinner, and very tasty.
+
+## Chalice of Planar Travel
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DUNGEON Magazine #25*
+
+This is a powerful magical item created by beings from the Outer Planes to allow them easy access to other planes. It belonged to Jaazzpaa for centuries until he lost it while imprisoned in a stone ring.
+
+The chalice is a solid silver goblet about 9 inches high and 6 inches in diameter. Coiled around the stem is a jewel-encrusted carving of a snake. Five runes inscribed in gold are evenly spaced around the chalice's outer rim. These runes are written in an ancient language known only in the Outer Planes, though *comprehend languages* or *legend lore* spells can reveal their meanings — the five planes to which travel is possible using the chalice are the Prime Material Plane, the Astral and Ethereal Planes, the Gray Waste, and the Abyss.
+
+To use the chalice, a being must touch his, her, or its lips to the destination rune, then raise the goblet in a drinking motion. Each of the five planes has a separate command word, known only to Jaazzpaa. If the correct command word is not spoken after making the drinking motion, the chalice does not function.
+
+The chalice is worth 10,000 gp, although much more could be obtained for it if any of the command words were discovered.
+
+## Chalice of Poison
+
+**XP Value:** — &emsp; **GP Value:** 1,500
+*Source: The Book of Marvelous Magic*
+
+This cup appears to be a chalice of colors and functions in a similar manner. However, any victim who drinks from it is poisoned. A saving throw vs. poison must then be made with a −4 penalty to the roll.
+
+---
+
+<!-- page 278 -->
+
+Failure results in death by poisoning. The poison is treated as a potion, even if the saving throw is successful, and the victim is incapacitated if any other potion is currently in action.
+
+## Chalice of the Shield Lands
+
+**XP Value:** 3,000 &emsp; **GP Value:** 25,000
+*Source: GREYHAWK Adventures*
+
+This golden chalice was enchanted in response to the growing menace of the Horned Society. It allows a lawful good fighter to temporarily become a paladin of the same level for a single quest, with all appropriate powers and abilities of a paladin. The chalice can be activated only by a lawful good priest who performs a ceremony that includes special vows and the quest spell. The fighter takes vows to the cause of lawful good, then drinks holy water from the chalice. Thereafter he or she can act as a paladin, with alignment changed to lawful good for the duration of the assigned quest. Deviation from the vows may cause the loss of some or all acquired powers, at the discretion of the DM. The failure of the quest causes the chalice to shatter.
+
+## Chalice, Silver
+
+**XP Value:** 500 &emsp; **GP Value:** 1,500
+*Source: DRAGON Magazine #179*
+
+Three times a day, this item can create a cup full of any nonmagical liquid, poison, or antidote. The liquid can be liquor or any other fluid substance such as soup, water, wine, animal blood, mercury, or maple syrup. The substance is any room temperature liquid (the fluid will be warm when it appears). The user cannot ask for something as specific as an antidote to cyanide poisoning, unless the substance is actually known.
+
+## Chaplet of Creature Recognition
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: POLYHEDRON Newszine #34*
+
+While this chaplet is worn, an individual has a 75% chance to recognize any creature or monster encountered and to know 1d4 facts about the creature or monster, even if there is no possible way anyone in the party could have encountered the creature or monster before. The chaplet does not function against unique, magically created creatures, but does provide information about magical creatures where two or more exist.
+
+## Chariot
+
+A chariot is a light, fast open-backed vehicle. The driver—and sometimes the passengers—must stand. A chariot has two wheels and can be drawn by a single draft animal or team of animals, (but rarely more than four animals). War chariots can be armored (including the wheels), and fitted with sharp spikes or blades on the hubs to injure or immobilize opponents.
+
+## Chariot of Flames
+
+**XP Value:** 12,000 &emsp; **GP Value:** 60,000
+*Source: New Item*
+
+The chariot of flames (also known as the chariot of fire or Sustarre's chariot) is merely the priest's 7th-level spell *chariot of Sustarre* fashioned into a permanent magical device, often with additional powers. The first of these was enchanted by followers of the hierophant druid Sustarre after he departed Oerth to explore other planes. Additional examples were created in imitation of the *chariot of Sustarre* spell as it spread to other lands and worlds.
+
+A chariot of flames at first appears to be an unremarkable, two-wheeled chariot with a yoke designed for two horses. When a command word is spoken by a person who has mounted the chariot, the chariot bursts into flames, and two fiery horses appear before it in harness. Thunder roars and a thick cloud of smoke appears at the same moment, causing all beings within 30 feet of the chariot to be blinded and deafened for 1–2 rounds, except for those riding the chariot. The chariot can make this transformation only once per day, with the transformation lasting 12 hours at most.
+
+Beings other than the chariot's driver and passengers who come within 5 feet of the chariot suffer 2d4 points of damage per round; passengers avoid damage if they were in the chariot from the moment it burst into flames. Anyone who leaves the chariot is unharmed, but if an attempt is made to reenter it while it is aflame, the mounting characters suffer the flames and are burned. Those who find themselves in the chariot's path may dodge to avoid burns by making successful saves vs. petrification, with Dexterity adjustments. Flammable material must save vs. fire if the chariot touches it, or else it catches fire and burns normally; live, green vegetation burns only on a roll of 1.
+
+---
+
+<!-- page 279 -->
+
+## Franklyn's Incredible Chariot
+
+The person speaking the command word becomes the chariot's driver, though no reins are needed to guide it. The chariot obeys commands to stop, walk, trot, canter, gallop, fly, turn left or right, or go up or down in flight. It moves at 12 with horses walking, 24 trotting, 36 cantering, and 48 flying or galloping. Movement rates have no time limit, but ground rates are effective only over normal roads or plains. Rough, rocky ground of any kind reduces speed by half and causes all passengers but the driver to take 1 point of damage per round and make Dexterity checks every round, or else be thrown from the chariot for 1d6 points of damage per 12 of movement (a thrown passenger would take 3d6 damage if the chariot was at MV 36).
+
+The vehicle and steeds are AC 2 and each has 30 hp. The chariot and its horses cannot attack others or defend themselves. Though immune to all fire or heat attacks, magical or otherwise, the chariot and horses can be struck by magical weapons for full damage. A quart of water inflicts 1 point of damage, cold spells inflict 1 point per die of damage, and complete immersion in water or a *dispel magic* spell ruins the enchantment, turning the chariot into a normal one. Physical damage, such as that from weapons, is permanent and cannot be fixed. The damage from water or cold attacks, however, is removed each day at dawn, leaving the chariot and horses again as new. The effects of *dispel magic* last only 3–30 rounds. As the horses are fiery creatures from the Elemental Plane of Fire, needing neither rest nor nourishment.
+
+Aside from the driver, up to seven other beings of human size may ride in the chariot. Each human-sized being may be replaced by four beings of Tiny size or two beings of Small size; four human-sized beings may be replaced by a Large-sized being. Additionally, a human-sized being may be replaced by up to 200 pounds of nonliving cargo placed on the floor.
+
+A power often added to this chariot grants it the equivalent of an *airy water* spell, allowing the chariot to continue burning (and its passengers to continue breathing) if immersed in water. This also negates any damage to the chariot or horses from contact with water. Another power allows the chariot to lay down a column of opaque smoke on command while traveling, equal to a cylinder 10 feet in diameter, for up to 1 hour of movement per day.
+
+## Franklyn's Incredible Chair
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+
+*Source: POLYHEDRON Newszine #43*
+
+Although this appears to be an ordinary wooden chair, when seated in the chariot, the user can see seven gems inlaid in the right arm. These gems are actually controls. The gems and their functions are:
+
+- **Emerald:** Chair glides forward at the pace of a walking man.
+- **Ruby:** Chair moves forward at the pace of a running man.
+- **Diamond:** Chair reverses direction, turning to face the opposite way.
+- **Sapphire:** Chair turns to the left.
+- **Topaz:** Chair turns to the right.
+- **Peridot:** Chair slows to next slower speed, from running to walking, from walking to stopped.
+- **Amethyst:** Chair stops—instantly.
+
+All movements are silent. The chair functions best on level ground, slowing as a man on foot would for rugged terrain and halting in areas where a man could not walk. It will bear a burden of up to 200 lbs, in addition to the weight of one human-sized passenger.
+
+## Hover Chariot
+
+**XP Value:** 20,000 &emsp; **GP Value:** 100,000
+
+*Source: Kingdom of Nithia*
+
+Hover chariots are magical devices used strictly by the military. It is rumored that the knowledge to build these weapons was bestowed by Rathanos himself on the weaponsmiths of the Pharaoh Tur-Ah. Since then, the knowledge has remained a royal secret, passed down through the dynasties.
+
+When at rest, the hover chariot is a metallic cupola mounted atop an articulated metal frame. When activated, the frame is covered by the fiery manifestation of a beast. The flame beast moves with the same speed and agility as its physical counterpart. Attacks and defenses are also the same. The difference is that the flaming manifestation of a hover chariot is generally larger than the actual animal it represents, and deals 6d6 flame damage, in addition to the claw or bite damage of the animal. Hover chariots cannot be activated without a control ring that is worn by the chariot's owner. The rings cannot be transferred to another person without the willing participation of the previous owner.
+
+---
+
+<!-- page 280 -->
+
+I have no text content to process for page 280 — the Tesseract OCR output is empty and no structured table data was provided.
+
+If you have an alternative scan or can provide the raw text, I'm happy to clean and format it.
+
+---
+
+<!-- page 281 -->
+
+For the most part, terrain is of no consideration to the driver of a hover chariot. Exceptions include dense forest (which makes traveling atop a flaming beast impractical), and high cliffs (those over 75 feet in height). Those hover chariots designed as flying birds (hawks, eagles, ibis) have a flight ceiling of 500 feet.
+
+In terms of battle, a hover chariot has an effective Armor Class of −3. Missile weapons used against the chariot must make saving throws vs. fire or be burnt up, causing no damage.
+
+## Myl's Mouse Chariot
+
+**XP Value:** 4,500 &emsp; **GP Value:** 22,500
+*Source: 1992 Fantasy Collector Card 388*
+
+Like the mouse cart, when Myl secures a mouse in the harness, the cart expands to the size of a normal cart that the mouse can pull at a movement rate of 12, even with up to 250 pounds of cargo. The mouse obeys the commands of the driver. Unlike other mouse carts, though, Myl can attach multiple mice to the harness and pull 250 pounds per mouse (up to six mice) or he can attach six mice and "race" the chariot at a rate of 21. The mice tire after one turn of continuous racing. A creature polymorphed into a mouse can also activate the cart's magic.
+
+## Chariot of Ra
+
+**XP Value:** 40,000 &emsp; **GP Value:** 200,000
+*Source: Old Empires*
+
+There were originally three of these artifacts, the chariots of the gods Ra, Horus, and Osiris, in the days before the Orcgate Wars. Only one is known to still exist. The chariot of Ra is the oldest of the artifacts of great magic still in active use in Mulhorand. Legend speaks of it being constructed by a god named Ptah, who has never been worshiped in the Realms, even in the old days of Mulhorand.
+
+The chariot of Ra is constructed from gold, emblazoned with Ra's solar disc against an ankh. The chariot can move, without horses, at a speed of up to 96; any who fight from it receive a bonus of +4 to their Armor Class, and those attacking them receive a −4 penalty to their attack and damage rolls. Those who ride in the chariot are 75% magic resistant. Anyone struck by an attack from the chariot has to roll a successful saving throw vs. spell or suffer blindness for 2d4 turns. The chariot also grants a +4 bonus to Morale to all friendly troops within a 200-yard radius, and a −4 morale penalty to enemy troops within that radius.
+
+## Red Chariot of Agni
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+This chariot, whose wheels are made of the seven winds, is pulled by two giant red horses. On the ground it travels at a MV rate of 36, when in the air it travels at 48. The vehicle casts heat in a 30-foot area about itself for 25 points of damage. The horses have 50 hit points and only respond to telepathic direction.
+
+## Surya's Chariot
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: Gods, Demigods, & Heroes*
+
+This device is made of a piece of the sun pulled by seven magical horses, each a color of the rainbow. The vehicle is not corporeal unless Surya rides it. The chariot travels with no limits placed on speed. The horses are always noncorporeal, never affected by magic, and take 25 hit points apiece.
+
+## Underwater Chariot
+
+**XP Value:** 2,000 &emsp; **GP Value:** 15,000
+*Source: The Sea People*
+
+Underwater chariots are built using kelp fronds and stems that have been lashed together. Unlike normal chariots, they do not have wheels; rather, they are smooth bottomed, much like a small boat. They are pulled by a variety of large sea creatures, including dolphins, sea horses, whales, or manta rays. Underwater chariots are used for transport both under and on the surface of the sea. They come in a wide variety of sizes—the smallest holds one person, and the largest is capable of carrying four people. They have a continuous water breathing power that allows air breathing creatures to safely take passage on them as long as they are in contact with the chariot. The water breathing effect does not affect water breathers.
+
+Some underwater chariots are used as platforms to carry and fire powerful harpoons. These are used primarily by the triton forces of Undersea. Harpoons are also carried on the backs of giant manta rays.
+
+---
+
+<!-- page 282 -->
+
+## Chariot of Vix
+
+**XP Value:** 12,000 &emsp; **GP Value:** 60,000
+*Source: The Milenian Scepter*
+
+Vix is the mortal daughter of the Immortal Zargos (alias Nyx, see *Wrath of the Immortals*). She is a powerful warrior and favored by Zargos, who has indirectly given her several magical items, including the chariot of Vix.
+
+The origin of the chariot remains a mystery. Some scholars believe it was created by Zargos while he was still a mortal sorcerer many circles (years) past. Others claim it was stolen from Ixion, Immortal Patron of the Sun, and was once pulled by his fiery steeds.
+
+The chariot is constructed with a wooden frame covered with bronze plates, which are in turn overlaid with designs in silver and gold. Wicked blades of blackest obsidian extend from its hubs, sticking out perpendicularly from the wheels. The chariot can carry two human-sized passengers. While a beast is hitched to the chariot, the creature receives the benefit of a *haste* spell, doubling its normal movement rate. However, the beast cannot make twice the normal number of attacks; it can only move twice as fast. If the beast has the ability to fly, it can still fly while pulling the chariot. This is because the chariot has the power to levitate, making it virtually weightless.
+
+| | Miles/Day | Feet/Round | Hull Points | AC |
+|---|---|---|---|---|
+| According to the creatures pulling them | — | — | 30 | 4 |
+
+**Light Harpoon:** Range 60/120/180 feet; Dmg 1d8+4; fires once per round; Crew 2.
+
+**Heavy Harpoon:** Range 100/200/300 feet; Dmg 1d10+6; fires once every two rounds; Crew 4.
+
+**Giant Harpoon:** Range 140/230/360 feet; Dmg 2d10+6; fires once every four rounds; Crew 6.
+
+---
+
+## Charm
+
+Charms are small metallic or stone trinkets. Most charms are shaped like animals, symbols, letters, or the silhouettes of animals or people. Each trinket has a small loop on the uppermost section that allows the owner to place the trinket on an anklet, bracelet, or necklace. Only two magical trinkets can be placed on a chain and only five can be worn by the same person at one time.
+
+## Charm of Boot Restoration
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+*Source: DRAGON Magazine #73*
+
+This is a miniature brass boot. When rubbed against a worn heel or sole of a shoe or boot, it restores the footwear to its original strength and thickness (but without a "new" appearance). Usable once per day.
+
+## Charm of Distraction
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: DRAGON Magazine #184*
+
+This minor magical item is usually shaped like a pendant in the form of a neogi's head looped through a chain. The wearer of this magical item gains several benefits. First, the charm acts as a standard ring of protection +1. The charm also bestows upon the wearer an additional +1 (for a total of +2) on saves vs. enchantment/charm spells. Lastly, the charm provides the function of magically holding an opponent for one round. This can be done once per day and is otherwise similar to a wizard's *hold person* spell, cast at the 8th level of ability. The neogi can attempt to hold any single target he can physically see. The target of the hold is entitled to a save vs. spell. If successful, the target is unaffected. If the save fails, the target is unable to take any actions until the following round.
+
+The neogi are very fond of this item; it often buys them an extra moment to escape from the clutches of an enemy or to distract a foe long enough for the neogi's umber hulks to rip them apart.
+
+## Charm of Favor
+
+**XP Value:** 1,600 &emsp; **GP Value:** 5,000
+*Source: The Complete Fighter's Handbook*
+
+When deities and other powerful beings are pleased with the deeds of a mortal, they sometimes give him or her a charm of their favor. This is a small object, sometimes a statuette, usually of semiprecious material and 2 or 3 inches in size, which represents the god or one aspect of the god.
+
+The charm is rather like a *limited wish*. It represents a favor that the deity will perform for the character at some time in the future. To use it, the
+
+---
+
+<!-- page 283 -->
+
+## Charm of Favors (continued)
+
+owner must throw the item on the ground so hard that it breaks, and then call out the request.
+
+The request must have something to do with the attributes of the god; it's no use asking the goddess of love to dry up an oasis into a desert, or to ask the god of earthquakes for a fog to hide the adventurers.
+
+The gods requested favors. And they, in the guise of the DM, evaluate all requests. If the favor is one that pertains to one of the god's attributes, and if the god does not think that the character is making the request out of mere greed or selfishness, and if the favor does not conflict with any of the god's other aims or desires, the favor is usually granted.
+
+So it would be appropriate to ask the god of insects to send a cloud of bees to rout one's enemies, or to ask the goddess of love to cause some NPC to fall in love with a PC, or to ask a deity of the earth to cause fruit-trees to grow and save the characters from death by thirst and starvation.
+
+Because the deity evaluates the character's request, the character cannot expect an outrageous favor to be granted. And most who would steal a charm from a character cannot use it successfully; one might take it, hurl it to the ground and break it, adding a request, only to discover the cranky god stomping on him and freeing the faithful PC. (This, however, constitutes using the favor.) But an NPC friend of the charm's owner might be able to get the item and ask the god to help the charm's true owner — particularly if he or she is ill or kidnaped and cannot act.
+
+Any character of any class may receive such a charm as a favor. But when they are found in treasure, they are useless; they are not intended for the character who finds them, after all. The charm of favors does not radiate magic.
+
+---
+
+## Hunting Charm
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #189*
+
+This small charm is highly prized by tribal hunters. Using it, a hunter automatically encounters some kind of game animal, but must close and kill the animal normally (Wilderness Survival Guide, page 59).
+
+---
+
+## Luck Charm
+
+**XP Value:** (variable) &emsp; **GP Value:** (variable)
+
+| Category | XP Value     | GP Value      |
+|----------|-------------|---------------|
+| AC       | 1,000/plus  | 5,000/plus    |
+| Save     | 750/plus    | 3,750/plus    |
+| THAC0    | 500/plus    | 2,500/plus    |
+| Wish     | 1,200/wish  | 6,000/wish    |
+
+*Source: DRAGON Magazine #5*
+
+There are various gems, coins, and talismans dedicated to luck; and some are quite powerful. A d100 roll is used to determine the charm's strength and power in each category. The holder of such a charm benefits in four ways (roll for each of the ability bonuses separately):
+
+| Roll  | AC Bonus | Save Bonus | THAC0 Bonus | Wishes Granted |
+|-------|----------|------------|-------------|----------------|
+| 01–70 | +1       | +1         | +1          | 1              |
+| 71–90 | +2       | +1         | +2          | 1              |
+| 91–00 | +3       | +3         | +3          | 2              |
+
+These abilities are only realized when the luck charm is carried or worn upon the person. Once the wishes granted by the luck charm are used, the charm loses its magic and becomes a nonmagical item worth 1d100 cp.
+
+---
+
+## Charm of Open Doors
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: DRAGON Magazine #73*
+
+This carved stone miniature door, about 4 inches by 1½ inches by ¼ inch, can be tuned to a particular door, set of doors, or gate by use of the proper magical word. Thereafter, when its knob is pressed, any door or gate within 20 feet will swing open by itself.
+
+---
+
+## Charm of Pest Protection
+
+**XP Value:** 300 &emsp; **GP Value:** 1,500
+*Source: DRAGON Magazine #73*
+
+When this intricately carved, miniature mahogany bed in a bag of woven string (netting) is placed underneath a bed, it drives away all bedbugs and mosquitos.
+
+---
+
+## Charm of Protection from Disease
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Oriental Adventures*
+
+This magical item is a long strip of yellow or red paper, inked with potent supplications to one of several deities. When hung in a house or similar building, it exerts its magical influence to protect the occupants of the building from disease. Char-
+
+---
+
+<!-- page 284 -->
+
+## Charm of Protection from Fire
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Oriental Adventures*
+
+This magical item, like other charms, is a long strip of yellow or red paper. This charm is inked with potent threats against the fire deities. Pasted to the lintel of the door to a building, the charm helps protect the building from fire. If thus protected, the building has only a 50% chance of catching fire. Furthermore, if a fire should break out, it burns slowly, causing half the normal amount of damage. The charm does not lessen the amount of damage characters might suffer from a fire-based attack within the building, only damage caused by the actual burning of the building. The charm itself is immune to fire.
+
+## Charm of Protection from Spirits
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Oriental Adventures*
+
+This charm, on yellow or red paper, is inked with powerful threats against spirits. Any spirit attempting to enter the house must make a saving throw vs. death magic to enter the building. If the saving throw is successful, the spirit is unaffected by the charm. If the saving throw fails, the spirit cannot enter the building, although it can use spells and missiles to attack those in the building. The charm must be pasted to the lintel of the door to be effective; however, it cannot be touched by any type of spirit creature.
+
+## Charm of Protection from Theft
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+*Source: Oriental Adventures*
+
+This charm, on yellow or red paper, is written with supplications to various deities to protect the building from thievery. Any creature within the building who attempts to move silently, hide in shadows, or open locks has chances of success reduced by 20%. To be effective, the charm must be pasted to the lintel of the door clearly showing to all that the house is protected. Any person, other than the owner of the building, who attempts to remove the charm, suffers 2d10 points of damage.
+
+## Rabbit's Foot
+
+**XP Value:** 250 &emsp; **GP Value:** 1,250
+*Source: The Book of Marvelous Magic*
+
+If worn visibly on the outer clothing or armor, this item gives the user a bonus of +1 to all saving throws. However, any herbivore seeing the foot will probably dislike the wearer, having a −2 penalty to reactions.
+
+## Charm of Resource
+
+**XP Value:** 250 &emsp; **GP Value:** 1,250
+*Source: Kingdom of Nithia*
+
+Like magical standards, charms of resource temporarily imbue their owners with certain powers and abilities. These are generally in relation to survival skills as opposed to offensive or defensive abilities. Some provide resistance to cold desert nights, while others increase sight and hearing. Some examples of charms of resource are provided below:
+
+| Roll  | Charm    | Ability                            |
+|-------|----------|------------------------------------|
+| 01–02 | Asp      | Resistance to poison.              |
+| 03–04 | Bread    | Provides a full day's food.        |
+| 05–06 | Fennec   | Surprised only on a 1 on 1d6.     |
+| 07–08 | Hawk     | Vision is enhanced 100 times.      |
+| 09–10 | Raindrop | Provides a full day's water.       |
+
+The DM should feel free to create additional charms of resource as he or she sees fit.
+
+## Charm of Sympathetic Heating
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+*Source: DRAGON Magazine #73*
+
+This item is actually two miniature metal blacksmiths' anvils: one red, the other black. Each is about 1-inch square. If the black one is placed in a fire, the red one will heat to the temperature reached by the black one. They are useful for boiling stews or for keeping food warm at some distance (maximum range 30 feet) from a fire.
+
+## Tree Climbing Charm
+
+**XP Value:** 100 &emsp; **GP Value:** 500
+*Source: DRAGON Magazine #73*
+
+This is a miniature tree, about 3 inches high, made of an unidentified material. When carried, it adds 20% to a person's chance of successfully climbing a tree. (It was made for a lame, sylvan elf.)
+
+---
+
+<!-- page 285 -->
+
+## Wolfspaw
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+
+*Source: Forbidden Lore*
+
+This item seems like a simple peasant charm. It is a wolf's paw stuffed with wolfsbane. There is a leather thong of suitable length for hanging it around a person's neck. The bearer of this charm radiates a 10-foot wide circle of protection that prevents all wolves, dogs, or other canine species from entering. Vampires in wolf form, werewolves in wolf or wolfman form—even gnolls are kept at bay.
+
+---
+
+## Cheese
+
+Cheese is a form of preserved milk. Curdled milk solids (the curds) are separated from the liquid (the whey) and prepared in many different fashions. The different processes give cheeses their varied flavors, sharpness, colors, and textures. The effect of a magical cheese is released either by placing a piece in the mouth or by inhaling the bouquet.
+
+## Cheese of Odors
+
+**XP Value:** 200 &emsp; **GP Value:** 1,000
+
+*Source: POLYHEDRON Newszine #23*
+
+This small piece of yellow cheese must be cut to have any magical effect. The user may name any one creature when cutting the cheese. The cheese remains undamaged, but a strong odor, obvious to all within 120 feet, emerges. Other creatures of the type named, if nearby, smell the familiar odor and may be surprised to encounter the user of the cheese of odors (−1 on surprise roll). The cheese can create odors three times each day.
+
+## Cheese of Vile Odors
+
+**XP Value:** — &emsp; **GP Value:** 500
+
+*Source: POLYHEDRON Newszine #23*
+
+This item appears and functions as a cheese of odors, but the smell produced may be (50% chance per cut) remarkably bad—so vile, in fact, that all within 60 feet suffer a −2 penalty to Charisma and Morale, and a −1 penalty to attack rolls and saving throws, for one turn (no saving throw).
+
+---
+
+## Chess Game
+
+Chess is an ancient, two-player game of strategy. The game is played on a board that has 64 squares of two different colors, one dark and one light. Each player controls a set of 16 pieces; one set light, the other dark, often colored like the board squares.
+
+## Fextree Set
+
+| Piece   | XP Value | GP Value |
+|---------|----------|----------|
+| Bishop  | 1,250    | 18,750   |
+| King    | 8,000    | 40,000   |
+| Knight  | 1,000    | 15,000   |
+| Pawn    | 900      | 12,000   |
+| Queen   | 2,000    | 30,000   |
+| Rook    | 6,000    | 30,000   |
+
+*Source: POLYHEDRON Newszine #82*
+
+Several thousand years ago, the sorcerer Fextree Belwikker fashioned a powerful set of chess pieces from the teeth of a red dragon. Only seven of the original sixteen pieces remain in existence—two pawns, a knight, a bishop, a queen, a king, and a rook. Six of these seven figurines are intricately carved representations of wizards in assorted poses of varying majesty. The last piece, the rook, is carved in the image of Fextree's tower. The pieces are each about 4 inches tall. They are stored in a padded, rectangular case of red cedar, and each piece is held in place by a springy, metal clip. The latch and hinges of the case are fashioned of bronze.
+
+**Pawns:** The pawns are carved figures of
+
+---
+
+<!-- page 286 -->
+
+(This page is a continuation of a Chess Set item entry. The content continues from the previous page.)
+
+---
+
+apprentice wizards in simple robes and sandals. To invoke the power of a pawn, the possessor needs only to utter the command word, "stalemate," and 10 human-sized, mindless warriors appear to battle the owner's designated enemy.
+
+Warriors (10): Int Low; AL Neutral; AC 3; MV 9; HD 5; hp 40 each; THAC0 16; #AT 1; Dmg 1d8 (long sword); SD Immune to mind-affecting magic; MR 50%; SZ M; ML 20.
+
+The warriors battle until they are slain or until 10 rounds pass. They can be summoned once a day.
+
+**Knight:** This is a figure of a wizard in long flowing robes and a tall pointed hat with a staff in one hand and the reins of the stallion he is riding in the other. By uttering the command word "liege," a human-sized knight, mounted on a white, heavy war horse, appears to serve the piece's owner.
+
+Knight: Int Very; AL Lawful Neutral; AC 2; MV 9; HD 10; hp 80; THAC0 11; #AT 2; Dmg 1d8+3/1d8+3 (long sword +3); SD Immune to mind-affecting magic; MR 50%; SZ M; ML 20.
+
+Horse, Heavy War (1): Int Animal; AL N; AC 7; MV 15; HD 3+3; hp 27; THAC0 17; #AT 3; Dmg 1d8/1d8/1d4; SZ L; ML 20.
+
+The knight can understand the owner, but cannot speak. The knight and horse require no rest or sustenance and heal at the rate of three hit points a day. The knight and horse can be summoned once a year, and faithfully serve the piece's owner for one month, unless slain earlier. They can be dispelled by uttering the command: "Ye are relieved from duty."
+
+**Bishop:** This is a figure of a stately wizard in high-collared robes and a skullcap. The figure holds a parchment as if reading it. When the command phrase, "I call upon the gods of magic to deliver me a champion," is spoken, a human-sized wizard/priest is summoned.
+
+Wizard/Priest (1): Int Exceptional; AL Neutral; AC 2; MV 9; HD 10; hp 50; THAC0 14; #AT 1; Dmg 1d4 (staff); SD Immune to mind-affecting magic; MR 50%; SZ M; ML 20.
+
+The wizard/priest has the following spells in memory — *cure light wounds* (×4), *slow poison* (×4), *cure disease* (×3), *cure serious wounds* (×3), *cure critical wounds* (×2), *magic missile* (×4), *glitterdust* (×4), *dispel magic* (×3), *rainbow pattern* (×2), and *telekinesis* (×2). The wizard/priest remains with the piece's owner for up to three days, unless killed or dismissed earlier, and cannot memorize spells during this time. The wizard/priest does not require any rest or sustenance. It can understand the piece's owner, but cannot speak other than to utter spells. The wizard/priest can be summoned once every 10 days.
+
+**Rook:** This piece is a model of a small, slim tower with a pointed roof and thin, high windows. Its powers can be invoked twice a month. Uttering the command words "raise the keep," instantly produces a high stone building 80 feet square and 40 feet high. The keep has two floors, modest furnishings, a well-stocked larder, and six mindless, humanoid servants. The entrance is a stout, iron-bound oaken door that only opens for the bearer of the piece. The keep comfortably houses 10 people for up to two weeks, after which, if the bearer does not utter the command phrase again, the building disappears. The keep can be dispelled prior to this time by uttering the command "rook surrenders."
+
+**Queen:** This carved figure depicts a shapely sorceress clad in flowing robes with a circlet around her head. Her arms are stretched upward in front of her in a V-shaped casting stance. She can be summoned once a month by uttering the command word "majesty." Unlike the other chess pieces, the animated form of the queen remains the size of the carved piece. The queen must be carried or she reverts to her carved, inanimate state.
+
+Queen (1): Int Exceptional; AL Neutral; AC 8; MV 12; HD NA; hp 30; THAC0 Nil; #AT Nil; SD Immune to mind-affecting magic; MR 50%; SZ M; ML 20.
+
+Once a day, the animated queen can call forth a *globe of invulnerability* to encase and move with the individual holding her. The globe functions for one hour per level of the holder of the queen. The globe can be dispelled earlier at the holder's desire. In addition, the queen can cast *hold portal*, *hold person*, *hold undead*, and *hold monster* once a day, each cast at her owner's level. The targeted creatures are allowed saving throws vs. spell. The queen
+
+---
+
+<!-- page 287 -->
+
+(This page continues from the previous entry about the Chess Set King piece, then presents new Chess Set entries.)
+
+---
+
+King: This carved figure is a stately sorcerer in a high-collared robe with an ornate crown on his head and a gnarled staff in his hand. Speaking the command words, "Beguile Ye," calls upon the figurine's wizardly power. The king, which does not animate, glows with a pale amber light and a mass charm spell is released as if it were cast by a 16th-level wizard. This power may be called upon once a month. Speaking the command words "make me a king" creates a town and surrounding fields that cover 4 square miles and hold 500 villagers. The town has homes, shops, artisans, craftsmen, peasants, a town watch, and all the other trappings of a small, rural community. The people behave normally and believe their forefathers have dwelt here for centuries. They can relate local lore that fits in with the geographical area. They also know intuitively that the possessor of this chess piece is their liege. The people cannot leave their village; however, other creatures and characters may enter and leave as they desire. The village lasts for two months unless dispelled earlier by the holder of the piece. This power can be called upon once a year.
+
+---
+
+## Chess Set, Khas
+
+**XP Value:** 4,000 &emsp; **GP Value:** 20,000
+
+*Source: Dragons of War*
+
+Khas is Krynn's version of chess. It is played with the same types and numbers of pieces as chess (eight pawns, two rooks, two knights, two bishops, and one king and queen on each side), but it is played on a hexagonal field with each troop starting in opposing corners of the board.
+
+The Solamnic Knights believe that the game reflects battles that are currently being fought somewhere in the world. Indeed, legends tell that great battles have been won or lost because of a Khas game being played elsewhere.
+
+Yarus's board is 3 feet across, made of fine, carved ivory, and inlaid with polished blue and cream marble. The pieces themselves are intricately crafted blue and cream granite.
+
+---
+
+## Chess Set, Magical
+
+**XP Value:** 600 &emsp; **GP Value:** 3,000
+
+*Source: DRAGON Magazine #73*
+
+A chess set, like any other. This item plays against a person, moving the pieces magically. It gives a credible but not truly expert game.
+
+---
+
+## Chess Set, Marbol's
+
+| Piece | XP Value | GP Value |
+|--------|----------|----------|
+| Pawn | 900 | 12,000 |
+| Knight | 1,250 | 18,750 |
+| Bishop | 1,250 | 18,750 |
+| Steed | 400 | 6,000 |
+| Rook | 6,000 | 30,000 |
+| King | 8,000 | 40,000 |
+| Queen | 8,000 | 40,000 |
+
+*Source: POLYHEDRON Newszine #90*
+
+Marbol, a brilliant tactician, was once a war advisor to King Azoun. However, he grew to hate playing games with people's lives and left the king's service to turn his hobby, chess, into a career.
+
+Marbol learned the game as a child. Highly intelligent and exceptionally well-educated, he had a knack for predicting his opponent's maneuvers, and he was known for winning in record time.
+
+Marbol traveled throughout the heart of the Realms for several years, challenging players to matches and winning games and prizes. He became the undisputed champion, dominating opponents of all ages and amassing a fortune. However, the years caught up to Marbol, and, with tired bones, he decided to settle down.
+
+Ravens Bluff was his choice, as the inland sea and the river traffic brought in new opponents every day.
+
+Marbol's shop has a patio deck at the entrance, where all of his games are played. There is also a single room display area, a work room next to a small kitchen, and lower-level living quarters.
+
+He fashions all of the chess sets he has for sale, carving them from various woods, sculpting them from clay, and chiseling them from marble and other stone. The exquisite chess sets are displayed on glass shelves throughout his showroom. The chess pieces range in price from 1 gp to 100 gp each, and the boards from 10 gp to 1,000 gp. The more expensive the set, the more intricate the work. He even fashions sets for nobility, often putting gems in the eyes of the kings and queens.
+
+The chess master maintains the shop without the help of employees, amazing the patrons who wonder where the old man gets so much energy to keep the place clean and freshly painted. Marbol's secret is an enchanted marble chess set he won four decades ago as the grand prize in a Waterdeep meet.
+
+---
+
+<!-- page 288 -->
+
+## Oyster Chest
+
+*(continuing from previous page)*
+
+**Pawns (16):** Int Low; AL N; AC 6; MV 12; HD 1; hp 6 each; THAC0 19; #AT Nil; SZ M (5' tall); ML 12
+
+**Knights and bishops (4 of each):** Int Average; AL N; AC 4; MV 12; HD 3; hp 18 each; THAC0 17; #AT 1; Dmg 1d6; SZ M (6' tall); ML 12
+
+**Knights' steeds (4):** Int Animal; AL N; AC 6; MV 15; HD 2; hp 12 each; THAC0 18; #AT 2; Dmg 1d6/1d6; SZ L (6' at the shoulder); ML 12
+
+**Rooks (4):** Int Average; AL N; AC 3; MV 9; HD 5; hp 30 each; THAC0 15; #AT 1; Dmg 1d8; SZ M (6' tall); ML 12
+
+**Kings and queens (2 each):** Int Average; AL N; AC 1; MV 9; HD 8; hp 45 each; THAC0 12; #AT 1; Dmg 1d10; SZ M (6' tall); ML 12
+
+Each piece can assume human form for up to 12 hours each day. The pieces are fanatically loyal to Marbol and zealously protect him. If a piece is defeated, it reverts to its marble form for 48 hours; the pieces cannot be permanently killed.
+
+Marbol considers the pieces close friends, and after business hours they help him clean his shop, polish the other chess sets, and play matches with him. The knights (dressed in common clothes) often hitch their steeds to Marbol's wagon and travel to nearby towns for wood, marble, and other materials for chess sets. The knights take turns animating so they can travel without stopping. The old master has been known to hire adventurers to bring back rare materials he wants for special chess sets.
+
+---
+
+# Chest
+
+A chest is a box, usually a sturdy and durable wooden construct with an attached lid, several handles, and fitted with metallic bands to give it more durability. Magical chests tend to have enchantments that involve storing extra contents or protecting the contents. Roll on the table below to determine the type of chest found.
+
+| Roll  | Chest Type |
+|-------|------------|
+| 01–10 | Box        |
+| 11–20 | Caddy      |
+| 21–30 | Case       |
+| 31–40 | Chest      |
+| 41–50 | Coffer     |
+| 51–60 | Crate      |
+| 61–70 | Crib       |
+| 71–80 | Locker     |
+| 81–90 | Safe       |
+| 91–00 | Trunk      |
+
+## Chest of Drawers
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+
+*Source: The Book of Marvelous Magic*
+
+This chest is of high quality and fine construction. Upon command, it summons 100 tiny, sprite-like creatures who arrive within it. They vanish if the chest is opened and thus cannot be seen except by clairvoyance or other magical scrying. If a gem valued at 1,000 gp or more is left in the chest along with a piece of parchment, the tiny creatures draw a map. They bring their own drawing tools, and, if left undisturbed for one hour, they draw a map of the horizontal area within 360 feet of the chest. The sprites then take the gem, and depart. The chest can now be opened and the map taken. The map is accurate and complete, and includes secret, magical, and concealed doors, pit traps, walls, and so forth. No creatures or treasures are noted, and magical doors, walls, and hidden passages are indicated by an "M." If, when they arrive, the creatures find no gem, they curse the one who summoned them and immediately depart. The curse may be of any standard type, but can only be removed by a caster of 15th level or higher. The creatures may be summoned once per day.
+
+## Chest of the Foot Stool
+
+**XP Value:** &emsp; **GP Value:**
+
+| Type               | XP Value | GP Value |
+|--------------------|----------|----------|
+| Extradimensional   | 2,000    | 10,000   |
+| Normal             | 600      | 3,000    |
+
+*Source: Hall of the Fire Giant King*
+
+The foot stool chest is a chest with a permanent illusion cast on it that makes it appear as though it were an insignificant foot stool. The chest usually is a 1-foot cube. However, 1% of foot stool chests contain an extradimensional space, allowing them to hold twice their size in goods.
+
+## Chest, Oyster
+
+**XP Value:** 1,500 &emsp; **GP Value:** 15,000
+
+*Source: DRAGON Magazine #99*
+
+This item appears to be a small, squat wooden chest, 2 feet in length along any side. The inside of the chest is lined with red velvet in many soft,
+
+---
+
