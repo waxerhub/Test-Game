@@ -21752,3 +21752,1038 @@ Upright, they signify attraction, amativeness, love; difficulties overcome, test
 
 ---
 
+<!-- page 386 -->
+
+This page is a continuation of a *Deck of Many Things* (or similar tarot-style card item) description. Based on the content, it covers cards 07 through the beginning of 09. Here is the clean markdown:
+
+---
+
+lower), toward all persons (now known or encountered later) to whom she or he might be romantically inclined (based on race, gender, and other factors).
+
+Reversed, they signify tests failed; fickleness, unreliability, infidelity; a need to stabilize and harmonize the self, the possibility of a wrong choice. The drawer's Charisma is reduced by one point for every 6 points by which Wisdom or Intelligence (whichever is lower) falls short of 18, rounding losses up; reaction rolls increase as above, but based on whichever ability score is higher, and if the drawer already has a loved companion or spouse, the reaction roll toward her or him is reduced by half the amount that other reaction rolls are increased by (round reduction up).
+
+---
+
+### 07: The Chariot
+
+A youthful and triumphant figure (a conqueror rather than a hereditary ruler) stands in a chariot, covered over by a starry canopy and drawn by two steeds (horses or sphinxes) of opposing colors and pulling in somewhat opposing directions. The charioteer bears a scepter of dominion, but no reins; the Chariot must be controlled through the dominion of the mind. Here is represented the conqueror of the outer world, victorious yet not truly in control of the fullness of reality.
+
+Upright, the Chariot signifies triumph, success, conquest over the physical plane (including illness and one's own weaknesses) by the rational mind, intelligence rather than wisdom; also travel in comfort, state visits. Drawer is cured of all diseases, lycanthropy, deafness, blindness, curses, charms, and the like of which she or he is a victim, and will be 15% less susceptible to them from now on. Also, the drawer will be able to coax an extra 3 MV out of any vehicle, mount, or other mode of travel, as long as the drawer's mind is clear and free to concentrate.
+
+Reversed, it signifies decadence, ill health, restlessness, victory through foul means, disputes, failure. Drawer, over the next seven days, begins to manifest a severe and chronic disease, which can only be cured by a potion made from the brains of two different kinds of sphinxes. The disease will not prove fatal for at least 49 days.
+
+---
+
+### 08: Strength
+
+A calm and self-contained, yet clearly quite human woman controls the jaws of a lion with her bare hands. Strength is both hers and the lion's. They are not struggling, for she has already subdued the beast, and they are now in a harmony of opposites: Hers is the Strength of the mind at one with itself; his is the Strength of passion and carnal needs, which are unable to withstand a consciousness aware of its link with the infinite, and must submit to its control.
+
+Upright, the card signifies spiritual power overcoming material power, the fortitude of the self-aware mind; courage and magnanimity; the triumph of love over hate. The drawer gains +4 to saving throws against fear, charm, suggestion, illusion and other mental attack forms involving will force.
+
+Reversed, this card signifies the dominance of the material and physical, lack of faith and moral force, failure of self-control, giving in to temptation, failure of will. Drawer suffers a -4 to saving throws against the attack forms listed above.
+
+---
+
+### 09: The Hermit
+
+A robed figure, the archetypal "Old Wise Man," the Hermit stands alone. He leans on a pilgrim's staff and holds up the lantern of wisdom, offering light to those who are humble enough to seek it. He illuminates the path to wisdom for those who want to emerge from darkness.
+
+---
+
+<!-- page 387 -->
+
+## 10: The Wheel of Fortune
+
+Upright, he signifies prudent counsel, receiving wisdom or instruction from one more knowledgeable, guidance on the path to one's goal; circumspection and caution; a solitary nature. Within nine days of returning home from this adventure, drawer will meet a visiting priest of his or her own faith and of a higher level, who will offer religious instruction to the drawer, "for the improvement of the mind," with a warning that the instruction will not be quick. After one month of study (if the drawer accepts the offer; this should be a decision of the player), the drawer emerges with a 2 point increase in Wisdom, but a 1 point loss in Charisma. The priest will then give the drawer a hint to the location of a magical item, and depart for places unknown.
+
+Reversed, the Hermit signifies immaturity, folly, refusal to accept aging and growth. Drawer loses one third of accumulated age, gains one point of Charisma and loses two points of Wisdom. When the drawer next seeks to gain a level, the process will be three times as long and expensive as usual, because of his or her refusal to heed the instructor.
+
+## 10: The Wheel of Fortune
+
+The Wheel of Fortune rotates eternally, bringing the great to naught and the humble to power, for a time. Descending (on the left) is an evil creature (often identified with Typhon or Set); ascending is a canine-headed being (often identified with Anubis, or Hermes Trismegistus); yet with another turn of the Wheel, the ascendant will descend and the descendant will ascend. Resting atop the Wheel (yet undisturbed by its rotations) is a sphinx casually holding a weapon, emblematic of the equilibrium which the enlightened mind manifests even in the midst of fortune's everchanging rounds. The sphinx, like the four winged beings of the apocalypse which occupy the corners of the field, is also a denial of the apparent randomness of the universe, and of the fatalism such false beliefs induce.
+
+Upright, it signifies success, fortune, felicity, an unexpected bit of luck, a change for the better. Drawer gains a permanent +2 on all saving throws; in addition, the next treasure discovered by the party will include a magical item of not less than 800 nor more than 8,000 experience points in value, on which the arms, image, and name of the drawer are ineradicably engraved or otherwise incorporated, in such a way as to mark it as predestined only for that person. If the drawer sells the item, both the card and the materials used to purchase it disintegrate, and the drawer's saving-throw bonus is negated.
+
+Reversed, it signifies unexpected bad fate, ill luck, setbacks or interruptions in plans, unwanted change. Drawer suffers a -2 penalty on all saving throws; in addition, one magical item (at random) belonging to the drawer disintegrates (this does not apply if no magical items are currently owned by the character).
+
+## 11: Justice
+
+Like the High Priestess and the Hierophant, Justice sits crowned and enthroned between pillars. In her right hand she bears a two-edged sword, its point toward the heavens; in her left hangs a set of balances. Firm and resolute, hers is the power of moral strength and integrity, of righteousness (good) rather than rectitude (law).
+
+Upright, she signifies justice, virtue, right judgments, the triumph of the good, just rewards, purity. Drawer of good alignment gains 8,000 experience points; drawer of evil alignment loses 8,000 experience points or ½ of all experience points, whichever is the greater; neutral drawer is unaffected. The DM may reduce these gains or losses by up to 50% if the drawer has
+
+---
+
+<!-- page 388 -->
+
+not been entirely consistent in following his or her alignment.
+
+Reversed, she signifies bias, injustice, excessive severity; legal complications. Unless drawer has been acting in very strict conformance with his or her alignment (the DM should be very rigid in this evaluation), she or he is stripped of all property, effects, wealth, allegiance or loyalties of followers (those over 50% base loyalty), except for any nonmagical clothing worn; and all but ½ of his or her experience points. Drawer will also forget all spells received or memorized.
+
+### 12: The Hanged Man
+
+From a gibbet or a tau-cross of living wood, a youth is suspended by one leg; his arms form a triangle behind his back, and his free leg is placed behind the bound one to form a cross (if viewed upside down, he seems to be dancing a jig). He represents Everyman, suspended by his own consent as a pause and decision point in the creation of an enlightened self. He is clearly in a contemplative state, not one of suffering, suspended between the old life and the new; he must create his new self knowingly and willingly.
+
+Upright, he signifies a pause, or suspension of ordinary activities; transcendence of material temptation; surrender to the purification of the self; spiritual wisdom, prophetic power; regeneration. Drawer goes into a contemplative state for 24 days, in which he or she is open-eyed, can walk (at an MV of 3), drink, and eat (lightly), but will not fight or otherwise interact with the mundane world: during this period the character also regenerates as if wearing a ring of regeneration. At the end of this period, the drawer loses one point of Strength, but gains 2 points of Wisdom. For a year and a day after that, the drawer will refuse all wealth, whether earned or offered, except that necessary for his or her own modest needs and those of any henchmen.
+
+Reversed, The Hanged Man signifies absorption in the ego and material matters, unwillingness to sacrifice; false prophecies. Drawer goes into a trance as described above, but "snaps out of it" after 1d20+5 rounds, having lost 2 points of Wisdom, but gained 1 point of Charisma. The Drawer will seem to show a new ability to prophesy the contents of rooms, intentions of strangers, etc., but after five such detailed, correct "visions," the supposed new ability will go tragically awry, and completely vanishes after being discredited.
+
+### 13: Death
+
+Death, represented as a skeleton, regards a desolate plain strewn with his victims, who are of all ages and conditions, for Death has no favorites. He is sometimes shown wielding a scythe, sometimes "terrible with banners."
+
+Upright, he symbolizes transit to the next stage of being, transformation; abrupt and unexpected change of the old self (not usually physical death), the end of security and old situations and the beginning of a new kind of life. The drawer dies. Body and effects burst into flames (which do 10d10 points of damage if a character is foolish enough to go into them), after 1d8 rounds the flames die down and the character steps from the ashes, reborn according to the following table:
+
+| Roll  | Race     | Roll  | Race     |
+|-------|----------|-------|----------|
+| 01–02 | Bugbear  | 31–36 | Halfling |
+| 03–08 | Dwarf    | 37–42 | Half-orc |
+| 09–14 | Elf      | 43–44 | Hobgoblin|
+| 15–16 | Gnoll    | 45–94 | Human    |
+| 17–22 | Gnome    | 95–96 | Kobold   |
+| 23–24 | Goblin   | 97–98 | Orc      |
+| 25–30 | Half-elf | 99–00 | Ogre     |
+
+---
+
+<!-- page 389 -->
+
+## 14: Temperance
+
+Note: A very good or very evil person will not be reborn as a creature whose alignment is the opposite. Regardless of the form in which the character is reincarnated, allow the new form to progress as far as possible in characteristics and abilities. Someone reborn as a gnoll might eventually gain Hit Dice up to 3, 4, or even 5, plus bonus points for a high Constitution; the character would be eligible to wear armor, could use magical items available to fighters, and would have the intelligence level of its former incarnation (or racial minimum). If the new form is of a player character race, the character must be generated as a new character; the new form may be a member of any player character class for which he or she is eligible, except the old character's former class (unless that is the only possible choice), is of 1st-level, with no experience points.
+
+Reversed, Death signifies stagnation, mere existence, inertia or immobility, lethargy, sleep, petrification. Drawer falls under a permanent slow spell and receives no experience points for this adventure (while slowed, drawer will age at half the normal rate).
+
+---
+
+A solemn, angelic figure, a flower or sun emblem on its forehead, pours a fluid from one of a pair of different-colored chalices to the other; behind the figure are growing plants, and distant hills. The card represents the inner self, enabling one to balance the forces of the mind, to illuminate intelligence by wisdom and to clarify wisdom with intelligence.
+
+Upright, it signifies control of self, adaptation, tempering of extremes; harmonious and fruitful combinations, wise management of resources; cooperation. Drawer will gain two points of Intelligence or Wisdom (whichever of the two is presently lower) but will lose one point in whichever of the two is higher. If the two scores are equal, the drawer gains one point in whichever other characteristic is lowest, with ties settled by player preference. Also, the drawer never again injures a companion through carelessness, ill timing, bad luck, or similar circumstance.
+
+Reversed, this card signifies discord, hostility, failure to communicate, conflicts of interests, unfortunate combinations. Drawer gains one point in whatever characteristic is most useful for his or her class (priests and druids gain Wisdom; fighters, paladins, and rangers gain Strength; mages gain Intelligence; thieves and monks gain Dexterity; and bards gain Charisma), but loses two points from whichever of his characteristics is the lowest. If there is a tie for lowest, the loss is taken from the lowest characteristic that the DM judges to be most generally useful for the drawer's class. In addition, from now on the drawer will have a reaction roll adjustment of from −2 to −3 (50% chance for either) to all persons.
+
+## 15: The Fiend
+
+Bat-winged, horned, donkey-eared, with hairy legs and eagle's feet, the Fiend stands or squats upon a blocky pedestal (which sometimes resembles an altar, sometimes an anvil). His right hand gives a cryptic salute; in his left is a weapon held in a bizarrely useless manner (a sword held by the blade, a torch which is upside down or burnt out). Connected by ropes to the altar are two figures (usually a man and a woman), mostly human but with certain animal characteristics such as horns and tails; they are much smaller than the Fiend, and appear strangely serene about their bondage.
+
+Upright, the card signifies the bondage of human nature to its own lowest needs and impulses, desires of greed and domination, sensation without understanding; fatality, disaster, vio-
+
+---
+
+<!-- page 390 -->
+
+lence; weird and destructive experiences; evil influences. Drawer is attacked by the Fiend of the Tarot (see below).
+
+Reversed, it signifies release from bondage to the material; conquest of pride and greed; the first steps toward spiritual enlightenment; freedom. Drawer gains one point of Wisdom and is freed of all charms, suggestions, and other spells subjecting the character to the will of another; he or she gives away all nonessential possessions at the end of this expedition (clothing and jewelry items of less than 500 gp value may be given to player characters or NPCs; the rest going to religion and charity).
+
+### The Fiend of the Tarot
+
+| Stat | Value |
+|------|-------|
+| CLIMATE/TERRAIN | The Tarot of Many Things |
+| FREQUENCY | Unique |
+| ORGANIZATION | Solitary |
+| ACTIVITY CYCLE | Any |
+| DIET | Carnivore |
+| INTELLIGENCE | Special |
+| TREASURE | Nil |
+| ALIGNMENT | Neutral evil |
+| NO. APPEARING | 1 |
+| ARMOR CLASS | Special |
+| MOVEMENT | 9, Fl 15 |
+| HIT DICE | Special |
+| THAC0 | Special |
+| NO. OF ATTACKS | 4 or 1 |
+| DAMAGE/ATTACK | 1d4/1d4/1d2/1d2 or by weapon type |
+| SPECIAL ATTACKS | Feet attack for 1d4/1d4, surprise |
+| SPECIAL DEFENSES | Can be attacked only by drawer |
+| MAGIC RESISTANCE | 15% |
+| SIZE | Special |
+| MORALE | Fearless (20) |
+| XP VALUE | 15,000 |
+
+The tarot fiend appears as shown on the deck being used except that it has the face and gender of the drawer. It has the Armor Class, Hit Points, THAC0 rolls, weapons and magic items, Intelligence, and size of the drawer as well. If the drawer fails to save vs. death magic, he or she is surprised by the fiend, for as many rounds as the saving throw was short. The fiend fights with a claw/claw/horn/horn routine, and if it scores two claw hits during a single round of melee it will also rake with its foot claws in that round for 1d4 points each. When either the drawer or the fiend is slain, the fiend disappears with all of its effects, but the drawer receives 15,000 experience points. If the drawer is killed in this combat, the experience point gain is applied to the character's total if and when the drawer is raised from the dead.
+
+### 16: The Tower
+
+A tall square Tower topped with a crown is being struck by lightning, which topples the crown but leaves the tower standing. Hurtling (from its windows; it has no doors) earthward are two persons (presumably a man and a woman) in rich garments, along with showers of sparks and debris; they are stunned to see their Tower of isolation and pride broken open by a stroke of fire from the heavens.
+
+Upright, the Tower signifies the overthrow of existing notions, the fall of pride; sudden and unexpected change; a perceived catastrophe which may bring enlightenment in its wake; the destruction of false concepts and ideas. Drawer loses one level (from the most advanced if a multiclassed character of uneven levels, choose randomly if equal; 1st-level drawer has experience points reduced to zero), loses all magic items and wealth, but drawer gains +1 to saving throws in a column of player's choice.
+
+Reversed, it signifies the same to a lesser degree; but also oppression, false imprisonment or accusations; living in a rut, inability to effect worthwhile change, being stuck in an unhappy situation. Drawer loses one level (as above); also, for a year and a day he or she is unable to gain a new level, regardless of experience points accumulated.
+
+### 17: The Star
+
+A vast, flamboyant Star of eight points is surrounded by seven similar stars. In the foreground, a young woman rests one foot on land and one upon the waters, as from two identical jugs she pours the Water of Life both upon the land and into the larger body of water. Behind her is rising ground and a tree with a bird in it; in the distance are mountains.
+
+Upright, the Star represents inspiration freely flowing, the gifts of the spirit, the fruits of meditation, understanding, hope; good health and pleasure; granting of wishes. The next time the
+
+---
+
+<!-- page 391 -->
+
+### 17: The Star *(continued)*
+
+drawer, after having earned enough experience points to advance to the next level, spends an hour or more under a clear and starlit sky, he or she will feel inspiration pour down from the very stars, and find that the next level has been gained without formal tutoring. Drawer also gains a +2 to saving throws vs. mental illness.
+
+Reversed, this card signifies pessimism, doubt; chance of illness; arrogance, haughtiness, stubbornness; lack of perception. Drawer becomes so smug, arrogant, and skeptical a pupil, he or she requires twice the usual amount of tutoring before any new level can be obtained. This change is permanent.
+
+### 18: The Moon
+
+The crescent Moon radiates its deceptive brightness upon a dim and foreboding landscape. In the pool which fills the foreground lurks a crayfish (or other creature from the abyss); beyond this, two dogs (or a dog and a wolf) bark and howl at the Moon, which sheds a cryptic dew upon them. In the background are two towers, and a path leads from the pool to the goal beyond the towers.
+
+Upright, this card signifies the "dark night of the soul": trickery, deception, secret foes; unforeseen perils; bad luck for a loved one; danger, darkness, terror, occult forces; danger of falling into a trap or being misled, great danger of making an error. Drawer must make a saving throw vs. death magic or fall prey to lunacy at the next full moon. If the save is made, drawer must then save vs. polymorph or succumb to lycanthropy (as a werewolf) upon the next full moon. If both saves are made, a henchman or servitor (at random) becomes disloyal over the next five turns (reduce loyalty and reaction rolls by 1d6+4).
+
+Reversed, the Moon signifies peace gained at a cost; instability; lesser degrees of deception or betrayal, trifling errors. The best magic item in the possession of the drawer is permanently drained of all magical properties; if drawer has no magic, 20% of all experience points earned on this adventure are lost.
+
+### 19: The Sun
+
+The Sun in its splendor shines benevolently down, either upon a pair of children playing blithely and simply together, or upon a single child riding a white horse and waving a scarlet banner. The innocent children (pair or single) are playing in front of a walled-in garden which they have left behind.
+
+Upright, it signifies happiness, success, contentment (particularly in marriage); achievements and studies completed, liberation to enjoy the simple pleasures; devotion, friendship. Drawer receives enough experience points to reach the next level, but not more than 19,000 in any case. Also, drawer has a +1 reaction roll to all persons met later or known presently, and they have a +1 reaction to the drawer.
+
+Reversed, this card signifies unhappiness, loneliness; plans and triumphs delayed; broken friendships or engagements; possible loss of a job or home. Drawer loses all henchmen and servitors after returning from this expedition (they leave town, take another leader, or otherwise leave for "personal reasons" but do not become hostile). If drawer is a henchman or vassal of another, he or she is dismissed, or stripped of offices, unless a saving throw vs. death magic is successful. Also, the drawer is stripped of enough experience points to be reduced to the bottom of his or her present level, but not more than 9,500 in any case.
+
+### 20: Judgment
+
+An angel sounds forth the call to Judgment from a trumpet to which is attached a banner bearing a cross; the clouds from which it emerges radiate
+
+---
+
+<!-- page 392 -->
+
+power. Below, a figure rises from a tomb while on each side a man and woman also rise; all these figures are as one in the wonder, adoration, and ecstatic awe which their whole bodies express as they answer the summons.
+
+Upright, this card signifies rebirth, renewal, awakening; rejuvenation, change of personal consciousness; a life well lived and a work well done; atonement, judgment, the need to forgive and to seek forgiveness, sincere self-appraisal. Drawer becomes a young adult over the course of the next hour (if not one already) but without any changes in characteristics. To determine exact age, select a young-adult age randomly, then add half the difference between that age and maximum young-adult age, rounding down. If drawer is already a young adult, he or she will become 90% of the minimum young-adult age. If the drawer's behavior is judged by the DM to have been strictly consistent with the character's alignment and religion (observance of taboos, donations, etc.), 2d6 hit points, determined randomly, are also gained. The gain can only be up to the maximum possible number of hit points for that character.
+
+Reversed, it signifies weakness; stupidity; a sentencing; disillusionment, disappointment; indecision leading to procrastination and delay. Drawer is affected as if struck by a ray of enfeeblement from a mage 3rd-level or of the same level as the drawer (whichever is higher); the drawer is also henceforth subject to a penalty of −1 on initiative rolls, due to her or his inability to choose between alternatives.
+
+## 21: The World
+
+Surrounding by an elliptical wreath of living foliage is a female figure dancing joyously, a short wand in each hand. In the four corners of the card are the heads of the four beings of the apocalypse, hovering protectively outside the wreath. Her legs form a cross, as do those of the Hanged Man, but she stands upright, supported by the ether, the very fabric of the World; her dance is of the sensitive life, of joy attained in the body, of the soul's intoxication in a World-turned-paradise.
+
+Upright, the World signifies completion, success, triumph in all things, perfection, fulfillment; the path of liberation and enlightenment; the admiration of others. Drawer gains one point to each ability score that is two or more below racial maximum.
+
+Reversed, this card signifies imperfection, failure, lack of vision, failure to complete task; fear of change or travel, fixity, permanence, stagnation. After 1d4 days, drawer begins to develop an increasing distrust of strange places: other cities or countries, dungeons, wildernesses, new taverns, all places. Within an additional 2d4 days this becomes full-blown paranoia, with drawer believing that everyone and everything outside his or her home (eventually, there too) is out to get him or her, and that any so-called "friend" or "loved one" who tries to get the drawer to come out into the world is clearly part of the conspiracy.
+
+## THE MINOR ARCANA
+
+### Wands
+
+Wands generally represent enterprise and growth, progress, advancement, animation, inventiveness, intelligence, and energy. This is the suit of the mage, and of the laborer.
+
+## 22: Ace of Wands
+
+A hand issuing from clouds grasps a still-verdant branch in the shape of a wand. In the background may be a city or castle on a hill.
+
+Upright, it signifies creation, beginning (of an adventure, a journey, or an endeavor), invention,
+
+---
+
+<!-- page 393 -->
+
+## 23: Two of Wands
+
+A majestic figure wearing princely headgear regards the broad world from a height. He holds one wand, and regards a globe; another wand is nearby.
+
+Upright, this card signifies boldness, courage, rule over others; and also the anguish and sorrow that may accompany power. Drawer gains one point of Charisma; and if he or she is in danger of going insane, that possibility is increased by ¼ (a 4 in 10 chance becomes 5 in 10) anytime during the next year; the insanity will take the form of melancholia.
+
+Reversed, the Two of Wands signifies trouble, fear, sadness, surprise. Drawer's saving throws against fear and hopelessness are reduced by 1.
+
+---
+
+enterprise. Drawer (affected automatically) and certain party members (those who fail to save vs. spell at −2) are freed from all existing geas, quest spells, and charms, and placed under a compulsion (equivalent to a combined geas and quest) to kill a single monster of 7,000 XP value (or a single group of monsters of 21,000 XP value) or more. Fulfillment of the task gains each participant an additional 1,000 XP, in addition to the XP reward for the monster.
+
+Reversed, the Ace of Wands signifies false starts, clouded joy, ruin, decadence, cancellation of projects, failure, and retreat. Effects as above, but the compulsion is to cancel the expedition and return to base as quickly as practical. While returning to home or headquarters, the party has −2 to Armor Class (two places better) and +2 to saving throws, but receives no experience points for actions performed during this retreat.
+
+## 24: Three of Wands
+
+A calm personage, back turned, leans lightly upon one of three wands planted in the ground, and looks out across a sea, beyond which are mountains.
+
+Upright, this card signifies established strength, wealth, enterprise, discovery, partnership in undertakings. When the drawer next seeks to go on an expedition or adventure, a nonplayer character of 1d3 levels higher will offer to come along, and to loan equipment and supplies. (This should be an established NPC already friendly to the drawer.)
+
+Reversed, the Three of Wands signifies cessation of adversity, an end to or suspension of difficulties; assistance with an ulterior motive. Effects as above, but the NPC will be planning to trick or betray the drawer. This could be by stealing a magic item from the drawer, robbing and stranding the character on an island, or other misadventure; generally (80%), the betrayal is not meant to be fatal.
+
+## 25: Four of Wands
+
+Four great wands are garlanded with chains of flowers, two women bear flowers, and behind them is a bridge over a moat, leading to a castle or manor.
+
+Upright, the Four of Wands signifies repose, peace, rural refuge, country domesticity and felicity. When drawer returns from this expedition to home or headquarters, after healing is finished, the character feels a strong desire to rest a while at home; for every month of rest thereafter up to four months, the drawer (unknowingly) receives 1,000 XP. The desire may be resisted (roll for saving throw vs. spell, at −2, not more than once a week), but can continue beyond the four-month period.
+
+Reversed, the meaning is the same but less intense. Effects as above, but only 500 XP are given per month, and saving throws to resist the desire are at −1.
+
+## 26: Five of Wands
+
+Five youths are apparently battling with huge wands, yet there is no sign of actual bodily injury.
+
+Upright, it signifies competition, strife, differences of opinion, nonfatal struggle. The effects of discord (as per the symbol) will befall the drawer's party after 1d4+3 turns; grappling and other nonlethal combat techniques will be used, but serious injuries are nonetheless possible.
+
+Reversed, the Five of Wands signifies victory after surmounting obstacles, contradictions, or trickery. All characters involved in the party's next victorious combat receive double experience points for the action; thieves in the party have a 10% better success rate in thefts attempted upon their own companions until the end of this adventure.
+
+## 27: Six of Wands
+
+A rider crowned with a laurel wreath bears a wand adorned with a laurel wreath, and is accompanied by five staff-bearing figures on foot.
+
+Upright, it signifies victory, triumph, good tidings, the successful completion of a struggle.
+
+---
+
+<!-- page 394 -->
+
+**28: Seven of Wands**
+
+A youth brandishes a staff from the top of a hill, and is confronted by six more wands in opposition.
+
+Upright, this card symbolizes a stand against unfavorable odds from an advantageous or superior position, the need to hold an unpopular stand or defy seemingly unbeatable opposition. In the next combat where drawer and party are outnumbered 2 to 1 or worse, the drawer's party has a +4 on initiative rolls; and a bonus of +1 on saving throws and AC (one place better).
+
+Reversed, it signifies indecision, ignorance, perplexity, anxiety, embarrassment, doubt, hesitancy. Drawer becomes indecisive; he or she has a permanent -1 on all initiative rolls for drawer and any party he or she leads.
+
+**29: Eight of Wands**
+
+Eight wands fly through open space, but near the end of their flight they will clearly fall to ground soon.
+
+Upright, it signifies swiftness, haste; that which is moving; approach to goals; travel by air; too rapid advancement. When next attacked, drawer will be hasted for 2d4 turns, rest of party for eight rounds; those who make their saving throws vs. death magic will not suffer aging (the drawer's throw will be at -1).
+
+Reversed, the Eight of Wands signifies delay, stagnation; quarrels and disputes. When next attacked, the entire party is slowed for 1d8+8 rounds; afterward, those who do not save vs. spell suffer discord (as with the symbol), but they will not attack with lethal weapons.
+
+**30: Nine of Wands**
+
+A sturdy, muscular figure, with a minor wound (already bandaged) grasps or leans on one staff and expectantly regards the surroundings. Behind are eight other wands, arranged as for a palisade or as a sturdy boundary.
+
+Upright, this card signifies a pause in struggle, strength to meet opposition, power in reserve, discipline, preparation for an encounter, delay or suspension. One time before the end of this adventure, drawer and party will be able to return to a designated sanctuary (as the priest spell *word of recall*) for 9–12 turns. They may bind their wounds, refresh themselves, and the like, but may not pick up or drop anything, nor communicate with anyone. At the end of the duration, they will reappear at the time and place they left from, in the same positions and carrying the same equipment.
+
+Reversed, the Nine of Wands signifies obstacles, adversity, opposition, weakness, ill health, even calamity. Drawer's Strength is reduced to racial minimum when next confronted by an opponent, and remains reduced for eight more turns.
+
+**31: Ten of Wands**
+
+A weary figure stumbles toward a city or castle, oppressed by the weight of ten wands he is carrying.
+
+Upright, the Ten of Wands signifies oppression, testing by work and pain; also force, energy, or power misused and applied to selfish ends, the burden of ill-controlled power. An employer, liege, ruler, supervisor, or other person with power over the drawer, will, in 2d10 days, overwork and overburden the drawer. If the drawer bears up under the stress (which will not be unendurable, merely irksome in the extreme) for 1d10 weeks, he or she will be relieved of the oppression, and receive a reward of 1,000 XP per week of suffering.
+
+Reversed, it signifies loss, separation, immigration; intrigue. Drawer is teleported a distance of 1d4 levels in a dungeon setting, or 2d10 miles in a city or wilderness setting, to a place he or she is not familiar with at all. At least one party member will urge that the rest of the party consider the drawer deceased, and that the character's possessions (if any) being carried by party members be considered extra treasure for the "survivors."
+
+### The Court Cards
+
+The Court Cards of each suit (King, Queen, Knight, and Page) signify a being who will aid or
+
+---
+
+<!-- page 395 -->
+
+## 32: Page of Wands
+
+attack the drawer, depending on whether the card is drawn upright or reversed. Each of these beings is a material form of that which is symbolized by the card (their appearance will be exactly that of the person depicted on the card) rather than a natural being (human or otherwise); thus, they may possess combinations of classes or other attributes which might be forbidden to player characters or NPCs. They will materialize the next time the drawer is attacked by another creature or character, and then engage in combat until the combat is resolved by the defeat of one side or the other, or by the successful evasion of one party by the other, or until the card being is slain. Upon resolution or death, the being dematerializes along with all its effects. Stated Armor Classes, damage figures, and the like, take account of the magic with which these beings are equipped, and of Dexterity or Strength bonuses. All of the card creatures are neutral in alignment.
+
+## 32: Page of Wands
+
+The Page is a fair youth with blond hair and light eyes, who stands boldly holding a raised wand as if ready to deliver a message or proclamation (the Page is often a bearer of tidings, good or ill).
+
+**Page of Wands:** 3rd-level mage (AC 8, hp 12, AT 1, Dmg 1d6+3, Str 12, Int 16, Wis 12, Dex 12, Con 12, Cha 12); wears boots of speed and carries a staff of striking (15 charges). The Page's spells are: magic missile, shield, stinking cloud.
+
+## 33: Knight of Wands
+
+A handsome young man in plate armor, the Knight, wand in hand, rides across the plains in haste. His hair is blond, his eyes pale, and he is fair of complexion.
+
+**Knight of Wands:** 4th/4th-level mage/fighter (AC 2, hp 26, AT 1, Dmg 1d8+3, Str 16, Int 16, Wis 12, Dex 12, Con 12, Cha 12); wears plate mail +1 and carries a rod of smiting (30 charges). Spells are: sleep, burning hands, push, mirror image, scare. If the setting is suitable (open meadow, a forest, city street) the Knight will be riding a light war horse (16 hp) that wears horseshoes of speed.
+
+## 34: Queen of Wands
+
+The crowned Queen sits on her throne, a wand in her hand, a black cat (her familiar, with 7 hp) at her feet. She is a fair blonde with pale eyes.
+
+**Queen of Wands:** 7th-level mage (AC 9, hp 28, AT 1, Dmg by weapon, Str 12, Int 16, Wis 12, Dex 12, Con 12, Cha 12); wears a ring of protection +1, a ring of fire resistance, and a brooch of shielding (70 points left) and carries a wand of fire (40 charges). Her spells are: enlarge, magic missile, shield, sleep, mirror image, scare, web, dispel magic, protection from normal missiles, confusion.
+
+## 35: King of Wands
+
+The King sits in royal robes upon his throne, a crown and cap of maintenance upon his head. There is a staff in his right hand and a little alchemical salamander at his feet (it has 4 hit points and is as immune to fire as a standard salamander: so, therefore, is the King), which looks like a small black lizard. The King of Wands is a mature man, blond and fair with pale eyes.
+
+**King of Wands:** 7th-level mage (AC 8, hp 28, AT 1, Dmg by weapon, Str 12, Int 16, Wis 12, Dex 12, Con 12, Cha 12); wears a ring of protection +2 and a necklace of adaptation, and carries a wand of frost (35 charges). His spells are: burning hands, shield, sleep (x2), invisibility, stinking cloud, web, blink, fireball, wall of fire.
+
+---
+
+<!-- page 396 -->
+
+# Cups
+
+Cups generally represent love, happiness, deep feelings, gaiety, joy, and wisdom. They hold water or wine, symbols of pleasure and happiness. This is the suit of the priests and minstrels.
+
+## 36: Ace of Cups
+
+A large and ornate cup, usually shown accompanied by flowers and other living creatures. The deck shows the cup supported by a hand issuing from a cloud; pouring from the cup are five streams flowing into a body of water on which float water-lilies; a white dove drops a wafer into the cup.
+
+Upright, the Ace of Cups signifies joy, nourishment, content; opulence, fulfillment, abundance; joys of faith, "my cup runneth over," fertility, productiveness. This draw serves as atonement, cure critical wounds, cure disease, dispel evil, dispel magic, exorcize, or remove curse (any two of the above needed by the drawer within the next 21 weeks) at the 16th level of ability.
+
+Reversed, it signifies change, alteration, instability, bad faith, false love, erosion, inconsistency. The next two spells from the list above cast upon the drawer will be ineffective.
+
+## 37: Two of Cups
+
+A young man and woman share cups, perhaps in pledge; above them is a caduceus, surmounted by a winged lions-head.
+
+Upright, this card signifies love or friendship beginning or renewed; union; understanding, cooperation, and partnership. Drawer will fall in love with the member of the party most attractive to her or him (based on Charisma, racial preferences, and other factors) over the next 24 hours; drawer gains four points of Charisma at the same time—in the eyes of the beloved only.
+
+Reversed, the Two of Cups signifies misunderstanding, crossed desires, violent passion, disappointment in love, disunity. Drawer will fall violently, passionately, in unrequited love with the member of the party most attractive to her or him, over the next 24 hours; drawer loses seven points of Charisma—in the eyes of the beloved only.
+
+## 38: Three of Cups
+
+Three cups are lifted up, in a setting of flowers and other growing things.
+
+Upright, the Three of Cups signifies victorious and happy conclusions, success, abundance, pleasure and hospitality, solace, fulfillment, and healing. Before the drawer appear three large cups or chalices (which are wooden, but resemble those on the card), on which are carved the drawer's name. In each of these the drawer can create food and water, 1 cubic foot of either, 7 times, after which they become simple cups worth 2 gold pieces each. If the drawer is a priest, each cup will work 21 times. These items are not salable for more than the 2 gp, since the spell only works for the drawer, and only if all three are together; their experience point value is 1,000 for the set, 3,000 for a priest.
+
+Reversed, it signifies achievement; ending; overindulgence in drink and the pleasures of the senses; excess. Drawer becomes more susceptible to intoxication from alcohol: slight intoxication (normally) becomes moderate, moderate becomes great, great becomes "beyond great." This change will first become evident after the end of the current adventure.
+
+## 39: Four of Cups
+
+A youth sits contemplatively on the grass beneath a tree. A hand from a mysterious cloud offers a cup; but the youth seemingly ignores both it and the three other cups upon the ground nearby.
+
+Upright, it signifies weariness, surfeit, disgust with earthly pleasures and things of this world,
+
+---
+
+<!-- page 397 -->
+
+## 40: Five of Cups
+
+boredom and discontent, a reevaluation of lifestyle. Drawer will decline any nourishment but water for the next seven days ("to clear the mind and system"); at the end of this adventure, drawer will give all food and drink and 10% of his or her wealth to the poor, and half the gains from this adventure to his or her faith (100% if a priest, druid, or paladin). These donations will go to public institutions, not to player characters or NPCs. The drawer then withdraws from the active world for 4 weeks + 4d4 days, emerging only for religious services that cannot be performed at home.
+
+Reversed, the Four of Cups signifies novelty; reawakening to new goals, new relationships, or new ambitions; refreshment. Drawer breaks free of any charm, insanity, beguilement, or the like that afflicts him or her. Drawer will move afoot at an extra 3 MV for 4d4 weeks, and gains a bonus of 25% on all experience points earned for the rest of this adventure.
+
+## 40: Five of Cups
+
+A gloomy, cloaked figure in a hilly setting looks sideways at three spilled and fallen cups; two full ones stand behind. In the background is a body of water.
+
+Upright, this symbolizes partial loss, failure to come up to expectations, disappointment or disillusionment, dissolution of a friendship or marriage. Drawer loses the affections of a current lover or, if none, those of a henchman to whom drawer might be attracted (they do not become hostile, merely indifferent) over the next five days: drawer's morale and reaction rolls will be at −1 for 1d20+5 weeks.
+
+Reversed, it signifies return of pleasure, of an old friend or loved one, a new partnership or alliance. Drawer gains or regains an old lover or henchman to whom drawer might be attracted, within five days of returning from this adventure or expedition; drawer's morale and reaction rolls will be at +1 for 1d20+5 weeks after this.
+
+## 41: Six of Cups
+
+Two young children stand in a garden or village green, playing with one of six cups filled with flowers; the ambience is bucolic and nostalgic.
+
+Upright, it signifies remembrance of things past, the joys and happiness of days gone by. Drawer sees a clear vision of a beloved friend and companion of days gone by (one who is still alive). Within 1d8 days of the drawer's return from this adventure, a parcel arrives from the old friend, passed on by an obliging merchant or other appropriate courier. In addition to a letter of reminiscences, the parcel will include either a gem of 4,000 gp value or less (49%), an item of jewelry of 4,000 gp value or less (40%), or a minor (gp and XP values of 4,000 or less) miscellaneous magical item usable by the drawer (11%).
+
+Reversed, it signifies renewal, thoughts of the future, that which is to come. Drawer has a clear vision of the next being or group of beings the party is to encounter after they have finished with the Tarot (although not the meaning of the vision, of course).
+
+## 42: Seven of Cups
+
+A startled figure is confronted by seven cups overflowing with fantastic visions: castles, dragons, jewels, and other sights more bizarre.
+
+Upright, it signifies daydreaming, dissipation, wishful thinking, ephemeral or illusory success. Drawer has a −2 penalty on saving throws vs. illusions from now on.
+
+Reversed, it signifies resolution, determination, strength of will, intelligent choice. Drawer will save at +2 vs. illusions from now on; illusion specialists will gain one level instead.
+
+## 43: Eight of Cups
+
+A dejected figure with a pilgrim's staff leaves eight neatly stacked cups behind and trudges up a barren moonlit mountain into the distance.
+
+Upright, the Eight of Cups signifies abandonment of success, disappointment in material gains, the discarding of what has been achieved for a higher goal; journeying from place to place. Over the remainder of this expedition drawer will feel an increasing discontent and an increase in religious interests. Within eight days of returning home from this adventure, the character will sell all nonportable properties, abdicate (or at least take leave from) all official positions, and enter a religious retreat for 4d8 weeks (after donating half of all worldly goods to the faith). If drawer is eligible, he or she becomes a priest, druid, or paladin of his or her deity (allowing for alignment, gender, and racial requirements, and the restrictions listed in the PHB). Priests, druids, and paladins will stay in religious retreat for a year and a day, emerging with 4,000 additional
+
+---
+
+<!-- page 398 -->
+
+(continuing from the card entries on this page)
+
+---
+
+Upright, this card signifies feasting, joy, striving for material success, gaiety, a less spiritual outlook. While healing and resting after the end of this expedition, the drawer will become increasingly restive and frivolous. As soon as it is safe to do so, he or she will spend at least 8% of total wealth on a feast or series of feasts and carousals, stopping only after money starts running low or a daily saving throw vs. death magic (at −2) is successful. Depending on alignment, deity, and profession, this debauchery may require atonement by the drawer.
+
+Those who fall into neither of these classifications emerge from retreat with renewed spirituality and 1,000 extra experience points.
+
+Reversed, this card signifies feasting, joy, striving for material success, gaiety, a less spiritual outlook. While healing and resting after the end of this expedition, drawer will become increasingly restive and frivolous. As soon as it is safe to do so, he or she will spend at least 8% of total wealth on a feast or series of feasts and carousals, stopping only after money starts running low or a daily saving throw vs. death magic (at −2) is successful. Depending on alignment, deity, and profession, this debauchery may require atonement by the drawer.
+
+---
+
+### 44: Nine of Cups
+
+A prosperous figure, having feasted happily, rests before a counter on which nine cups, generously filled, have been neatly arranged.
+
+Upright, the Nine of Cups signifies success, satisfaction, all the good things of life, well being, the granting of wishes. Drawer gains one immediate wish, which can only be used for physical or material matters (thus, it could be used to restore hit points, but not to raise an Intelligence score).
+
+Reversed, it signifies misplaced confidence, false assurance, material loss, imperfections, mistakes, disputes, failure to fulfill a wish. Effects as above, but the wish will go wrong in one of various ways; thus, a wish to bring a character back to life might result in the deceased becoming a zombie (as the spell *animate dead*), or a wish to transport the party into the fortress of an enemy might transport them into the cells of the dungeon, without keys. The mistake or flaw may be disastrous, but should not be fatal in and of itself.
+
+---
+
+### 45: Ten of Cups
+
+Ten cups in a rainbow appear as in a vision; beneath it a couple raises their arms in joy and ecstasy and two children dance together blithely; a home stands in the background.
+
+Upright, it signifies contentment, repose of the heart, perfection of love and friendship, peace. Reaction and loyalty scores of the drawer's friends and associates increase by +4.
+
+Reversed, it signifies betrayal, loss of friendship, waste, criminal behavior, strife, hatred, resentment. Reaction and loyalty scores of the drawer's friends and associates decrease by ¼ of their present amount (round losses up), but at least −2 in any case.
+
+---
+
+### 46: Page of Cups
+
+A fancily dressed youth of medium coloration, the Page stands lightly, contemplating the fish or other curious images emerging from the Cup being carried.
+
+**Page of Cups:** 3rd-level priest (AC 4, hp 24, AT 1, Dmg 1d6+1, Str 12, Int 12, Wis 16, Dex 12, Con 12, Cha 12); has bracers of defense (AC 4) and a mace +1. The Page can cast the following spells: *command*, *cure light wounds*, *hold person*. The Cup is his holy symbol.
+
+---
+
+### 47: Knight of Cups
+
+Stately but not martial, the Knight carries his Cup firmly as he approaches a stream. He wears plate armor and a winged helmet; he is a young man, of medium coloring.
+
+**Knight of Cups:** 4th/4th-level priest/fighter (AC 1, hp 42, AT 1, Dmg by weapon type); has plate mail and a cloak of displacement. His spells are *cause fear*, *cure light wounds*, *light*, *chant*, and *hold person*. The Cup is his holy symbol. If the setting is suitable (plains, highway, a glade) the Knight is riding a medium war horse (18 hp) with horseshoes of the zephyr.
+
+---
+
+### 48: Queen of Cups
+
+Beautiful and dreamy, the Queen contemplates an extremely elaborate cup; she is quite capable of turning those dreams into actions. She is of medium coloring.
+
+**Queen of Cups:** 7th-level priest (AC 7, hp 56, AT 1, Dmg 1d6+1 or 1d6+3); wears a ring of protection +1 and a cloak of protection +2 and carries a scepter that also acts as a mace +3. The spells the queen can cast include: *command*, *sanctuary*, *cure light wounds*, *hold person* (×2), *silence 15' radius*, *animate dead*, *dispel magic*, *cure serious wounds*. The Cup is her holy symbol.
+
+---
+
+<!-- page 399 -->
+
+## 49: King of Cups
+
+Solemn, level-headed, and responsible, the King sets the great Cup upon his right knee. Of medium coloring, he is a fair and lively minded man.
+
+King of Cups: 7th-level priest (AC 2, hp 56, #AT 1, Dmg by weapon); wears bracers of defense (AC 5) and a ring of protection +3; and his Cup is also a decanter of endless water. His spells are cure light wounds, light, sanctuary, hold person, slow poison, resist fire, prayer (x2), cure serious wounds. The Cup also serves as his holy symbol.
+
+---
+
+## Swords
+
+Swords generally represent courage, boldness, violence, force, strength, authority, aggression, ambition, activity, accomplishment of goals (for good or ill); sometimes misfortune and disaster. This is the suit of fighters, of kings, and rulers.
+
+---
+
+## 50: Ace of Swords
+
+Issuing from a cloud, a hand grasps an upright sword, topped by a crown from which hang branches of olive and laurel.
+
+Upright, it signifies conquest, the triumph of brute force, championship, excessive use of power. Drawer will hit the next opponent in physical combat on every attempt (unless 21 or better is required to hit); but cannot strike to subdue that opponent.
+
+Reversed, it signifies debacle, disaster, lack of productivity, Pyrrhic victory. The next time drawer hits an opponent in physical combat, his or her weapon will do 2d4 plus the normal points of damage but then shatters irreparably. If the blow is with a body part, said part will suffer a severe break, requiring a heal spell and four weeks of immobility to become useful again. This applies even if the drawer was attempting to strike to subdue.
+
+---
+
+## 51: Two of Swords
+
+A blindfolded female figure balances two swords upon her shoulders beneath a new moon; behind her is a turbulent or rocky sea.
+
+Upright, the Two of Swords signifies balance of forces, expedience, conformity, alliance of arms, indecision or tension in relationships, stalemate, harmony, concord, affection. Loyalty and reaction rolls of friends, henchmen, and servitors change 1d6 points toward 12, going up or down as appropriate, over the next two turns.
+
+Reversed, it signifies treachery, disloyalty, duplicity, release, movement of affairs in the wrong direction. Loyalty and reaction rolls of friends, henchmen, and servitors will change 1d6 points toward 4, going up or down as appropriate, over the next two turns.
+
+---
+
+## 52: Three of Swords
+
+Against a turbulent background, a heart is pierced by three swords.
+
+Upright, this card signifies division, quarreling, separation, upheaval, civil war or political struggle, arguments. Those members of the party who do not make successful saving throws vs. spell (at -3) start a violent fight within the party in the next 1d4 turns; the drawer does not get a saving throw. The basis of the fight may be philosophical, racial, political, or religious. Those quarreling cannot be stopped (except forcefully, by those who made the saving throw) until at least one party member is unconscious or dead.
+
+Reversed, it has much the same meaning but to a lesser degree. Effects as above, but saving throws will be at +1, and those party members with a Wisdom of more than seven will be using nonlethal combat methods. (Note: In both these cases the effects of the card wear off in 1d4+3 hours, but the animosities created or revealed may linger.)
+
+---
+
+<!-- page 400 -->
+
+## 53: Four of Swords
+
+The image of a warrior lies upon a tomb or altar; alongside it is one sword, and three more hang in the background.
+
+Upright, the Four of Swords symbolizes repose, release, hermit's retreat, solitude, exile, replenishment (not death). After this adventure is completed, drawer will refrain from adventure and excitement for an extra four weeks plus 1d4 days after healing and other recovery are completed, regardless of inducements offered. The period of repose will be spent in solitary study and meditation, at the end of which the drawer rolls 4d4; if the resulting number is less than the drawer's Wisdom, he or she gains one hit point permanently, or two in the case of fighters (including paladins and rangers).
+
+Reversed, this card signifies circumspection, precautions, a need for careful administration, economy, prudent action. Drawer gains a permanent 10% increase in the chance of success of precautionary measures (listening at doors, attempting to detect evil/good, casting augury, and the like); but if the drawer is careless, the chance for him or her to be surprised is 2 in 6 greater. Thus, an elven drawer listening at a door behind which a band of orcs lurk will have a 5 in 20 (instead of 3 in 20) chance of hearing noise; a drawer checking an alley for danger with a medallion of ESP will suffer a malfunction on a 2 in 30 (rather than 5 in 30) chance, and so on; but a drawer who blithely enters a presumably empty woods without drawing weapons and taking similar prudent measures will be surprised on a 5 in 6 (instead of 3 in 6) chance by the enemy therein.
+
+## 54: Five of Swords
+
+A scornful youth watches as two dejected figures slouch away; two swords lie on the ground, two more are slung over the youth's shoulder, and he holds the fifth pointed toward the ground. The sky is clouded and stormy.
+
+Upright, this card signifies defeat, dishonor, loss, degradation, infamy, destruction, conquest, cruelty, failure. In their next conflict with beings not evil in alignment, drawer and party will be defeated and surrender rather than be slain. They are stripped of weapons, valuables, and supplies—no lives are lost.
+
+Reversed, it signifies more or less the same, plus sorrow, weakness, funerals, loss of a friend. Effects as above, but the drawer suffers some form of humiliation or injury, possibly including the slaying of a familiar, henchman, or servitor.
+
+## 55: Six of Swords
+
+A ferry keeper conveys solemn passengers to a further shore across calm waters. Six swords stand hilt-up along the edge of the boat.
+
+Upright, it signifies a departure, breaking away, travel, success after anxiety, voluntary separation, water journey. The next effort by drawer and party to flee, avoid, or evade opposition that would normally fail, will succeed, unless the chance for success was zero (but also even then, if there is a body of water between the party and the pursuers). Drawer has a permanent 5% bonus chance of evading pursuit, if he or she can cross a body of water ahead of the pursuers.
+
+Reversed, it signifies outcry, lack of immediate solution, staying in place. The next time the drawer and party seek to flee, avoid, or evade, they fail badly because of slow speed, an involuntary outcry that alerts the opponents, or the inability to get across a body of water. Drawer also becomes permanently sensitive (−1 on saving throw) to attack forms based on loud sounds or outcries.
+
+---
+
+<!-- page 401 -->
+
+## 56: Seven of Swords
+
+A scurrying figure rushes away with five swords, while two other swords are left behind.
+
+Upright, it signifies partial success, a plan that may fail, plots and schemes, tricky endeavors. The next encounter in which the drawer takes part will be a partial success: some opponents will escape with part of the treasures, valuables will be damaged in the fighting, other, similar, mishaps will occur. Any attempt to make the encounter more nearly a total success will bring the whole effort to ruin (while sacking up the last copper pieces and checking the chests for false bottoms, the party is surprised by returning opponents—and their allies).
+
+Reversed, this card signifies wishes soon to be fulfilled, chance of unexpected success; sound counsel, instruction. The next plan devised in part or whole by the drawer that involves at least 7% but no more than 49% chance of failure, will be a success, if the scheme is based on stealth, cunning, or deception (rather than a "smash and grab" operation).
+
+## 57: Eight of Swords
+
+A female figure, her eyes covered, stands alone, surrounded by the swords of the card.
+
+Upright, the Eight of Swords signifies restriction, bondage, betrayal, imprisonment; chagrin; calumny or censure; temporary sickness. Drawer will be taken captive (and stripped of all gear, weapons, and possessions) by the next opposing group the party meets of greater power than their own.
+
+Reversed, it signifies prior treachery, disquiet, unforeseen mishap, fatality. Drawer encounters wandering monsters at twice the normal chance until the end of this adventure.
+
+## 58: Nine of Swords
+
+A woman, racked with despair, is surrounded by the swords of the card; she is blanketed with roses, but feels only their thorns.
+
+Upright, this card signifies utter desolation, despair, misery, death, failure, disappointment, miscarriage or delay, deception, doubt, illness, loss. Drawer falls prey to melancholia after nine turns; if a successful save vs. death magic (at -2) is made, the melancholia will last for 1d10+2 months; if not, it is permanent. During this period, the PC is doubly susceptible to illness and parasitic infestation.
+
+Reversed, it signifies doubt, suspicion, shame, patient suffering, "time heals all wounds," timidity, reasonable fear.
+
+Drawer has a -5 to morale and react at -2 for 2d4+1 weeks and heals at half speed until fully recovered from this adventure. The drawer then requires an additional 1d4+3 days of rest.
+
+## 59: Ten of Swords
+
+A body, pierced by ten swords, lies upon a desolate plain beneath a blackened sky.
+
+Upright, the Ten of Swords signifies defeat, darkness, disaster, woe, loss, and desolation (but not death). Drawer loses the affection of all lovers, henchmen, and associates (reaction and loyalty rolls are reduced by 3d4 points, with a new maximum of 14), with the rest of the drawer's party feeling uneasy around him and wishing to get rid of the drawer as soon as they can do so without endangering the party. Any home the drawer owns will be destroyed or taken, as will 80+1d20% of his or her material wealth.
+
+Reversed, this card signifies benefit, profit, success, and favor, but of a passing and impermanent sort. Drawer has 1d10 additional hit points for the next 70 days.
+
+## 60: Page of Swords
+
+An alert, lithe, and energetic youth of dark coloring, the Page holds the sword ready for action while walking briskly over rough ground.
+
+Page of Swords: 3rd-level fighter (AC 6, hp 30, #AT 1 or 2, Dmg 1d8 (two attacks per round) or 1d12+2 (one attack per round), Str 16, Int 12, Wis 12, Dex 12, Con 12, Cha 12); wears bracers of defense (AC 6) and wields a Sword which is a long sword +1 with no special abilities. The page is unable to cast spells.
+
+## 61: Knight of Swords
+
+A dashing and chivalric young man of dark coloring, the Knight rides full tilt across open, storm-swept country. Brave and proud, he brandishes his Sword at unseen foes, or from sheer spirit.
+
+Knight of Swords: 5th-level fighter (AC 2, hp 50, #AT 1, Dmg 1d8 or 1d12+3); wears plate mail +1 and wields a long sword +2 with no special abilities. If the setting is suitable (heathland, plazas, moors) the Knight is riding a roan medium war horse (18 hp) and will appear already charging.
+
+---
+
+<!-- page 402 -->
+
+## 62: Queen of Swords
+
+Dark and grim, the Queen sits on her throne beneath a cloudy sky and brandishes her Sword as if to say "Approach who dares!"
+
+Queen of Swords: 7th-level fighter (AC 2, hp 70, #AT 3/2, Dmg 1d8 or 1d12+4); wears a ring of protection +1 and bracers of defense (AC 3) and wields a Sword, which is a long sword +3 with no special abilities.
+
+## 63: King of Swords
+
+The crowned King, dark and stern-looking, sits on a throne of judgment beneath stormy skies; his Sword is held in a manner which makes it menacingly clear that he is familiar with its use, for good or evil.
+
+King of Swords: 7th-level fighter (AC 1, hp 70, #AT 3/2, Dmg 1d8 or 1d12+4); wears chain mail +4 under his robes, and wields a Sword, which is a long sword +3 with no special abilities.
+
+## Pentacles
+
+Pentacles represent material and financial matters. Money, occupation, material gain, business development, and involvement in the world. This is the suit of the thief, and of the merchant.
+
+## 64: Ace of Pentacles
+
+A single pentacle takes the form of a large coin or other piece of precious metal or jewelry; it is usually held by a hand or hands. In the background are flowers, butterflies, and the like.
+
+Upright, it signifies gold, content prosperity, the happiness and pleasure that wealth can bring. Concealed in or on some item acquired during this expedition, drawer will discover a gem worth at least 10,000 gp.
+
+Reversed, it signifies greed, miserliness, that prosperity which gives no happiness, misused or corrupted wealth. Effects as above; also, for 2d4 months, all wealth gained by the drawer has no experience point value at all.
+
+## 65: Two of Pentacles
+
+A youth in frivolous costume dances and juggles two pentacles; in the background ships are tossed on the high sea.
+
+Upright, this card signifies gaiety, lightheartedness, grace under pressure, but also difficulty in launching new ventures or adapting to additional burdens; variability of moods. Drawer gains one point of Dexterity, but receives only half the experience points actually earned until he or she has enough experience points for the next level. At this point, drawer will take twice the usual time for training and study, in order to gain the new level.
+
+Reversed, it signifies enforced or simulated gaiety and enjoyment. The next time the drawer is under attack, he or she will suffer the effects of Otto's irresistible dance for 1d4+3 rounds.
+
+## 66: Three of Pentacles
+
+A master artist or mason carving pentacles in stonework is regarded approvingly by two robed figures (probably priests), one of whom holds a set of plans from which the crafter has been working.
+
+Upright, it signifies skill, craftsmanship, glory or renown (particularly in a commercial matter), mastery, rank and power in one's profession; it is also used to signify matters relating to secret societies, guilds and the like. Drawer receives a 30% bonus on all earned experience points until the next level is attained; thieves also gain a permanent 3% bonus in all professional skills. In addition, if drawer is a member of a society, guild, or the like, whose ranks are not based on character class levels, he or she will soon (3d10
+
+---
+
+<!-- page 403 -->
+
+## 67: Four of Pentacles
+
+A hunched-over figure, crowned with one pentacle, grasps another fervently with hands and arms, and stands firmly upon two more; he clings avidly to what is already held.
+
+Upright, this card signifies making sure of material gains; worldly gain leading to nothing beyond it; sometimes (not always) miserliness and a lack of generosity, but always a monetary, mercenary concern and point of view. Drawer receives no experience points for any material gains made during this expedition, except thieves, who suffer only a 10% penalty.
+
+Reversed, it signifies material setbacks, opposition, delay, hindrance, chance of material losses. From 4–16% (4d4) of the drawer's total wealth will disappear or be stolen in the next four days, never to be recovered.
+
+## 68: Five of Pentacles
+
+Two ragged figures (one on crutches), a man and a woman, pass beneath a lighted window in a snowstorm. They are clearly in distress.
+
+Upright, it signifies loss of home, destitution, joblessness; affinities discovered through mutual suffering; generally, troubles in the material-financial realm. Within 5 weeks of returning from this adventure, the drawer will lose all homes, savings, jewelry, magic items and other valuables, and job (including henchman status), if any; for 5d10 weeks after drawing this card, drawer will be doubly susceptible to illness, and to parasitic infestations. If drawer has a lover or spouse, they will each increase in loyalty toward each other by 5%.
+
+Reversed, it signifies disorder, discord, severe toil, overcoming of ruin; new interest in spirituality; need for charity. Drawer quarrels with the rest of the party over division of the proceeds of this expedition, and receives only one fifth of his or her rightful share. The drawer will spend at least five days in retreat and meditation under the tutelage of a priest of his or her faith.
+
+## 69: Six of Pentacles
+
+An opulently dressed figure, probably a merchant, gives money to the distressed from a balance or scales, giving out of goodness of heart from present wealth and plenty.
+
+Upright, the Six of Pentacles signifies just and righteous charity, gifts and inheritance, wealth received for good reason, just desserts. When the proceeds of this expedition are divided up, drawer's share is 6d6% larger than it normally would be; drawer will give at least half of this bonus to a good religious body, or to a charity (these monies are not to be given to a player character, NPC, or ruler, regardless of alignments). The effects of this good act, if done by an evil or neutral character, must be adjudicated by the DM.
+
+Reversed, it signifies greed, jealousy, pride, or arrogance of wealth, envy, selfishness, refusal to give. When the proceeds of this expedition are divided up, NPCs swindle the drawer, so that his or her share is (2d6×12%) of what it ought to be. The drawer does not realize this for at least six days afterward.
+
+## 70: Seven of Pentacles
+
+An intense young man leaning upon his staff hovers protectively near seven pentacles…
+
+---
+
+<!-- page 404 -->
+
+## 75: Knight of Pentacles
+
+attached to the greenery of the garden-like space he is tending.
+
+Upright, it signifies speculative pauses, fretting, anxiety, success not yet attained, disappointment. During the next project the drawer is engaged in which a long period of time passes (training for a new level, enchanting an item, anything requiring 10 days or more for completion), he or she must save vs. death magic once each week. Failure to make a successful saving throw means that the drawer has ruined the process through over-anxiousness, and must begin anew or pay whatever penalty is imposed for such interruption. Interruptions caused by this card cannot exceed seven in number; and on each saving throw after the first, the drawer has a cumulative +1 on the roll (thus, the second roll will be at +1, third at +2, and so on).
+
+Reversed, it signifies impatience, apprehension, suspicion, especially in money matters. Drawer will have a permanent −1% reaction to strangers and casual acquaintances who ask for favors or act in any way "suspicious;" this penalty doubles for loans or other financial favors.
+
+## 71: Eight of Pentacles
+
+An artist sits happily carving out a pentacle; other completed examples are racked neatly nearby.
+
+Upright, this card signifies work, craftsmanship, skills (perhaps still at an apprentice level); job or commission to come. If drawer is less than 3rd-level (or less than four combined levels, for a multiclassed character), he or she gains 3d8 hundred experience points; if higher, the gain is 3d8×10 experience points.
+
+Reversed, it signifies vanity, thwarted ambition, greed, usury, skill in cunning and intrigue, sharp practices. Drawer will soon (8d8 days) be shortchanged or hoodwinked in a major transaction, losing at least 8,000 but not more than 80,000 gold pieces. If drawer is a thief, there is a gain of 1d12×100 experience points.
+
+## 71: Nine of Pentacles
+
+A stately woman stands in a flourishing vineyard, presumably part of her manorial domain. On her wrist is a tame hawk; she is otherwise alone, and seems serene in her isolation.
+
+Upright, the Nine of Pentacles signifies security, prudence, wealth, self-sufficiency, love of gardens and home, comfort in material matters. For the rest of this expedition or adventure, any pickpocketing attempts upon the drawer fail (although the thief will not be caught); and until the drawer returns, his or her home is safe from robbery, burglary, and banditry. Drawer also gains a secondary skill in gardening. If a mage with no familiar, the next time the drawer is in an outdoor setting a hawk will come, tamely, to serve as a familiar; it will be fully trained for hunting too.
+
+Reversed, this card signifies robbery, loss of things treasured, roguery, danger from thieves. Caution is advised. There will be a burglary, robbery, or bandit raid on the drawer's home or headquarters during the present absence; much (60–90%) of the drawer's property will be stolen, including at least one item precious to the drawer.
+
+## 73: Ten of Pentacles
+
+A man and a woman stand in the entryway of a house; a child and an elderly man each pet a dog contentedly.
+
+Upright, the card denotes gain, security, riches, family, home, stability. Drawer soon (5d10 days) gains a small but sturdy home, free of encumbrance; this may be a gift of a ruler or patron, an inheritance or dowry—whatever is natural for the campaign.
+
+Reversed, it signifies loss, robbery, family misfortunes; elderly people may become a burden. Drawer will soon (5d10 days) become obligated for the care of his parents, clan/guild/village elders, feudal dependents, or other aged persons to whom drawer is obligated (whether aware of it or not).
+
+## 74: Page of Pentacles
+
+A Pentacle rests lightly in, or hovers over, the hands of the Page, a very dark youth who moves slowly through a flourishing field, his gaze seemingly fixed upon the lone symbol in studious reverie.
+
+Page of Pentacles: 3rd-level thief (AC 3, hp 18, AT 1, Dmg 1d4 or 1d3, Str 12, Int 12, Wis 12, Dex 16, Con 12, Cha 12); wears bracers of defense (AC 5) and has a hidden dagger.
+
+## 75: Knight of Pentacles
+
+Sturdy, laborious, and patient, the Knight rides placidly through a freshly plowed field. A thoroughgoing materialist, he looks upon, but not within, the Pentacle of his suit. He is very dark and earthy in coloring.
+
+---
+
+<!-- page 405 -->
+
+## Deck of Many Things (Card 76: Queen of Pentacles)
+
+Knight of Pentacles: 4th/4th-level fighter/thief (AC 0, hp 44, #AT 1, Dmg 1d8+1); wears plate mail +1 and a ring of invisibility, and carries a scimitar +1 with no special abilities.
+
+**76: Queen of Pentacles**
+
+Very dark of coloring and meditative of expression, the Queen contemplates her Pentacle on a throne in a fertile bower; her serious, even melancholy mien suggests that she sees curious things indeed within that symbol.
+
+Queen of Pentacles: 7th-level thief (AC 4, hp 42, #AT 1, Dmg special); wears a ring of protection +4 and carries a dagger of venom (Dmg 1d4+2 vs. S-sized opponents, 1d4+1 vs. M-sized, 2–4 vs. L-sized, plus poison to all opponents).
+
+---
+
+**77: King of Pentacles**
+
+A dark and courageous, yet somewhat lethargic figure, the King sits stolidly upon his throne within a flourishing garden, and placidly holds the Pentacle upon his knee; a short rod or wand is his scepter.
+
+King of Pentacles: 7th-level thief (AC 3, hp 42, #AT 1, Dmg 1d4 or 1d3); wears leather armor and a cloak of protection +3, and carries a wand of magic missiles (70 charges) and a dagger.
+
+---
+
+## Deck of Many Things (Tracer)
+
+**XP Value:** 2,000 &emsp; **GP Value:** 20,000
+*Source: The Book of Marvelous Magic*
+
+After a card is drawn from the tracer deck, it remains attuned to the creature that drew it until the card vanishes eight hours later. The user need only concentrate for one round to find the exact direction and distance of the card for a range of 24 miles. A thief may place a card on a victim, unnoticed, with the same chance of success as a pickpocket's attempt.
+
+---
+
+## Deck of Many Things (of Wondrous Power)
+
+**XP Value:** 2,000 &emsp; **GP Value:** 20,000
+*Source: The Book of Marvelous Magic*
+
+This unusual deck has 52 cards and appears to be a standard, large deck. Its creation and powers are complete mysteries. When touched, the deck speaks and announces that its power is available but that it will disappear in 24 hours. It further explains that each member of the group finding it may draw one card, and only one card, during that time. The deck does not speak again. If a second card is drawn by any individual, or if a card is drawn by someone who is not a member of the group that found it, the deck disappears immediately, and the card is lost. The deck of wondrous power disappears 24 hours after making its speech; it disappears earlier if all persons entitled to a draw have either drawn or turned down the chance.
+
+During the game, an ordinary, modern 52-card deck is used. The DM shuffles the deck, and the players may each turn down the offer to draw or take a chance with the deck. To determine the effect, the player cuts the cards and turns over the top card; its effect is then immediately applied to the character. The card is then replaced, and the DM shuffles again before proceeding to the next player.
+
+Red cards give good fortune, but black cards bode ill. The effects cannot be altered, even with a wish, but some bad results can be changed with time. For example, if experience points are lost, the character may regain them by normal means. (Optional rule: Hearts and Spades cause double effects.) The effects of the cards are:
+
+**Ace:** If red, gain one wish. If black, lose one wish already possessed or the first wish gained thereafter.
+
+**King:** Gain (red) or lose (black) 50,000 experience points (minimum of 0).
+
+---
+
+<!-- page 406 -->
+
+## Time Journeying Device
+
+*(continued from previous page)*
+
+**Queen:** Gain (red) or lose (black) two points from the character's Prime Requisite score. If score reaches 3 or 18, apply excess points to or against Constitution.
+
+**Jack:** Gain (red) 50,000 gp in gems or lose (black) either three-fourths of all cash assets owned (counting all coins, gems, and jewelry either carried or stored) or 50,000 gp, whichever is less.
+
+**Ten:** Gain (red) or lose (black) 10,000 experience points (minimum of 0).
+
+**Nine:** Gain (red) one beneficial miscellaneous magic item (useful, not cursed) or lose (black) the most valuable magic item owned (checking miscellaneous magic items first even if cursed, then rings, rods, staves, wands, etc.)
+
+**Eight:** Gain (red) or lose (black) two points of Constitution (maximum of 18, minimum of 3, excess applied to or taken from Strength).
+
+**Seven:** +1 bonus (red) or −1 penalty (black) to all saving throws.
+
+**Six:** −1 bonus (red) or +1 penalty (black) to Armor Class because of unalterable skin changes.
+
+**Five:** Gain (red) or lose (black) two points of Charisma.
+
+**Four:** +1 bonus (red) or −1 penalty (black) to all hit rolls.
+
+**Three:** +1 bonus (red) or −1 penalty (black) to all damage rolls.
+
+**Two:** Movement speed is gained (red) or lost (black) by 3.
+
+---
+
+## Desk
+
+A desk is a piece of furniture, almost always made of wood, used for studying, working, writing, or reading. They have broad, level writing surfaces as well as drawers and compartments to store paper, writing utensils, books, and ink. Magical desks generally aid their users to read, study, gain spells, or use general skills and proficiencies related to the Intelligence attribute.
+
+## Desk of Restudying
+
+**XP Value:** — &emsp; **GP Value:** 7,000
+*Source: The Book of Marvelous Magic*
+
+This desk appears identical to a desk of studying and has the same lockable drawers. However, any mage who attempts to use this desk for study one hour later forgets all spells memorized.
+
+## Desk of Studying
+
+**XP Value:** 7,000 &emsp; **GP Value:** 70,000
+*Source: The Book of Marvelous Magic*
+
+This bulky desk is 6 feet long, 3 feet tall, and 4 feet wide. It has five drawers that lock on command as if wizard locked by a 25th-level magic-user. Any mage who sits at this desk to relearn spells (after the usual resting period) requires only 10 minutes to memorize spells for the day, regardless of their number or level.
+
+---
+
+## Device
+
+Device is a generalized term used to describe something that either cannot be described (due to the unique or indescribable attributes of the item), or was never properly defined nor described in its original appearance.
+
+## Device of Passage
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000 per ton of ship per ton of ship
+*Source: SPELLJAMMER Campaign Set*
+
+The passage device is a creation of the arcane, who use it to create portals through the crystal shell between the phlogiston and wildspace.
+
+## Device of Time Journeying
+
+**XP Value:** — &emsp; **GP Value:** —
+*Source: DRAGONLANCE Adventures*
+
+Made during the Age of Dreams, this device was given to Caramon by Par-Salian. The DM should be aware that the device has different properties depending upon when the PCs encounter it. Originally, the device's use was restricted to the major races—humans, elves, and ogres—since all other races are prohibited from traveling in time. It was also originally designed to be used by one person only.
+
+This jeweled scepter can fold down into a nondescript-looking pendant. Since the device is essential to the return of the person using it, it has several safeguards. Anyone attempting to steal it (even a kender) immediately feels a strong revulsion and puts it back instantly. If lost, the device makes its way back to its owner by any means necessary.
+
+An example of this occurred when Tasslehoff gave the device to Raistlin in a dwarven prison and then discovered he was in possession of the device once more—it automatically returned to the kender. No force can keep this artifact from finding its owner.
+
+---
+
+<!-- page 407 -->
+
+## Dice of Certain Wagering
+
+The properties of the device changed somewhat after Gnimsh—the only known gnome in the history of Krynn whose inventions ever worked—altered it. From that point on, the device transported more than one person and it also transported those of the minor races—kender, gnomes, and dwarves.
+
+The correct version of the chant and instruction goes as follows: Holding the pendant in hand, repeat the first verse, turning the face toward you. At the second verse, move the face plate from the right to the left. At the recitation of the third verse, the back plate drops to form two spheres connected by rods. At the fourth verse, twist the top clockwise and a chain drops down. The fifth verse warns to make certain the chain is clear of the mechanism. As the sixth verse instructs, hold the device by each sphere and, while reciting the seventh verse, rotate them forward. The chain winds itself into the body. Hold the device over your head, repeating the final verse, and summon a clear vision of where you want to go and what time period you want when you arrive.
+
+> Thy time is thy own,
+> Though across it you travel.
+>
+> Its expanses you see,
+> Whirling across forever.
+> Obstruct not its flow.
+>
+> Grasp firmly the end and the beginning.
+> Turn them forward upon themselves.
+> All that is loose shall be secure.
+> Destiny is over your own head.
+
+When the device is used, PCs within 10 feet of the device move to either the desired time (the place is up to the DM) or the desired place (the time is up to the DM). Unfortunately for the characters, they cannot have it both ways. Moving to the location of the treasure in a tower may seem like a good idea, unless you arrive before the tower was built (and find a long drop to the ground). Moving to a certain time in history can be fun, until you materialize in the middle of an arena. The DM can use this little loophole to set players where he or she wants them.
+
+---
+
+### Dice
+
+Dice are usually six-sided cubes with a different "value" on each side, generally ranging from one to six. They are usually used in games of chance and gambling. Other dice are available, but these are very rare. These dice include 4-sided pyramids (with the rolled value read along the bottom of the exposed faces), 8-sided, 10-sided, 12-sided, 20-sided, 24-sided, and 30-sided dice. A coin can be used, in effect, as a 2-sided die.
+
+## Dice of Certain Wagering
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: DRAGON Magazine #73*
+
+A pair of onyx dice. The dice will give whatever result the roller desires.
+
+## Dice of Chancelessness
+
+**XP Value:** 500 &emsp; **GP Value:** 2,500
+*Source: Old Empires*
+
+This insidious magical item was created by Huriot, an enterprising follower of Mask and the greatest Prince of Thieves that Skuld has ever known. Five centuries ago, he was captured, convicted of grave robbing, and brought to the pharaoh for his final justice. Huriot persuaded the pharaoh to let a game of chance decide his fate: If he won, he would be sold into slavery, and if he lost, he would be executed. He brought out a pair of dice.
+
+These dice were magical, created by a great wizard. They would roll any number that the owner desired; in the hands of the owner, they would roll what he or she wanted, while in the hands of another, they would roll as the original owner desired. The pharaoh detected the magic, discovered what they were, and used his divine powers to reverse the effect.
+
+Huriot had planned to lose the game, gambling that a display of honesty might earn a pardon from a magnanimous pharaoh. He won instead and was placed in slavery for the rest of his days. No one ever heard of Huriot again, except for an inscription in that pharaoh's tomb: "Huriot was here."
+
+## Dicerion of Light and Darkness
+
+**XP Value:** 2,500 &emsp; **GP Value:** 25,000
+*Source: Unearthed Arcana*
+
+This wizard's candlestick is a specially alloyed metal holder with two branches. One is of silver and mithral, the other arm of iron and adamantite—as dark and dead-looking as the first branch is bright and glittering. The two branches intertwine to form a twisting stem of intermittent bright and dull bands. The base is likewise
+
+---
+
+<!-- page 408 -->
+
+formed of alternating projections of the silvery and ebon metals spreading to form eight legs. The whole object is about a foot tall and just over half as broad, with a weight of between three and four pounds. Although the dicerion of light and darkness gives off a faint dweomer of its own, it must have specially manufactured candles to function magically. A pair of candles must be made from the purest wax, and finely powdered obsidian must be set in alternating layers within the wax. When the candles are blessed, then set in the sockets of the dicerion's arms, the whole radiates a powerful, magical aura. When both special candles are lighted, the wizard holding the dicerion can see into any form of darkness or the brightest of light as if the illumination were normal daylight. Furthermore, upon command of the wizard, the candles emit a strange, metallic illumination that dispels all natural shadows within a 30-foot radius. However, when this power is used, a wizard's specially endowed vision to see in darkness or light does not function. A special candle burns for 1d4+4 turns in a gentle draft like that created by walking while holding the dicerion. A strong draft reduces the burning time by 1 to 2 turns. If the candle remains still and unaffected by breezes, it lasts for 1d8+8 turns.
+
+If only the candle held in the black arm of the dicerion is lighted, the wizard is effectively shrouded in a sphere of darkness of 15-foot radius. The lack of illumination does not hamper the wizard's vision or movement, but does affect all other creatures within the area of effect. If a bright light strikes the wizard's eyes while in the darkness, he or she is blinded for 1d4 rounds. Conversely, when only the candle in the shining branch is lighted, a sphere of brilliant, white light surrounds the wizard, who suffers no vision impairment as long as the dicerion is touched or held, but the radiation blinds creatures of darkness (evil) for 2d4 rounds. Even those of light (good) are unable to look in the direction of the light without being blinded for 1d4 rounds. If magical darkness envelops the wizard while the dicerion is in the light, he or she is unable to see for 1d4 rounds. In either case, even though only one candle is burning, both branches of the dicerion must actually contain tapers.
+
+## Discus of Disenchantment
+
+**XP Value:** 500 &emsp; **GP Value:** 9,000
+*Source: Lost Ships*
+
+It is not known who devised these strange weapons — small, sharp-edged, circular metal plates with thick centers that taper smoothly toward the edges. Often used by halflings (who may sell them to humans, elves, and giff), they are missile weapons, and may be used without penalty by those proficient in slings or throwing stars. A discus striking a being causes 1d4+1 points of damage, and interrupts any ongoing spellcasting or activity requiring dexterity. It forces a Dexterity check on characters who are climbing or clinging to rigging. A failed check indicates a fall.
+
+Its strike also forces a saving throw vs. crushing blow for all glass and other fragile items it strikes. All magical items except helms and artifacts struck by a discus of disenchantment must save vs. spell at +2, in addition to any usual bonuses, or be rendered magically inert for 1d4+1 turns. The DM should also make another, secret saving throw for any such inert item. If it fails, it has been drained of all magic, forever. Any discus striking a magical item exhausts its own magical powers at once, releasing this magical energy and that of the drained item harmlessly into the surrounding area.
+
+## Disintegration Chamber
+
+**XP Value:** (see table) &emsp; **GP Value:** (see table)
+*Source: Tome of Magic*
+
+| Size          | XP Value | GP Value |
+|---------------|----------|----------|
+| 1'×1'×1'      | 500      | 2,500    |
+| 2'×2'×3'      | 1,000    | 5,000    |
+| 3'×3'×6'      | 1,500    | 7,500    |
+| 3'×5'×6'      | 2,000    | 10,000   |
+| 5'×5'×10'     | 3,000    | 15,000   |
+| 10'×10'×10'   | 5,000    | 25,000   |
+
+These frightful devices range in size from a 1-inch square box to a room 10-foot square. They are always made of iron, and the interior walls are covered with mirrored tiles. They are used to cause matter to vanish, as the 6th-level *disintegrate* spell.
+
+The amount of material to be affected is limited only by the size of the chamber. Each use drains one charge. Disintegration chambers generally have 1d20+80 charges and may be recharged.
+
+---
+
+<!-- page 409 -->
+
+## Disk of the Azure Sea
+
+**XP Value:** 1,000 &emsp; **GP Value:** 10,000
+
+*Source: GREYHAWK Adventures*
+
+This item, popular among sea traders, was originally sold to a rich merchant on the coast of Keoland. As wide as a man's hand, the wooden disk bears a small circle of gold in the center. When it is set on the bow of a ship and a prayer is spoken to Fharlanghan, god of travel, the ship is protected for the next 24 hours. During that time, if buccaneers, pirates, or raiders from beneath the waves try to attack, there is a 76% chance a misty fog comes up, allowing the ship to escape with no damage. Failing that, the attack occurs as normal.
+
+---
+
+*(Continued from previous page — Disintegration Chamber)*
+
+The material to be obliterated is placed inside the chamber, door is closed, and the activation button is depressed. The interior of the chamber and its doomed contents begin to glow a sickly green, and the material vanishes, leaving only fine dust. Creatures and objects that successfully save vs. spell are not affected, but must attempt another saving throw every time the chamber is reactivated.
+
+The size of any given chamber can be determined from the table below.
+
+| Roll | Size             |
+|------|------------------|
+| 1    | 1' cube          |
+| 2    | 2'×2'×3' box     |
+| 3    | 3'×3'×6' box     |
+| 4    | 3'×5'×6' box     |
+| 5    | 5'×5'×10' box    |
+| 6    | 10'×10'×10' box  |
+
+In the larger sizes, the devices are most often installed permanently and cannot be carried away as part of treasure, unless arrangements are made to transport a small room or shack.
+
+**In Ravenloft:** Placing a person in one of these chambers is cause for a Ravenloft powers check. Even placing the lord of a domain in one necessitates the check.
+
+---
+
+## Disks
+
+Disks are round, flat objects found singularly or in groups. Their enchantments often are unusual or unique.
+
+---
+
+## Displacer Disks
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+
+*Source: Rary the Traitor*
+
+Rary's favored mode of transportation throughout his fortress is a system of devices he calls displacer disks. Each disk resembles an intricate, circular pattern inlaid in a fine marble or tile floor, and is magically triggered by a code word known only to Rary and Robilar. The disks' code words can be changed at will by Rary alone.
+
+A single master disk controls all the others. An individual who knows the proper code words can be instantly teleported without error, either from the master disk to one of the other disks throughout the fortress, or from a lesser disk back to the master disk. Transport between the minor disks is not possible. Rary must first teleport back to the master disk in order to move to a different room. Each lesser disk has a different code word. A second, entirely different code word is required to teleport back to the master disk.
+
+## Disk of History
+
+**XP Value:** 1,500 &emsp; **GP Value:** 7,500
+
+*Source: DRAGON Magic*
+
+This crystal disk is about 5 feet thick and 25 feet in diameter. It is a disk of history, similar to a crystal ball, used by the dragons to observe past events. Events observed in the disk of history are seen as a series of silent images, the end of one blending into beginning of the next. A user must concentrate on the event he or she wants to observe. The event appears in the disk in 3d20 minutes. It is important that the user concentrate on a specific event. For instance, concentrating only on a mental image of Artha won't work. However, concentrating on Artha's last stand on the Peak of Clouds in the Aslivar Range will display that battle.
+
+Success with the disk of history is not automatic. It cannot conjure images more than 500 years old. A character may attempt to use it only once per day. A person's base chance of success is 10%. A dragon's base chance of success is 20%.
+
+This is modified by:
+
+Apply any of the following:
+
+| Condition                                  | Modifier |
+|--------------------------------------------|----------|
+| Dragons, each age level above very young   | +5%      |
+| Others, each point of Wisdom above 15      | +5%      |
+
+---
+
+<!-- page 410 -->
+
+## Tenser's Tantalus
+
+**XP Value:** Normal: 3,000 &emsp; **GP Value:** Normal: 15,000
+**XP Value:** With Alarm: 3,500 &emsp; **GP Value:** With Alarm: 17,500
+
+*Source: DRAGON Magazine #194*
+
+A tantalus is a nonmagical piece of furniture, a liquor-stand that uses wooden or metal rods to keep the bottles and glasses in the stand from moving about. Tenser's tantalus is a mobile, magical version of the same sort of device, designed to transport magical potions or other fragile items, keeping them safe and within easy reach for the mage's use.
+
+Although there is no evidence that this magical item was created (or even used) by Tenser, the famed wizard of Greyhawk, the reasons its origin was erroneously attributed to him are obvious; Tenser's tantalus is a flat metal disc, 3 feet in diameter, which floats at a constant 3 feet above the surface of the ground (under most circumstances) and at the same 3 feet distance from its user unless specifically commanded otherwise. But while it shares much in common with the *Tenser's floating disc* spell, it also has a number of significant differences, the primary one being that Tenser's tantalus is a permanent magical item, not a temporary magical spell.
+
+The disc's upper surface emits a soft glow extending for about a foot above the metal. Any objects placed entirely within this field are subject to a powerful, quasimagnetic force that holds any nonliving matter (including once-living materials such as paper, leather, or a small dead body, as well as completely inanimate matter like glass, metal, or crystal) firmly to the surface of the disc, but that has no effect on living flesh, even creatures small enough to fit within the field's confines. No matter what pressures are exerted against it, the tantalus will protect objects within its field from the effects of violent motions and other external shocks unless those shocks are powerful enough to destroy the metal disc. For this purpose, treat the disc as a metal shield, using Table 29: Item Saving Throws in the DMG.
+
+Since the quasi-magnetic force doesn't affect objects only partially within its area of effect, bottles taller than the 1-foot field cannot be held by a Tenser's tantalus unless laid on their sides. Bottles can be stacked, but that is difficult. Reaching through the glowing field and grabbing an object on the disc frees the object — when an object is grabbed, the field reacts as if the object is physically connected to the arm and thus as if it extends beyond the edge of the field.
+
+Because objects only partially within the field aren't affected, a thrown spear can wreak havoc on the disc's load — a spear is long enough that part of it is always outside of the field. On the other hand, a sling bullet hurled at the bottles cannot break them because the field affects it as soon as the bullet is fully within its boundaries, leaving the bullet suspended in midair, just inside the edge of the field. For maximum protection, potions should be placed as close to the center of the Tenser's tantalus as possible, protecting them from weapons shorter than the 1½-foot radius of the disc. If the disc is fully loaded, items close to the edge can be easily affected by short weapons such as hand axes or daggers.
+
+A Tenser's tantalus can hold up to 20 pounds of bottles and contents (the average potion in a glass bottle weighs about half a pound), and will smoothly accelerate and decelerate to safely follow its owner at any speed up to 18, including climbing stairs. If the user moves beyond the 50-foot effective range of command, the tantalus ceases all movement and hovers in place until either its user returns or another wizard takes control of it.
+
+A Tenser's tantalus will follow its owner if he or she falls into a pit, but because of the owner's rapid acceleration, the wizard will soon out-strip the disc's power to follow. In a pit less than 75 feet deep, the disc gently descends to the bottom a few seconds after its owner. If the pit is deeper, the owner will eventually accelerate out of the 50-foot range, meaning that the disc will stop in midair some 50 feet down from the top of the pit, waiting for someone to come within range and
+
+---
+
