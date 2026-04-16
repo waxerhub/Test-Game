@@ -16698,3 +16698,248 @@ This item appears to be a small, squat wooden chest, 2 feet in length along any 
 
 ---
 
+<!-- page 289 -->
+
+## Quartermaster's Chest (Pearl-Making)
+
+*(continued from previous page)*
+
+cushiony folds. Hidden between the folds is the command word, sewn into the velvet itself. If from one to five grains of sand are placed within the folds inside the box and the command word is spoken, the chest magically locks itself and does not open again until the command word is repeated. During the time that the chest is locked, it begins to turn the grains of sand into perfectly formed, nonmagical pearls. For each consecutive day that the box is left undisturbed, each pearl increases in value by about 3 gp. Thus, after a week, each pearl would be worth 21 gp; after a month, each would be worth 80–100 gp. If the box is left unopened for longer than one year, there is a 1% cumulative chance per day thereafter that the growing pearls become misshapen and worthless.
+
+Casting dispel magic on the chest does not open it, but successfully casting a knock spell against 14th-level magic does. However, the pearls inside immediately disintegrate. If the chest is ever broken, it loses all of its magical properties forever.
+
+---
+
+## Quartermaster's Chest
+
+**XP Value:** 2,500 &emsp; **GP Value:** 12,500
+
+*Source: DRAGON Magazine #178*
+
+These are huge, ironbound chests that need large, sturdy carts (pulled by large, sturdy animals) to be transported. They can provide theoretically limitless supplies and equipment, albeit on a fairly erratic basis, and they are invaluable when marching through barren lands where foraging is not possible. Each day, the quartermaster can place gems of at least 100 gp total value into it, slam the lid, then open it and see what the chest provides that day—roll on the table below. Whatever the result, the gems are gone forever. The goods will fill the chest, no matter how much space they would logically take up, but they disappear if left in the chest until the next morning.
+
+| Roll  | Produces |
+|-------|----------|
+| 01–10 | Nothing. |
+| 11–50 | Tolerable but unexciting food for 100 men for one day. |
+| 51–75 | Fodder for 100 animals for one day. |
+| 76–77 | 750 feet of good rope. |
+| 78–81 | 30 planks of timber, each 6 inches wide, 3 feet long. |
+| 82–84 | A bolt of coarse, strong, white cloth, 60 feet long and 3 feet wide. |
+| 85–87 | Assorted bits and pieces: consult the Miscellaneous Equipment table in the PHB—select 100 lbs total of 1d3 items. |
+| 88–94 | Water, 100 gallons; it drains away in 10 minutes if not immediately decanted. |
+| 95–97 | Cheap wine: 100 gallons, as above. |
+| 98–99 | Strong ale: 100 gallons, as above. |
+| 00    | DM's choice: unusual foods, horse barding and equipment, foreign items (possibly from *Oriental Adventures*), alchemical glassware, almost anything. |
+
+---
+
+## Chest of Sieges
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+
+*Source: The Book of Marvelous Magic*
+
+This wooden chest is 3 feet long, 2 feet wide, and 2 feet high. It weighs 100 pounds and contains one light catapult, 10 normal catapult shots, and four kegs of pitch shot (two shots in each). By uttering the command word, the items may be taken out whenever needed and easily replaced in the box. Used items cannot be replaced. The command serves only to move the original items in or out. In the rare cursed chest, 1d4 of the kegs of pitch shot explode when opened, each inflicting 3d6 points of fire damage to all within 20 feet and setting fire to all flammable items (including the catapult and remaining kegs, if within range). A normal keg burns for three rounds before exploding in the same way, but a cursed keg explodes as soon as it catches fire.
+
+---
+
+## Chest of Zorathus
+
+**XP Value:** 3,000 &emsp; **GP Value:** 15,000
+
+*Source: Gods, Demigods, & Heroes*
+
+This is a treasure chest designed to be unbreakable, and opening it is a very involved process. It is necessary to press the seven small skulls on the rim, one at a time, then press the head of the dragon, then press the sphere held in its claws. If the user doesn't know of the poison fang in the dragon's head, death results—the poison is so strong that no saving throw is given.
+
+---
+
+## Chilling Snare
+
+**XP Value:** 1,000 &emsp; **GP Value:** 5,000
+
+*Source: The Ruins of Undermountain*
+
+This nondescript 5-foot-long piece of string is tied in a loop. Once untied, it becomes active, affecting all creatures who touch it. The snare may therefore be placed on any surface without
+
+---
+
+<!-- page 290 -->
+
+harm—but once untied it is instantly active. Flying or leaping creatures who pass its location without touching it are unaffected. However, any creature touching or otherwise contacting the snare (stepping on it is a common form of contact) is affected. A saving throw vs. spell can be made by the DM to see if any unsuspecting PCs step on the snare.
+
+Effects are as follows (roll 1d12; all spell effects have normal saving throws against their effects). Roll for each contact, and twice for any being who picks up and handles an active snare.
+
+| Roll | Effect |
+|------|--------|
+| 01–5 | A charge is used and a nearby alarm (the enchanter typically links the snare to a small brass bell, or a large gong) is triggered. |
+| 06–8 | The passerby is slowed for 2d4 rounds. |
+| 09–11 | The passerby is held for 1d4 turns. |
+| 12 | The passerby falls unconscious, sleeping for 1d4+1 turns or until forcibly roused. |
+
+Most snares last for 2d20 uses, crumbling irrevocably to dust after their final charges are used. Some vendors in Waterdeep often sell merchants antitheft snares good for only six, seven, or nine uses. A typical sale price for short duration snares is 50 gp.
+
+*Dispel magic* will prevent a snare from functioning for one round per level of the caster. A snare can be destroyed by dealing it 9 points or more of edged weapon damage; it resists all fiery or corrosive attacks, even if magical in origin. Anyone wielding an edged weapon against a snare receives cumulative damage equal to a *chill touch* spell for each successful strike on the snare—the origin of the item's name. Each strike against the snare causes a loss of one Strength point and 1d4 points of damage; the Strength loss is recovered at the rate of one point per hour.
+
+## Circlet
+
+The circlet is an uncommon, circular head ornament worn like a crown, and used to adorn the forehead. A circlet is often studded with gems or inlaid with rare or precious materials such as gold or ivory (see also Crown). Roll on the table below to determine the type of circlet found.
+
+| Roll | Circlet Type |
+|-------|--------------|
+| 01–8 | Bay |
+| 09–15 | Chaplet |
+| 16–23 | Circlet |
+| 24–31 | Coronet |
+| 32–38 | Crown |
+| 39–46 | Diadem |
+| 47–54 | Fillet |
+| 55–62 | Garland |
+| 63–69 | Headband |
+| 70–77 | Laurel |
+| 78–85 | Mitre |
+| 86–92 | Tiara |
+| 93–00 | Wreath |
+
+## Circlet of the Adder
+
+**XP Value:** 700 &emsp; **GP Value:** 3,500
+*Source: DUNGEON Magazine #40*
+
+The circlet of the adder is a thin, golden, snake-like headpiece that winds around the wearer's scalp and turns up at the brow like an attacking cobra. It radiates faint magic when within 10 feet of the flail of the desert kings (see Flail Weapon), but its enchantment is active only in the presence of the flail. Its only function is to unlock the flail's power for its wielder.
+
+The headpiece still carries the curse placed on it thousands of years ago, a bane spell that consumes the mind of any individual using the circlet to unlock the flail's powers. Using the circlet to activate the flail curses the user with delusional insanity. Anyone suffering from this affliction believes himself to be a monarch or even a god. Victims are instantly hostile to those who fail to recognize their glory and are seized with a desire to use the flail's powers to punish unbelievers. Pursuing greater power becomes the owner's sole preoccupation.
+
+The circlet can be removed from the head of the wearer, breaking its hold on the victim, though the wearer will never allow this. The only way to break the curse is to destroy the circlet utterly.
+
+## Coronet of Communication
+
+**XP Value:** 7,000 &emsp; **GP Value:** 20,000
+*Source: DRAGON Magazine #132*
+
+This thin circlet of precious metal affords the wearer the dreamer abilities of sleeper communication, suggestion, and telepathy, each once per day.
+
+---
+
+<!-- page 291 -->
+
+## Dalvan's Circlet
+
+**XP Value:** — &emsp; **GP Value:** 1,000
+*Source: DUNGEON Magazine #13*
+
+This magical, ring-shaped head ornament gives off dweomers of both alteration and enchantment/charm. After it is placed on the head, the user is immediately affected as if a *feeblemind* spell had been cast (no saving throw), but this condition lasts for only five rounds. Furthermore, the circlet magically binds itself to the wearer's head. It remains attached for 10 rounds, during that time it can only be removed by a wizard of at least the 16th level or by a *wish* spell.
+
+The wizard Dalvan Meir created this device in order to insure his ability to enter a wearer's mind from his magic jar crystal. He also wanted to allow himself an easy means of egress from his desolate tomb, so he gave the circlet the additional power to force back iron barriers, granting the wearer a +25% bonus on the bend bars/lift gates roll.
+
+## Diadem of Disenchantment
+
+**XP Value:** 1,000 &emsp; **GP Value:** 7,500
+*Source: The Endless Stair*
+
+This golden headband is adorned with a single gem, worth 100 gp or more. If the gem is shattered or removed, the diadem becomes nonmagical. While worn, the diadem confers upon the wearer immunity to charm, sleep, hold, and confusion spells (as well as monster abilities and magical item effects that cause these effects). Each such defense of the wearer drains the diadem of one charge (such diadems normally have 2d10 charges), and such items are not rechargeable — when discharged, the gems shatter and are ruined. A wearer of a diadem of disenchantment gains two additional protections from the device that do not drain charges (but are lost when the diadem's charges are drained) — a +1 bonus on saving throws vs. paralysis (from any source), polymorph magic, and ESP; and a +4 bonus on any saves vs. spell when faced with feeblemindedness (thus the wearer saves at par, not at −4).
+
+## Diadem of Doom
+
+**XP Value:** 7,500 &emsp; **GP Value:** 15,000
+*Source: Otherlands*
+
+It is unclear whether this grim item was constructed by evil Dargonesti or by the Sea Witch. In either case, the diadem is a nasty piece of work (worse still, there are at least three of them in existence, though there may be six). The diadem is also known as the helm of horror and the cadaver comb. Its normal form is that of a simple coronet made of coral, with tiny carvings of sea creatures on it.
+
+The diadem's first function is its ability to shapechange into any sort of article meant to be worn on the head. Its most popular forms, besides the diadem shape, are those of a jeweled comb or an elaborately designed, open face helmet. The diadem can change shape seven times a day. The fact that it comes in several different forms makes it harder to identify by sight.
+
+When the diadem is first worn, a user gets a tingling sensation, as well as a feeling of happiness that he or she has put on the diadem. A victim refuses to part with the object regardless of friends' pleas, offers of great wealth, or any other incentives.
+
+As time passes, a wearer's actions and thoughts become increasingly evil. On the middle night of Nuitari's next High Sanction, the wearer's alignment changes to the evil version of the current alignment (a lawful good character becomes lawful evil).
+
+If the wearer is already evil, there are no ill effects until the week of Nuitari's next High
+
+---
+
+<!-- page 292 -->
+
+## Golden Circlet
+
+**XP Value:** 7,000 &emsp; **GP Value:** 12,000
+*Source: DRAGONLANCE Adventures*
+
+The golden circlets were created in Istar toward the end of the Age of Might. They were designed to guide the people into aiding the church. Their use, however, tended more toward slavery than service. Even so, they could only be used by one of good desires and so their abuse was somewhat limited. Many of these survived the Cataclysm though they are guarded most carefully.
+
+This thin, gold band, when worn on the head of a priest of good alignment, grants two magical abilities. Once per turn, the wearer can command up to 8 Hit Dice of creatures. Also once per turn, as long as the user concentrates, one creature of up to 4 Hit Dice can be controlled by the circlet's wearer. The creature is not charmed, however, and cannot be forced to hurt itself.
+
+## Golden Circlet II (Circlet of Pride)
+
+**XP Value:** 3,500 &emsp; **GP Value:** 17,500
+*Source: Tales of the Lance*
+
+Over the generations, the golden circlet (circlet of pride) has brought about some of the great tragedies of Krynn. Some tales say it brought an end to the proud kingdom of Ergoth. All tales agree that it contributed to the kingpriest's madness. Even so, the mind-warping and dominating powers of the golden circlet have shrouded its history in malaise. Sadly, only those with the malevolent power to use this item know its true operations.
+
+Worn upon the brow, the golden circlet can command up to 8 HD of creatures, once per turn. Commands must be only one word, and spoken aloud in a language the creature understands. Each command lasts one round. Alternately, the wearer once per turn may concentrate on one creature of up to 4 HD who is within 60 feet. This focus allows the wearer to control the actions of the creature as long as concentration is maintained. This is not a charm spell and the creature will not intentionally harm itself. The evil god Hiddukel takes the control of the mind one step further. He uses the circlet to place a suggestion in the mind of the wearer, offering a deal that is hard to refuse. If the person agrees, the circlet's full range of powers becomes available.
+
+The circlet can be used at will to heat or chill metal and to cast a modified command spell that can only use sentences of seven words or less. It also adds a +2 bonus to the wearer's Charisma, and supplies a -2 penalty to Wisdom.
+
+Each use of these dark powers permanently drains one hit point from the wielder. The points may be recovered by draining life energies from another creature as if an undead creature. When the wearer strikes with hands, teeth, or feet, two experience levels (like a spectre) may be drained from the target and one hit point is gained per level drained (up to his or her maximum). Each time a level is drained in this manner, however, the character must make a system shock roll or permanently lose 1d3 points of Constitution. If the character's Constitution falls to zero, he or she becomes a mindless spectre, abandoning the circlet of pride to another.
+
+This artifact ultimately corrupts a wielder, making the character conceited, arrogant, boastful, and vain. Only monstrous minions may then be attracted and those who share his or her prejudices and hatreds.
+
+The golden circlet belongs to the Triad of Betrayal—the three artifacts created by Reorx and the gods of magic and imbued with the essence of Hiddukel. The circlet's true name is…
+
+---
+
+*(Continued from previous page — Diadem of the Dargonesti, concluded:)*
+
+…Sanction. For the entire seven days, a wearer takes every opportunity to commit senseless acts of evil and succumbs to lycanthropy (determine the type of werebeast randomly).
+
+The other powers of the diadem include a +3 bonus to saving throws and Armor Class and 15% magic resistance. For spell purposes, the diadem functions as a 16th-level caster. The diadem also gives the wearer a +4 reaction bonus when dealing with evil-aligned creatures and shuks.
+
+When worn, the diadem enables the user to cast the following spells, each once per day—animate dead, bestow curse, dispel magic, fear, flame strike, know alignment, meld into stone, and speak with dead.
+
+Obviously, no self-respecting Dargonesti would wear this diadem. Its purpose seems to be to create evil Dargonesti, presumably to follow Sagarassi.
+
+Destroying a diadem is not easy. Only striking it with a holy weapon, having a dispel evil spell cast upon it by a good priest of at least 20th level, or surrendering it to nine dragon turtles on the middle night of Nuitari's Low Sanction can destroy one of these accursed objects.
+
+---
+
+<!-- page 293 -->
+
+## Golden Circlet of Greyhawk
+
+**XP Value:** 2,000 &emsp; **GP Value:** 30,000
+*Source: Greyhawk Adventures*
+
+This golden circlet was fashioned for use by the Lord Mayor of Greyhawk, and is rumored to be in his treasure vaults. When worn on the head, the circlet allows a character to summon a band of thieves in much the same way as a horn of Valhalla summons fighters:
+
+- User is 4th level or less: summons 1d4 4th-level thieves
+- User is 6th–8th level: summons 1d4 8th-level thieves
+- User is 9th–12th level: summons 1d4 12th-level thieves
+- User is 13th level or more: summons one 18th-level thief with maximum ability scores
+
+The user can employ the circlet at less than its full powers if desired. The summoned thieves are friendly to the user, but refuse foolhardy tasks: "Go fight that fiend" would get a good laugh out of them. The thieves remain for eight hours or until they are killed. The 12th-level and lesser thieves all have average statistics, wear leather armor, use short swords, and have normal thief equipment. The 18th-level thief has an armor class of 2 (still wearing leather armor), uses a short sword +3, and is 30% likely to steal the best magical item he or she can use from any treasure hoard found during his stay there; it vanishes with the thief.
+
+## Circlet of Pride
+
+See Golden Circlet II
+
+## Circlet of Psionic Enhancement
+
+**XP Value:** 6,000 &emsp; **GP Value:** 65,000
+*Source: POLYHEDRON Newszine #82*
+
+This item is a silver headpiece with a large amethyst embedded in the center. When worn by a nonpsionicist, the circlet improves saving throws vs. mental attacks by +1. When worn by a psionicist, however, the full power of this item is unleashed. A psionicist recovers PSPs at double the normal rate. A psionicist can use the Contact devotion (if known) at half the usual PSP cost, and if the optional power score rule is used, can alter power check rolls up or down one point to try to achieve the score (a 20 still fails). Finally, once a day, the circlet lets the psionicist use one science or one devotion of the character's choice at no initial cost (the maintenance cost must still be paid, however). The science or devotion must be one that the psionicist currently knows.
+
+## Circlet of Underwater Speech
+
+**XP Value:** 1,000 &emsp; **GP Value:** 9,000
+*Source: Otherlands*
+
+This circlet is made of tiny sea shells connected by a silver thread. It is worn on the brow. The circlet enables the wearer to speak and hear noises without any underwater distortion of sound. These circlets are kept mostly for the sake of air breathing guests who are not accustomed to conversing underwater.
+
+## Circlet of the Wyrm
+
+**XP Value:** 2,000 &emsp; **GP Value:** 10,000
+*Source: Draconomicon*
+
+This band of platinum is usually unadorned and magically expands or contracts to fit snugly around the brow of any dragon that wears it. While wearing the circlet, a dragon receives all the powers of a wyrm of the appropriate species. This includes increased damage from breath
+
+---
+
