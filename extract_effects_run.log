@@ -1,0 +1,8 @@
+Loading /home/user/Test-Game/encyclopedia_magica_vol1.xlsx …
+Processing 1405 items with 3 workers …
+
+  1/1405 (0%)  latest: Cloaked Wizardry  2/1405 (0%)  latest: Anything Item  3/1405 (0%)  latest: Aquatic  4/1405 (0%)  latest: Racial Enhancements
+  JSON parse error [Weightless Item]: Expecting value: line 1 column 1 (char 0)
+  5/1405 (0%)  latest: Weightless Item  6/1405 (0%)  latest: Amulet of Caterpillar Control  7/1405 (0%)  latest: Amulet of Charm Resistance
+  JSON parse error [Drow Treasure]: Unterminated string starting at: line 18 column 12 (char 1515)
+  8/1405 (0%)  latest: Drow Treasure  9/1405 (0%)  latest: Amulet of Cheetah Speed  10/1405 (0%)  latest: Amulet of Charming  11/1405 (0%)  latest: Amulet of Communication  12/1405 (0%)  latest: Amulet of Dragon Warding  13/1405 (0%)  latest: Amulet of Finding
