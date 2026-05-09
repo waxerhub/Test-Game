@@ -120,7 +120,7 @@ def extract_spells_from_chunk(client: anthropic.Anthropic,
         try:
             resp = client.messages.create(
                 model=MODEL,
-                max_tokens=4000,
+                max_tokens=8000,
                 system=[{"type": "text", "text": SYSTEM_PROMPT,
                          "cache_control": {"type": "ephemeral"}}],
                 messages=[{"role": "user", "content": user_msg}],
